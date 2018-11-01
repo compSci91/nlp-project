@@ -8,7 +8,6 @@ try:
     raw = wiki.article('Uruguay')
 except:
     raw = None
-
 if raw:
     wiki2plain = Wiki2Plain(raw)
     #content = wiki2plain.text
