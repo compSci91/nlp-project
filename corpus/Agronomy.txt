@@ -1,0 +1,48 @@
+Agronomy (from Ancient Greek ἀγρός agrós "field" and νόμος nómos "law") is the science and technology of producing and using plants for food, fuel, fiber, and land reclamation. Agronomy has come to encompass work in the areas of plant genetics, plant physiology, meteorology, and soil science. It is the application of a combination of sciences like biology, chemistry, economics, ecology, earth science, and genetics. Agronomists of today are involved with many issues, including producing food, creating healthier food, managing the environmental impact of agriculture, and extracting energy from plants.  Agronomists often specialise in areas such as crop rotation, irrigation and drainage, plant breeding, plant physiology, soil classification, soil fertility, weed control, and insect and pest control.
+
+==Plant breeding==
+
+This area of agronomy involves selective breeding of plants to produce the best crops under various conditions. Plant breeding has increased crop yields and has improved the nutritional value of numerous crops, including corn, soybeans, and wheat. It has also led to the development of new types of plants. For example, a hybrid grain called triticale was produced by crossbreeding rye and wheat. Triticale contains more usable protein than does either rye or wheat. Agronomy has also been instrumental in fruit and vegetable production research.
+
+==Biotechnology==
+
+Agronomists use biotechnology to extend and expedite the development of desired characteristic.  Biotechnology is often a lab activity requiring field testing of the new crop varieties that are developed.
+
+In addition to increasing crop yields agronomic biotechnology is increasingly being applied for novel uses other than food. For example, oilseed is at present used mainly for margarine and other food oils, but it can be modified to produce fatty acids for detergents, substitute fuels and petrochemicals.
+
+==Soil science==
+
+Agronomists study sustainable ways to make soils more productive and profitable throughout the world. They classify soils and analyze them to determine whether they contain nutrients vital to plant growth. Common macronutrients analyzed include compounds of nitrogen, phosphorus, potassium, calcium, magnesium, and sulfur. Soil is also assessed for several micronutrients, like zinc and boron. The percentage of organic matter, soil pH, and nutrient holding capacity (cation exchange capacity) are tested in a regional laboratory. Agronomists will interpret these lab reports and make recommendations to balance soil nutrients for optimal plant growth.
+
+===Soil conservation===
+In addition, agronomists develop methods to preserve the soil and to decrease the effects of erosion by wind and water. For example, a technique called contour plowing may be used to prevent soil erosion and conserve rainfall. Researchers in agronomy also seek ways to use the soil more effectively in solving other problems. Such problems include the disposal of human and animal manure, water pollution, and pesticide build-up in the soil. As well as looking after the soil for future generations to come, such as the burning of paddocks after crop production. As well as pasture [management] Techniques include no-tilling crops, planting of soil-binding grasses along contours on steep slopes, and contour drains of depths up to 1 metre. 
+==Agroecology==
+Agroecology is the management of agricultural systems with an emphasis on ecological and environmental perspectives. This area is closely associated with work in the areas of sustainable agriculture, organic farming, and alternative food systems and the development of alternative cropping systems.
+
+==Theoretical modeling==
+Theoretical production ecology tries to quantitatively study the growth of crops. The plant is treated as a kind of biological factory, which processes light, carbon dioxide, water, and nutrients into harvestable products. The main parameters considered are temperature, sunlight, standing crop biomass, plant production distribution, and nutrient and water supply.
+
+==See also==
+* Agricultural engineering
+* Agricultural policy
+* Agroecology
+* Agrology
+* Agrophysics
+* Food systems
+* Green Revolution
+* Vegetable farming
+
+==References==
+
+==Bibliography==
+* Wendy B. Murphy, The Future World of Agriculture, Watts, 1984.
+* Antonio Saltini, Storia delle scienze agrarie, 4 vols, Bologna 1984-89, , , ,
+
+==External links==
+
+*The American Society of Agronomy (ASA)
+*Crop Science Society of America (CSSA)
+*Soil Science Society of America (SSSA)
+*European Society for Agronomy
+*The National Agricultural Library (NAL) – Comprehensive agricultural library.
+*Information System for Agriculture and Food Research
