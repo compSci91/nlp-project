@@ -17,4 +17,6 @@ from Article import Article
 bovine = Article("./corpus/Bovine.txt")
 cattle = Article("./corpus/cattle.txt")
 
-print bovine.calculateNumberOfBigramsInCommon(cattle)
+print "Number of unigrams in common ", bovine.calculateNumberOfUnigramsInCommon(cattle)
+print "Number of bigrams in common: ", bovine.calculateNumberOfBigramsInCommon(cattle)
+print "Number of trigrams in common: ", bovine.calculateNumberOfTrigramsInCommon(cattle)
