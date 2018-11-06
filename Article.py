@@ -11,11 +11,11 @@ class Article:
         for bigram in self.contentsBigrams:
             self.bigrams.add(bigram)
 
-    def calculateNumberOfBigramsInCommon(artcile):
+    def calculateNumberOfBigramsInCommon(self, article):
         number_of_bigrams_in_common = 0
-        for bigram in self.article.bigrams:
-            if bigram in self.contentsBigrams:
-                print bigram
+        for bigram in article.bigrams:
+            if bigram in self.bigrams:
+                # print bigram
                 number_of_bigrams_in_common += 1
 
         return number_of_bigrams_in_common
