@@ -2,8 +2,10 @@
 from nltk import ngrams
 
 class Article:
-    def __init__(self, contents) :
-        self.contents = contents
+    def __init__(self, path):
+        file  = open(path, 'r')
+
+        self.contents = file.read().lower()
         self.bigrams = set()
 
         self.contentsBigrams = ngrams(self.contents.split(), 2)
@@ -15,7 +17,7 @@ class Article:
         number_of_bigrams_in_common = 0
         for bigram in article.bigrams:
             if bigram in self.bigrams:
-                # print bigram
+                print bigram
                 number_of_bigrams_in_common += 1
 
         return number_of_bigrams_in_common

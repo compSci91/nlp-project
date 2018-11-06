@@ -14,9 +14,7 @@
 from nltk import ngrams
 from Article import Article
 
-constance_garnett = Article("Happy families are all alike; every unhappy family is unhappy in its own way.".lower())
-# constance_garnett.printTest()
+bovine = Article("./corpus/Bovine.txt")
+cattle = Article("./corpus/cattle.txt")
 
-schwartz = Article("All happy families resemble one another; each unhappy family is unhappy in its own way.".lower())
-
-print constance_garnett.calculateNumberOfBigramsInCommon(schwartz)
+print bovine.calculateNumberOfBigramsInCommon(cattle)
