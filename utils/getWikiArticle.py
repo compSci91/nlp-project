@@ -13,7 +13,7 @@ except:
 
 if raw:
     wiki2plain = Wiki2Plain(raw)
-    f = open('./corpus/' + articleName + '.txt', 'w')
+    f = open('../corpus/' + articleName + '.txt', 'w')
     f.write(wiki2plain.text)
     #content = wiki2plain.text
     #print(wiki2plain.text)
