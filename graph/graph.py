@@ -58,4 +58,40 @@ class RelationGraph(object):
         return None
 
     def find_edge(self, source, target):
-            return source.find_edge(target)
+        return source.find_edge(target)
+
+    def search(start, goal):
+        weight = {}
+        previous = {}
+        startVertex = self.find_vertex(start)
+        for v in self.vertices:
+            weight[v] = float("inf")
+            previous[v] = v
+        weight[startVertex] = 0
+
+        changed = True
+        while changed:
+            changed = False
+            for v in self.vertices:
+                if v == start
+                for e in v.in_edges:
+                    #inefficient as it has to compute this everytime it
+                    #looks at an edge and it looks at all the edges multiple
+                    #times in a single query which will just increase with
+                    #multiple queries
+                    edgeWeight = math.log(edge.prop) * -1
+                    tempWeight = weight[e.source] + edgeWeight
+                    if tempWeight < weight[v]:
+                        weight[v] = tempWeight
+                        previous[v] = e.source
+                        changed = True
+
+        path = []
+        current = goal
+        while current != start:
+            path.append(current)
+            current = previous[current]
+        path.append[start]
+        path.reverse()
+
+        return path
