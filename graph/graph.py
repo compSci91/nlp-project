@@ -1,3 +1,5 @@
+import math
+
 class GraphError(Exception):
     def GraphError(self, msg):
         super().__init__(msg)
@@ -150,26 +152,29 @@ class RelationGraph(object):
         for e in self.edges:
             yield e
 
-    def search(start, goal):
+    def search(self, s, g):
+        start = self.find_vertex(s)
+        goal = self.find_vertex(g)
         weight = {}
         previous = {}
-        startVertex = self.find_vertex(start)
         for v in self.vertices:
             weight[v] = float("inf")
             previous[v] = v
-        weight[startVertex] = 0
+        weight[start] = 0
 
         changed = True
         while changed:
+            print("Inside while loop")
             changed = False
             for v in self.vertices:
-                if v == start
-                for e in v.in_edges:
+                print("inside for loop")
+                for e in v.in_edges():
                     #inefficient as it has to compute this everytime it
                     #looks at an edge and it looks at all the edges multiple
                     #times in a single query which will just increase with
                     #multiple queries
-                    edgeWeight = math.log(edge.prop) * -1
+                    edgeWeight = math.log(e.prop) * -1
+                    print("edge weight: {}".format(edgeWeight))
                     tempWeight = weight[e.source] + edgeWeight
                     if tempWeight < weight[v]:
                         weight[v] = tempWeight
@@ -178,10 +183,14 @@ class RelationGraph(object):
 
         path = []
         current = goal
+        print("previous")
+        for v,p in previous.items():
+            print("{} to {}".format(p.prop,v.prop))
         while current != start:
+            print(current)
             path.append(current)
             current = previous[current]
-        path.append[start]
+        path.append(start)
         path.reverse()
 
         return path
@@ -197,10 +206,16 @@ if __name__ == '__main__':
         for j in graph.iter_vertex():
             if i == j:
                 continue
-            graph.add_edge(random.randint(0, 1000), i, j)
+            graph.add_edge(random.randint(1, 100)/100, i, j)
 
     for v in graph.iter_vertex():
         print(v.prop, end=" ")
+        #print(v.prop)
         for e in v.iter_edge():
             print(e.prop, end=", ")
+            #print(e.prop)
         print()
+
+    path = graph.search(0,1)
+    for v in path:
+        print(v.prop)
