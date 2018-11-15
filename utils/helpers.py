@@ -17,3 +17,4 @@ def get_article_names(article_list):
         n = a[0:pos]
         names.append(n)
     return names
+

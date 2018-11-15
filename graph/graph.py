@@ -205,15 +205,13 @@ if __name__ == '__main__':
     for i in graph.iter_vertex():
         for j in graph.iter_vertex():
             if i == j:
-                continue
+      continue
             graph.add_edge(random.randint(1, 100)/100, i, j)
 
     for v in graph.iter_vertex():
         print(v.prop, end=" ")
-        #print(v.prop)
         for e in v.iter_edge():
             print(e.prop, end=", ")
-            #print(e.prop)
         print()
 
     path = graph.search(0,1)

@@ -17,7 +17,7 @@ from relations.article import Article
 from relations.article_to_article import AtoA
 from utils.helpers import get_directory_files, get_article_names
 
-bovine = Article("./corpus/Bovine.txt")
+bovine = Article('./corpus/Bovine.txt')
 cattle = Article("./corpus/cattle.txt")
 
 # There is an error decoding the text files
