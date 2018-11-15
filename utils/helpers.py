@@ -1,4 +1,4 @@
-import os
+import os, fnmatch
 
 
 
@@ -7,7 +7,7 @@ def get_directory_files(path):
     for (dirpath, dirnames, filenames) in os.walk(path):
         f.extend(filenames)
         break
-    return f
+    return fnmatch.filter(f, "*.txt")
 
 
 def get_article_names(article_list):
