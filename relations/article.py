@@ -9,22 +9,53 @@ class Article:
 
     class SubSection:
         def __init__(self, name, paras):
-            self.name = name
+            self.name = name.strip()
             self.paras = paras
+
+        def first_sentence(self):
+            for x in self.paras:
+                if len(x) == 0:
+                    continue
+                return x[0]
+            return None
+
+        def search(self, word):
+            s = 0
+            for p in self.paras:
+                for sentence in p:
+                    if word in sentence:
+                        s += 1
+            return s
+
 
     class Section:
         def __init__(self, name, subsections):
-            self.name = name
+            self.name = name.strip()
             self.subsections = subsections
 
-    def __init__(self, path):
+        def first_sentence(self):
+            for x in self.subsections:
+                if len(x.paras) == 0:
+                    continue
+                return x.first_sentence()
+            return None
+
+        def search(self, word):
+            s = 0
+            for x in self.subsections:
+                s += x.search(word)
+            return s
+
+
+    def __init__(self, path, topic = None):
         self.contents = ""
+        # print("Opening: ", path)
         with open(path) as file:
             self.contents = file.read().lower()
         self.unigrams = set()
         self.bigrams = set()
         self.trigrams = set()
-
+        self.topic = topic
 
         self.parags = []
         self.sects = []
@@ -44,6 +75,12 @@ class Article:
 
         for trigram in self.contentsTrigrams:
             self.trigrams.add(trigram)
+
+    def get_section(self, name):
+        for s in self.sections():
+            if s.name == name:
+                return s
+        return None
 
     def build_groups(self):
         '''
