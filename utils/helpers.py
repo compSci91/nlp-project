@@ -15,6 +15,6 @@ def get_article_names(article_list):
     for a in article_list:
         pos = a.find('.')
         n = a[0:pos]
-        names.append(n)
+        names.append(n.lower())
     return names
 
