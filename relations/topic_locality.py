@@ -1,7 +1,7 @@
 from relations.article import Article
 from utils.helpers import get_article_names
 
-class TtoT(object):
+class TopicLocality(object):
     def __init__(self, topics, articles):
         super().__init__()
         self.topics = topics
