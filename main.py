@@ -32,7 +32,7 @@ from relations.trigram_weight_calculator import TrigramWeightCalculator
 
 # graph = atoa.build_graph()
 
-weight_calculator = TrigramWeightCalculator()
+weight_calculator = UnigramWeightCalculator()
 graph = GramGraphGenerator().build_graph(weight_calculator)
 
 for vertex in graph.iter_vertex():

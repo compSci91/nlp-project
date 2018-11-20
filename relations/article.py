@@ -224,7 +224,9 @@ class Article:
                 # print bigram
                 number_of_unigrams_in_common += 1
 
-        return number_of_unigrams_in_common
+        number_of_unique_unigrams = len(article.unigrams) + len(self.unigrams) - number_of_unigrams_in_common
+
+        return number_of_unigrams_in_common / number_of_unique_unigrams
 
     def calculateNumberOfBigramsInCommon(self, article):
         '''
@@ -238,7 +240,10 @@ class Article:
                 # print bigram
                 number_of_bigrams_in_common += 1
 
-        return number_of_bigrams_in_common
+        number_of_unique_bigrams = len(article.bigrams) + len(self.bigrams) - number_of_bigrams_in_common
+
+
+        return number_of_bigrams_in_common / number_of_unique_bigrams
 
     def calculateNumberOfTrigramsInCommon(self, article):
         '''
@@ -252,7 +257,10 @@ class Article:
                 # print bigram
                 number_of_trigrams_in_common += 1
 
-        return number_of_trigrams_in_common
+        number_of_unique_trigrams = len(article.trigrams) + len(self.trigrams) - number_of_trigrams_in_common
+
+
+        return number_of_trigrams_in_common / number_of_unique_trigrams
 
     def printTest(self):
         print(self.contents)
