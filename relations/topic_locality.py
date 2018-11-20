@@ -7,7 +7,6 @@ class TopicLocality(object):
         super().__init__()
         self.topics = topics
         self.articles = articles
-
     def run(self):
         pass
         
@@ -39,35 +38,45 @@ class TopicLocality(object):
                             subsectionCount += aInSubsec * bInSubsec
                         sectionCount += aInSec * bInSec
                     articleCount += aInArt * bInArt
-                print("OCURRENCES FOR: ",topicA,topicB, "\nsenteces: " , sentenceCount,"\nparagraphs: ", paragraphCount, "\nsubsections: ", subsectionCount, "\nsections: ",sectionCount,"\narticle: ",articleCount)
+                # print("OCURRENCES FOR: ",topicA,topicB, ", senteces: " , sentenceCount,", paragraphs: ", paragraphCount, ", subsections: ", subsectionCount, ", sections: ",sectionCount,", article: ",articleCount)
                 total = sentenceCount * 1 + paragraphCount * 1 + subsectionCount * 1 + sectionCount * 1 + articleCount * 1
                 secondaryNodes[topicB] = total
             primaryNodes[topicA] = secondaryNodes
-            return primaryNodes 
+        return primaryNodes 
 
     def buildUndirectedGraph(self):
-        primaryNodes = totalOccurrences()
+        primaryNodes = self.totalOccurrences()
         denominator = 0
+        vertex_map = {}
         g = RelationGraph()
         for a in primaryNodes.keys():
-            g.add_vertex(a)
-            for b in secondaryNodes.keys():
-                denominator += secondaryNodes[b]
+            vertex_map[a] = g.add_vertex(a)
+            for b in primaryNodes[a].keys():
+                denominator += primaryNodes[a][b]
         for a in primaryNodes.keys():
-            for b in secondaryNodes.keys():
-                g.add_edge(secondaryNodes[b] / denominator ,a,b)
+            for b in primaryNodes[a].keys():
+                av = vertex_map[a]
+                bv = vertex_map[b]
+                g.add_edge((primaryNodes[a][b] / denominator), av, bv)
+                print("Adding edge: ",a, b,': ', (primaryNodes[a][b] / denominator))
+        return g
 
     def buildDirectedGraph(self):
-        primaryNodes = totalOccurrences
+        primaryNodes = self.totalOccurrences()
+        vertex_map = {}
         g = RelationGraph()
         for a in primaryNodes.keys():
-            g.add_vertex(a)
+            vertex_map[a] = g.add_vertex(a)
         for a in primaryNodes.keys():
             denominator = 0
-            for b in secondaryNodes.keys():
-                denominator += secondaryNodes[b]
-            for b in secondaryNodes.keys():
-                g.add_edge(secondaryNodes[b] / denominator,a,b)
+            for b in primaryNodes[a].keys():
+                denominator += primaryNodes[a][b]
+            for b in primaryNodes[a].keys():
+                av = vertex_map[a]
+                bv = vertex_map[b]
+                g.add_edge(((primaryNodes[a][b]+0.00001 )/ (denominator+1)), av, bv) #To avoid division by zero conflicts
+                print("Adding edge: ",a, b,': ', ((primaryNodes[a][b]+0.00001 )/ (denominator+1)))
+        return g
                
     def sameSentenceOccurrence(self,sentence,topicA,topicB):
     	aInSent = 0
