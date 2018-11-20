@@ -1,5 +1,6 @@
 from nltk import ngrams
 import re
+import os
 
 class Article:
     # there are static class variables.
@@ -52,6 +53,8 @@ class Article:
         # print("Opening: ", path)
         with open(path) as file:
             self.contents = file.read().lower()
+            self.name = os.path.basename(file.name)
+
         self.unigrams = set()
         self.bigrams = set()
         self.trigrams = set()
