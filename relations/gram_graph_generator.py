@@ -3,7 +3,7 @@ from graph.graph import RelationGraph
 from utils.helpers import get_directory_files, get_article_names
 
 
-class UnigramGraphGenerator:
+class GramGraphGenerator:
     def __init__(self):
         articles_names = get_directory_files('mini_corpus')
         self.articles = [Article('./mini_corpus/' + name) for name in articles_names]
@@ -11,7 +11,7 @@ class UnigramGraphGenerator:
         for article in self.articles:
             print(article.name)
 
-    def build_graph(self):
+    def build_graph(self, weight_calculator):
         graph = RelationGraph()
         vertex_map = {}
 
@@ -30,8 +30,8 @@ class UnigramGraphGenerator:
                 second_article = self.articles[second_article_index]
 
 
-                weight = first_article.calculateNumberOfUnigramsInCommon(second_article)
-
+                # weight = first_article.calculateNumberOfUnigramsInCommon(second_article)
+                weight = weight_calculator.calculate_weight(first_article, second_article)
                 print("Weight between " + first_article.name + " and " + second_article.name + " is " + str(weight))
 
                 first_vertex = vertex_map[first_article.name]

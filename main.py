@@ -17,7 +17,11 @@ from relations.article import Article
 from relations.article_to_article import AtoA
 # from relations.topic_to_topic import TtoT
 from utils.helpers import get_directory_files, get_article_names
-from relations.unigram_graph_generator import UnigramGraphGenerator
+from relations.gram_graph_generator import GramGraphGenerator
+from relations.unigram_weight_calculator import UnigramWeightCalculator
+from relations.bigram_weight_calculator import BigramWeightCalculator
+from relations.trigram_weight_calculator import TrigramWeightCalculator
+
 # There is an error decoding the text files
 
 # articles_names = get_directory_files('corpus')
@@ -28,7 +32,8 @@ from relations.unigram_graph_generator import UnigramGraphGenerator
 
 # graph = atoa.build_graph()
 
-graph = UnigramGraphGenerator().build_graph()
+weight_calculator = TrigramWeightCalculator()
+graph = GramGraphGenerator().build_graph(weight_calculator)
 
 for vertex in graph.iter_vertex():
     print(vertex.prop)
