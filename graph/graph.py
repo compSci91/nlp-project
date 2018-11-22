@@ -82,7 +82,7 @@ class Edge(object):
         self.prop = prop
         self.source = source
         self.target = target
-    
+
     def __repr__(self):
         return "{} -> {} | {}".format(self.source, self.target, self.prop)
 
@@ -177,10 +177,11 @@ class RelationGraph(object):
             split = line.split(':')
             source = self.add_vertex(split[0])
             target = self.add_vertex(split[1])
-            self.add_edge(split[2].rstrip(), source, target)
+            self.add_edge(float(split[2].rstrip()), source, target)
 
 
     def search(self, s, g):
+        #TODO return the path score as well
         start = self.find_vertex(s)
         goal = self.find_vertex(g)
         weight = {}
