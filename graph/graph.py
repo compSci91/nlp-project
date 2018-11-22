@@ -1,4 +1,5 @@
 import math
+import pprint
 
 class GraphError(Exception):
     def GraphError(self, msg):
@@ -63,6 +64,8 @@ class Vertex(object):
                 return e
         return None
 
+    def __repr__(self):
+        return "Vertex({})".format(self.prop)
 
 class Edge(object):
     '''
@@ -79,6 +82,9 @@ class Edge(object):
         self.prop = prop
         self.source = source
         self.target = target
+    
+    def __repr__(self):
+        return "{} -> {} | {}".format(self.source, self.target, self.prop)
 
 
 class RelationGraph(object):
@@ -186,36 +192,38 @@ class RelationGraph(object):
 
         changed = True
         while changed:
-            print("Inside while loop")
+            # print("Inside while loop")
             changed = False
             for v in self.vertices:
-                print("inside for loop")
+                # print("inside for loop")
                 for e in v.in_edges():
                     #inefficient as it has to compute this everytime it
                     #looks at an edge and it looks at all the edges multiple
                     #times in a single query which will just increase with
                     #multiple queries
                     edgeWeight = math.log(e.prop) * -1
-                    print("edge weight: {}".format(edgeWeight))
+                    # print("edge weight: {}".format(edgeWeight))
                     tempWeight = weight[e.source] + edgeWeight
-                    if tempWeight < weight[v]:
+                    if tempWeight > weight[v]:
                         weight[v] = tempWeight
                         previous[v] = e.source
                         changed = True
 
         path = []
         current = goal
-        print("previous")
-        for v,p in previous.items():
-            print("{} to {}".format(p.prop,v.prop))
+        # print("previous")
+        # for v,p in previous.items():
+        #     print("{} to {}".format(p.prop,v.prop))
         while current != start:
-            print(current)
+            # print(current)
             path.append(current)
             current = previous[current]
         path.append(start)
         path.reverse()
 
         return path
+
+
 # Test case
 if __name__ == '__main__':
     import random
