@@ -1,0 +1,6 @@
+agriculture:agrochemicals:0.05218400
+agriculture:agronomy:0.07944277
+agronomy:agrochemicals:0.11713287
+agronomy:agriculture:0.07944277
+agrochemicals:agriculture:0.05218400
+agrochemicals:agronomy:0.11713287

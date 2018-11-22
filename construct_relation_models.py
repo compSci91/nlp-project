@@ -13,45 +13,52 @@ from relations.trigram_weight_calculator import TrigramWeightCalculator
 from graph.graph import RelationGraph
 import sys
 
-def construct_unigram_model():
+
+
+def construct_unigram_model(corpus):
     weight_calculator = UnigramWeightCalculator()
-    graph = GramGraphGenerator('corpus').build_graph(weight_calculator)
-    graph.save_graph("CorpusUnigram.txt")
+    graph = GramGraphGenerator(corpus.lower()).build_graph(weight_calculator)
+    graph.save_graph(corpus+"Unigram.txt")
 
-def construct_bigram_model():
+def construct_bigram_model(corpus):
     weight_calculator = BigramWeightCalculator()
-    graph = GramGraphGenerator('corpus').build_graph(weight_calculator)
-    graph.save_graph("CorpusBigram.txt")
+    graph = GramGraphGenerator(corpus.lower()).build_graph(weight_calculator)
+    graph.save_graph(corpus+"Bigram.txt")
 
-def construct_trigram_model():
+def construct_trigram_model(corpus):
     weight_calculator = TrigramWeightCalculator()
-    graph = GramGraphGenerator('corpus').build_graph(weight_calculator)
-    graph.save_graph("CorpusTrigram.txt")
+    graph = GramGraphGenerator(corpus.lower()).build_graph(weight_calculator)
+    graph.save_graph(corpus+"Trigram.txt")
 
-def construct_AtoA_model():
+def construct_AtoA_model(corpus):
     print('AtoA')
 
-def construct_topic_locality_model():
+def construct_topic_locality_model(corpus):
     print('Topic Locality')
 
 def main():
+    corpus = 'Corpus'
+    if 'mini' in sys.argv[1:]:
+        corpus = 'Mini_Corpus'
+        sys.argv.remove('mini')
+
     if len(sys.argv) < 2:
-        construct_unigram_model()
-        construct_bigram_model()
-        construct_trigram_model()
-        construct_AtoA_model()
-        construct_topic_locality_model()
-    elif '1' in sys.argv[1:]:
-        construct_unigram_model()
-    elif '2' in sys.argv[1:]:
+        construct_unigram_model(corpus)
+        construct_bigram_model(corpus)
+        construct_trigram_model(corpus)
+        construct_AtoA_model(corpus)
+        construct_topic_locality_model(corpus)
+    elif 'u' in sys.argv[1:]:
+        construct_unigram_model(corpus)
+    elif 'b' in sys.argv[1:]:
         print(2)
-        construct_bigram_model()
-    elif '3' in sys.argv[1:]:
-        construct_trigram_model()
-    elif 'AtoA' in sys.argv[1:]:
-        construct_AtoA_model()
-    elif 'L' in sys.argv[1:]:
-        construct_topic_locality_model()
+        construct_bigram_model(corpus)
+    elif 't' in sys.argv[1:]:
+        construct_trigram_model(corpus)
+    elif 'a' in sys.argv[1:]:
+        construct_AtoA_model(corpus)
+    elif 'l' in sys.argv[1:]:
+        construct_topic_locality_model(corpus)
     elif len(sys.argv[1:]) >= 2:
         print("Please input '1' for unigram, '2' for bigram, '3' for trigram, 'AtoA' for Aricle to Article, 'L' for topic locality or nothing for all.")
 
