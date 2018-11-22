@@ -4,9 +4,10 @@ from utils.helpers import get_directory_files, get_article_names
 
 
 class GramGraphGenerator:
-    def __init__(self):
-        articles_names = get_directory_files('mini_corpus')
-        self.articles = [Article('./mini_corpus/' + name) for name in articles_names]
+    def __init__(self, corpus = 'mini_corpus'):
+        articles_names = get_directory_files(corpus)
+        print(articles_names)
+        self.articles = [Article('./'+corpus+'/' + name) for name in articles_names]
 
         for article in self.articles:
             print(article.name)
