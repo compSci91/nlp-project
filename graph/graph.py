@@ -152,6 +152,13 @@ class RelationGraph(object):
         for e in self.edges:
             yield e
 
+    def save_graph(self, filename):
+        f = open('RelationModels/' + filename,'w')
+        for v in self.vertices:
+            for e in v.out_edges():
+                f.write(v.prop + ":" + e.target.prop + ":" + '%.16f' % e.prop + '\n')
+        print(f)
+
     def search(self, s, g):
         start = self.find_vertex(s)
         goal = self.find_vertex(g)

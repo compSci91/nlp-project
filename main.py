@@ -34,6 +34,7 @@ from relations.trigram_weight_calculator import TrigramWeightCalculator
 
 weight_calculator = UnigramWeightCalculator()
 graph = GramGraphGenerator().build_graph(weight_calculator)
+graph.save_graph("MiniCorpusUnigram.txt")
 
 for vertex in graph.iter_vertex():
     print(vertex.prop)
