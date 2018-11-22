@@ -2,15 +2,23 @@ from relations.article import Article
 from utils.helpers import get_article_names
 from graph.graph import RelationGraph
 
+import pprint
+
 class TopicLocality(object):
     def __init__(self, topics, articles):
         super().__init__()
         self.topics = topics
         self.articles = articles
+<<<<<<< Updated upstream
+=======
+        for article in self.articles:
+            article.build_groups()
+        print(len(self.articles))
+
+>>>>>>> Stashed changes
     def run(self):
         pass
         
-
     def totalOccurrences(self):
         primaryNodes = {}
         for topicA in self.topics:
@@ -24,7 +32,6 @@ class TopicLocality(object):
                 paragraphCount = 0
                 sentenceCount = 0
                 for article in self.articles:
-                    article.build_groups()
                     aInArt,bInArt = self.articleOccurence(article,topicA,topicB)
                     for section in article.sects:
                         aInSec,bInSec = self.sectionOccurrence(section,topicA,topicB)
@@ -38,7 +45,11 @@ class TopicLocality(object):
                             subsectionCount += aInSubsec * bInSubsec
                         sectionCount += aInSec * bInSec
                     articleCount += aInArt * bInArt
+<<<<<<< Updated upstream
                 # print("OCURRENCES FOR: ",topicA,topicB, ", senteces: " , sentenceCount,", paragraphs: ", paragraphCount, ", subsections: ", subsectionCount, ", sections: ",sectionCount,", article: ",articleCount)
+=======
+                # print("OCURRENCES FOR: ",topicA,topicB, "\nsenteces: " , sentenceCount,"\nparagraphs: ", paragraphCount, "\nsubsections: ", subsectionCount, "\nsections: ",sectionCount,"\narticle: ",articleCount)
+>>>>>>> Stashed changes
                 total = sentenceCount * 1 + paragraphCount * 1 + subsectionCount * 1 + sectionCount * 1 + articleCount * 1
                 secondaryNodes[topicB] = total
             primaryNodes[topicA] = secondaryNodes
@@ -46,13 +57,25 @@ class TopicLocality(object):
 
     def buildUndirectedGraph(self):
         primaryNodes = self.totalOccurrences()
+<<<<<<< Updated upstream
+=======
+        # pprint.pprint(primaryNodes)
+>>>>>>> Stashed changes
         denominator = 0
         vertex_map = {}
         g = RelationGraph()
+<<<<<<< Updated upstream
         for a in primaryNodes.keys():
             vertex_map[a] = g.add_vertex(a)
             for b in primaryNodes[a].keys():
                 denominator += primaryNodes[a][b]
+=======
+        for a, va in primaryNodes.items():
+            g.add_vertex(a)
+            for b in va.items():
+                denominator += secondaryNodes[b]
+
+>>>>>>> Stashed changes
         for a in primaryNodes.keys():
             for b in primaryNodes[a].keys():
                 av = vertex_map[a]
@@ -63,7 +86,10 @@ class TopicLocality(object):
 
     def buildDirectedGraph(self):
         primaryNodes = self.totalOccurrences()
+<<<<<<< Updated upstream
         vertex_map = {}
+=======
+>>>>>>> Stashed changes
         g = RelationGraph()
         for a in primaryNodes.keys():
             vertex_map[a] = g.add_vertex(a)

@@ -42,8 +42,12 @@ class AtoA(object):
         self.articles = {a.topic:a for a in articles}
         print(len(self.articles))
         self.data = {}
+        self.ran = False
 
     def build_graph(self):
+        if not self.ran:
+            self.run()
+
 # Create the graph
         g = RelationGraph()
         relelation_sums = {}
@@ -67,15 +71,19 @@ class AtoA(object):
 # This creates the edge uni-directionally
 # Switch the source and target to add the other direction.
         for a, tb in self.data.items():
+            # print("Looking at: {}".format(a))
             for b, c in tb.items():
                 av = vertex_map[a]
                 bv = vertex_map[b]
+                # print("add_edge")
                 g.add_edge((c.sum + AtoA.BIAS) / (relelation_sums[a] + AtoA.BIAS), av, bv)
 
         return g
 
     # I do not know what else to name this.
     def run(self):
+        self.ran = True
+
         for ta, a in self.articles.items():
             for tb, b in self.articles.items():
                 if ta == tb:
@@ -133,6 +141,6 @@ class AtoA(object):
                 c.total_count = btotal * AtoA.TOTALCOUNT
                 c.compute_sum()
 
-        pprint.pprint(self.data)
+        # pprint.pprint(self.data)
         # with open("article_to_article.txt", 'w') as f:
         #     pickle.dump(self.data, f)
