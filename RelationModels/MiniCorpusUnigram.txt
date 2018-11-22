@@ -1,6 +1,0 @@
-Agronomy.txt:Agrochemicals.txt:0.1171328671328671
-Agronomy.txt:Agriculture.txt:0.0794427710843374
-Agriculture.txt:Agronomy.txt:0.0794427710843374
-Agriculture.txt:Agrochemicals.txt:0.0521839969076150
-Agrochemicals.txt:Agronomy.txt:0.1171328671328671
-Agrochemicals.txt:Agriculture.txt:0.0521839969076150

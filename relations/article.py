@@ -54,6 +54,7 @@ class Article:
         with open(path) as file:
             self.contents = file.read().lower()
             self.name = os.path.basename(file.name)
+            self.name = self.name.split('.')[0].lower()
 
         self.unigrams = set()
         self.bigrams = set()
