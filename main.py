@@ -22,6 +22,8 @@ from relations.unigram_weight_calculator import UnigramWeightCalculator
 from relations.bigram_weight_calculator import BigramWeightCalculator
 from relations.trigram_weight_calculator import TrigramWeightCalculator
 
+from graph.graph import RelationGraph
+
 # There is an error decoding the text files
 
 # articles_names = get_directory_files('corpus')
@@ -37,6 +39,19 @@ graph = GramGraphGenerator().build_graph(weight_calculator)
 graph.save_graph("MiniCorpusUnigram.txt")
 
 for vertex in graph.iter_vertex():
+    print(vertex.prop)
+    for edge in vertex.iter_edge():
+        print(edge.source.prop, end=" ")
+        print(" == ", end=" ")
+        print(edge.prop, end=" ")
+        print(" ==>", end=" ")
+        print(edge.target.prop)
+    print()
+
+graph2 = RelationGraph()
+graph2.load_graph('RelationModels/MiniCorpusUnigram.txt')
+print("number of vertices %f" % len(graph2.vertices))
+for vertex in graph2.iter_vertex():
     print(vertex.prop)
     for edge in vertex.iter_edge():
         print(edge.source.prop, end=" ")

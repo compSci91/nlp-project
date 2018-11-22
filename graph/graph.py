@@ -100,8 +100,10 @@ class RelationGraph(object):
             prop: The property of a new vertex
             return: The create vertex
         '''
-        v = Vertex(prop)
-        self.vertices.add(v)
+        v = self.find_vertex(prop)
+        if v == None:
+            v = Vertex(prop)
+            self.vertices.add(v)
         return v
 
     def add_edge(self, prop, source, target):
@@ -112,10 +114,14 @@ class RelationGraph(object):
             target: the target vertex of this edge
             return: The created edge
         '''
-        edge = Edge(prop, source, target)
-        source.add_edge(edge)
-        target.add_edge(edge)
-        self.edges.add(edge)
+        edge = self.find_edge(source,target)
+        if edge == None:
+            edge = Edge(prop, source, target)
+            source.add_edge(edge)
+            target.add_edge(edge)
+            self.edges.add(edge)
+        else:
+            edge.prop = prop
         return edge
 
     def find_vertex(self, prop):
@@ -156,8 +162,17 @@ class RelationGraph(object):
         f = open('RelationModels/' + filename,'w')
         for v in self.vertices:
             for e in v.out_edges():
-                f.write(v.prop + ":" + e.target.prop + ":" + '%.16f' % e.prop + '\n')
+                f.write(v.prop + ":" + e.target.prop + ":" + '%.8f' % e.prop + '\n')
         print(f)
+
+    def load_graph(self, filename):
+        f = open(filename)
+        for line in f:
+            split = line.split(':')
+            source = self.add_vertex(split[0])
+            target = self.add_vertex(split[1])
+            self.add_edge(split[2].rstrip(), source, target)
+
 
     def search(self, s, g):
         start = self.find_vertex(s)
