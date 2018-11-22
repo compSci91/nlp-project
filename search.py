@@ -1,7 +1,14 @@
 from graph.graph import RelationGraph
 import sys
 
+def usage():
+    print("Usage: python search.py <model> <start> <goal> [corpus='Corpus']")
+
 def main():
+    if len(sys.argv) == 1:
+        usage()
+        exit(1)
+
     model_options = ['u','b','t','a','l']
     model = sys.argv[1]
     if model not in model_options:
