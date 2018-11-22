@@ -18,17 +18,17 @@ import sys
 def construct_unigram_model(corpus):
     weight_calculator = UnigramWeightCalculator()
     graph = GramGraphGenerator(corpus.lower()).build_graph(weight_calculator)
-    graph.save_graph(corpus+"Unigram.txt")
+    graph.save_graph(corpus.replace("_", "")+"Unigram.txt")
 
 def construct_bigram_model(corpus):
     weight_calculator = BigramWeightCalculator()
     graph = GramGraphGenerator(corpus.lower()).build_graph(weight_calculator)
-    graph.save_graph(corpus+"Bigram.txt")
+    graph.save_graph(corpus.replace("_", "")+"Bigram.txt")
 
 def construct_trigram_model(corpus):
     weight_calculator = TrigramWeightCalculator()
     graph = GramGraphGenerator(corpus.lower()).build_graph(weight_calculator)
-    graph.save_graph(corpus+"Trigram.txt")
+    graph.save_graph(corpus.replace("_", "")+"Trigram.txt")
 
 def construct_AtoA_model(corpus):
     print('AtoA')
