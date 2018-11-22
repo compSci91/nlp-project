@@ -19,16 +19,16 @@ def main():
     if model == 'u':
         model_file += corpus+'Unigram.txt'
         graph.load_graph(model_file)
-    elif model_options == 'b':
+    elif model == 'b':
         model_file += corpus+'Bigram.txt'
         graph.load_graph(model_file)
-    elif model_options == 't':
+    elif model == 't':
         model_file += corpus+'Trigram.txt'
         graph.load_graph(model_file)
-    elif model_options == 'a':
+    elif model == 'a':
         model_file += corpus+'AtoA.txt'
         graph.load_graph(model_file)
-    elif model_options == 'l':
+    elif model == 'l':
         model_file += corpus+'TopicLocality.txt'
         graph.load_graph(model_file)
 
