@@ -1,0 +1,4032 @@
+Animal Welfare.txt:Ranches.txt:0.00280426
+Animal Welfare.txt:llamas.txt:0.00270080
+Animal Welfare.txt:sheep.txt:0.00354209
+Animal Welfare.txt:Milk.txt:0.00374286
+Animal Welfare.txt:Pastoralism.txt:0.00269810
+Animal Welfare.txt:Agriculture.txt:0.00418340
+Animal Welfare.txt:Meat.txt:0.00375752
+Animal Welfare.txt:Cereal crops.txt:0.00257420
+Animal Welfare.txt:Environmental impacts of irrigation.txt:0.00254828
+Animal Welfare.txt:Growth Hormone.txt:0.00312790
+Animal Welfare.txt:Eggs.txt:0.00036483
+Animal Welfare.txt:Fruits.txt:0.00157770
+Animal Welfare.txt:Hunter-gatherer.txt:0.00253711
+Animal Welfare.txt:plough.txt:0.00175439
+Animal Welfare.txt:fungi.txt:0.00268019
+Animal Welfare.txt:goats.txt:0.00415761
+Animal Welfare.txt:Ox.txt:0.00175607
+Animal Welfare.txt:Environmental impact of pesticides.txt:0.00209741
+Animal Welfare.txt:Fuel.txt:0.00331082
+Animal Welfare.txt:yaks.txt:0.00167148
+Animal Welfare.txt:History of agriculture.txt:0.00261238
+Animal Welfare.txt:tractors.txt:0.00261800
+Animal Welfare.txt:Fertilizer.txt:0.00283659
+Animal Welfare.txt:Antibiotic Resistance.txt:0.00486449
+Animal Welfare.txt:Sustainable agriculture.txt:0.00486932
+Animal Welfare.txt:Selective Breeding.txt:0.00300978
+Animal Welfare.txt:Neolithic Revolution.txt:0.00247738
+Animal Welfare.txt:Agrochemicals.txt:0.00129750
+Animal Welfare.txt:Aquifers.txt:0.00330663
+Animal Welfare.txt:Genetic Engineering.txt:0.00353464
+Animal Welfare.txt:Pesticides.txt:0.00616793
+Animal Welfare.txt:horses.txt:0.00434344
+Animal Welfare.txt:Animal.txt:0.00338114
+Animal Welfare.txt:cattle.txt:0.00490798
+Animal Welfare.txt:Vegetables.txt:0.00291029
+Animal Welfare.txt:pastoral farming.txt:0.00136799
+Animal Welfare.txt:livestock.txt:0.00265995
+Animal Welfare.txt:Agronomy.txt:0.00105411
+Animal Welfare.txt:FarmVille.txt:0.00104229
+Animal Welfare.txt:Soil salinity.txt:0.00117292
+Animal Welfare.txt:Environmental impact of agriculture.txt:0.00367497
+Animal Welfare.txt:Genetically Modified Food.txt:0.00514167
+Animal Welfare.txt:Animal Husbandry.txt:0.00498018
+Animal Welfare.txt:Cattle Station.txt:0.00098831
+Animal Welfare.txt:Mixed farming.txt:0.00019279
+Animal Welfare.txt:Meat industry.txt:0.00140130
+Animal Welfare.txt:Plant Breeding.txt:0.00394434
+Animal Welfare.txt:Global Warming.txt:0.00368339
+Animal Welfare.txt:cereal.txt:0.00257420
+Animal Welfare.txt:Texas A&M University.txt:0.00302024
+Animal Welfare.txt:Ecosystem services.txt:0.00493185
+Animal Welfare.txt:Plants.txt:0.00353857
+Animal Welfare.txt:Subsistence agriculture.txt:0.00126322
+Animal Welfare.txt:Genetically Modified Organism.txt:0.00456708
+Animal Welfare.txt:Savannas.txt:0.00238229
+Animal Welfare.txt:reindeers.txt:0.00217949
+Animal Welfare.txt:camels.txt:0.00351700
+Animal Welfare.txt:Family farm.txt:0.00371663
+Animal Welfare.txt:Deforestation.txt:0.00383311
+Animal Welfare.txt:Sheep station.txt:0.00140870
+Animal Welfare.txt:pasture.txt:0.00036989
+Animal Welfare.txt:Oils.txt:0.00082075
+Animal Welfare.txt:Bovine.txt:0.00072346
+Cattle Station.txt:Eggs.txt:0.00066756
+Cattle Station.txt:FarmVille.txt:0.00073099
+Cattle Station.txt:yaks.txt:0.00115207
+Cattle Station.txt:Pesticides.txt:0.00048972
+Cattle Station.txt:Environmental impact of agriculture.txt:0.00236616
+Cattle Station.txt:Pastoralism.txt:0.00195440
+Cattle Station.txt:History of agriculture.txt:0.00168232
+Cattle Station.txt:Genetic Engineering.txt:0.00202020
+Cattle Station.txt:Meat.txt:0.00174520
+Cattle Station.txt:fungi.txt:0.00111720
+Cattle Station.txt:Agronomy.txt:0.00058411
+Cattle Station.txt:Agrochemicals.txt:0.00070621
+Cattle Station.txt:llamas.txt:0.00131926
+Cattle Station.txt:Sustainable agriculture.txt:0.00179856
+Cattle Station.txt:Selective Breeding.txt:0.00149738
+Cattle Station.txt:cattle.txt:0.00148962
+Cattle Station.txt:Fuel.txt:0.00139431
+Cattle Station.txt:Growth Hormone.txt:0.00107089
+Cattle Station.txt:Soil salinity.txt:0.00100604
+Cattle Station.txt:Milk.txt:0.00079702
+Cattle Station.txt:Cereal crops.txt:0.00190042
+Cattle Station.txt:Genetically Modified Food.txt:0.00115451
+Cattle Station.txt:Ranches.txt:0.00507775
+Cattle Station.txt:Environmental impact of pesticides.txt:0.00108460
+Cattle Station.txt:horses.txt:0.00122864
+Cattle Station.txt:Subsistence agriculture.txt:0.00170068
+Cattle Station.txt:pastoral farming.txt:0.00115385
+Cattle Station.txt:plough.txt:0.00116727
+Cattle Station.txt:Genetically Modified Organism.txt:0.00167632
+Cattle Station.txt:Savannas.txt:0.00126422
+Cattle Station.txt:reindeers.txt:0.00171984
+Cattle Station.txt:camels.txt:0.00147520
+Cattle Station.txt:sheep.txt:0.00182521
+Cattle Station.txt:Family farm.txt:0.00060926
+Cattle Station.txt:Deforestation.txt:0.00114321
+Cattle Station.txt:Sheep station.txt:0.02345159
+Cattle Station.txt:Animal Welfare.txt:0.00098831
+Cattle Station.txt:Environmental impacts of irrigation.txt:0.00114745
+Cattle Station.txt:pasture.txt:0.00070274
+Cattle Station.txt:Oils.txt:0.00000000
+Cattle Station.txt:Bovine.txt:0.00064641
+Cattle Station.txt:Vegetables.txt:0.00127033
+Cattle Station.txt:Animal Husbandry.txt:0.00186694
+Cattle Station.txt:Fruits.txt:0.00055081
+Cattle Station.txt:tractors.txt:0.00063742
+Cattle Station.txt:Aquifers.txt:0.00128238
+Cattle Station.txt:Fertilizer.txt:0.00135455
+Cattle Station.txt:cereal.txt:0.00190042
+Cattle Station.txt:Antibiotic Resistance.txt:0.00052777
+Cattle Station.txt:Neolithic Revolution.txt:0.00094038
+Cattle Station.txt:goats.txt:0.00105501
+Cattle Station.txt:Hunter-gatherer.txt:0.00204604
+Cattle Station.txt:livestock.txt:0.00094518
+Cattle Station.txt:Ox.txt:0.00087413
+Cattle Station.txt:Animal.txt:0.00151712
+Cattle Station.txt:Agriculture.txt:0.00074897
+Cattle Station.txt:Mixed farming.txt:0.00000000
+Cattle Station.txt:Meat industry.txt:0.00115607
+Cattle Station.txt:Plant Breeding.txt:0.00116009
+Cattle Station.txt:Global Warming.txt:0.00157309
+Cattle Station.txt:Texas A&M University.txt:0.00139996
+Cattle Station.txt:Ecosystem services.txt:0.00097020
+Cattle Station.txt:Plants.txt:0.00108829
+Agronomy.txt:Pastoralism.txt:0.00185736
+Agronomy.txt:History of agriculture.txt:0.00222189
+Agronomy.txt:Genetic Engineering.txt:0.00233813
+Agronomy.txt:Meat.txt:0.00104589
+Agronomy.txt:fungi.txt:0.00147929
+Agronomy.txt:Fuel.txt:0.00124688
+Agronomy.txt:FarmVille.txt:0.00084854
+Agronomy.txt:Soil salinity.txt:0.00248911
+Agronomy.txt:Environmental impact of agriculture.txt:0.00366789
+Agronomy.txt:Agrochemicals.txt:0.00000000
+Agronomy.txt:Genetically Modified Food.txt:0.00145319
+Agronomy.txt:Animal Husbandry.txt:0.00217707
+Agronomy.txt:llamas.txt:0.00095900
+Agronomy.txt:Cattle Station.txt:0.00058411
+Agronomy.txt:Sustainable agriculture.txt:0.00331646
+Agronomy.txt:Selective Breeding.txt:0.00137779
+Agronomy.txt:cattle.txt:0.00135083
+Agronomy.txt:Mixed farming.txt:0.00121507
+Agronomy.txt:Meat industry.txt:0.00073964
+Agronomy.txt:Plant Breeding.txt:0.00355500
+Agronomy.txt:Growth Hormone.txt:0.00280177
+Agronomy.txt:Global Warming.txt:0.00139470
+Agronomy.txt:Texas A&M University.txt:0.00089767
+Agronomy.txt:Ecosystem services.txt:0.00205008
+Agronomy.txt:Milk.txt:0.00091642
+Agronomy.txt:Plants.txt:0.00215363
+Agronomy.txt:Subsistence agriculture.txt:0.00151976
+Agronomy.txt:Cereal crops.txt:0.00266548
+Agronomy.txt:Genetically Modified Organism.txt:0.00258983
+Agronomy.txt:Savannas.txt:0.00323741
+Agronomy.txt:reindeers.txt:0.00062150
+Agronomy.txt:camels.txt:0.00138751
+Agronomy.txt:Ranches.txt:0.00215672
+Agronomy.txt:Family farm.txt:0.00264550
+Agronomy.txt:Deforestation.txt:0.00140677
+Agronomy.txt:Sheep station.txt:0.00000000
+Agronomy.txt:Environmental impact of pesticides.txt:0.00141844
+Agronomy.txt:horses.txt:0.00151657
+Agronomy.txt:pasture.txt:0.00095785
+Agronomy.txt:Oils.txt:0.00057737
+Agronomy.txt:Eggs.txt:0.00089366
+Agronomy.txt:plough.txt:0.00158827
+Agronomy.txt:Bovine.txt:0.00085616
+Agronomy.txt:Pesticides.txt:0.00139324
+Agronomy.txt:Animal Welfare.txt:0.00105411
+Agronomy.txt:Environmental impacts of irrigation.txt:0.00193237
+Agronomy.txt:Vegetables.txt:0.00168729
+Agronomy.txt:Fruits.txt:0.00092279
+Agronomy.txt:tractors.txt:0.00099657
+Agronomy.txt:Aquifers.txt:0.00113604
+Agronomy.txt:Fertilizer.txt:0.00180995
+Agronomy.txt:Neolithic Revolution.txt:0.00162107
+Agronomy.txt:cereal.txt:0.00266548
+Agronomy.txt:Antibiotic Resistance.txt:0.00194715
+Agronomy.txt:goats.txt:0.00127898
+Agronomy.txt:Hunter-gatherer.txt:0.00226565
+Agronomy.txt:livestock.txt:0.00286738
+Agronomy.txt:Animal.txt:0.00118008
+Agronomy.txt:Ox.txt:0.00104767
+Agronomy.txt:Agriculture.txt:0.00302035
+Agronomy.txt:pastoral farming.txt:0.00044984
+Agronomy.txt:sheep.txt:0.00134228
+Agronomy.txt:yaks.txt:0.00179856
+Aquifers.txt:Agrochemicals.txt:0.00061977
+Aquifers.txt:llamas.txt:0.00489345
+Aquifers.txt:Sustainable agriculture.txt:0.00430108
+Aquifers.txt:Selective Breeding.txt:0.00327248
+Aquifers.txt:Growth Hormone.txt:0.00495817
+Aquifers.txt:Milk.txt:0.00313647
+Aquifers.txt:Cereal crops.txt:0.00202748
+Aquifers.txt:Ranches.txt:0.00342604
+Aquifers.txt:Environmental impact of pesticides.txt:0.00453267
+Aquifers.txt:Eggs.txt:0.00030211
+Aquifers.txt:plough.txt:0.00571152
+Aquifers.txt:Animal Welfare.txt:0.00330663
+Aquifers.txt:Environmental impacts of irrigation.txt:0.00511848
+Aquifers.txt:History of agriculture.txt:0.00291121
+Aquifers.txt:Fruits.txt:0.00479793
+Aquifers.txt:tractors.txt:0.00411265
+Aquifers.txt:Genetic Engineering.txt:0.00361944
+Aquifers.txt:Pesticides.txt:0.00582647
+Aquifers.txt:horses.txt:0.00353883
+Aquifers.txt:Fertilizer.txt:0.00494277
+Aquifers.txt:Animal.txt:0.00264963
+Aquifers.txt:cattle.txt:0.00431482
+Aquifers.txt:cereal.txt:0.00202748
+Aquifers.txt:Antibiotic Resistance.txt:0.00427579
+Aquifers.txt:Neolithic Revolution.txt:0.00238865
+Aquifers.txt:Vegetables.txt:0.00278891
+Aquifers.txt:goats.txt:0.00559058
+Aquifers.txt:pastoral farming.txt:0.00340909
+Aquifers.txt:livestock.txt:0.00281407
+Aquifers.txt:Agronomy.txt:0.00113604
+Aquifers.txt:FarmVille.txt:0.00198194
+Aquifers.txt:Soil salinity.txt:0.00449141
+Aquifers.txt:Environmental impact of agriculture.txt:0.00463589
+Aquifers.txt:Hunter-gatherer.txt:0.00209864
+Aquifers.txt:Genetically Modified Food.txt:0.00271584
+Aquifers.txt:Animal Husbandry.txt:0.00390371
+Aquifers.txt:Ox.txt:0.00219888
+Aquifers.txt:Cattle Station.txt:0.00128238
+Aquifers.txt:Agriculture.txt:0.00501022
+Aquifers.txt:Mixed farming.txt:0.00000000
+Aquifers.txt:Meat industry.txt:0.00112994
+Aquifers.txt:Plant Breeding.txt:0.00387764
+Aquifers.txt:Global Warming.txt:0.00388060
+Aquifers.txt:Texas A&M University.txt:0.00234551
+Aquifers.txt:Ecosystem services.txt:0.00400089
+Aquifers.txt:Fuel.txt:0.00558347
+Aquifers.txt:Plants.txt:0.00416074
+Aquifers.txt:Subsistence agriculture.txt:0.00216398
+Aquifers.txt:Genetically Modified Organism.txt:0.00299043
+Aquifers.txt:Savannas.txt:0.00382987
+Aquifers.txt:reindeers.txt:0.00447728
+Aquifers.txt:camels.txt:0.00415916
+Aquifers.txt:sheep.txt:0.00324120
+Aquifers.txt:yaks.txt:0.00158658
+Aquifers.txt:Family farm.txt:0.00342466
+Aquifers.txt:Deforestation.txt:0.00438789
+Aquifers.txt:Sheep station.txt:0.00113960
+Aquifers.txt:pasture.txt:0.00030912
+Aquifers.txt:Oils.txt:0.00358056
+Aquifers.txt:Pastoralism.txt:0.00205002
+Aquifers.txt:Bovine.txt:0.00089366
+Aquifers.txt:Meat.txt:0.00407830
+Aquifers.txt:fungi.txt:0.00300842
+Genetic Engineering.txt:Vegetables.txt:0.00463619
+Genetic Engineering.txt:pastoral farming.txt:0.00170490
+Genetic Engineering.txt:livestock.txt:0.00242165
+Genetic Engineering.txt:Agrochemicals.txt:0.00189861
+Genetic Engineering.txt:Agronomy.txt:0.00233813
+Genetic Engineering.txt:FarmVille.txt:0.00349810
+Genetic Engineering.txt:llamas.txt:0.00321927
+Genetic Engineering.txt:Soil salinity.txt:0.00205550
+Genetic Engineering.txt:Sustainable agriculture.txt:0.00594279
+Genetic Engineering.txt:Selective Breeding.txt:0.00395307
+Genetic Engineering.txt:Environmental impact of agriculture.txt:0.00568812
+Genetic Engineering.txt:Genetically Modified Food.txt:0.02545825
+Genetic Engineering.txt:Animal Husbandry.txt:0.00452721
+Genetic Engineering.txt:Growth Hormone.txt:0.00577490
+Genetic Engineering.txt:Cattle Station.txt:0.00202020
+Genetic Engineering.txt:Mixed farming.txt:0.00059289
+Genetic Engineering.txt:Meat industry.txt:0.00161204
+Genetic Engineering.txt:Milk.txt:0.00590499
+Genetic Engineering.txt:Plant Breeding.txt:0.00769317
+Genetic Engineering.txt:Global Warming.txt:0.00405361
+Genetic Engineering.txt:Cereal crops.txt:0.00246914
+Genetic Engineering.txt:Texas A&M University.txt:0.00312548
+Genetic Engineering.txt:Ecosystem services.txt:0.00507890
+Genetic Engineering.txt:Plants.txt:0.00429684
+Genetic Engineering.txt:Subsistence agriculture.txt:0.00177276
+Genetic Engineering.txt:Ranches.txt:0.00314061
+Genetic Engineering.txt:Genetically Modified Organism.txt:0.07302273
+Genetic Engineering.txt:Savannas.txt:0.00342661
+Genetic Engineering.txt:reindeers.txt:0.00381877
+Genetic Engineering.txt:Environmental impact of pesticides.txt:0.00474215
+Genetic Engineering.txt:camels.txt:0.00378133
+Genetic Engineering.txt:Family farm.txt:0.00319671
+Genetic Engineering.txt:Eggs.txt:0.00037334
+Genetic Engineering.txt:plough.txt:0.00427972
+Genetic Engineering.txt:Deforestation.txt:0.00424233
+Genetic Engineering.txt:Sheep station.txt:0.00089977
+Genetic Engineering.txt:pasture.txt:0.00056807
+Genetic Engineering.txt:Oils.txt:0.00201342
+Genetic Engineering.txt:Bovine.txt:0.00055504
+Genetic Engineering.txt:Animal Welfare.txt:0.00353464
+Genetic Engineering.txt:Environmental impacts of irrigation.txt:0.00341297
+Genetic Engineering.txt:History of agriculture.txt:0.00438076
+Genetic Engineering.txt:Aquifers.txt:0.00361944
+Genetic Engineering.txt:tractors.txt:0.00476695
+Genetic Engineering.txt:Fruits.txt:0.00307898
+Genetic Engineering.txt:Fertilizer.txt:0.00493523
+Genetic Engineering.txt:cereal.txt:0.00246914
+Genetic Engineering.txt:Antibiotic Resistance.txt:0.00659747
+Genetic Engineering.txt:Neolithic Revolution.txt:0.00316836
+Genetic Engineering.txt:goats.txt:0.00487992
+Genetic Engineering.txt:Hunter-gatherer.txt:0.00283651
+Genetic Engineering.txt:Ox.txt:0.00260841
+Genetic Engineering.txt:Agriculture.txt:0.00516249
+Genetic Engineering.txt:Fuel.txt:0.00512613
+Genetic Engineering.txt:sheep.txt:0.00525834
+Genetic Engineering.txt:yaks.txt:0.00216953
+Genetic Engineering.txt:Pastoralism.txt:0.00361742
+Genetic Engineering.txt:Pesticides.txt:0.00665121
+Genetic Engineering.txt:Meat.txt:0.00422083
+Genetic Engineering.txt:fungi.txt:0.00483481
+Genetic Engineering.txt:horses.txt:0.00596172
+Genetic Engineering.txt:Animal.txt:0.00343114
+Genetic Engineering.txt:cattle.txt:0.00550320
+Eggs.txt:Cattle Station.txt:0.00066756
+Eggs.txt:Mixed farming.txt:0.00164204
+Eggs.txt:Meat industry.txt:0.00000000
+Eggs.txt:Plant Breeding.txt:0.00043640
+Eggs.txt:Global Warming.txt:0.00013016
+Eggs.txt:Fruits.txt:0.00065833
+Eggs.txt:Texas A&M University.txt:0.00000000
+Eggs.txt:Hunter-gatherer.txt:0.00060187
+Eggs.txt:Ecosystem services.txt:0.00030180
+Eggs.txt:plough.txt:0.00037589
+Eggs.txt:Plants.txt:0.00014782
+Eggs.txt:fungi.txt:0.00032394
+Eggs.txt:Subsistence agriculture.txt:0.00056754
+Eggs.txt:goats.txt:0.00000000
+Eggs.txt:Genetically Modified Organism.txt:0.00000000
+Eggs.txt:Ox.txt:0.00117994
+Eggs.txt:Savannas.txt:0.00000000
+Eggs.txt:Environmental impact of pesticides.txt:0.00000000
+Eggs.txt:reindeers.txt:0.00036193
+Eggs.txt:Animal Welfare.txt:0.00036483
+Eggs.txt:Environmental impacts of irrigation.txt:0.00000000
+Eggs.txt:yaks.txt:0.00099404
+Eggs.txt:camels.txt:0.00062048
+Eggs.txt:History of agriculture.txt:0.00030534
+Eggs.txt:Family farm.txt:0.00023079
+Eggs.txt:Fuel.txt:0.00033367
+Eggs.txt:tractors.txt:0.00022665
+Eggs.txt:Deforestation.txt:0.00011063
+Eggs.txt:Fertilizer.txt:0.00018797
+Eggs.txt:Sheep station.txt:0.00000000
+Eggs.txt:Antibiotic Resistance.txt:0.00028620
+Eggs.txt:pasture.txt:0.00241255
+Eggs.txt:Sustainable agriculture.txt:0.00054240
+Eggs.txt:Oils.txt:0.00065876
+Eggs.txt:Selective Breeding.txt:0.00029248
+Eggs.txt:Bovine.txt:0.00000000
+Eggs.txt:Neolithic Revolution.txt:0.00042310
+Eggs.txt:Agrochemicals.txt:0.00000000
+Eggs.txt:Aquifers.txt:0.00030211
+Eggs.txt:Genetic Engineering.txt:0.00037334
+Eggs.txt:llamas.txt:0.00050518
+Eggs.txt:Pesticides.txt:0.00000000
+Eggs.txt:horses.txt:0.00035851
+Eggs.txt:Animal.txt:0.00049677
+Eggs.txt:cattle.txt:0.00029525
+Eggs.txt:Vegetables.txt:0.00089686
+Eggs.txt:pastoral farming.txt:0.00099602
+Eggs.txt:livestock.txt:0.00038715
+Eggs.txt:Agronomy.txt:0.00089366
+Eggs.txt:FarmVille.txt:0.00000000
+Eggs.txt:Cereal crops.txt:0.00097991
+Eggs.txt:Soil salinity.txt:0.00071633
+Eggs.txt:Agriculture.txt:0.00013472
+Eggs.txt:Environmental impact of agriculture.txt:0.00035778
+Eggs.txt:Genetically Modified Food.txt:0.00065118
+Eggs.txt:Animal Husbandry.txt:0.00000000
+Eggs.txt:sheep.txt:0.00034345
+Eggs.txt:Pastoralism.txt:0.00000000
+Eggs.txt:Meat.txt:0.00000000
+Eggs.txt:cereal.txt:0.00097991
+Eggs.txt:Growth Hormone.txt:0.00073565
+Eggs.txt:Milk.txt:0.00046716
+Eggs.txt:Ranches.txt:0.00000000
+Global Warming.txt:Eggs.txt:0.00013016
+Global Warming.txt:FarmVille.txt:0.00078511
+Global Warming.txt:yaks.txt:0.00193732
+Global Warming.txt:Pesticides.txt:0.00662143
+Global Warming.txt:Plant Breeding.txt:0.00450849
+Global Warming.txt:Environmental impact of agriculture.txt:0.00683563
+Global Warming.txt:Genetic Engineering.txt:0.00405361
+Global Warming.txt:Pastoralism.txt:0.00390244
+Global Warming.txt:History of agriculture.txt:0.00308526
+Global Warming.txt:Meat.txt:0.00587070
+Global Warming.txt:fungi.txt:0.00406835
+Global Warming.txt:Agronomy.txt:0.00139470
+Global Warming.txt:Agrochemicals.txt:0.00092166
+Global Warming.txt:llamas.txt:0.00383249
+Global Warming.txt:Texas A&M University.txt:0.00271985
+Global Warming.txt:Sustainable agriculture.txt:0.00547162
+Global Warming.txt:Selective Breeding.txt:0.00304908
+Global Warming.txt:cattle.txt:0.00528096
+Global Warming.txt:Ecosystem services.txt:0.00502249
+Global Warming.txt:Plants.txt:0.00497143
+Global Warming.txt:Subsistence agriculture.txt:0.00117220
+Global Warming.txt:Growth Hormone.txt:0.00416127
+Global Warming.txt:Soil salinity.txt:0.00097955
+Global Warming.txt:Genetically Modified Organism.txt:0.00377655
+Global Warming.txt:Savannas.txt:0.00321785
+Global Warming.txt:reindeers.txt:0.00501550
+Global Warming.txt:Milk.txt:0.00482703
+Global Warming.txt:camels.txt:0.00284900
+Global Warming.txt:Family farm.txt:0.00352208
+Global Warming.txt:Cereal crops.txt:0.00227247
+Global Warming.txt:Genetically Modified Food.txt:0.00308289
+Global Warming.txt:Deforestation.txt:0.00854374
+Global Warming.txt:Fuel.txt:0.00441796
+Global Warming.txt:Sheep station.txt:0.00114242
+Global Warming.txt:pasture.txt:0.00052597
+Global Warming.txt:Oils.txt:0.00120671
+Global Warming.txt:Ranches.txt:0.00278790
+Global Warming.txt:Bovine.txt:0.00038810
+Global Warming.txt:Environmental impact of pesticides.txt:0.00399740
+Global Warming.txt:horses.txt:0.00450898
+Global Warming.txt:pastoral farming.txt:0.00182399
+Global Warming.txt:plough.txt:0.00373972
+Global Warming.txt:sheep.txt:0.00414186
+Global Warming.txt:Animal Welfare.txt:0.00368339
+Global Warming.txt:Environmental impacts of irrigation.txt:0.00259067
+Global Warming.txt:Mixed farming.txt:0.00027078
+Global Warming.txt:Vegetables.txt:0.00277283
+Global Warming.txt:Animal Husbandry.txt:0.00356995
+Global Warming.txt:tractors.txt:0.00360175
+Global Warming.txt:Aquifers.txt:0.00388060
+Global Warming.txt:Fruits.txt:0.00234814
+Global Warming.txt:Fertilizer.txt:0.00707508
+Global Warming.txt:cereal.txt:0.00227247
+Global Warming.txt:Antibiotic Resistance.txt:0.00533041
+Global Warming.txt:Neolithic Revolution.txt:0.00348827
+Global Warming.txt:goats.txt:0.00422767
+Global Warming.txt:Hunter-gatherer.txt:0.00317744
+Global Warming.txt:livestock.txt:0.00235546
+Global Warming.txt:Meat industry.txt:0.00126470
+Global Warming.txt:Ox.txt:0.00106308
+Global Warming.txt:Animal.txt:0.00269092
+Global Warming.txt:Agriculture.txt:0.00902309
+Global Warming.txt:Cattle Station.txt:0.00157309
+Genetically Modified Organism.txt:Cereal crops.txt:0.00338362
+Genetically Modified Organism.txt:Ox.txt:0.00207193
+Genetically Modified Organism.txt:Animal.txt:0.00352811
+Genetically Modified Organism.txt:Subsistence agriculture.txt:0.00234570
+Genetically Modified Organism.txt:Ranches.txt:0.00235911
+Genetically Modified Organism.txt:Eggs.txt:0.00000000
+Genetically Modified Organism.txt:FarmVille.txt:0.00194310
+Genetically Modified Organism.txt:Savannas.txt:0.00301600
+Genetically Modified Organism.txt:reindeers.txt:0.00329663
+Genetically Modified Organism.txt:camels.txt:0.00384849
+Genetically Modified Organism.txt:yaks.txt:0.00282965
+Genetically Modified Organism.txt:Pesticides.txt:0.00683242
+Genetically Modified Organism.txt:Plant Breeding.txt:0.00708998
+Genetically Modified Organism.txt:Family farm.txt:0.00352000
+Genetically Modified Organism.txt:Deforestation.txt:0.00469818
+Genetically Modified Organism.txt:Sheep station.txt:0.00129555
+Genetically Modified Organism.txt:Environmental impact of agriculture.txt:0.00472361
+Genetically Modified Organism.txt:pasture.txt:0.00016938
+Genetically Modified Organism.txt:Fuel.txt:0.00472990
+Genetically Modified Organism.txt:Pastoralism.txt:0.00278662
+Genetically Modified Organism.txt:History of agriculture.txt:0.00379900
+Genetically Modified Organism.txt:Genetic Engineering.txt:0.07302273
+Genetically Modified Organism.txt:Oils.txt:0.00167122
+Genetically Modified Organism.txt:Meat.txt:0.00513932
+Genetically Modified Organism.txt:fungi.txt:0.00561089
+Genetically Modified Organism.txt:Bovine.txt:0.00149502
+Genetically Modified Organism.txt:Agronomy.txt:0.00258983
+Genetically Modified Organism.txt:Agrochemicals.txt:0.00169837
+Genetically Modified Organism.txt:llamas.txt:0.00266341
+Genetically Modified Organism.txt:Global Warming.txt:0.00377655
+Genetically Modified Organism.txt:Sustainable agriculture.txt:0.00540233
+Genetically Modified Organism.txt:Selective Breeding.txt:0.00307038
+Genetically Modified Organism.txt:cattle.txt:0.00620708
+Genetically Modified Organism.txt:Growth Hormone.txt:0.00560193
+Genetically Modified Organism.txt:Soil salinity.txt:0.00170279
+Genetically Modified Organism.txt:Milk.txt:0.00464702
+Genetically Modified Organism.txt:Genetically Modified Food.txt:0.03994845
+Genetically Modified Organism.txt:Agriculture.txt:0.00563244
+Genetically Modified Organism.txt:Cattle Station.txt:0.00167632
+Genetically Modified Organism.txt:Texas A&M University.txt:0.00240052
+Genetically Modified Organism.txt:Environmental impact of pesticides.txt:0.00541616
+Genetically Modified Organism.txt:horses.txt:0.00470782
+Genetically Modified Organism.txt:pastoral farming.txt:0.00283126
+Genetically Modified Organism.txt:plough.txt:0.00338097
+Genetically Modified Organism.txt:sheep.txt:0.00494761
+Genetically Modified Organism.txt:Environmental impacts of irrigation.txt:0.00302001
+Genetically Modified Organism.txt:Animal Welfare.txt:0.00456708
+Genetically Modified Organism.txt:Ecosystem services.txt:0.00480811
+Genetically Modified Organism.txt:Mixed farming.txt:0.00052808
+Genetically Modified Organism.txt:Vegetables.txt:0.00489202
+Genetically Modified Organism.txt:Animal Husbandry.txt:0.00513019
+Genetically Modified Organism.txt:Fruits.txt:0.00172840
+Genetically Modified Organism.txt:tractors.txt:0.00557043
+Genetically Modified Organism.txt:Aquifers.txt:0.00299043
+Genetically Modified Organism.txt:Fertilizer.txt:0.00395982
+Genetically Modified Organism.txt:cereal.txt:0.00338362
+Genetically Modified Organism.txt:Antibiotic Resistance.txt:0.00600400
+Genetically Modified Organism.txt:Neolithic Revolution.txt:0.00440574
+Genetically Modified Organism.txt:Plants.txt:0.00449648
+Genetically Modified Organism.txt:goats.txt:0.00569620
+Genetically Modified Organism.txt:Hunter-gatherer.txt:0.00322504
+Genetically Modified Organism.txt:livestock.txt:0.00261849
+Genetically Modified Organism.txt:Meat industry.txt:0.00145068
+Savannas.txt:Cereal crops.txt:0.00215983
+Savannas.txt:Ox.txt:0.00089206
+Savannas.txt:Animal.txt:0.00211082
+Savannas.txt:Subsistence agriculture.txt:0.00262927
+Savannas.txt:Ranches.txt:0.00497395
+Savannas.txt:Eggs.txt:0.00000000
+Savannas.txt:FarmVille.txt:0.00104987
+Savannas.txt:Genetically Modified Organism.txt:0.00301600
+Savannas.txt:yaks.txt:0.00244965
+Savannas.txt:Pesticides.txt:0.00334215
+Savannas.txt:Plant Breeding.txt:0.00353017
+Savannas.txt:Environmental impact of agriculture.txt:0.00631057
+Savannas.txt:Pastoralism.txt:0.00338328
+Savannas.txt:Genetic Engineering.txt:0.00342661
+Savannas.txt:History of agriculture.txt:0.00341755
+Savannas.txt:reindeers.txt:0.00299519
+Savannas.txt:Meat.txt:0.00396651
+Savannas.txt:fungi.txt:0.00256763
+Savannas.txt:camels.txt:0.00339244
+Savannas.txt:Family farm.txt:0.00283996
+Savannas.txt:Deforestation.txt:0.00525674
+Savannas.txt:Agronomy.txt:0.00323741
+Savannas.txt:Sheep station.txt:0.00144196
+Savannas.txt:pasture.txt:0.00040016
+Savannas.txt:Oils.txt:0.00157085
+Savannas.txt:Agrochemicals.txt:0.00080289
+Savannas.txt:Bovine.txt:0.00076278
+Savannas.txt:llamas.txt:0.00320741
+Savannas.txt:Global Warming.txt:0.00321785
+Savannas.txt:Sustainable agriculture.txt:0.00418235
+Savannas.txt:Selective Breeding.txt:0.00295625
+Savannas.txt:cattle.txt:0.00356204
+Savannas.txt:Growth Hormone.txt:0.00366556
+Savannas.txt:Soil salinity.txt:0.00163345
+Savannas.txt:Fuel.txt:0.00279330
+Savannas.txt:Milk.txt:0.00348630
+Savannas.txt:Genetically Modified Food.txt:0.00255469
+Savannas.txt:Agriculture.txt:0.00353162
+Savannas.txt:Cattle Station.txt:0.00126422
+Savannas.txt:Texas A&M University.txt:0.00164124
+Savannas.txt:Environmental impact of pesticides.txt:0.00317292
+Savannas.txt:horses.txt:0.00309721
+Savannas.txt:plough.txt:0.00353467
+Savannas.txt:pastoral farming.txt:0.00217924
+Savannas.txt:livestock.txt:0.00401322
+Savannas.txt:sheep.txt:0.00337447
+Savannas.txt:Environmental impacts of irrigation.txt:0.00462046
+Savannas.txt:Animal Welfare.txt:0.00238229
+Savannas.txt:Ecosystem services.txt:0.00265829
+Savannas.txt:Mixed farming.txt:0.00087835
+Savannas.txt:Vegetables.txt:0.00340000
+Savannas.txt:Animal Husbandry.txt:0.00388377
+Savannas.txt:Fruits.txt:0.00191489
+Savannas.txt:tractors.txt:0.00152686
+Savannas.txt:Aquifers.txt:0.00382987
+Savannas.txt:Fertilizer.txt:0.00272558
+Savannas.txt:cereal.txt:0.00215983
+Savannas.txt:Antibiotic Resistance.txt:0.00336037
+Savannas.txt:Neolithic Revolution.txt:0.00345044
+Savannas.txt:Plants.txt:0.00309193
+Savannas.txt:Meat industry.txt:0.00142653
+Savannas.txt:goats.txt:0.00194729
+Savannas.txt:Hunter-gatherer.txt:0.00503119
+Fuel.txt:Cereal crops.txt:0.00339723
+Fuel.txt:pastoral farming.txt:0.00146484
+Fuel.txt:Ecosystem services.txt:0.00472350
+Fuel.txt:Environmental impacts of irrigation.txt:0.00301568
+Fuel.txt:livestock.txt:0.00451128
+Fuel.txt:Agronomy.txt:0.00124688
+Fuel.txt:Plants.txt:0.00419454
+Fuel.txt:Subsistence agriculture.txt:0.00286160
+Fuel.txt:Growth Hormone.txt:0.00357665
+Fuel.txt:FarmVille.txt:0.00284024
+Fuel.txt:Soil salinity.txt:0.00201034
+Fuel.txt:Eggs.txt:0.00033367
+Fuel.txt:Environmental impact of agriculture.txt:0.00452117
+Fuel.txt:Fruits.txt:0.00410878
+Fuel.txt:Genetically Modified Food.txt:0.00509898
+Fuel.txt:Genetically Modified Organism.txt:0.00472990
+Fuel.txt:Hunter-gatherer.txt:0.00259115
+Fuel.txt:Animal Welfare.txt:0.00331082
+Fuel.txt:Animal Husbandry.txt:0.00406945
+Fuel.txt:plough.txt:0.00438596
+Fuel.txt:Savannas.txt:0.00279330
+Fuel.txt:Ranches.txt:0.00279390
+Fuel.txt:Cattle Station.txt:0.00139431
+Fuel.txt:llamas.txt:0.00298260
+Fuel.txt:Mixed farming.txt:0.00074074
+Fuel.txt:fungi.txt:0.00442243
+Fuel.txt:Meat industry.txt:0.00092937
+Fuel.txt:sheep.txt:0.00398628
+Fuel.txt:Milk.txt:0.00400031
+Fuel.txt:goats.txt:0.00444170
+Fuel.txt:Plant Breeding.txt:0.00526950
+Fuel.txt:Pastoralism.txt:0.00219058
+Fuel.txt:Ox.txt:0.00317712
+Fuel.txt:Global Warming.txt:0.00441796
+Fuel.txt:Agriculture.txt:0.00400928
+Fuel.txt:Environmental impact of pesticides.txt:0.00278826
+Fuel.txt:Texas A&M University.txt:0.00166976
+Fuel.txt:Meat.txt:0.00357857
+Fuel.txt:yaks.txt:0.00195217
+Fuel.txt:reindeers.txt:0.00251620
+Fuel.txt:History of agriculture.txt:0.00266790
+Fuel.txt:camels.txt:0.00405680
+Fuel.txt:tractors.txt:0.00358489
+Fuel.txt:Family farm.txt:0.00280899
+Fuel.txt:Fertilizer.txt:0.00501627
+Fuel.txt:Deforestation.txt:0.00396825
+Fuel.txt:Sheep station.txt:0.00062520
+Fuel.txt:Antibiotic Resistance.txt:0.00298178
+Fuel.txt:pasture.txt:0.00068470
+Fuel.txt:Sustainable agriculture.txt:0.00474308
+Fuel.txt:Selective Breeding.txt:0.00272876
+Fuel.txt:Oils.txt:0.00389213
+Fuel.txt:Neolithic Revolution.txt:0.00249853
+Fuel.txt:Bovine.txt:0.00065681
+Fuel.txt:Agrochemicals.txt:0.00240633
+Fuel.txt:Aquifers.txt:0.00558347
+Fuel.txt:Genetic Engineering.txt:0.00512613
+Fuel.txt:Pesticides.txt:0.00540398
+Fuel.txt:horses.txt:0.00451229
+Fuel.txt:cereal.txt:0.00339723
+Fuel.txt:Animal.txt:0.00360774
+Fuel.txt:cattle.txt:0.00566177
+Fuel.txt:Vegetables.txt:0.00350489
+fungi.txt:cattle.txt:0.00657573
+fungi.txt:Vegetables.txt:0.00325677
+fungi.txt:pastoral farming.txt:0.00173913
+fungi.txt:livestock.txt:0.00293309
+fungi.txt:Ranches.txt:0.00220022
+fungi.txt:Agronomy.txt:0.00147929
+fungi.txt:FarmVille.txt:0.00095302
+fungi.txt:Soil salinity.txt:0.00051282
+fungi.txt:Environmental impact of agriculture.txt:0.00305755
+fungi.txt:Genetically Modified Food.txt:0.00394829
+fungi.txt:Eggs.txt:0.00032394
+fungi.txt:plough.txt:0.00516669
+fungi.txt:Animal Husbandry.txt:0.00544358
+fungi.txt:Cattle Station.txt:0.00111720
+fungi.txt:Mixed farming.txt:0.00044623
+fungi.txt:Meat industry.txt:0.00073762
+fungi.txt:Plant Breeding.txt:0.00575025
+fungi.txt:Global Warming.txt:0.00406835
+fungi.txt:Texas A&M University.txt:0.00217302
+fungi.txt:Animal Welfare.txt:0.00268019
+fungi.txt:Environmental impacts of irrigation.txt:0.00186933
+fungi.txt:Ecosystem services.txt:0.00469263
+fungi.txt:Plants.txt:0.00994992
+fungi.txt:Subsistence agriculture.txt:0.00188082
+fungi.txt:Genetically Modified Organism.txt:0.00561089
+fungi.txt:Savannas.txt:0.00256763
+fungi.txt:reindeers.txt:0.00486542
+fungi.txt:Fruits.txt:0.00378688
+fungi.txt:camels.txt:0.00380344
+fungi.txt:Family farm.txt:0.00403449
+fungi.txt:Deforestation.txt:0.00421356
+fungi.txt:Fuel.txt:0.00442243
+fungi.txt:Sheep station.txt:0.00042270
+fungi.txt:pasture.txt:0.00043549
+fungi.txt:llamas.txt:0.00489436
+fungi.txt:Oils.txt:0.00314849
+fungi.txt:Bovine.txt:0.00075220
+fungi.txt:Cereal crops.txt:0.00202312
+fungi.txt:Agriculture.txt:0.00528696
+fungi.txt:sheep.txt:0.00570622
+fungi.txt:Pastoralism.txt:0.00203346
+fungi.txt:Meat.txt:0.00464140
+fungi.txt:goats.txt:0.00635652
+fungi.txt:Ox.txt:0.00229266
+fungi.txt:Environmental impact of pesticides.txt:0.00421804
+fungi.txt:yaks.txt:0.00222244
+fungi.txt:History of agriculture.txt:0.00424328
+fungi.txt:tractors.txt:0.00450108
+fungi.txt:Fertilizer.txt:0.00529139
+fungi.txt:Antibiotic Resistance.txt:0.00589855
+fungi.txt:cereal.txt:0.00202312
+fungi.txt:Sustainable agriculture.txt:0.00441038
+fungi.txt:Selective Breeding.txt:0.00306592
+fungi.txt:Neolithic Revolution.txt:0.00437452
+fungi.txt:Agrochemicals.txt:0.00065388
+fungi.txt:Growth Hormone.txt:0.00484692
+fungi.txt:Aquifers.txt:0.00300842
+fungi.txt:Genetic Engineering.txt:0.00483481
+fungi.txt:Pesticides.txt:0.00564563
+fungi.txt:Milk.txt:0.00511361
+fungi.txt:Hunter-gatherer.txt:0.00309092
+fungi.txt:horses.txt:0.00649780
+fungi.txt:Animal.txt:0.00421599
+Mixed farming.txt:Eggs.txt:0.00164204
+Mixed farming.txt:FarmVille.txt:0.00000000
+Mixed farming.txt:yaks.txt:0.00116550
+Mixed farming.txt:Pesticides.txt:0.00057285
+Mixed farming.txt:Environmental impact of agriculture.txt:0.00160256
+Mixed farming.txt:Pastoralism.txt:0.00137363
+Mixed farming.txt:History of agriculture.txt:0.00063980
+Mixed farming.txt:Genetic Engineering.txt:0.00059289
+Mixed farming.txt:Meat.txt:0.00041993
+Mixed farming.txt:fungi.txt:0.00044623
+Mixed farming.txt:Agronomy.txt:0.00121507
+Mixed farming.txt:Agrochemicals.txt:0.00000000
+Mixed farming.txt:llamas.txt:0.00027293
+Mixed farming.txt:Sustainable agriculture.txt:0.00057307
+Mixed farming.txt:Selective Breeding.txt:0.00000000
+Mixed farming.txt:cattle.txt:0.00030411
+Mixed farming.txt:Fuel.txt:0.00074074
+Mixed farming.txt:Growth Hormone.txt:0.00079323
+Mixed farming.txt:Soil salinity.txt:0.00090909
+Mixed farming.txt:Milk.txt:0.00048045
+Mixed farming.txt:Cereal crops.txt:0.00057274
+Mixed farming.txt:Genetically Modified Food.txt:0.00046382
+Mixed farming.txt:Ranches.txt:0.00175901
+Mixed farming.txt:horses.txt:0.00061958
+Mixed farming.txt:Environmental impact of pesticides.txt:0.00026846
+Mixed farming.txt:plough.txt:0.00078105
+Mixed farming.txt:pastoral farming.txt:0.00116822
+Mixed farming.txt:sheep.txt:0.00035549
+Mixed farming.txt:Animal Welfare.txt:0.00019279
+Mixed farming.txt:Environmental impacts of irrigation.txt:0.00076953
+Mixed farming.txt:Meat industry.txt:0.00357143
+Mixed farming.txt:Vegetables.txt:0.00032776
+Mixed farming.txt:Animal Husbandry.txt:0.00139804
+Mixed farming.txt:Plant Breeding.txt:0.00069995
+Mixed farming.txt:Global Warming.txt:0.00027078
+Mixed farming.txt:Texas A&M University.txt:0.00023787
+Mixed farming.txt:Fruits.txt:0.00182548
+Mixed farming.txt:tractors.txt:0.00046915
+Mixed farming.txt:Aquifers.txt:0.00000000
+Mixed farming.txt:Ecosystem services.txt:0.00031591
+Mixed farming.txt:Plants.txt:0.00046389
+Mixed farming.txt:Subsistence agriculture.txt:0.00204918
+Mixed farming.txt:Fertilizer.txt:0.00039817
+Mixed farming.txt:Genetically Modified Organism.txt:0.00052808
+Mixed farming.txt:Savannas.txt:0.00087835
+Mixed farming.txt:cereal.txt:0.00057274
+Mixed farming.txt:Antibiotic Resistance.txt:0.00029886
+Mixed farming.txt:Neolithic Revolution.txt:0.00022563
+Mixed farming.txt:reindeers.txt:0.00018591
+Mixed farming.txt:goats.txt:0.00069577
+Mixed farming.txt:camels.txt:0.00022022
+Mixed farming.txt:Family farm.txt:0.00049554
+Mixed farming.txt:Deforestation.txt:0.00022878
+Mixed farming.txt:Sheep station.txt:0.00246609
+Mixed farming.txt:pasture.txt:0.00000000
+Mixed farming.txt:Oils.txt:0.00000000
+Mixed farming.txt:Hunter-gatherer.txt:0.00066072
+Mixed farming.txt:livestock.txt:0.00087489
+Mixed farming.txt:Bovine.txt:0.00000000
+Mixed farming.txt:Animal.txt:0.00053619
+Mixed farming.txt:Ox.txt:0.00000000
+Mixed farming.txt:Agriculture.txt:0.00070195
+Mixed farming.txt:Cattle Station.txt:0.00000000
+Fruits.txt:Ranches.txt:0.00170213
+Fruits.txt:Eggs.txt:0.00065833
+Fruits.txt:Animal Welfare.txt:0.00157770
+Fruits.txt:Environmental impacts of irrigation.txt:0.00139331
+Fruits.txt:Fuel.txt:0.00410878
+Fruits.txt:Hunter-gatherer.txt:0.00183520
+Fruits.txt:plough.txt:0.00386943
+Fruits.txt:fungi.txt:0.00378688
+Fruits.txt:goats.txt:0.00404908
+Fruits.txt:Ox.txt:0.00261712
+Fruits.txt:llamas.txt:0.00296199
+Fruits.txt:Environmental impact of pesticides.txt:0.00211623
+Fruits.txt:yaks.txt:0.00193237
+Fruits.txt:History of agriculture.txt:0.00161439
+Fruits.txt:tractors.txt:0.00302004
+Fruits.txt:Fertilizer.txt:0.00404040
+Fruits.txt:Antibiotic Resistance.txt:0.00296801
+Fruits.txt:Sustainable agriculture.txt:0.00261506
+Fruits.txt:Selective Breeding.txt:0.00270807
+Fruits.txt:Neolithic Revolution.txt:0.00219042
+Fruits.txt:Cereal crops.txt:0.00312200
+Fruits.txt:Agrochemicals.txt:0.00067659
+Fruits.txt:Agriculture.txt:0.00367531
+Fruits.txt:Aquifers.txt:0.00479793
+Fruits.txt:Genetic Engineering.txt:0.00307898
+Fruits.txt:Pesticides.txt:0.00327011
+Fruits.txt:horses.txt:0.00372635
+Fruits.txt:Animal.txt:0.00292969
+Fruits.txt:cattle.txt:0.00383642
+Fruits.txt:Vegetables.txt:0.00458127
+Fruits.txt:pastoral farming.txt:0.00120802
+Fruits.txt:livestock.txt:0.00233694
+Fruits.txt:Agronomy.txt:0.00092279
+Fruits.txt:FarmVille.txt:0.00163858
+Fruits.txt:Soil salinity.txt:0.00085034
+Fruits.txt:sheep.txt:0.00193531
+Fruits.txt:Environmental impact of agriculture.txt:0.00223623
+Fruits.txt:Genetically Modified Food.txt:0.00252713
+Fruits.txt:Animal Husbandry.txt:0.00296416
+Fruits.txt:Cattle Station.txt:0.00055081
+Fruits.txt:Mixed farming.txt:0.00182548
+Fruits.txt:Pastoralism.txt:0.00086711
+Fruits.txt:Meat industry.txt:0.00091743
+Fruits.txt:Meat.txt:0.00440482
+Fruits.txt:Plant Breeding.txt:0.00403467
+Fruits.txt:Global Warming.txt:0.00234814
+Fruits.txt:Texas A&M University.txt:0.00110824
+Fruits.txt:Ecosystem services.txt:0.00320550
+Fruits.txt:Plants.txt:0.00530893
+Fruits.txt:Subsistence agriculture.txt:0.00205708
+Fruits.txt:Genetically Modified Organism.txt:0.00172840
+Fruits.txt:Savannas.txt:0.00191489
+Fruits.txt:cereal.txt:0.00312200
+Fruits.txt:reindeers.txt:0.00250817
+Fruits.txt:camels.txt:0.00258844
+Fruits.txt:Family farm.txt:0.00372439
+Fruits.txt:Deforestation.txt:0.00188290
+Fruits.txt:Growth Hormone.txt:0.00225770
+Fruits.txt:Sheep station.txt:0.00154416
+Fruits.txt:pasture.txt:0.00033738
+Fruits.txt:Oils.txt:0.00357143
+Fruits.txt:Milk.txt:0.00288950
+Fruits.txt:Bovine.txt:0.00064788
+FarmVille.txt:Cattle Station.txt:0.00073099
+FarmVille.txt:Mixed farming.txt:0.00000000
+FarmVille.txt:Meat industry.txt:0.00126316
+FarmVille.txt:Plant Breeding.txt:0.00154772
+FarmVille.txt:Global Warming.txt:0.00078511
+FarmVille.txt:Pastoralism.txt:0.00134517
+FarmVille.txt:History of agriculture.txt:0.00167138
+FarmVille.txt:Genetic Engineering.txt:0.00349810
+FarmVille.txt:Texas A&M University.txt:0.00080507
+FarmVille.txt:Meat.txt:0.00126860
+FarmVille.txt:fungi.txt:0.00095302
+FarmVille.txt:Ecosystem services.txt:0.00114518
+FarmVille.txt:Plants.txt:0.00212819
+FarmVille.txt:Subsistence agriculture.txt:0.00200267
+FarmVille.txt:Agronomy.txt:0.00084854
+FarmVille.txt:Genetically Modified Organism.txt:0.00194310
+FarmVille.txt:Fuel.txt:0.00284024
+FarmVille.txt:Savannas.txt:0.00104987
+FarmVille.txt:reindeers.txt:0.00113997
+FarmVille.txt:Agrochemicals.txt:0.00097040
+FarmVille.txt:camels.txt:0.00230909
+FarmVille.txt:Family farm.txt:0.00143756
+FarmVille.txt:llamas.txt:0.00115518
+FarmVille.txt:Deforestation.txt:0.00126632
+FarmVille.txt:Sustainable agriculture.txt:0.00118256
+FarmVille.txt:Selective Breeding.txt:0.00085929
+FarmVille.txt:cattle.txt:0.00149306
+FarmVille.txt:Sheep station.txt:0.00085251
+FarmVille.txt:pasture.txt:0.00000000
+FarmVille.txt:Oils.txt:0.00036271
+FarmVille.txt:Growth Hormone.txt:0.00112909
+FarmVille.txt:Bovine.txt:0.00136924
+FarmVille.txt:Milk.txt:0.00184486
+FarmVille.txt:Cereal crops.txt:0.00336289
+FarmVille.txt:Ranches.txt:0.00105014
+FarmVille.txt:Environmental impact of pesticides.txt:0.00171363
+FarmVille.txt:horses.txt:0.00125026
+FarmVille.txt:Eggs.txt:0.00000000
+FarmVille.txt:plough.txt:0.00152025
+FarmVille.txt:Soil salinity.txt:0.00000000
+FarmVille.txt:Environmental impact of agriculture.txt:0.00173784
+FarmVille.txt:Genetically Modified Food.txt:0.00119822
+FarmVille.txt:Animal Husbandry.txt:0.00214231
+FarmVille.txt:Pesticides.txt:0.00162626
+FarmVille.txt:Animal Welfare.txt:0.00104229
+FarmVille.txt:Environmental impacts of irrigation.txt:0.00193798
+FarmVille.txt:Vegetables.txt:0.00109123
+FarmVille.txt:Fruits.txt:0.00163858
+FarmVille.txt:tractors.txt:0.00129327
+FarmVille.txt:Aquifers.txt:0.00198194
+FarmVille.txt:Fertilizer.txt:0.00213871
+FarmVille.txt:Neolithic Revolution.txt:0.00117430
+FarmVille.txt:cereal.txt:0.00336289
+FarmVille.txt:Antibiotic Resistance.txt:0.00158228
+FarmVille.txt:goats.txt:0.00192466
+FarmVille.txt:Hunter-gatherer.txt:0.00153610
+FarmVille.txt:livestock.txt:0.00104739
+FarmVille.txt:Ox.txt:0.00068166
+FarmVille.txt:Animal.txt:0.00114047
+FarmVille.txt:Agriculture.txt:0.00127138
+FarmVille.txt:sheep.txt:0.00130470
+FarmVille.txt:pastoral farming.txt:0.00123267
+FarmVille.txt:yaks.txt:0.00061520
+Antibiotic Resistance.txt:Bovine.txt:0.00028421
+Antibiotic Resistance.txt:Growth Hormone.txt:0.00563910
+Antibiotic Resistance.txt:Oils.txt:0.00144889
+Antibiotic Resistance.txt:Milk.txt:0.00538858
+Antibiotic Resistance.txt:Cereal crops.txt:0.00283810
+Antibiotic Resistance.txt:Ranches.txt:0.00208333
+Antibiotic Resistance.txt:Environmental impact of pesticides.txt:0.00507210
+Antibiotic Resistance.txt:Eggs.txt:0.00028620
+Antibiotic Resistance.txt:plough.txt:0.00421158
+Antibiotic Resistance.txt:Animal Welfare.txt:0.00486449
+Antibiotic Resistance.txt:Environmental impacts of irrigation.txt:0.00413685
+Antibiotic Resistance.txt:History of agriculture.txt:0.00277756
+Antibiotic Resistance.txt:Fruits.txt:0.00296801
+Antibiotic Resistance.txt:tractors.txt:0.00404040
+Antibiotic Resistance.txt:llamas.txt:0.00369704
+Antibiotic Resistance.txt:goats.txt:0.00480331
+Antibiotic Resistance.txt:Selective Breeding.txt:0.00306069
+Antibiotic Resistance.txt:Neolithic Revolution.txt:0.00334045
+Antibiotic Resistance.txt:Agrochemicals.txt:0.00115942
+Antibiotic Resistance.txt:Aquifers.txt:0.00427579
+Antibiotic Resistance.txt:Genetic Engineering.txt:0.00659747
+Antibiotic Resistance.txt:Pesticides.txt:0.00850547
+Antibiotic Resistance.txt:Hunter-gatherer.txt:0.00213015
+Antibiotic Resistance.txt:horses.txt:0.00437743
+Antibiotic Resistance.txt:Animal.txt:0.00247844
+Antibiotic Resistance.txt:Ox.txt:0.00193150
+Antibiotic Resistance.txt:cattle.txt:0.00581899
+Antibiotic Resistance.txt:Agriculture.txt:0.00670741
+Antibiotic Resistance.txt:Vegetables.txt:0.00361779
+Antibiotic Resistance.txt:pastoral farming.txt:0.00136088
+Antibiotic Resistance.txt:Fuel.txt:0.00298178
+Antibiotic Resistance.txt:livestock.txt:0.00277649
+Antibiotic Resistance.txt:Agronomy.txt:0.00194715
+Antibiotic Resistance.txt:FarmVille.txt:0.00158228
+Antibiotic Resistance.txt:Soil salinity.txt:0.00160664
+Antibiotic Resistance.txt:Environmental impact of agriculture.txt:0.00600430
+Antibiotic Resistance.txt:Genetically Modified Food.txt:0.00611534
+Antibiotic Resistance.txt:Animal Husbandry.txt:0.00414206
+Antibiotic Resistance.txt:Cattle Station.txt:0.00052777
+Antibiotic Resistance.txt:Mixed farming.txt:0.00029886
+Antibiotic Resistance.txt:Meat industry.txt:0.00083137
+Antibiotic Resistance.txt:sheep.txt:0.00392847
+Antibiotic Resistance.txt:yaks.txt:0.00185575
+Antibiotic Resistance.txt:Plant Breeding.txt:0.00660440
+Antibiotic Resistance.txt:Global Warming.txt:0.00533041
+Antibiotic Resistance.txt:Texas A&M University.txt:0.00284784
+Antibiotic Resistance.txt:Ecosystem services.txt:0.00434508
+Antibiotic Resistance.txt:Plants.txt:0.00414160
+Antibiotic Resistance.txt:Pastoralism.txt:0.00280932
+Antibiotic Resistance.txt:Subsistence agriculture.txt:0.00140378
+Antibiotic Resistance.txt:Meat.txt:0.00617376
+Antibiotic Resistance.txt:fungi.txt:0.00589855
+Antibiotic Resistance.txt:Genetically Modified Organism.txt:0.00600400
+Antibiotic Resistance.txt:Savannas.txt:0.00336037
+Antibiotic Resistance.txt:reindeers.txt:0.00410076
+Antibiotic Resistance.txt:camels.txt:0.00339917
+Antibiotic Resistance.txt:Family farm.txt:0.00482253
+Antibiotic Resistance.txt:Deforestation.txt:0.00578573
+Antibiotic Resistance.txt:Fertilizer.txt:0.00635313
+Antibiotic Resistance.txt:Sheep station.txt:0.00097412
+Antibiotic Resistance.txt:pasture.txt:0.00043403
+Antibiotic Resistance.txt:cereal.txt:0.00283810
+Antibiotic Resistance.txt:Sustainable agriculture.txt:0.00562624
+Soil salinity.txt:Deforestation.txt:0.00210283
+Soil salinity.txt:yaks.txt:0.00119904
+Soil salinity.txt:Pesticides.txt:0.00249501
+Soil salinity.txt:Sheep station.txt:0.00187852
+Soil salinity.txt:pasture.txt:0.00075700
+Soil salinity.txt:Oils.txt:0.00049776
+Soil salinity.txt:Bovine.txt:0.00000000
+Soil salinity.txt:Pastoralism.txt:0.00100976
+Soil salinity.txt:History of agriculture.txt:0.00099488
+Soil salinity.txt:Genetic Engineering.txt:0.00205550
+Soil salinity.txt:Meat.txt:0.00075681
+Soil salinity.txt:fungi.txt:0.00051282
+Soil salinity.txt:Agronomy.txt:0.00248911
+Soil salinity.txt:Fuel.txt:0.00201034
+Soil salinity.txt:Agrochemicals.txt:0.00152323
+Soil salinity.txt:llamas.txt:0.00067431
+Soil salinity.txt:Sustainable agriculture.txt:0.00266267
+Soil salinity.txt:Selective Breeding.txt:0.00102380
+Soil salinity.txt:cattle.txt:0.00140977
+Soil salinity.txt:Growth Hormone.txt:0.00131406
+Soil salinity.txt:Environmental impact of agriculture.txt:0.00612182
+Soil salinity.txt:Genetically Modified Food.txt:0.00098116
+Soil salinity.txt:Animal Husbandry.txt:0.00086266
+Soil salinity.txt:Milk.txt:0.00080429
+Soil salinity.txt:Cattle Station.txt:0.00100604
+Soil salinity.txt:Mixed farming.txt:0.00090909
+Soil salinity.txt:Cereal crops.txt:0.00316706
+Soil salinity.txt:Meat industry.txt:0.00184388
+Soil salinity.txt:Plant Breeding.txt:0.00177620
+Soil salinity.txt:Global Warming.txt:0.00097955
+Soil salinity.txt:Texas A&M University.txt:0.00054395
+Soil salinity.txt:Ranches.txt:0.00097975
+Soil salinity.txt:Ecosystem services.txt:0.00182918
+Soil salinity.txt:Plants.txt:0.00124172
+Soil salinity.txt:Subsistence agriculture.txt:0.00311526
+Soil salinity.txt:Environmental impact of pesticides.txt:0.00110914
+Soil salinity.txt:horses.txt:0.00112969
+Soil salinity.txt:Genetically Modified Organism.txt:0.00170279
+Soil salinity.txt:Savannas.txt:0.00163345
+Soil salinity.txt:Eggs.txt:0.00071633
+Soil salinity.txt:plough.txt:0.00200993
+Soil salinity.txt:FarmVille.txt:0.00000000
+Soil salinity.txt:reindeers.txt:0.00086678
+Soil salinity.txt:camels.txt:0.00131530
+Soil salinity.txt:Family farm.txt:0.00062215
+Soil salinity.txt:sheep.txt:0.00108472
+Soil salinity.txt:Animal Welfare.txt:0.00117292
+Soil salinity.txt:Environmental impacts of irrigation.txt:0.00385185
+Soil salinity.txt:Vegetables.txt:0.00156535
+Soil salinity.txt:Fruits.txt:0.00085034
+Soil salinity.txt:tractors.txt:0.00096691
+Soil salinity.txt:Aquifers.txt:0.00449141
+Soil salinity.txt:Fertilizer.txt:0.00241463
+Soil salinity.txt:Neolithic Revolution.txt:0.00115075
+Soil salinity.txt:cereal.txt:0.00316706
+Soil salinity.txt:Antibiotic Resistance.txt:0.00160664
+Soil salinity.txt:goats.txt:0.00122474
+Soil salinity.txt:Hunter-gatherer.txt:0.00183775
+Soil salinity.txt:livestock.txt:0.00228162
+Soil salinity.txt:Ox.txt:0.00137300
+Soil salinity.txt:Animal.txt:0.00110767
+Soil salinity.txt:Agriculture.txt:0.00215244
+Soil salinity.txt:pastoral farming.txt:0.00040000
+Environmental impact of pesticides.txt:Milk.txt:0.00348432
+Environmental impact of pesticides.txt:Cereal crops.txt:0.00272109
+Environmental impact of pesticides.txt:Ranches.txt:0.00211342
+Environmental impact of pesticides.txt:yaks.txt:0.00234467
+Environmental impact of pesticides.txt:History of agriculture.txt:0.00280054
+Environmental impact of pesticides.txt:Eggs.txt:0.00000000
+Environmental impact of pesticides.txt:plough.txt:0.00407056
+Environmental impact of pesticides.txt:tractors.txt:0.00277101
+Environmental impact of pesticides.txt:Fertilizer.txt:0.00596161
+Environmental impact of pesticides.txt:Antibiotic Resistance.txt:0.00507210
+Environmental impact of pesticides.txt:Sustainable agriculture.txt:0.00464576
+Environmental impact of pesticides.txt:Selective Breeding.txt:0.00276158
+Environmental impact of pesticides.txt:Neolithic Revolution.txt:0.00294042
+Environmental impact of pesticides.txt:Agrochemicals.txt:0.00101626
+Environmental impact of pesticides.txt:Animal Welfare.txt:0.00209741
+Environmental impact of pesticides.txt:Environmental impacts of irrigation.txt:0.00316984
+Environmental impact of pesticides.txt:Aquifers.txt:0.00453267
+Environmental impact of pesticides.txt:Genetic Engineering.txt:0.00474215
+Environmental impact of pesticides.txt:Pesticides.txt:0.01430246
+Environmental impact of pesticides.txt:horses.txt:0.00244349
+Environmental impact of pesticides.txt:Animal.txt:0.00140174
+Environmental impact of pesticides.txt:cattle.txt:0.00408287
+Environmental impact of pesticides.txt:Fruits.txt:0.00211623
+Environmental impact of pesticides.txt:Vegetables.txt:0.00310366
+Environmental impact of pesticides.txt:pastoral farming.txt:0.00234650
+Environmental impact of pesticides.txt:livestock.txt:0.00316790
+Environmental impact of pesticides.txt:Agronomy.txt:0.00141844
+Environmental impact of pesticides.txt:FarmVille.txt:0.00171363
+Environmental impact of pesticides.txt:llamas.txt:0.00411464
+Environmental impact of pesticides.txt:Soil salinity.txt:0.00110914
+Environmental impact of pesticides.txt:goats.txt:0.00416347
+Environmental impact of pesticides.txt:Environmental impact of agriculture.txt:0.00612662
+Environmental impact of pesticides.txt:Genetically Modified Food.txt:0.00533507
+Environmental impact of pesticides.txt:Animal Husbandry.txt:0.00285646
+Environmental impact of pesticides.txt:Cattle Station.txt:0.00108460
+Environmental impact of pesticides.txt:Mixed farming.txt:0.00026846
+Environmental impact of pesticides.txt:Fuel.txt:0.00278826
+Environmental impact of pesticides.txt:Meat industry.txt:0.00164783
+Environmental impact of pesticides.txt:Hunter-gatherer.txt:0.00295858
+Environmental impact of pesticides.txt:Plant Breeding.txt:0.00443459
+Environmental impact of pesticides.txt:Global Warming.txt:0.00399740
+Environmental impact of pesticides.txt:Ox.txt:0.00249948
+Environmental impact of pesticides.txt:Texas A&M University.txt:0.00160976
+Environmental impact of pesticides.txt:Agriculture.txt:0.00572519
+Environmental impact of pesticides.txt:Ecosystem services.txt:0.00432856
+Environmental impact of pesticides.txt:Plants.txt:0.00294327
+Environmental impact of pesticides.txt:Subsistence agriculture.txt:0.00143678
+Environmental impact of pesticides.txt:Genetically Modified Organism.txt:0.00541616
+Environmental impact of pesticides.txt:Savannas.txt:0.00317292
+Environmental impact of pesticides.txt:reindeers.txt:0.00275950
+Environmental impact of pesticides.txt:camels.txt:0.00302648
+Environmental impact of pesticides.txt:Family farm.txt:0.00282676
+Environmental impact of pesticides.txt:Deforestation.txt:0.00371563
+Environmental impact of pesticides.txt:Sheep station.txt:0.00047360
+Environmental impact of pesticides.txt:pasture.txt:0.00076065
+Environmental impact of pesticides.txt:Oils.txt:0.00259572
+Environmental impact of pesticides.txt:sheep.txt:0.00347075
+Environmental impact of pesticides.txt:Bovine.txt:0.00024570
+Environmental impact of pesticides.txt:Pastoralism.txt:0.00322523
+Environmental impact of pesticides.txt:Meat.txt:0.00533181
+Environmental impact of pesticides.txt:fungi.txt:0.00421804
+Environmental impact of pesticides.txt:cereal.txt:0.00272109
+Environmental impact of pesticides.txt:Growth Hormone.txt:0.00376569
+Meat industry.txt:reindeers.txt:0.00079787
+Meat industry.txt:camels.txt:0.00098697
+Meat industry.txt:Family farm.txt:0.00241440
+Meat industry.txt:Eggs.txt:0.00000000
+Meat industry.txt:FarmVille.txt:0.00126316
+Meat industry.txt:Deforestation.txt:0.00118765
+Meat industry.txt:Sheep station.txt:0.00149254
+Meat industry.txt:pasture.txt:0.00000000
+Meat industry.txt:Oils.txt:0.00057110
+Meat industry.txt:yaks.txt:0.00000000
+Meat industry.txt:Pesticides.txt:0.00086745
+Meat industry.txt:Bovine.txt:0.00084246
+Meat industry.txt:Environmental impact of agriculture.txt:0.00331236
+Meat industry.txt:Pastoralism.txt:0.00295421
+Meat industry.txt:History of agriculture.txt:0.00073746
+Meat industry.txt:Genetic Engineering.txt:0.00161204
+Meat industry.txt:Meat.txt:0.00287431
+Meat industry.txt:fungi.txt:0.00073762
+Meat industry.txt:Agronomy.txt:0.00073964
+Meat industry.txt:Agrochemicals.txt:0.00000000
+Meat industry.txt:llamas.txt:0.00119360
+Meat industry.txt:Sustainable agriculture.txt:0.00173702
+Meat industry.txt:Selective Breeding.txt:0.00164519
+Meat industry.txt:cattle.txt:0.00134836
+Meat industry.txt:Growth Hormone.txt:0.00116036
+Meat industry.txt:Soil salinity.txt:0.00184388
+Meat industry.txt:Fuel.txt:0.00092937
+Meat industry.txt:Milk.txt:0.00082327
+Meat industry.txt:Cereal crops.txt:0.00131984
+Meat industry.txt:Genetically Modified Food.txt:0.00082662
+Meat industry.txt:Ranches.txt:0.00178444
+Meat industry.txt:Environmental impact of pesticides.txt:0.00164783
+Meat industry.txt:horses.txt:0.00093067
+Meat industry.txt:plough.txt:0.00109649
+Meat industry.txt:pastoral farming.txt:0.00268216
+Meat industry.txt:sheep.txt:0.00100424
+Meat industry.txt:Animal Welfare.txt:0.00140130
+Meat industry.txt:Environmental impacts of irrigation.txt:0.00160000
+Meat industry.txt:Mixed farming.txt:0.00357143
+Meat industry.txt:Vegetables.txt:0.00055882
+Meat industry.txt:Animal Husbandry.txt:0.00162631
+Meat industry.txt:Fruits.txt:0.00091743
+Meat industry.txt:tractors.txt:0.00055224
+Meat industry.txt:Aquifers.txt:0.00112994
+Meat industry.txt:Fertilizer.txt:0.00126194
+Meat industry.txt:cereal.txt:0.00131984
+Meat industry.txt:Antibiotic Resistance.txt:0.00083137
+Meat industry.txt:Neolithic Revolution.txt:0.00080678
+Meat industry.txt:goats.txt:0.00095602
+Meat industry.txt:Hunter-gatherer.txt:0.00084388
+Meat industry.txt:livestock.txt:0.00177809
+Meat industry.txt:Plant Breeding.txt:0.00124688
+Meat industry.txt:Global Warming.txt:0.00126470
+Meat industry.txt:Animal.txt:0.00070456
+Meat industry.txt:Ox.txt:0.00051840
+Meat industry.txt:Texas A&M University.txt:0.00089576
+Meat industry.txt:Agriculture.txt:0.00117678
+Meat industry.txt:Cattle Station.txt:0.00115607
+Meat industry.txt:Ecosystem services.txt:0.00204439
+Meat industry.txt:Plants.txt:0.00143082
+Meat industry.txt:Subsistence agriculture.txt:0.00251130
+Meat industry.txt:Genetically Modified Organism.txt:0.00145068
+Meat industry.txt:Savannas.txt:0.00142653
+sheep.txt:Animal Welfare.txt:0.00354209
+sheep.txt:llamas.txt:0.00494248
+sheep.txt:Fuel.txt:0.00398628
+sheep.txt:Soil salinity.txt:0.00108472
+sheep.txt:Milk.txt:0.00585938
+sheep.txt:Environmental impact of agriculture.txt:0.00292536
+sheep.txt:Pastoralism.txt:0.00320949
+sheep.txt:Genetically Modified Food.txt:0.00371087
+sheep.txt:Agriculture.txt:0.00540398
+sheep.txt:Animal Husbandry.txt:0.00612464
+sheep.txt:Meat.txt:0.00546340
+sheep.txt:Cattle Station.txt:0.00182521
+sheep.txt:Cereal crops.txt:0.00223282
+sheep.txt:Mixed farming.txt:0.00035549
+sheep.txt:Environmental impacts of irrigation.txt:0.00261658
+sheep.txt:Meat industry.txt:0.00100424
+sheep.txt:Growth Hormone.txt:0.00421479
+sheep.txt:Plant Breeding.txt:0.00485555
+sheep.txt:Eggs.txt:0.00034345
+sheep.txt:Global Warming.txt:0.00414186
+sheep.txt:Fruits.txt:0.00193531
+sheep.txt:Texas A&M University.txt:0.00285004
+sheep.txt:Hunter-gatherer.txt:0.00441124
+sheep.txt:Ecosystem services.txt:0.00381785
+sheep.txt:plough.txt:0.00438179
+sheep.txt:Plants.txt:0.00495663
+sheep.txt:fungi.txt:0.00570622
+sheep.txt:Subsistence agriculture.txt:0.00219344
+sheep.txt:goats.txt:0.00645302
+sheep.txt:Genetically Modified Organism.txt:0.00494761
+sheep.txt:Ox.txt:0.00263047
+sheep.txt:Savannas.txt:0.00337447
+sheep.txt:cereal.txt:0.00223282
+sheep.txt:Environmental impact of pesticides.txt:0.00347075
+sheep.txt:reindeers.txt:0.00478774
+sheep.txt:yaks.txt:0.00244349
+sheep.txt:camels.txt:0.00539597
+sheep.txt:History of agriculture.txt:0.00453942
+sheep.txt:Family farm.txt:0.00445839
+sheep.txt:tractors.txt:0.00452270
+sheep.txt:Deforestation.txt:0.00506344
+sheep.txt:Fertilizer.txt:0.00550417
+sheep.txt:Sheep station.txt:0.00156828
+sheep.txt:Antibiotic Resistance.txt:0.00392847
+sheep.txt:pasture.txt:0.00069308
+sheep.txt:Sustainable agriculture.txt:0.00473577
+sheep.txt:Oils.txt:0.00192864
+sheep.txt:Selective Breeding.txt:0.00338862
+sheep.txt:Bovine.txt:0.00113934
+sheep.txt:Neolithic Revolution.txt:0.00504081
+sheep.txt:Agrochemicals.txt:0.00069364
+sheep.txt:Aquifers.txt:0.00324120
+sheep.txt:Genetic Engineering.txt:0.00525834
+sheep.txt:Pesticides.txt:0.00586907
+sheep.txt:Ranches.txt:0.00308463
+sheep.txt:horses.txt:0.00721079
+sheep.txt:Animal.txt:0.00355390
+sheep.txt:cattle.txt:0.00868785
+sheep.txt:Vegetables.txt:0.00395115
+sheep.txt:pastoral farming.txt:0.00162833
+sheep.txt:livestock.txt:0.00308166
+sheep.txt:Agronomy.txt:0.00134228
+sheep.txt:FarmVille.txt:0.00130470
+reindeers.txt:Hunter-gatherer.txt:0.00290265
+reindeers.txt:livestock.txt:0.00236146
+reindeers.txt:Meat industry.txt:0.00079787
+reindeers.txt:Cereal crops.txt:0.00205457
+reindeers.txt:Ox.txt:0.00211470
+reindeers.txt:Animal.txt:0.00290019
+reindeers.txt:Subsistence agriculture.txt:0.00193440
+reindeers.txt:Ranches.txt:0.00299543
+reindeers.txt:Eggs.txt:0.00036193
+reindeers.txt:FarmVille.txt:0.00113997
+reindeers.txt:Genetically Modified Organism.txt:0.00329663
+reindeers.txt:yaks.txt:0.00247239
+reindeers.txt:Pesticides.txt:0.00461125
+reindeers.txt:Plant Breeding.txt:0.00402017
+reindeers.txt:Environmental impact of agriculture.txt:0.00263321
+reindeers.txt:Pastoralism.txt:0.00198287
+reindeers.txt:History of agriculture.txt:0.00402765
+reindeers.txt:Genetic Engineering.txt:0.00381877
+reindeers.txt:Savannas.txt:0.00299519
+reindeers.txt:Meat.txt:0.00479753
+reindeers.txt:fungi.txt:0.00486542
+reindeers.txt:Agronomy.txt:0.00062150
+reindeers.txt:Agrochemicals.txt:0.00054705
+reindeers.txt:camels.txt:0.00529881
+reindeers.txt:Family farm.txt:0.00374220
+reindeers.txt:llamas.txt:0.00484227
+reindeers.txt:Global Warming.txt:0.00501550
+reindeers.txt:Deforestation.txt:0.00529101
+reindeers.txt:Sustainable agriculture.txt:0.00339070
+reindeers.txt:Selective Breeding.txt:0.00236372
+reindeers.txt:cattle.txt:0.00654048
+reindeers.txt:Sheep station.txt:0.00115597
+reindeers.txt:pasture.txt:0.00045554
+reindeers.txt:Oils.txt:0.00180288
+reindeers.txt:Growth Hormone.txt:0.00331359
+reindeers.txt:Soil salinity.txt:0.00086678
+reindeers.txt:Bovine.txt:0.00054059
+reindeers.txt:Milk.txt:0.00501108
+reindeers.txt:Fuel.txt:0.00251620
+reindeers.txt:Genetically Modified Food.txt:0.00278552
+reindeers.txt:Agriculture.txt:0.00457300
+reindeers.txt:Cattle Station.txt:0.00171984
+reindeers.txt:Texas A&M University.txt:0.00501013
+reindeers.txt:Environmental impact of pesticides.txt:0.00275950
+reindeers.txt:horses.txt:0.00564696
+reindeers.txt:pastoral farming.txt:0.00206016
+reindeers.txt:plough.txt:0.00548933
+reindeers.txt:sheep.txt:0.00478774
+reindeers.txt:Animal Welfare.txt:0.00217949
+reindeers.txt:Environmental impacts of irrigation.txt:0.00261277
+reindeers.txt:Ecosystem services.txt:0.00358873
+reindeers.txt:Mixed farming.txt:0.00018591
+reindeers.txt:Vegetables.txt:0.00267419
+reindeers.txt:Animal Husbandry.txt:0.00467897
+reindeers.txt:Fruits.txt:0.00250817
+reindeers.txt:tractors.txt:0.00444633
+reindeers.txt:Aquifers.txt:0.00447728
+reindeers.txt:Fertilizer.txt:0.00441472
+reindeers.txt:Neolithic Revolution.txt:0.00343944
+reindeers.txt:cereal.txt:0.00205457
+reindeers.txt:Antibiotic Resistance.txt:0.00410076
+reindeers.txt:Plants.txt:0.00427452
+reindeers.txt:goats.txt:0.00583670
+Vegetables.txt:Pastoralism.txt:0.00305499
+Vegetables.txt:History of agriculture.txt:0.00379464
+Vegetables.txt:Genetic Engineering.txt:0.00463619
+Vegetables.txt:Meat.txt:0.00539056
+Vegetables.txt:fungi.txt:0.00325677
+Vegetables.txt:Agrochemicals.txt:0.00153327
+Vegetables.txt:llamas.txt:0.00423463
+Vegetables.txt:Sustainable agriculture.txt:0.00402820
+Vegetables.txt:Selective Breeding.txt:0.00222260
+Vegetables.txt:cattle.txt:0.00454219
+Vegetables.txt:Growth Hormone.txt:0.00415640
+Vegetables.txt:Milk.txt:0.00443019
+Vegetables.txt:Cereal crops.txt:0.00718617
+Vegetables.txt:Ranches.txt:0.00259844
+Vegetables.txt:Environmental impact of pesticides.txt:0.00310366
+Vegetables.txt:horses.txt:0.00306122
+Vegetables.txt:Eggs.txt:0.00089686
+Vegetables.txt:plough.txt:0.00462517
+Vegetables.txt:Pesticides.txt:0.00427996
+Vegetables.txt:Animal Welfare.txt:0.00291029
+Vegetables.txt:Environmental impacts of irrigation.txt:0.00225268
+Vegetables.txt:pastoral farming.txt:0.00247692
+Vegetables.txt:livestock.txt:0.00339389
+Vegetables.txt:Agronomy.txt:0.00168729
+Vegetables.txt:Fruits.txt:0.00458127
+Vegetables.txt:tractors.txt:0.00284799
+Vegetables.txt:Aquifers.txt:0.00278891
+Vegetables.txt:FarmVille.txt:0.00109123
+Vegetables.txt:Soil salinity.txt:0.00156535
+Vegetables.txt:Environmental impact of agriculture.txt:0.00479570
+Vegetables.txt:Fertilizer.txt:0.00478902
+Vegetables.txt:Genetically Modified Food.txt:0.00484469
+Vegetables.txt:Animal Husbandry.txt:0.00466563
+Vegetables.txt:cereal.txt:0.00718617
+Vegetables.txt:Antibiotic Resistance.txt:0.00361779
+Vegetables.txt:Neolithic Revolution.txt:0.00434174
+Vegetables.txt:Cattle Station.txt:0.00127033
+Vegetables.txt:goats.txt:0.00425784
+Vegetables.txt:Mixed farming.txt:0.00032776
+Vegetables.txt:Meat industry.txt:0.00055882
+Vegetables.txt:Plant Breeding.txt:0.00400057
+Vegetables.txt:Global Warming.txt:0.00277283
+Vegetables.txt:Texas A&M University.txt:0.00206742
+Vegetables.txt:Ecosystem services.txt:0.00287452
+Vegetables.txt:Hunter-gatherer.txt:0.00243351
+Vegetables.txt:Plants.txt:0.00337801
+Vegetables.txt:Subsistence agriculture.txt:0.00357995
+Vegetables.txt:Ox.txt:0.00290768
+Vegetables.txt:Animal.txt:0.00216853
+Vegetables.txt:Genetically Modified Organism.txt:0.00489202
+Vegetables.txt:Agriculture.txt:0.00437748
+Vegetables.txt:Savannas.txt:0.00340000
+Vegetables.txt:reindeers.txt:0.00267419
+Vegetables.txt:camels.txt:0.00303114
+Vegetables.txt:Family farm.txt:0.00444708
+Vegetables.txt:Deforestation.txt:0.00402239
+Vegetables.txt:Sheep station.txt:0.00141004
+Vegetables.txt:pasture.txt:0.00061143
+Vegetables.txt:Oils.txt:0.00202378
+Vegetables.txt:Bovine.txt:0.00000000
+Vegetables.txt:sheep.txt:0.00395115
+Vegetables.txt:yaks.txt:0.00315173
+Vegetables.txt:Fuel.txt:0.00350489
+Texas A&M University.txt:Ranches.txt:0.00260945
+Texas A&M University.txt:Eggs.txt:0.00000000
+Texas A&M University.txt:FarmVille.txt:0.00080507
+Texas A&M University.txt:yaks.txt:0.00071378
+Texas A&M University.txt:Pesticides.txt:0.00300842
+Texas A&M University.txt:Plant Breeding.txt:0.00332145
+Texas A&M University.txt:Environmental impact of agriculture.txt:0.00227015
+Texas A&M University.txt:Pastoralism.txt:0.00155839
+Texas A&M University.txt:History of agriculture.txt:0.00384696
+Texas A&M University.txt:Genetic Engineering.txt:0.00312548
+Texas A&M University.txt:Meat.txt:0.00210374
+Texas A&M University.txt:fungi.txt:0.00217302
+Texas A&M University.txt:Agronomy.txt:0.00089767
+Texas A&M University.txt:Agrochemicals.txt:0.00058011
+Texas A&M University.txt:llamas.txt:0.00230101
+Texas A&M University.txt:Global Warming.txt:0.00271985
+Texas A&M University.txt:Sustainable agriculture.txt:0.00270717
+Texas A&M University.txt:Selective Breeding.txt:0.00142806
+Texas A&M University.txt:cattle.txt:0.00379973
+Texas A&M University.txt:Growth Hormone.txt:0.00329336
+Texas A&M University.txt:Soil salinity.txt:0.00054395
+Texas A&M University.txt:Milk.txt:0.00303490
+Texas A&M University.txt:Cereal crops.txt:0.00193404
+Texas A&M University.txt:Genetically Modified Food.txt:0.00307145
+Texas A&M University.txt:Fuel.txt:0.00166976
+Texas A&M University.txt:Ecosystem services.txt:0.00194431
+Texas A&M University.txt:Plants.txt:0.00268466
+Texas A&M University.txt:Subsistence agriculture.txt:0.00104679
+Texas A&M University.txt:Environmental impact of pesticides.txt:0.00160976
+Texas A&M University.txt:horses.txt:0.00310154
+Texas A&M University.txt:Genetically Modified Organism.txt:0.00240052
+Texas A&M University.txt:Savannas.txt:0.00164124
+Texas A&M University.txt:plough.txt:0.00317783
+Texas A&M University.txt:pastoral farming.txt:0.00071407
+Texas A&M University.txt:reindeers.txt:0.00501013
+Texas A&M University.txt:camels.txt:0.00357341
+Texas A&M University.txt:Family farm.txt:0.00314153
+Texas A&M University.txt:Deforestation.txt:0.00351588
+Texas A&M University.txt:sheep.txt:0.00285004
+Texas A&M University.txt:Sheep station.txt:0.00089878
+Texas A&M University.txt:pasture.txt:0.00000000
+Texas A&M University.txt:Oils.txt:0.00032203
+Texas A&M University.txt:Animal Welfare.txt:0.00302024
+Texas A&M University.txt:Environmental impacts of irrigation.txt:0.00187319
+Texas A&M University.txt:Bovine.txt:0.00057143
+Texas A&M University.txt:Mixed farming.txt:0.00023787
+Texas A&M University.txt:Vegetables.txt:0.00206742
+Texas A&M University.txt:Animal Husbandry.txt:0.00191058
+Texas A&M University.txt:Fruits.txt:0.00110824
+Texas A&M University.txt:tractors.txt:0.00344016
+Texas A&M University.txt:Aquifers.txt:0.00234551
+Texas A&M University.txt:Fertilizer.txt:0.00190898
+Texas A&M University.txt:cereal.txt:0.00193404
+Texas A&M University.txt:Antibiotic Resistance.txt:0.00284784
+Texas A&M University.txt:Neolithic Revolution.txt:0.00240019
+Texas A&M University.txt:goats.txt:0.00282404
+Texas A&M University.txt:Hunter-gatherer.txt:0.00216197
+Texas A&M University.txt:livestock.txt:0.00125350
+Texas A&M University.txt:Meat industry.txt:0.00089576
+Texas A&M University.txt:Animal.txt:0.00203321
+Texas A&M University.txt:Ox.txt:0.00084308
+Texas A&M University.txt:Agriculture.txt:0.00362582
+Texas A&M University.txt:Cattle Station.txt:0.00139996
+camels.txt:Hunter-gatherer.txt:0.00304077
+camels.txt:livestock.txt:0.00261579
+camels.txt:Meat industry.txt:0.00098697
+camels.txt:Cereal crops.txt:0.00251678
+camels.txt:Ox.txt:0.00231481
+camels.txt:Animal.txt:0.00353001
+camels.txt:Subsistence agriculture.txt:0.00317069
+camels.txt:Ranches.txt:0.00339297
+camels.txt:Eggs.txt:0.00062048
+camels.txt:FarmVille.txt:0.00230909
+camels.txt:Genetically Modified Organism.txt:0.00384849
+camels.txt:yaks.txt:0.00286726
+camels.txt:Pesticides.txt:0.00456233
+camels.txt:Plant Breeding.txt:0.00412639
+camels.txt:Environmental impact of agriculture.txt:0.00193596
+camels.txt:Genetic Engineering.txt:0.00378133
+camels.txt:Pastoralism.txt:0.00218716
+camels.txt:History of agriculture.txt:0.00479203
+camels.txt:Savannas.txt:0.00339244
+camels.txt:Meat.txt:0.00308642
+camels.txt:fungi.txt:0.00380344
+camels.txt:Agronomy.txt:0.00138751
+camels.txt:Agrochemicals.txt:0.00063118
+camels.txt:reindeers.txt:0.00529881
+camels.txt:llamas.txt:0.00869010
+camels.txt:Global Warming.txt:0.00284900
+camels.txt:Sustainable agriculture.txt:0.00360475
+camels.txt:Selective Breeding.txt:0.00327511
+camels.txt:cattle.txt:0.00585129
+camels.txt:Growth Hormone.txt:0.00312969
+camels.txt:Soil salinity.txt:0.00131530
+camels.txt:Family farm.txt:0.00352070
+camels.txt:Deforestation.txt:0.00386937
+camels.txt:Sheep station.txt:0.00178855
+camels.txt:Milk.txt:0.00480439
+camels.txt:pasture.txt:0.00021000
+camels.txt:Oils.txt:0.00091811
+camels.txt:Fuel.txt:0.00405680
+camels.txt:Genetically Modified Food.txt:0.00269985
+camels.txt:Bovine.txt:0.00122926
+camels.txt:Agriculture.txt:0.00353482
+camels.txt:Cattle Station.txt:0.00147520
+camels.txt:Texas A&M University.txt:0.00357341
+camels.txt:Environmental impact of pesticides.txt:0.00302648
+camels.txt:horses.txt:0.00605119
+camels.txt:pastoral farming.txt:0.00168577
+camels.txt:plough.txt:0.00336814
+camels.txt:sheep.txt:0.00539597
+camels.txt:Animal Welfare.txt:0.00351700
+camels.txt:Environmental impacts of irrigation.txt:0.00234845
+camels.txt:Ecosystem services.txt:0.00313450
+camels.txt:Mixed farming.txt:0.00022022
+camels.txt:Vegetables.txt:0.00303114
+camels.txt:Animal Husbandry.txt:0.00293001
+camels.txt:Fruits.txt:0.00258844
+camels.txt:tractors.txt:0.00385554
+camels.txt:Aquifers.txt:0.00415916
+camels.txt:Fertilizer.txt:0.00336153
+camels.txt:Neolithic Revolution.txt:0.00382476
+camels.txt:cereal.txt:0.00251678
+camels.txt:Antibiotic Resistance.txt:0.00339917
+camels.txt:Plants.txt:0.00328238
+camels.txt:goats.txt:0.00604778
+Ecosystem services.txt:Ranches.txt:0.00350750
+Ecosystem services.txt:Fuel.txt:0.00472350
+Ecosystem services.txt:Eggs.txt:0.00030180
+Ecosystem services.txt:FarmVille.txt:0.00114518
+Ecosystem services.txt:yaks.txt:0.00103506
+Ecosystem services.txt:Pesticides.txt:0.00446070
+Ecosystem services.txt:Plant Breeding.txt:0.00438468
+Ecosystem services.txt:Environmental impact of agriculture.txt:0.00578512
+Ecosystem services.txt:Pastoralism.txt:0.00330114
+Ecosystem services.txt:History of agriculture.txt:0.00367948
+Ecosystem services.txt:Genetic Engineering.txt:0.00507890
+Ecosystem services.txt:fungi.txt:0.00469263
+Ecosystem services.txt:Meat.txt:0.00327669
+Ecosystem services.txt:Agronomy.txt:0.00205008
+Ecosystem services.txt:Agrochemicals.txt:0.00045844
+Ecosystem services.txt:llamas.txt:0.00321144
+Ecosystem services.txt:Global Warming.txt:0.00502249
+Ecosystem services.txt:Sustainable agriculture.txt:0.00887256
+Ecosystem services.txt:Selective Breeding.txt:0.00307186
+Ecosystem services.txt:cattle.txt:0.00550633
+Ecosystem services.txt:Growth Hormone.txt:0.00327466
+Ecosystem services.txt:Soil salinity.txt:0.00182918
+Ecosystem services.txt:Milk.txt:0.00427847
+Ecosystem services.txt:Cereal crops.txt:0.00271143
+Ecosystem services.txt:Genetically Modified Food.txt:0.00339872
+Ecosystem services.txt:Texas A&M University.txt:0.00194431
+Ecosystem services.txt:Environmental impact of pesticides.txt:0.00432856
+Ecosystem services.txt:horses.txt:0.00391766
+Ecosystem services.txt:plough.txt:0.00314696
+Ecosystem services.txt:pastoral farming.txt:0.00220321
+Ecosystem services.txt:sheep.txt:0.00381785
+Ecosystem services.txt:Animal Welfare.txt:0.00493185
+Ecosystem services.txt:Environmental impacts of irrigation.txt:0.00419385
+Ecosystem services.txt:Plants.txt:0.00490827
+Ecosystem services.txt:Subsistence agriculture.txt:0.00294748
+Ecosystem services.txt:Mixed farming.txt:0.00031591
+Ecosystem services.txt:Genetically Modified Organism.txt:0.00480811
+Ecosystem services.txt:Vegetables.txt:0.00287452
+Ecosystem services.txt:Animal Husbandry.txt:0.00418677
+Ecosystem services.txt:Savannas.txt:0.00265829
+Ecosystem services.txt:reindeers.txt:0.00358873
+Ecosystem services.txt:camels.txt:0.00313450
+Ecosystem services.txt:Fruits.txt:0.00320550
+Ecosystem services.txt:tractors.txt:0.00407177
+Ecosystem services.txt:Aquifers.txt:0.00400089
+Ecosystem services.txt:Family farm.txt:0.00419371
+Ecosystem services.txt:Deforestation.txt:0.00640807
+Ecosystem services.txt:Sheep station.txt:0.00102564
+Ecosystem services.txt:Fertilizer.txt:0.00473071
+Ecosystem services.txt:pasture.txt:0.00045795
+Ecosystem services.txt:Oils.txt:0.00165975
+Ecosystem services.txt:cereal.txt:0.00271143
+Ecosystem services.txt:Antibiotic Resistance.txt:0.00434508
+Ecosystem services.txt:Neolithic Revolution.txt:0.00384172
+Ecosystem services.txt:Bovine.txt:0.00044944
+Ecosystem services.txt:goats.txt:0.00323845
+Ecosystem services.txt:Hunter-gatherer.txt:0.00277070
+Ecosystem services.txt:livestock.txt:0.00423114
+Ecosystem services.txt:Meat industry.txt:0.00204439
+Ecosystem services.txt:Animal.txt:0.00257043
+Ecosystem services.txt:Ox.txt:0.00134953
+Ecosystem services.txt:Agriculture.txt:0.00558360
+Ecosystem services.txt:Cattle Station.txt:0.00097020
+cereal.txt:Bovine.txt:0.00143609
+cereal.txt:Fuel.txt:0.00339723
+cereal.txt:Oils.txt:0.00150830
+cereal.txt:Selective Breeding.txt:0.00109842
+cereal.txt:Neolithic Revolution.txt:0.00445205
+cereal.txt:Agrochemicals.txt:0.00153218
+cereal.txt:Aquifers.txt:0.00202748
+cereal.txt:Genetic Engineering.txt:0.00246914
+cereal.txt:Pesticides.txt:0.00330777
+cereal.txt:horses.txt:0.00242488
+cereal.txt:Animal.txt:0.00330225
+cereal.txt:cattle.txt:0.00248381
+cereal.txt:Vegetables.txt:0.00718617
+cereal.txt:pastoral farming.txt:0.00222930
+cereal.txt:Animal Welfare.txt:0.00257420
+cereal.txt:livestock.txt:0.00404749
+cereal.txt:Ranches.txt:0.00216041
+cereal.txt:Agronomy.txt:0.00266548
+cereal.txt:llamas.txt:0.00255654
+cereal.txt:FarmVille.txt:0.00336289
+cereal.txt:sheep.txt:0.00223282
+cereal.txt:Soil salinity.txt:0.00316706
+cereal.txt:Milk.txt:0.00449457
+cereal.txt:Environmental impact of agriculture.txt:0.00254907
+cereal.txt:Pastoralism.txt:0.00277008
+cereal.txt:Genetically Modified Food.txt:0.00279183
+cereal.txt:Agriculture.txt:0.00516614
+cereal.txt:Animal Husbandry.txt:0.00311187
+cereal.txt:Meat.txt:0.00268786
+cereal.txt:Cattle Station.txt:0.00190042
+cereal.txt:Cereal crops.txt:1.00000000
+cereal.txt:Mixed farming.txt:0.00057274
+cereal.txt:Environmental impacts of irrigation.txt:0.00148957
+cereal.txt:Meat industry.txt:0.00131984
+cereal.txt:Growth Hormone.txt:0.00365455
+cereal.txt:Plant Breeding.txt:0.00438827
+cereal.txt:Eggs.txt:0.00097991
+cereal.txt:Global Warming.txt:0.00227247
+cereal.txt:Fruits.txt:0.00312200
+cereal.txt:Texas A&M University.txt:0.00193404
+cereal.txt:Hunter-gatherer.txt:0.00292200
+cereal.txt:Ecosystem services.txt:0.00271143
+cereal.txt:plough.txt:0.00230769
+cereal.txt:Plants.txt:0.00291878
+cereal.txt:fungi.txt:0.00202312
+cereal.txt:Subsistence agriculture.txt:0.00276625
+cereal.txt:goats.txt:0.00251116
+cereal.txt:Genetically Modified Organism.txt:0.00338362
+cereal.txt:Ox.txt:0.00176741
+cereal.txt:Savannas.txt:0.00215983
+cereal.txt:Environmental impact of pesticides.txt:0.00272109
+cereal.txt:reindeers.txt:0.00205457
+cereal.txt:yaks.txt:0.00286442
+cereal.txt:camels.txt:0.00251678
+cereal.txt:History of agriculture.txt:0.00483534
+cereal.txt:Family farm.txt:0.00164775
+cereal.txt:tractors.txt:0.00372758
+cereal.txt:Deforestation.txt:0.00285771
+cereal.txt:Fertilizer.txt:0.00295077
+cereal.txt:Sheep station.txt:0.00089127
+cereal.txt:Antibiotic Resistance.txt:0.00283810
+cereal.txt:pasture.txt:0.00101729
+cereal.txt:Sustainable agriculture.txt:0.00270555
+Animal.txt:Genetically Modified Organism.txt:0.00352811
+Animal.txt:Savannas.txt:0.00211082
+Animal.txt:reindeers.txt:0.00290019
+Animal.txt:camels.txt:0.00353001
+Animal.txt:Family farm.txt:0.00268962
+Animal.txt:Deforestation.txt:0.00346535
+Animal.txt:Agrochemicals.txt:0.00101471
+Animal.txt:Sheep station.txt:0.00070956
+Animal.txt:pasture.txt:0.00050620
+Animal.txt:llamas.txt:0.00354208
+Animal.txt:Oils.txt:0.00237581
+Animal.txt:Sustainable agriculture.txt:0.00196782
+Animal.txt:Selective Breeding.txt:0.00153092
+Animal.txt:Bovine.txt:0.00171990
+Animal.txt:Growth Hormone.txt:0.00194742
+Animal.txt:Meat.txt:0.00303807
+Animal.txt:Milk.txt:0.00304613
+Animal.txt:Cereal crops.txt:0.00330225
+Animal.txt:Ranches.txt:0.00211119
+Animal.txt:Environmental impact of pesticides.txt:0.00140174
+Animal.txt:horses.txt:0.00419397
+Animal.txt:Eggs.txt:0.00049677
+Animal.txt:plough.txt:0.00279910
+Animal.txt:Pesticides.txt:0.00370971
+Animal.txt:Animal Welfare.txt:0.00338114
+Animal.txt:Environmental impacts of irrigation.txt:0.00199767
+Animal.txt:Subsistence agriculture.txt:0.00225687
+Animal.txt:History of agriculture.txt:0.00269486
+Animal.txt:Fruits.txt:0.00292969
+Animal.txt:tractors.txt:0.00226491
+Animal.txt:Aquifers.txt:0.00264963
+Animal.txt:Fertilizer.txt:0.00201756
+Animal.txt:Neolithic Revolution.txt:0.00357919
+Animal.txt:cereal.txt:0.00330225
+Animal.txt:Antibiotic Resistance.txt:0.00247844
+Animal.txt:goats.txt:0.00328192
+Animal.txt:Hunter-gatherer.txt:0.00279981
+Animal.txt:Ox.txt:0.00041520
+Animal.txt:cattle.txt:0.00370175
+Animal.txt:Agriculture.txt:0.00332984
+Animal.txt:Vegetables.txt:0.00216853
+Animal.txt:pastoral farming.txt:0.00136585
+Animal.txt:livestock.txt:0.00281195
+Animal.txt:Agronomy.txt:0.00118008
+Animal.txt:FarmVille.txt:0.00114047
+Animal.txt:Soil salinity.txt:0.00110767
+Animal.txt:Environmental impact of agriculture.txt:0.00271095
+Animal.txt:Genetically Modified Food.txt:0.00285344
+Animal.txt:Animal Husbandry.txt:0.00416816
+Animal.txt:Cattle Station.txt:0.00151712
+Animal.txt:Mixed farming.txt:0.00053619
+Animal.txt:Fuel.txt:0.00360774
+Animal.txt:Meat industry.txt:0.00070456
+Animal.txt:sheep.txt:0.00355390
+Animal.txt:yaks.txt:0.00253758
+Animal.txt:Plant Breeding.txt:0.00234101
+Animal.txt:Global Warming.txt:0.00269092
+Animal.txt:Texas A&M University.txt:0.00203321
+Animal.txt:Ecosystem services.txt:0.00257043
+Animal.txt:Plants.txt:0.00569569
+Animal.txt:Pastoralism.txt:0.00196639
+Animal.txt:Genetic Engineering.txt:0.00343114
+Animal.txt:fungi.txt:0.00421599
+llamas.txt:Selective Breeding.txt:0.00356479
+llamas.txt:Neolithic Revolution.txt:0.00451671
+llamas.txt:Agrochemicals.txt:0.00154919
+llamas.txt:Animal Welfare.txt:0.00270080
+llamas.txt:Aquifers.txt:0.00489345
+llamas.txt:Genetic Engineering.txt:0.00321927
+llamas.txt:Pesticides.txt:0.00514801
+llamas.txt:horses.txt:0.00492524
+llamas.txt:Animal.txt:0.00354208
+llamas.txt:cattle.txt:0.00524715
+llamas.txt:Vegetables.txt:0.00423463
+llamas.txt:pastoral farming.txt:0.00197824
+llamas.txt:livestock.txt:0.00195451
+llamas.txt:Agronomy.txt:0.00095900
+llamas.txt:FarmVille.txt:0.00115518
+llamas.txt:sheep.txt:0.00494248
+llamas.txt:Soil salinity.txt:0.00067431
+llamas.txt:Milk.txt:0.00379258
+llamas.txt:Environmental impact of agriculture.txt:0.00325789
+llamas.txt:Pastoralism.txt:0.00271592
+llamas.txt:Genetically Modified Food.txt:0.00287845
+llamas.txt:Agriculture.txt:0.00392796
+llamas.txt:Animal Husbandry.txt:0.00552951
+llamas.txt:Meat.txt:0.00372885
+llamas.txt:Cattle Station.txt:0.00131926
+llamas.txt:Cereal crops.txt:0.00255654
+llamas.txt:Mixed farming.txt:0.00027293
+llamas.txt:Environmental impacts of irrigation.txt:0.00235770
+llamas.txt:Meat industry.txt:0.00119360
+llamas.txt:Growth Hormone.txt:0.00436312
+llamas.txt:Plant Breeding.txt:0.00367840
+llamas.txt:Eggs.txt:0.00050518
+llamas.txt:Global Warming.txt:0.00383249
+llamas.txt:Fuel.txt:0.00298260
+llamas.txt:Fruits.txt:0.00296199
+llamas.txt:Texas A&M University.txt:0.00230101
+llamas.txt:Hunter-gatherer.txt:0.00456621
+llamas.txt:Ecosystem services.txt:0.00321144
+llamas.txt:plough.txt:0.00519031
+llamas.txt:Plants.txt:0.00439763
+llamas.txt:fungi.txt:0.00489436
+llamas.txt:Subsistence agriculture.txt:0.00228833
+llamas.txt:goats.txt:0.00507838
+llamas.txt:Genetically Modified Organism.txt:0.00266341
+llamas.txt:Ox.txt:0.00359029
+llamas.txt:Savannas.txt:0.00320741
+llamas.txt:Environmental impact of pesticides.txt:0.00411464
+llamas.txt:reindeers.txt:0.00484227
+llamas.txt:yaks.txt:0.00455807
+llamas.txt:camels.txt:0.00869010
+llamas.txt:History of agriculture.txt:0.00428601
+llamas.txt:Family farm.txt:0.00407664
+llamas.txt:tractors.txt:0.00448089
+llamas.txt:Deforestation.txt:0.00340136
+llamas.txt:Fertilizer.txt:0.00443698
+llamas.txt:Sheep station.txt:0.00072098
+llamas.txt:Antibiotic Resistance.txt:0.00369704
+llamas.txt:pasture.txt:0.00103040
+llamas.txt:Sustainable agriculture.txt:0.00409165
+llamas.txt:Oils.txt:0.00395083
+llamas.txt:Bovine.txt:0.00024944
+llamas.txt:cereal.txt:0.00255654
+llamas.txt:Ranches.txt:0.00392367
+Plant Breeding.txt:Eggs.txt:0.00043640
+Plant Breeding.txt:FarmVille.txt:0.00154772
+Plant Breeding.txt:yaks.txt:0.00158339
+Plant Breeding.txt:Pesticides.txt:0.00699377
+Plant Breeding.txt:Global Warming.txt:0.00450849
+Plant Breeding.txt:Texas A&M University.txt:0.00332145
+Plant Breeding.txt:Ecosystem services.txt:0.00438468
+Plant Breeding.txt:Environmental impact of agriculture.txt:0.00481068
+Plant Breeding.txt:Plants.txt:0.00558390
+Plant Breeding.txt:Subsistence agriculture.txt:0.00165654
+Plant Breeding.txt:Genetic Engineering.txt:0.00769317
+Plant Breeding.txt:Pastoralism.txt:0.00244021
+Plant Breeding.txt:History of agriculture.txt:0.00431923
+Plant Breeding.txt:Genetically Modified Organism.txt:0.00708998
+Plant Breeding.txt:Meat.txt:0.00487893
+Plant Breeding.txt:fungi.txt:0.00575025
+Plant Breeding.txt:Savannas.txt:0.00353017
+Plant Breeding.txt:reindeers.txt:0.00402017
+Plant Breeding.txt:camels.txt:0.00412639
+Plant Breeding.txt:Agronomy.txt:0.00355500
+Plant Breeding.txt:Family farm.txt:0.00438706
+Plant Breeding.txt:Deforestation.txt:0.00529561
+Plant Breeding.txt:Sheep station.txt:0.00104537
+Plant Breeding.txt:Agrochemicals.txt:0.00066667
+Plant Breeding.txt:pasture.txt:0.00066563
+Plant Breeding.txt:Oils.txt:0.00250723
+Plant Breeding.txt:llamas.txt:0.00367840
+Plant Breeding.txt:Bovine.txt:0.00021584
+Plant Breeding.txt:Sustainable agriculture.txt:0.00655523
+Plant Breeding.txt:Selective Breeding.txt:0.01024619
+Plant Breeding.txt:cattle.txt:0.00552045
+Plant Breeding.txt:Growth Hormone.txt:0.00531157
+Plant Breeding.txt:Soil salinity.txt:0.00177620
+Plant Breeding.txt:Milk.txt:0.00404774
+Plant Breeding.txt:Fuel.txt:0.00526950
+Plant Breeding.txt:Cereal crops.txt:0.00438827
+Plant Breeding.txt:Genetically Modified Food.txt:0.00558049
+Plant Breeding.txt:Ranches.txt:0.00288693
+Plant Breeding.txt:Environmental impact of pesticides.txt:0.00443459
+Plant Breeding.txt:horses.txt:0.00425035
+Plant Breeding.txt:plough.txt:0.00447851
+Plant Breeding.txt:pastoral farming.txt:0.00370501
+Plant Breeding.txt:sheep.txt:0.00485555
+Plant Breeding.txt:Animal Welfare.txt:0.00394434
+Plant Breeding.txt:Environmental impacts of irrigation.txt:0.00412277
+Plant Breeding.txt:Mixed farming.txt:0.00069995
+Plant Breeding.txt:Vegetables.txt:0.00400057
+Plant Breeding.txt:Animal Husbandry.txt:0.00503131
+Plant Breeding.txt:Aquifers.txt:0.00387764
+Plant Breeding.txt:tractors.txt:0.00441767
+Plant Breeding.txt:Fruits.txt:0.00403467
+Plant Breeding.txt:Fertilizer.txt:0.00637370
+Plant Breeding.txt:Neolithic Revolution.txt:0.00370061
+Plant Breeding.txt:cereal.txt:0.00438827
+Plant Breeding.txt:Antibiotic Resistance.txt:0.00660440
+Plant Breeding.txt:goats.txt:0.00443986
+Plant Breeding.txt:Hunter-gatherer.txt:0.00343840
+Plant Breeding.txt:livestock.txt:0.00224036
+Plant Breeding.txt:Meat industry.txt:0.00124688
+Plant Breeding.txt:Animal.txt:0.00234101
+Plant Breeding.txt:Ox.txt:0.00149031
+Plant Breeding.txt:Agriculture.txt:0.00579763
+Plant Breeding.txt:Cattle Station.txt:0.00116009
+Selective Breeding.txt:llamas.txt:0.00356479
+Selective Breeding.txt:Sustainable agriculture.txt:0.00286604
+Selective Breeding.txt:Neolithic Revolution.txt:0.00276893
+Selective Breeding.txt:Agrochemicals.txt:0.00029967
+Selective Breeding.txt:Aquifers.txt:0.00327248
+Selective Breeding.txt:Growth Hormone.txt:0.00288929
+Selective Breeding.txt:Genetic Engineering.txt:0.00395307
+Selective Breeding.txt:Pesticides.txt:0.00249066
+Selective Breeding.txt:horses.txt:0.00257898
+Selective Breeding.txt:Milk.txt:0.00219814
+Selective Breeding.txt:Animal.txt:0.00153092
+Selective Breeding.txt:cattle.txt:0.00372100
+Selective Breeding.txt:Cereal crops.txt:0.00109842
+Selective Breeding.txt:Vegetables.txt:0.00222260
+Selective Breeding.txt:pastoral farming.txt:0.00132802
+Selective Breeding.txt:livestock.txt:0.00255654
+Selective Breeding.txt:Agronomy.txt:0.00137779
+Selective Breeding.txt:Ranches.txt:0.00295683
+Selective Breeding.txt:FarmVille.txt:0.00085929
+Selective Breeding.txt:Soil salinity.txt:0.00102380
+Selective Breeding.txt:Environmental impact of agriculture.txt:0.00207586
+Selective Breeding.txt:Environmental impact of pesticides.txt:0.00276158
+Selective Breeding.txt:Genetically Modified Food.txt:0.00323898
+Selective Breeding.txt:Animal Husbandry.txt:0.01399689
+Selective Breeding.txt:Eggs.txt:0.00029248
+Selective Breeding.txt:plough.txt:0.00372885
+Selective Breeding.txt:Cattle Station.txt:0.00149738
+Selective Breeding.txt:Mixed farming.txt:0.00000000
+Selective Breeding.txt:Meat industry.txt:0.00164519
+Selective Breeding.txt:Plant Breeding.txt:0.01024619
+Selective Breeding.txt:Global Warming.txt:0.00304908
+Selective Breeding.txt:Texas A&M University.txt:0.00142806
+Selective Breeding.txt:Ecosystem services.txt:0.00307186
+Selective Breeding.txt:Animal Welfare.txt:0.00300978
+Selective Breeding.txt:Environmental impacts of irrigation.txt:0.00185151
+Selective Breeding.txt:Plants.txt:0.00259291
+Selective Breeding.txt:Subsistence agriculture.txt:0.00093611
+Selective Breeding.txt:History of agriculture.txt:0.00287611
+Selective Breeding.txt:Genetically Modified Organism.txt:0.00307038
+Selective Breeding.txt:Savannas.txt:0.00295625
+Selective Breeding.txt:reindeers.txt:0.00236372
+Selective Breeding.txt:camels.txt:0.00327511
+Selective Breeding.txt:Fruits.txt:0.00270807
+Selective Breeding.txt:tractors.txt:0.00291855
+Selective Breeding.txt:Family farm.txt:0.00234192
+Selective Breeding.txt:Deforestation.txt:0.00338689
+Selective Breeding.txt:Sheep station.txt:0.00055233
+Selective Breeding.txt:pasture.txt:0.00059827
+Selective Breeding.txt:Oils.txt:0.00373320
+Selective Breeding.txt:cereal.txt:0.00109842
+Selective Breeding.txt:Antibiotic Resistance.txt:0.00306069
+Selective Breeding.txt:Bovine.txt:0.00028835
+Selective Breeding.txt:goats.txt:0.00351576
+Selective Breeding.txt:Hunter-gatherer.txt:0.00205938
+Selective Breeding.txt:Ox.txt:0.00214184
+Selective Breeding.txt:Agriculture.txt:0.00475179
+Selective Breeding.txt:Fuel.txt:0.00272876
+Selective Breeding.txt:sheep.txt:0.00338862
+Selective Breeding.txt:yaks.txt:0.00199159
+Selective Breeding.txt:Pastoralism.txt:0.00200521
+Selective Breeding.txt:Meat.txt:0.00372984
+Selective Breeding.txt:fungi.txt:0.00306592
+Selective Breeding.txt:Fertilizer.txt:0.00345799
+Family farm.txt:Hunter-gatherer.txt:0.00446229
+Family farm.txt:livestock.txt:0.00233411
+Family farm.txt:Meat industry.txt:0.00241440
+Family farm.txt:Cereal crops.txt:0.00164775
+Family farm.txt:Ox.txt:0.00195503
+Family farm.txt:Animal.txt:0.00268962
+Family farm.txt:Subsistence agriculture.txt:0.00309179
+Family farm.txt:Ranches.txt:0.00384680
+Family farm.txt:Eggs.txt:0.00023079
+Family farm.txt:FarmVille.txt:0.00143756
+Family farm.txt:Genetically Modified Organism.txt:0.00352000
+Family farm.txt:yaks.txt:0.00184094
+Family farm.txt:Pesticides.txt:0.00470746
+Family farm.txt:Plant Breeding.txt:0.00438706
+Family farm.txt:Environmental impact of agriculture.txt:0.00451904
+Family farm.txt:Genetic Engineering.txt:0.00319671
+Family farm.txt:Pastoralism.txt:0.00373578
+Family farm.txt:History of agriculture.txt:0.00372121
+Family farm.txt:Savannas.txt:0.00283996
+Family farm.txt:Meat.txt:0.00360044
+Family farm.txt:fungi.txt:0.00403449
+Family farm.txt:Agronomy.txt:0.00264550
+Family farm.txt:Agrochemicals.txt:0.00141309
+Family farm.txt:reindeers.txt:0.00374220
+Family farm.txt:llamas.txt:0.00407664
+Family farm.txt:Global Warming.txt:0.00352208
+Family farm.txt:Sustainable agriculture.txt:0.00594904
+Family farm.txt:Selective Breeding.txt:0.00234192
+Family farm.txt:cattle.txt:0.00458241
+Family farm.txt:Growth Hormone.txt:0.00347454
+Family farm.txt:Soil salinity.txt:0.00062215
+Family farm.txt:camels.txt:0.00352070
+Family farm.txt:Milk.txt:0.00454804
+Family farm.txt:Fuel.txt:0.00280899
+Family farm.txt:Genetically Modified Food.txt:0.00462442
+Family farm.txt:Deforestation.txt:0.00564607
+Family farm.txt:Agriculture.txt:0.00518711
+Family farm.txt:Cattle Station.txt:0.00060926
+Family farm.txt:Sheep station.txt:0.00132421
+Family farm.txt:pasture.txt:0.00046981
+Family farm.txt:Oils.txt:0.00161976
+Family farm.txt:Texas A&M University.txt:0.00314153
+Family farm.txt:Bovine.txt:0.00045652
+Family farm.txt:Environmental impact of pesticides.txt:0.00282676
+Family farm.txt:horses.txt:0.00382848
+Family farm.txt:pastoral farming.txt:0.00221157
+Family farm.txt:plough.txt:0.00360566
+Family farm.txt:sheep.txt:0.00445839
+Family farm.txt:Animal Welfare.txt:0.00371663
+Family farm.txt:Environmental impacts of irrigation.txt:0.00285397
+Family farm.txt:Ecosystem services.txt:0.00419371
+Family farm.txt:Mixed farming.txt:0.00049554
+Family farm.txt:Vegetables.txt:0.00444708
+Family farm.txt:Animal Husbandry.txt:0.00402160
+Family farm.txt:Fruits.txt:0.00372439
+Family farm.txt:tractors.txt:0.00302857
+Family farm.txt:Aquifers.txt:0.00342466
+Family farm.txt:Fertilizer.txt:0.00505457
+Family farm.txt:cereal.txt:0.00164775
+Family farm.txt:Antibiotic Resistance.txt:0.00482253
+Family farm.txt:Neolithic Revolution.txt:0.00258112
+Family farm.txt:Plants.txt:0.00324771
+Family farm.txt:goats.txt:0.00445151
+cattle.txt:Meat.txt:0.00821008
+cattle.txt:fungi.txt:0.00657573
+cattle.txt:Pastoralism.txt:0.00298992
+cattle.txt:Agrochemicals.txt:0.00079412
+cattle.txt:llamas.txt:0.00524715
+cattle.txt:Sustainable agriculture.txt:0.00543774
+cattle.txt:Selective Breeding.txt:0.00372100
+cattle.txt:Vegetables.txt:0.00454219
+cattle.txt:pastoral farming.txt:0.00275874
+cattle.txt:livestock.txt:0.00500721
+cattle.txt:Growth Hormone.txt:0.00459407
+cattle.txt:Agronomy.txt:0.00135083
+cattle.txt:FarmVille.txt:0.00149306
+cattle.txt:Soil salinity.txt:0.00140977
+cattle.txt:Milk.txt:0.00792569
+cattle.txt:Environmental impact of agriculture.txt:0.00424894
+cattle.txt:Genetically Modified Food.txt:0.00507320
+cattle.txt:Cereal crops.txt:0.00248381
+cattle.txt:Animal Husbandry.txt:0.00628583
+cattle.txt:Cattle Station.txt:0.00148962
+cattle.txt:Mixed farming.txt:0.00030411
+cattle.txt:Meat industry.txt:0.00134836
+cattle.txt:Ranches.txt:0.00424376
+cattle.txt:Plant Breeding.txt:0.00552045
+cattle.txt:Global Warming.txt:0.00528096
+cattle.txt:Texas A&M University.txt:0.00379973
+cattle.txt:Environmental impact of pesticides.txt:0.00408287
+cattle.txt:horses.txt:0.01164926
+cattle.txt:Ecosystem services.txt:0.00550633
+cattle.txt:Plants.txt:0.00621664
+cattle.txt:Eggs.txt:0.00029525
+cattle.txt:plough.txt:0.00612709
+cattle.txt:Subsistence agriculture.txt:0.00236471
+cattle.txt:Genetically Modified Organism.txt:0.00620708
+cattle.txt:Savannas.txt:0.00356204
+cattle.txt:reindeers.txt:0.00654048
+cattle.txt:Pesticides.txt:0.00728535
+cattle.txt:camels.txt:0.00585129
+cattle.txt:Family farm.txt:0.00458241
+cattle.txt:Deforestation.txt:0.00643529
+cattle.txt:Animal Welfare.txt:0.00490798
+cattle.txt:Environmental impacts of irrigation.txt:0.00330169
+cattle.txt:Sheep station.txt:0.00212663
+cattle.txt:pasture.txt:0.00019828
+cattle.txt:History of agriculture.txt:0.00380952
+cattle.txt:Oils.txt:0.00335164
+cattle.txt:Bovine.txt:0.00156909
+cattle.txt:Fruits.txt:0.00383642
+cattle.txt:tractors.txt:0.00550459
+cattle.txt:Aquifers.txt:0.00431482
+cattle.txt:Fertilizer.txt:0.00496312
+cattle.txt:cereal.txt:0.00248381
+cattle.txt:Antibiotic Resistance.txt:0.00581899
+cattle.txt:Neolithic Revolution.txt:0.00438030
+cattle.txt:goats.txt:0.00923057
+cattle.txt:Hunter-gatherer.txt:0.00366914
+cattle.txt:Ox.txt:0.00532257
+cattle.txt:Animal.txt:0.00370175
+cattle.txt:Agriculture.txt:0.00627337
+cattle.txt:sheep.txt:0.00868785
+cattle.txt:Fuel.txt:0.00566177
+cattle.txt:yaks.txt:0.00338259
+cattle.txt:Genetic Engineering.txt:0.00550320
+Deforestation.txt:Growth Hormone.txt:0.00444042
+Deforestation.txt:Soil salinity.txt:0.00210283
+Deforestation.txt:Hunter-gatherer.txt:0.00482287
+Deforestation.txt:livestock.txt:0.00346410
+Deforestation.txt:Meat industry.txt:0.00118765
+Deforestation.txt:Cereal crops.txt:0.00285771
+Deforestation.txt:Ox.txt:0.00142610
+Deforestation.txt:Animal.txt:0.00346535
+Deforestation.txt:Subsistence agriculture.txt:0.00192347
+Deforestation.txt:Ranches.txt:0.00234017
+Deforestation.txt:Eggs.txt:0.00011063
+Deforestation.txt:FarmVille.txt:0.00126632
+Deforestation.txt:Genetically Modified Organism.txt:0.00469818
+Deforestation.txt:yaks.txt:0.00128268
+Deforestation.txt:Pesticides.txt:0.00625690
+Deforestation.txt:Plant Breeding.txt:0.00529561
+Deforestation.txt:Environmental impact of agriculture.txt:0.00979305
+Deforestation.txt:Genetic Engineering.txt:0.00424233
+Deforestation.txt:Pastoralism.txt:0.00435153
+Deforestation.txt:History of agriculture.txt:0.00527072
+Deforestation.txt:Savannas.txt:0.00525674
+Deforestation.txt:Meat.txt:0.00509743
+Deforestation.txt:fungi.txt:0.00421356
+Deforestation.txt:Agronomy.txt:0.00140677
+Deforestation.txt:Agrochemicals.txt:0.00078204
+Deforestation.txt:reindeers.txt:0.00529101
+Deforestation.txt:llamas.txt:0.00340136
+Deforestation.txt:Global Warming.txt:0.00854374
+Deforestation.txt:Sustainable agriculture.txt:0.00789027
+Deforestation.txt:Selective Breeding.txt:0.00338689
+Deforestation.txt:cattle.txt:0.00643529
+Deforestation.txt:camels.txt:0.00386937
+Deforestation.txt:Milk.txt:0.00651709
+Deforestation.txt:Genetically Modified Food.txt:0.00449279
+Deforestation.txt:Family farm.txt:0.00564607
+Deforestation.txt:Fuel.txt:0.00396825
+Deforestation.txt:Agriculture.txt:0.00777303
+Deforestation.txt:Cattle Station.txt:0.00114321
+Deforestation.txt:Texas A&M University.txt:0.00351588
+Deforestation.txt:Sheep station.txt:0.00129997
+Deforestation.txt:pasture.txt:0.00066972
+Deforestation.txt:Oils.txt:0.00176422
+Deforestation.txt:Environmental impact of pesticides.txt:0.00371563
+Deforestation.txt:horses.txt:0.00701647
+Deforestation.txt:Bovine.txt:0.00066057
+Deforestation.txt:plough.txt:0.00448710
+Deforestation.txt:pastoral farming.txt:0.00316456
+Deforestation.txt:sheep.txt:0.00506344
+Deforestation.txt:Animal Welfare.txt:0.00383311
+Deforestation.txt:Environmental impacts of irrigation.txt:0.00565229
+Deforestation.txt:Ecosystem services.txt:0.00640807
+Deforestation.txt:Mixed farming.txt:0.00022878
+Deforestation.txt:Vegetables.txt:0.00402239
+Deforestation.txt:Animal Husbandry.txt:0.00568522
+Deforestation.txt:Fruits.txt:0.00188290
+Deforestation.txt:tractors.txt:0.00438233
+Deforestation.txt:Aquifers.txt:0.00438789
+Deforestation.txt:Fertilizer.txt:0.00635752
+Deforestation.txt:Neolithic Revolution.txt:0.00492188
+Deforestation.txt:cereal.txt:0.00285771
+Deforestation.txt:Antibiotic Resistance.txt:0.00578573
+Deforestation.txt:Plants.txt:0.00478792
+Deforestation.txt:goats.txt:0.00481757
+Sheep station.txt:Growth Hormone.txt:0.00093458
+Sheep station.txt:Soil salinity.txt:0.00187852
+Sheep station.txt:Hunter-gatherer.txt:0.00141924
+Sheep station.txt:livestock.txt:0.00215750
+Sheep station.txt:Meat industry.txt:0.00149254
+Sheep station.txt:Animal.txt:0.00070956
+Sheep station.txt:Cereal crops.txt:0.00089127
+Sheep station.txt:Ox.txt:0.00052659
+Sheep station.txt:Subsistence agriculture.txt:0.00000000
+Sheep station.txt:Ranches.txt:0.00288913
+Sheep station.txt:Eggs.txt:0.00000000
+Sheep station.txt:FarmVille.txt:0.00085251
+Sheep station.txt:Genetically Modified Organism.txt:0.00129555
+Sheep station.txt:yaks.txt:0.00407609
+Sheep station.txt:Pesticides.txt:0.00104657
+Sheep station.txt:Plant Breeding.txt:0.00104537
+Sheep station.txt:Environmental impact of agriculture.txt:0.00133556
+Sheep station.txt:Pastoralism.txt:0.00149142
+Sheep station.txt:History of agriculture.txt:0.00044431
+Sheep station.txt:Genetic Engineering.txt:0.00089977
+Sheep station.txt:Savannas.txt:0.00144196
+Sheep station.txt:Meat.txt:0.00078534
+Sheep station.txt:fungi.txt:0.00042270
+Sheep station.txt:Agronomy.txt:0.00000000
+Sheep station.txt:Agrochemicals.txt:0.00195122
+Sheep station.txt:reindeers.txt:0.00115597
+Sheep station.txt:llamas.txt:0.00072098
+Sheep station.txt:Global Warming.txt:0.00114242
+Sheep station.txt:Sustainable agriculture.txt:0.00087230
+Sheep station.txt:Selective Breeding.txt:0.00055233
+Sheep station.txt:cattle.txt:0.00212663
+Sheep station.txt:camels.txt:0.00178855
+Sheep station.txt:Milk.txt:0.00110102
+Sheep station.txt:Genetically Modified Food.txt:0.00103993
+Sheep station.txt:Family farm.txt:0.00132421
+Sheep station.txt:Agriculture.txt:0.00052473
+Sheep station.txt:Fuel.txt:0.00062520
+Sheep station.txt:Cattle Station.txt:0.02345159
+Sheep station.txt:Texas A&M University.txt:0.00089878
+Sheep station.txt:Deforestation.txt:0.00129997
+Sheep station.txt:Environmental impact of pesticides.txt:0.00047360
+Sheep station.txt:horses.txt:0.00105079
+Sheep station.txt:pasture.txt:0.00000000
+Sheep station.txt:Oils.txt:0.00000000
+Sheep station.txt:pastoral farming.txt:0.00181077
+Sheep station.txt:plough.txt:0.00048882
+Sheep station.txt:Bovine.txt:0.00086430
+Sheep station.txt:sheep.txt:0.00156828
+Sheep station.txt:Animal Welfare.txt:0.00140870
+Sheep station.txt:Environmental impacts of irrigation.txt:0.00096868
+Sheep station.txt:Ecosystem services.txt:0.00102564
+Sheep station.txt:Mixed farming.txt:0.00246609
+Sheep station.txt:Vegetables.txt:0.00141004
+Sheep station.txt:Animal Husbandry.txt:0.00145322
+Sheep station.txt:Fruits.txt:0.00154416
+Sheep station.txt:tractors.txt:0.00033237
+Sheep station.txt:Aquifers.txt:0.00113960
+Sheep station.txt:Fertilizer.txt:0.00090596
+Sheep station.txt:Neolithic Revolution.txt:0.00101482
+Sheep station.txt:cereal.txt:0.00089127
+Sheep station.txt:Antibiotic Resistance.txt:0.00097412
+Sheep station.txt:Plants.txt:0.00129310
+Sheep station.txt:goats.txt:0.00096061
+Cereal crops.txt:goats.txt:0.00251116
+Cereal crops.txt:Genetically Modified Organism.txt:0.00338362
+Cereal crops.txt:Ox.txt:0.00176741
+Cereal crops.txt:Savannas.txt:0.00215983
+Cereal crops.txt:Environmental impact of pesticides.txt:0.00272109
+Cereal crops.txt:reindeers.txt:0.00205457
+Cereal crops.txt:Fuel.txt:0.00339723
+Cereal crops.txt:yaks.txt:0.00286442
+Cereal crops.txt:camels.txt:0.00251678
+Cereal crops.txt:History of agriculture.txt:0.00483534
+Cereal crops.txt:Family farm.txt:0.00164775
+Cereal crops.txt:tractors.txt:0.00372758
+Cereal crops.txt:Deforestation.txt:0.00285771
+Cereal crops.txt:Fertilizer.txt:0.00295077
+Cereal crops.txt:Sheep station.txt:0.00089127
+Cereal crops.txt:Antibiotic Resistance.txt:0.00283810
+Cereal crops.txt:pasture.txt:0.00101729
+Cereal crops.txt:Sustainable agriculture.txt:0.00270555
+Cereal crops.txt:Oils.txt:0.00150830
+Cereal crops.txt:Animal Welfare.txt:0.00257420
+Cereal crops.txt:Selective Breeding.txt:0.00109842
+Cereal crops.txt:Bovine.txt:0.00143609
+Cereal crops.txt:Neolithic Revolution.txt:0.00445205
+Cereal crops.txt:Agrochemicals.txt:0.00153218
+Cereal crops.txt:Aquifers.txt:0.00202748
+Cereal crops.txt:Genetic Engineering.txt:0.00246914
+Cereal crops.txt:Pesticides.txt:0.00330777
+Cereal crops.txt:horses.txt:0.00242488
+Cereal crops.txt:Animal.txt:0.00330225
+Cereal crops.txt:cattle.txt:0.00248381
+Cereal crops.txt:Vegetables.txt:0.00718617
+Cereal crops.txt:pastoral farming.txt:0.00222930
+Cereal crops.txt:llamas.txt:0.00255654
+Cereal crops.txt:livestock.txt:0.00404749
+Cereal crops.txt:Agronomy.txt:0.00266548
+Cereal crops.txt:FarmVille.txt:0.00336289
+Cereal crops.txt:Soil salinity.txt:0.00316706
+Cereal crops.txt:Environmental impact of agriculture.txt:0.00254907
+Cereal crops.txt:Genetically Modified Food.txt:0.00279183
+Cereal crops.txt:Animal Husbandry.txt:0.00311187
+Cereal crops.txt:Cattle Station.txt:0.00190042
+Cereal crops.txt:Mixed farming.txt:0.00057274
+Cereal crops.txt:Environmental impacts of irrigation.txt:0.00148957
+Cereal crops.txt:Meat industry.txt:0.00131984
+Cereal crops.txt:Agriculture.txt:0.00516614
+Cereal crops.txt:Growth Hormone.txt:0.00365455
+Cereal crops.txt:Plant Breeding.txt:0.00438827
+Cereal crops.txt:Eggs.txt:0.00097991
+Cereal crops.txt:Global Warming.txt:0.00227247
+Cereal crops.txt:Fruits.txt:0.00312200
+Cereal crops.txt:Texas A&M University.txt:0.00193404
+Cereal crops.txt:Hunter-gatherer.txt:0.00292200
+Cereal crops.txt:Ecosystem services.txt:0.00271143
+Cereal crops.txt:plough.txt:0.00230769
+Cereal crops.txt:Plants.txt:0.00291878
+Cereal crops.txt:fungi.txt:0.00202312
+Cereal crops.txt:Subsistence agriculture.txt:0.00276625
+Cereal crops.txt:sheep.txt:0.00223282
+Cereal crops.txt:Pastoralism.txt:0.00277008
+Cereal crops.txt:Meat.txt:0.00268786
+Cereal crops.txt:cereal.txt:1.00000000
+Cereal crops.txt:Milk.txt:0.00449457
+Cereal crops.txt:Ranches.txt:0.00216041
+Environmental impact of agriculture.txt:yaks.txt:0.00334104
+Environmental impact of agriculture.txt:Pesticides.txt:0.00759837
+Environmental impact of agriculture.txt:Genetically Modified Food.txt:0.00432633
+Environmental impact of agriculture.txt:Animal Husbandry.txt:0.00418410
+Environmental impact of agriculture.txt:Pastoralism.txt:0.00598114
+Environmental impact of agriculture.txt:History of agriculture.txt:0.00308935
+Environmental impact of agriculture.txt:Genetic Engineering.txt:0.00568812
+Environmental impact of agriculture.txt:Cattle Station.txt:0.00236616
+Environmental impact of agriculture.txt:Meat.txt:0.00430432
+Environmental impact of agriculture.txt:fungi.txt:0.00305755
+Environmental impact of agriculture.txt:Mixed farming.txt:0.00160256
+Environmental impact of agriculture.txt:Meat industry.txt:0.00331236
+Environmental impact of agriculture.txt:Plant Breeding.txt:0.00481068
+Environmental impact of agriculture.txt:Agronomy.txt:0.00366789
+Environmental impact of agriculture.txt:Global Warming.txt:0.00683563
+Environmental impact of agriculture.txt:Texas A&M University.txt:0.00227015
+Environmental impact of agriculture.txt:Ecosystem services.txt:0.00578512
+Environmental impact of agriculture.txt:Agrochemicals.txt:0.00110660
+Environmental impact of agriculture.txt:Fuel.txt:0.00452117
+Environmental impact of agriculture.txt:Plants.txt:0.00394340
+Environmental impact of agriculture.txt:Subsistence agriculture.txt:0.00412314
+Environmental impact of agriculture.txt:llamas.txt:0.00325789
+Environmental impact of agriculture.txt:Genetically Modified Organism.txt:0.00472361
+Environmental impact of agriculture.txt:Sustainable agriculture.txt:0.00924415
+Environmental impact of agriculture.txt:Selective Breeding.txt:0.00207586
+Environmental impact of agriculture.txt:cattle.txt:0.00424894
+Environmental impact of agriculture.txt:Savannas.txt:0.00631057
+Environmental impact of agriculture.txt:reindeers.txt:0.00263321
+Environmental impact of agriculture.txt:camels.txt:0.00193596
+Environmental impact of agriculture.txt:Growth Hormone.txt:0.00437342
+Environmental impact of agriculture.txt:Soil salinity.txt:0.00612182
+Environmental impact of agriculture.txt:Family farm.txt:0.00451904
+Environmental impact of agriculture.txt:Deforestation.txt:0.00979305
+Environmental impact of agriculture.txt:Sheep station.txt:0.00133556
+Environmental impact of agriculture.txt:Milk.txt:0.00374472
+Environmental impact of agriculture.txt:pasture.txt:0.00147221
+Environmental impact of agriculture.txt:Oils.txt:0.00205761
+Environmental impact of agriculture.txt:Cereal crops.txt:0.00254907
+Environmental impact of agriculture.txt:Bovine.txt:0.00070348
+Environmental impact of agriculture.txt:Ranches.txt:0.00404858
+Environmental impact of agriculture.txt:Environmental impact of pesticides.txt:0.00612662
+Environmental impact of agriculture.txt:horses.txt:0.00332453
+Environmental impact of agriculture.txt:Eggs.txt:0.00035778
+Environmental impact of agriculture.txt:plough.txt:0.00447609
+Environmental impact of agriculture.txt:FarmVille.txt:0.00173784
+Environmental impact of agriculture.txt:sheep.txt:0.00292536
+Environmental impact of agriculture.txt:Animal Welfare.txt:0.00367497
+Environmental impact of agriculture.txt:Environmental impacts of irrigation.txt:0.00715338
+Environmental impact of agriculture.txt:Vegetables.txt:0.00479570
+Environmental impact of agriculture.txt:Fruits.txt:0.00223623
+Environmental impact of agriculture.txt:tractors.txt:0.00299513
+Environmental impact of agriculture.txt:Aquifers.txt:0.00463589
+Environmental impact of agriculture.txt:Fertilizer.txt:0.00557802
+Environmental impact of agriculture.txt:cereal.txt:0.00254907
+Environmental impact of agriculture.txt:Antibiotic Resistance.txt:0.00600430
+Environmental impact of agriculture.txt:Neolithic Revolution.txt:0.00257498
+Environmental impact of agriculture.txt:goats.txt:0.00366625
+Environmental impact of agriculture.txt:Hunter-gatherer.txt:0.00288462
+Environmental impact of agriculture.txt:livestock.txt:0.00471592
+Environmental impact of agriculture.txt:Ox.txt:0.00055788
+Environmental impact of agriculture.txt:Animal.txt:0.00271095
+Environmental impact of agriculture.txt:Agriculture.txt:0.00659246
+Environmental impact of agriculture.txt:pastoral farming.txt:0.00386100
+Milk.txt:Environmental impact of pesticides.txt:0.00348432
+Milk.txt:yaks.txt:0.00220526
+Milk.txt:History of agriculture.txt:0.00510110
+Milk.txt:tractors.txt:0.00490910
+Milk.txt:Fertilizer.txt:0.00652246
+Milk.txt:Animal Welfare.txt:0.00374286
+Milk.txt:Antibiotic Resistance.txt:0.00538858
+Milk.txt:Sustainable agriculture.txt:0.00537564
+Milk.txt:Selective Breeding.txt:0.00219814
+Milk.txt:Neolithic Revolution.txt:0.00463219
+Milk.txt:Agrochemicals.txt:0.00113058
+Milk.txt:Aquifers.txt:0.00313647
+Milk.txt:Genetic Engineering.txt:0.00590499
+Milk.txt:Pesticides.txt:0.00596839
+Milk.txt:horses.txt:0.00475480
+Milk.txt:Animal.txt:0.00304613
+Milk.txt:cattle.txt:0.00792569
+Milk.txt:llamas.txt:0.00379258
+Milk.txt:Vegetables.txt:0.00443019
+Milk.txt:pastoral farming.txt:0.00229105
+Milk.txt:livestock.txt:0.00307742
+Milk.txt:Agronomy.txt:0.00091642
+Milk.txt:FarmVille.txt:0.00184486
+Milk.txt:Soil salinity.txt:0.00080429
+Milk.txt:Environmental impact of agriculture.txt:0.00374472
+Milk.txt:Genetically Modified Food.txt:0.00684644
+Milk.txt:Animal Husbandry.txt:0.00445331
+Milk.txt:Cattle Station.txt:0.00079702
+Milk.txt:Mixed farming.txt:0.00048045
+Milk.txt:Meat industry.txt:0.00082327
+Milk.txt:Plant Breeding.txt:0.00404774
+Milk.txt:Fuel.txt:0.00400031
+Milk.txt:Global Warming.txt:0.00482703
+Milk.txt:Texas A&M University.txt:0.00303490
+Milk.txt:Ecosystem services.txt:0.00427847
+Milk.txt:Plants.txt:0.00418207
+Milk.txt:Subsistence agriculture.txt:0.00199272
+Milk.txt:Genetically Modified Organism.txt:0.00464702
+Milk.txt:Savannas.txt:0.00348630
+Milk.txt:reindeers.txt:0.00501108
+Milk.txt:camels.txt:0.00480439
+Milk.txt:sheep.txt:0.00585938
+Milk.txt:Family farm.txt:0.00454804
+Milk.txt:Deforestation.txt:0.00651709
+Milk.txt:Sheep station.txt:0.00110102
+Milk.txt:pasture.txt:0.00056460
+Milk.txt:Oils.txt:0.00088410
+Milk.txt:Bovine.txt:0.00055809
+Milk.txt:cereal.txt:0.00449457
+Milk.txt:Pastoralism.txt:0.00310280
+Milk.txt:Agriculture.txt:0.00701508
+Milk.txt:Meat.txt:0.00641961
+Milk.txt:Cereal crops.txt:0.00449457
+Milk.txt:Environmental impacts of irrigation.txt:0.00205161
+Milk.txt:Growth Hormone.txt:0.00579584
+Milk.txt:Ranches.txt:0.00234875
+Milk.txt:Eggs.txt:0.00046716
+Milk.txt:Fruits.txt:0.00288950
+Milk.txt:Hunter-gatherer.txt:0.00336314
+Milk.txt:plough.txt:0.00440479
+Milk.txt:fungi.txt:0.00511361
+Milk.txt:goats.txt:0.00737210
+Milk.txt:Ox.txt:0.00191688
+horses.txt:Agrochemicals.txt:0.00072438
+horses.txt:llamas.txt:0.00492524
+horses.txt:Sustainable agriculture.txt:0.00494782
+horses.txt:Selective Breeding.txt:0.00257898
+horses.txt:Growth Hormone.txt:0.00461150
+horses.txt:Milk.txt:0.00475480
+horses.txt:Cereal crops.txt:0.00242488
+horses.txt:Ranches.txt:0.00289710
+horses.txt:Environmental impact of pesticides.txt:0.00244349
+horses.txt:Animal.txt:0.00419397
+horses.txt:cattle.txt:0.01164926
+horses.txt:Eggs.txt:0.00035851
+horses.txt:plough.txt:0.00559787
+horses.txt:Vegetables.txt:0.00306122
+horses.txt:pastoral farming.txt:0.00211528
+horses.txt:livestock.txt:0.00419706
+horses.txt:Agronomy.txt:0.00151657
+horses.txt:Pesticides.txt:0.00595791
+horses.txt:FarmVille.txt:0.00125026
+horses.txt:Soil salinity.txt:0.00112969
+horses.txt:Environmental impact of agriculture.txt:0.00332453
+horses.txt:Animal Welfare.txt:0.00434344
+horses.txt:Environmental impacts of irrigation.txt:0.00232153
+horses.txt:Genetically Modified Food.txt:0.00324028
+horses.txt:Animal Husbandry.txt:0.00503501
+horses.txt:History of agriculture.txt:0.00372359
+horses.txt:Cattle Station.txt:0.00122864
+horses.txt:Mixed farming.txt:0.00061958
+horses.txt:Meat industry.txt:0.00093067
+horses.txt:Plant Breeding.txt:0.00425035
+horses.txt:Fruits.txt:0.00372635
+horses.txt:tractors.txt:0.00555521
+horses.txt:Aquifers.txt:0.00353883
+horses.txt:Global Warming.txt:0.00450898
+horses.txt:Texas A&M University.txt:0.00310154
+horses.txt:Ecosystem services.txt:0.00391766
+horses.txt:Fertilizer.txt:0.00384706
+horses.txt:Plants.txt:0.00501412
+horses.txt:Subsistence agriculture.txt:0.00260756
+horses.txt:Neolithic Revolution.txt:0.00419995
+horses.txt:cereal.txt:0.00242488
+horses.txt:Antibiotic Resistance.txt:0.00437743
+horses.txt:Genetically Modified Organism.txt:0.00470782
+horses.txt:goats.txt:0.00813129
+horses.txt:Savannas.txt:0.00309721
+horses.txt:reindeers.txt:0.00564696
+horses.txt:camels.txt:0.00605119
+horses.txt:Family farm.txt:0.00382848
+horses.txt:Deforestation.txt:0.00701647
+horses.txt:Sheep station.txt:0.00105079
+horses.txt:Hunter-gatherer.txt:0.00353423
+horses.txt:pasture.txt:0.00072376
+horses.txt:Oils.txt:0.00167243
+horses.txt:Ox.txt:0.00372480
+horses.txt:Bovine.txt:0.00035642
+horses.txt:Agriculture.txt:0.00513063
+horses.txt:Fuel.txt:0.00451229
+horses.txt:sheep.txt:0.00721079
+horses.txt:yaks.txt:0.00349354
+horses.txt:Genetic Engineering.txt:0.00596172
+horses.txt:Pastoralism.txt:0.00363196
+horses.txt:Meat.txt:0.00478533
+horses.txt:fungi.txt:0.00649780
+Ranches.txt:Fruits.txt:0.00170213
+Ranches.txt:Texas A&M University.txt:0.00260945
+Ranches.txt:Hunter-gatherer.txt:0.00422365
+Ranches.txt:Ecosystem services.txt:0.00350750
+Ranches.txt:Animal Welfare.txt:0.00280426
+Ranches.txt:plough.txt:0.00249273
+Ranches.txt:Plants.txt:0.00178168
+Ranches.txt:fungi.txt:0.00220022
+Ranches.txt:Subsistence agriculture.txt:0.00350980
+Ranches.txt:goats.txt:0.00259841
+Ranches.txt:Genetically Modified Organism.txt:0.00235911
+Ranches.txt:Ox.txt:0.00148810
+Ranches.txt:Savannas.txt:0.00497395
+Ranches.txt:Environmental impact of pesticides.txt:0.00211342
+Ranches.txt:reindeers.txt:0.00299543
+Ranches.txt:yaks.txt:0.00135980
+Ranches.txt:camels.txt:0.00339297
+Ranches.txt:History of agriculture.txt:0.00366300
+Ranches.txt:Family farm.txt:0.00384680
+Ranches.txt:tractors.txt:0.00257954
+Ranches.txt:Deforestation.txt:0.00234017
+Ranches.txt:Fertilizer.txt:0.00200717
+Ranches.txt:Sheep station.txt:0.00288913
+Ranches.txt:Antibiotic Resistance.txt:0.00208333
+Ranches.txt:pasture.txt:0.00160321
+Ranches.txt:Sustainable agriculture.txt:0.00292438
+Ranches.txt:Oils.txt:0.00031387
+Ranches.txt:Selective Breeding.txt:0.00295683
+Ranches.txt:Bovine.txt:0.00076307
+Ranches.txt:Neolithic Revolution.txt:0.00219333
+Ranches.txt:Agrochemicals.txt:0.00120530
+Ranches.txt:Aquifers.txt:0.00342604
+Ranches.txt:Genetic Engineering.txt:0.00314061
+Ranches.txt:Pesticides.txt:0.00320290
+Ranches.txt:horses.txt:0.00289710
+Ranches.txt:Animal.txt:0.00211119
+Ranches.txt:Fuel.txt:0.00279390
+Ranches.txt:cattle.txt:0.00424376
+Ranches.txt:Vegetables.txt:0.00259844
+Ranches.txt:pastoral farming.txt:0.00491803
+Ranches.txt:livestock.txt:0.00448854
+Ranches.txt:Agronomy.txt:0.00215672
+Ranches.txt:FarmVille.txt:0.00105014
+Ranches.txt:Soil salinity.txt:0.00097975
+Ranches.txt:Environmental impact of agriculture.txt:0.00404858
+Ranches.txt:Genetically Modified Food.txt:0.00207502
+Ranches.txt:Animal Husbandry.txt:0.00373993
+Ranches.txt:Cattle Station.txt:0.00507775
+Ranches.txt:Mixed farming.txt:0.00175901
+Ranches.txt:Meat industry.txt:0.00178444
+Ranches.txt:Plant Breeding.txt:0.00288693
+Ranches.txt:Global Warming.txt:0.00278790
+Ranches.txt:cereal.txt:0.00216041
+Ranches.txt:llamas.txt:0.00392367
+Ranches.txt:sheep.txt:0.00308463
+Ranches.txt:Milk.txt:0.00234875
+Ranches.txt:Pastoralism.txt:0.00362669
+Ranches.txt:Agriculture.txt:0.00430796
+Ranches.txt:Meat.txt:0.00231023
+Ranches.txt:Cereal crops.txt:0.00216041
+Ranches.txt:Environmental impacts of irrigation.txt:0.00373791
+Ranches.txt:Growth Hormone.txt:0.00261597
+Ranches.txt:Eggs.txt:0.00000000
+Sustainable agriculture.txt:Oils.txt:0.00195599
+Sustainable agriculture.txt:Selective Breeding.txt:0.00286604
+Sustainable agriculture.txt:Bovine.txt:0.00035836
+Sustainable agriculture.txt:Antibiotic Resistance.txt:0.00562624
+Sustainable agriculture.txt:Neolithic Revolution.txt:0.00353925
+Sustainable agriculture.txt:Agrochemicals.txt:0.00073421
+Sustainable agriculture.txt:Growth Hormone.txt:0.00299436
+Sustainable agriculture.txt:Aquifers.txt:0.00430108
+Sustainable agriculture.txt:Genetic Engineering.txt:0.00594279
+Sustainable agriculture.txt:Pesticides.txt:0.00623701
+Sustainable agriculture.txt:Milk.txt:0.00537564
+Sustainable agriculture.txt:horses.txt:0.00494782
+Sustainable agriculture.txt:Animal.txt:0.00196782
+Sustainable agriculture.txt:Cereal crops.txt:0.00270555
+Sustainable agriculture.txt:cattle.txt:0.00543774
+Sustainable agriculture.txt:Vegetables.txt:0.00402820
+Sustainable agriculture.txt:pastoral farming.txt:0.00241619
+Sustainable agriculture.txt:livestock.txt:0.00319933
+Sustainable agriculture.txt:Ranches.txt:0.00292438
+Sustainable agriculture.txt:Agronomy.txt:0.00331646
+Sustainable agriculture.txt:FarmVille.txt:0.00118256
+Sustainable agriculture.txt:Soil salinity.txt:0.00266267
+Sustainable agriculture.txt:Environmental impact of pesticides.txt:0.00464576
+Sustainable agriculture.txt:Environmental impact of agriculture.txt:0.00924415
+Sustainable agriculture.txt:Genetically Modified Food.txt:0.00423959
+Sustainable agriculture.txt:plough.txt:0.00526064
+Sustainable agriculture.txt:Eggs.txt:0.00054240
+Sustainable agriculture.txt:Animal Husbandry.txt:0.00525996
+Sustainable agriculture.txt:Cattle Station.txt:0.00179856
+Sustainable agriculture.txt:Mixed farming.txt:0.00057307
+Sustainable agriculture.txt:Meat industry.txt:0.00173702
+Sustainable agriculture.txt:Plant Breeding.txt:0.00655523
+Sustainable agriculture.txt:Global Warming.txt:0.00547162
+Sustainable agriculture.txt:Texas A&M University.txt:0.00270717
+Sustainable agriculture.txt:Animal Welfare.txt:0.00486932
+Sustainable agriculture.txt:Environmental impacts of irrigation.txt:0.00507546
+Sustainable agriculture.txt:Ecosystem services.txt:0.00887256
+Sustainable agriculture.txt:Plants.txt:0.00440762
+Sustainable agriculture.txt:History of agriculture.txt:0.00512452
+Sustainable agriculture.txt:Subsistence agriculture.txt:0.00408484
+Sustainable agriculture.txt:Genetically Modified Organism.txt:0.00540233
+Sustainable agriculture.txt:Savannas.txt:0.00418235
+Sustainable agriculture.txt:reindeers.txt:0.00339070
+Sustainable agriculture.txt:Fruits.txt:0.00261506
+Sustainable agriculture.txt:tractors.txt:0.00440463
+Sustainable agriculture.txt:camels.txt:0.00360475
+Sustainable agriculture.txt:Family farm.txt:0.00594904
+Sustainable agriculture.txt:Deforestation.txt:0.00789027
+Sustainable agriculture.txt:Sheep station.txt:0.00087230
+Sustainable agriculture.txt:pasture.txt:0.00091676
+Sustainable agriculture.txt:llamas.txt:0.00409165
+Sustainable agriculture.txt:goats.txt:0.00442145
+Sustainable agriculture.txt:Hunter-gatherer.txt:0.00353312
+Sustainable agriculture.txt:Ox.txt:0.00221835
+Sustainable agriculture.txt:Agriculture.txt:0.00802944
+Sustainable agriculture.txt:Fuel.txt:0.00474308
+Sustainable agriculture.txt:sheep.txt:0.00473577
+Sustainable agriculture.txt:yaks.txt:0.00180995
+Sustainable agriculture.txt:Pastoralism.txt:0.00537254
+Sustainable agriculture.txt:Meat.txt:0.00600050
+Sustainable agriculture.txt:fungi.txt:0.00441038
+Sustainable agriculture.txt:Fertilizer.txt:0.00647446
+Sustainable agriculture.txt:cereal.txt:0.00270555
+Environmental impacts of irrigation.txt:Fuel.txt:0.00301568
+Environmental impacts of irrigation.txt:Animal Welfare.txt:0.00254828
+Environmental impacts of irrigation.txt:Growth Hormone.txt:0.00297324
+Environmental impacts of irrigation.txt:Eggs.txt:0.00000000
+Environmental impacts of irrigation.txt:Fruits.txt:0.00139331
+Environmental impacts of irrigation.txt:Hunter-gatherer.txt:0.00188466
+Environmental impacts of irrigation.txt:plough.txt:0.00291575
+Environmental impacts of irrigation.txt:fungi.txt:0.00186933
+Environmental impacts of irrigation.txt:goats.txt:0.00174433
+Environmental impacts of irrigation.txt:Ox.txt:0.00108578
+Environmental impacts of irrigation.txt:Environmental impact of pesticides.txt:0.00316984
+Environmental impacts of irrigation.txt:yaks.txt:0.00099975
+Environmental impacts of irrigation.txt:History of agriculture.txt:0.00340615
+Environmental impacts of irrigation.txt:llamas.txt:0.00235770
+Environmental impacts of irrigation.txt:tractors.txt:0.00194516
+Environmental impacts of irrigation.txt:Fertilizer.txt:0.00425766
+Environmental impacts of irrigation.txt:Antibiotic Resistance.txt:0.00413685
+Environmental impacts of irrigation.txt:Sustainable agriculture.txt:0.00507546
+Environmental impacts of irrigation.txt:Selective Breeding.txt:0.00185151
+Environmental impacts of irrigation.txt:Neolithic Revolution.txt:0.00283540
+Environmental impacts of irrigation.txt:Agrochemicals.txt:0.00106686
+Environmental impacts of irrigation.txt:Aquifers.txt:0.00511848
+Environmental impacts of irrigation.txt:Genetic Engineering.txt:0.00341297
+Environmental impacts of irrigation.txt:Cereal crops.txt:0.00148957
+Environmental impacts of irrigation.txt:Pesticides.txt:0.00360000
+Environmental impacts of irrigation.txt:Agriculture.txt:0.00383836
+Environmental impacts of irrigation.txt:horses.txt:0.00232153
+Environmental impacts of irrigation.txt:Animal.txt:0.00199767
+Environmental impacts of irrigation.txt:cattle.txt:0.00330169
+Environmental impacts of irrigation.txt:Vegetables.txt:0.00225268
+Environmental impacts of irrigation.txt:pastoral farming.txt:0.00250564
+Environmental impacts of irrigation.txt:livestock.txt:0.00241017
+Environmental impacts of irrigation.txt:Agronomy.txt:0.00193237
+Environmental impacts of irrigation.txt:FarmVille.txt:0.00193798
+Environmental impacts of irrigation.txt:Soil salinity.txt:0.00385185
+Environmental impacts of irrigation.txt:Environmental impact of agriculture.txt:0.00715338
+Environmental impacts of irrigation.txt:Genetically Modified Food.txt:0.00197328
+Environmental impacts of irrigation.txt:Animal Husbandry.txt:0.00357388
+Environmental impacts of irrigation.txt:sheep.txt:0.00261658
+Environmental impacts of irrigation.txt:Cattle Station.txt:0.00114745
+Environmental impacts of irrigation.txt:Mixed farming.txt:0.00076953
+Environmental impacts of irrigation.txt:Meat industry.txt:0.00160000
+Environmental impacts of irrigation.txt:Plant Breeding.txt:0.00412277
+Environmental impacts of irrigation.txt:Global Warming.txt:0.00259067
+Environmental impacts of irrigation.txt:Pastoralism.txt:0.00358905
+Environmental impacts of irrigation.txt:Texas A&M University.txt:0.00187319
+Environmental impacts of irrigation.txt:Meat.txt:0.00361702
+Environmental impacts of irrigation.txt:Ecosystem services.txt:0.00419385
+Environmental impacts of irrigation.txt:Plants.txt:0.00240385
+Environmental impacts of irrigation.txt:Subsistence agriculture.txt:0.00106667
+Environmental impacts of irrigation.txt:Genetically Modified Organism.txt:0.00302001
+Environmental impacts of irrigation.txt:Savannas.txt:0.00462046
+Environmental impacts of irrigation.txt:reindeers.txt:0.00261277
+Environmental impacts of irrigation.txt:camels.txt:0.00234845
+Environmental impacts of irrigation.txt:Family farm.txt:0.00285397
+Environmental impacts of irrigation.txt:cereal.txt:0.00148957
+Environmental impacts of irrigation.txt:Deforestation.txt:0.00565229
+Environmental impacts of irrigation.txt:Sheep station.txt:0.00096868
+Environmental impacts of irrigation.txt:pasture.txt:0.00106421
+Environmental impacts of irrigation.txt:Oils.txt:0.00085543
+Environmental impacts of irrigation.txt:Bovine.txt:0.00067935
+Environmental impacts of irrigation.txt:Milk.txt:0.00205161
+Environmental impacts of irrigation.txt:Ranches.txt:0.00373791
+yaks.txt:Soil salinity.txt:0.00119904
+yaks.txt:Environmental impact of agriculture.txt:0.00334104
+yaks.txt:Milk.txt:0.00220526
+yaks.txt:Genetically Modified Food.txt:0.00245442
+yaks.txt:Animal Husbandry.txt:0.00391053
+yaks.txt:Cereal crops.txt:0.00286442
+yaks.txt:Cattle Station.txt:0.00115207
+yaks.txt:Mixed farming.txt:0.00116550
+yaks.txt:Meat industry.txt:0.00000000
+yaks.txt:Plant Breeding.txt:0.00158339
+yaks.txt:Ranches.txt:0.00135980
+yaks.txt:Global Warming.txt:0.00193732
+yaks.txt:Texas A&M University.txt:0.00071378
+yaks.txt:Ecosystem services.txt:0.00103506
+yaks.txt:Environmental impact of pesticides.txt:0.00234467
+yaks.txt:Plants.txt:0.00267414
+yaks.txt:Subsistence agriculture.txt:0.00104603
+yaks.txt:Eggs.txt:0.00099404
+yaks.txt:plough.txt:0.00220459
+yaks.txt:Genetically Modified Organism.txt:0.00282965
+yaks.txt:Savannas.txt:0.00244965
+yaks.txt:reindeers.txt:0.00247239
+yaks.txt:camels.txt:0.00286726
+yaks.txt:Family farm.txt:0.00184094
+yaks.txt:Deforestation.txt:0.00128268
+yaks.txt:Sheep station.txt:0.00407609
+yaks.txt:Animal Welfare.txt:0.00167148
+yaks.txt:Environmental impacts of irrigation.txt:0.00099975
+yaks.txt:pasture.txt:0.00103252
+yaks.txt:Oils.txt:0.00038081
+yaks.txt:Bovine.txt:0.00048497
+yaks.txt:Fruits.txt:0.00193237
+yaks.txt:llamas.txt:0.00455807
+yaks.txt:goats.txt:0.00336464
+yaks.txt:Fuel.txt:0.00195217
+yaks.txt:Hunter-gatherer.txt:0.00226091
+yaks.txt:Ox.txt:0.00142806
+yaks.txt:Agriculture.txt:0.00164358
+yaks.txt:sheep.txt:0.00244349
+yaks.txt:History of agriculture.txt:0.00104548
+yaks.txt:tractors.txt:0.00201735
+yaks.txt:Fertilizer.txt:0.00155788
+yaks.txt:Antibiotic Resistance.txt:0.00185575
+yaks.txt:Sustainable agriculture.txt:0.00180995
+yaks.txt:Pastoralism.txt:0.00195312
+yaks.txt:Selective Breeding.txt:0.00199159
+yaks.txt:Meat.txt:0.00246190
+yaks.txt:fungi.txt:0.00222244
+yaks.txt:Neolithic Revolution.txt:0.00171615
+yaks.txt:Agrochemicals.txt:0.00155521
+yaks.txt:Aquifers.txt:0.00158658
+yaks.txt:Genetic Engineering.txt:0.00216953
+yaks.txt:Pesticides.txt:0.00165837
+yaks.txt:horses.txt:0.00349354
+yaks.txt:Animal.txt:0.00253758
+yaks.txt:cattle.txt:0.00338259
+yaks.txt:cereal.txt:0.00286442
+yaks.txt:Vegetables.txt:0.00315173
+yaks.txt:pastoral farming.txt:0.00128452
+yaks.txt:livestock.txt:0.00271592
+yaks.txt:Agronomy.txt:0.00179856
+yaks.txt:Growth Hormone.txt:0.00212437
+yaks.txt:FarmVille.txt:0.00061520
+Fertilizer.txt:Growth Hormone.txt:0.00568182
+Fertilizer.txt:Milk.txt:0.00652246
+Fertilizer.txt:Cereal crops.txt:0.00295077
+Fertilizer.txt:Ranches.txt:0.00200717
+Fertilizer.txt:Environmental impact of pesticides.txt:0.00596161
+Fertilizer.txt:Eggs.txt:0.00018797
+Fertilizer.txt:plough.txt:0.00486263
+Fertilizer.txt:Animal Welfare.txt:0.00283659
+Fertilizer.txt:Environmental impacts of irrigation.txt:0.00425766
+Fertilizer.txt:History of agriculture.txt:0.00458001
+Fertilizer.txt:Fruits.txt:0.00404040
+Fertilizer.txt:tractors.txt:0.00447580
+Fertilizer.txt:llamas.txt:0.00443698
+Fertilizer.txt:goats.txt:0.00509077
+Fertilizer.txt:Agrochemicals.txt:0.00267943
+Fertilizer.txt:Aquifers.txt:0.00494277
+Fertilizer.txt:Genetic Engineering.txt:0.00493523
+Fertilizer.txt:Pesticides.txt:0.00728819
+Fertilizer.txt:horses.txt:0.00384706
+Fertilizer.txt:Hunter-gatherer.txt:0.00272056
+Fertilizer.txt:Animal.txt:0.00201756
+Fertilizer.txt:cattle.txt:0.00496312
+Fertilizer.txt:Fuel.txt:0.00501627
+Fertilizer.txt:Ox.txt:0.00246023
+Fertilizer.txt:Vegetables.txt:0.00478902
+Fertilizer.txt:Agriculture.txt:0.00834682
+Fertilizer.txt:pastoral farming.txt:0.00171500
+Fertilizer.txt:livestock.txt:0.00401664
+Fertilizer.txt:Agronomy.txt:0.00180995
+Fertilizer.txt:FarmVille.txt:0.00213871
+Fertilizer.txt:Soil salinity.txt:0.00241463
+Fertilizer.txt:Environmental impact of agriculture.txt:0.00557802
+Fertilizer.txt:Genetically Modified Food.txt:0.00557103
+Fertilizer.txt:Animal Husbandry.txt:0.00506408
+Fertilizer.txt:Cattle Station.txt:0.00135455
+Fertilizer.txt:Mixed farming.txt:0.00039817
+Fertilizer.txt:Meat industry.txt:0.00126194
+Fertilizer.txt:Plant Breeding.txt:0.00637370
+Fertilizer.txt:sheep.txt:0.00550417
+Fertilizer.txt:yaks.txt:0.00155788
+Fertilizer.txt:Global Warming.txt:0.00707508
+Fertilizer.txt:Texas A&M University.txt:0.00190898
+Fertilizer.txt:Ecosystem services.txt:0.00473071
+Fertilizer.txt:Plants.txt:0.00593792
+Fertilizer.txt:Subsistence agriculture.txt:0.00227125
+Fertilizer.txt:Pastoralism.txt:0.00334545
+Fertilizer.txt:Genetically Modified Organism.txt:0.00395982
+Fertilizer.txt:Meat.txt:0.00585291
+Fertilizer.txt:fungi.txt:0.00529139
+Fertilizer.txt:Savannas.txt:0.00272558
+Fertilizer.txt:reindeers.txt:0.00441472
+Fertilizer.txt:camels.txt:0.00336153
+Fertilizer.txt:Family farm.txt:0.00505457
+Fertilizer.txt:Deforestation.txt:0.00635752
+Fertilizer.txt:Sheep station.txt:0.00090596
+Fertilizer.txt:Antibiotic Resistance.txt:0.00635313
+Fertilizer.txt:pasture.txt:0.00095402
+Fertilizer.txt:Sustainable agriculture.txt:0.00647446
+Fertilizer.txt:Oils.txt:0.00270362
+Fertilizer.txt:cereal.txt:0.00295077
+Fertilizer.txt:Selective Breeding.txt:0.00345799
+Fertilizer.txt:Bovine.txt:0.00055897
+Fertilizer.txt:Neolithic Revolution.txt:0.00285150
+Neolithic Revolution.txt:Bovine.txt:0.00041876
+Neolithic Revolution.txt:llamas.txt:0.00451671
+Neolithic Revolution.txt:Sustainable agriculture.txt:0.00353925
+Neolithic Revolution.txt:Selective Breeding.txt:0.00276893
+Neolithic Revolution.txt:Growth Hormone.txt:0.00266396
+Neolithic Revolution.txt:Milk.txt:0.00463219
+Neolithic Revolution.txt:Cereal crops.txt:0.00445205
+Neolithic Revolution.txt:Ranches.txt:0.00219333
+Neolithic Revolution.txt:Oils.txt:0.00149981
+Neolithic Revolution.txt:Environmental impact of pesticides.txt:0.00294042
+Neolithic Revolution.txt:Eggs.txt:0.00042310
+Neolithic Revolution.txt:plough.txt:0.00391123
+Neolithic Revolution.txt:Animal Welfare.txt:0.00247738
+Neolithic Revolution.txt:Environmental impacts of irrigation.txt:0.00283540
+Neolithic Revolution.txt:History of agriculture.txt:0.00933943
+Neolithic Revolution.txt:Fruits.txt:0.00219042
+Neolithic Revolution.txt:tractors.txt:0.00333148
+Neolithic Revolution.txt:cereal.txt:0.00445205
+Neolithic Revolution.txt:Antibiotic Resistance.txt:0.00334045
+Neolithic Revolution.txt:Agrochemicals.txt:0.00064599
+Neolithic Revolution.txt:goats.txt:0.00355800
+Neolithic Revolution.txt:Aquifers.txt:0.00238865
+Neolithic Revolution.txt:Genetic Engineering.txt:0.00316836
+Neolithic Revolution.txt:Pesticides.txt:0.00472356
+Neolithic Revolution.txt:horses.txt:0.00419995
+Neolithic Revolution.txt:Animal.txt:0.00357919
+Neolithic Revolution.txt:cattle.txt:0.00438030
+Neolithic Revolution.txt:Hunter-gatherer.txt:0.00718613
+Neolithic Revolution.txt:Vegetables.txt:0.00434174
+Neolithic Revolution.txt:pastoral farming.txt:0.00292297
+Neolithic Revolution.txt:Ox.txt:0.00126973
+Neolithic Revolution.txt:livestock.txt:0.00438940
+Neolithic Revolution.txt:Agriculture.txt:0.00635290
+Neolithic Revolution.txt:Agronomy.txt:0.00162107
+Neolithic Revolution.txt:FarmVille.txt:0.00117430
+Neolithic Revolution.txt:Soil salinity.txt:0.00115075
+Neolithic Revolution.txt:Fuel.txt:0.00249853
+Neolithic Revolution.txt:Environmental impact of agriculture.txt:0.00257498
+Neolithic Revolution.txt:Genetically Modified Food.txt:0.00273484
+Neolithic Revolution.txt:Animal Husbandry.txt:0.00473047
+Neolithic Revolution.txt:Cattle Station.txt:0.00094038
+Neolithic Revolution.txt:Mixed farming.txt:0.00022563
+Neolithic Revolution.txt:Meat industry.txt:0.00080678
+Neolithic Revolution.txt:Plant Breeding.txt:0.00370061
+Neolithic Revolution.txt:Global Warming.txt:0.00348827
+Neolithic Revolution.txt:Texas A&M University.txt:0.00240019
+Neolithic Revolution.txt:sheep.txt:0.00504081
+Neolithic Revolution.txt:yaks.txt:0.00171615
+Neolithic Revolution.txt:Ecosystem services.txt:0.00384172
+Neolithic Revolution.txt:Plants.txt:0.00341135
+Neolithic Revolution.txt:Subsistence agriculture.txt:0.00233268
+Neolithic Revolution.txt:Genetically Modified Organism.txt:0.00440574
+Neolithic Revolution.txt:Savannas.txt:0.00345044
+Neolithic Revolution.txt:Pastoralism.txt:0.00366067
+Neolithic Revolution.txt:reindeers.txt:0.00343944
+Neolithic Revolution.txt:Meat.txt:0.00472666
+Neolithic Revolution.txt:fungi.txt:0.00437452
+Neolithic Revolution.txt:camels.txt:0.00382476
+Neolithic Revolution.txt:Family farm.txt:0.00258112
+Neolithic Revolution.txt:Deforestation.txt:0.00492188
+Neolithic Revolution.txt:Sheep station.txt:0.00101482
+Neolithic Revolution.txt:pasture.txt:0.00021492
+Neolithic Revolution.txt:Fertilizer.txt:0.00285150
+Plants.txt:Bovine.txt:0.00102820
+Plants.txt:Ranches.txt:0.00178168
+Plants.txt:Fuel.txt:0.00419454
+Plants.txt:Eggs.txt:0.00014782
+Plants.txt:FarmVille.txt:0.00212819
+Plants.txt:yaks.txt:0.00267414
+Plants.txt:Pesticides.txt:0.00511554
+Plants.txt:Plant Breeding.txt:0.00558390
+Plants.txt:Environmental impact of agriculture.txt:0.00394340
+Plants.txt:Genetic Engineering.txt:0.00429684
+Plants.txt:History of agriculture.txt:0.00363872
+Plants.txt:Pastoralism.txt:0.00276442
+Plants.txt:fungi.txt:0.00994992
+Plants.txt:Meat.txt:0.00521384
+Plants.txt:Agronomy.txt:0.00215363
+Plants.txt:Agrochemicals.txt:0.00044903
+Plants.txt:llamas.txt:0.00439763
+Plants.txt:Global Warming.txt:0.00497143
+Plants.txt:Sustainable agriculture.txt:0.00440762
+Plants.txt:Selective Breeding.txt:0.00259291
+Plants.txt:cattle.txt:0.00621664
+Plants.txt:Growth Hormone.txt:0.00414141
+Plants.txt:Soil salinity.txt:0.00124172
+Plants.txt:Milk.txt:0.00418207
+Plants.txt:Cereal crops.txt:0.00291878
+Plants.txt:Genetically Modified Food.txt:0.00383509
+Plants.txt:Texas A&M University.txt:0.00268466
+Plants.txt:Environmental impact of pesticides.txt:0.00294327
+Plants.txt:horses.txt:0.00501412
+Plants.txt:pastoral farming.txt:0.00152711
+Plants.txt:plough.txt:0.00508204
+Plants.txt:sheep.txt:0.00495663
+Plants.txt:Animal Welfare.txt:0.00353857
+Plants.txt:Environmental impacts of irrigation.txt:0.00240385
+Plants.txt:Ecosystem services.txt:0.00490827
+Plants.txt:Mixed farming.txt:0.00046389
+Plants.txt:Vegetables.txt:0.00337801
+Plants.txt:Animal Husbandry.txt:0.00531005
+Plants.txt:Fruits.txt:0.00530893
+Plants.txt:tractors.txt:0.00417094
+Plants.txt:Aquifers.txt:0.00416074
+Plants.txt:Fertilizer.txt:0.00593792
+Plants.txt:Cattle Station.txt:0.00108829
+Plants.txt:Neolithic Revolution.txt:0.00341135
+Plants.txt:cereal.txt:0.00291878
+Plants.txt:Antibiotic Resistance.txt:0.00414160
+Plants.txt:Subsistence agriculture.txt:0.00223508
+Plants.txt:goats.txt:0.00616762
+Plants.txt:Genetically Modified Organism.txt:0.00449648
+Plants.txt:Savannas.txt:0.00309193
+Plants.txt:reindeers.txt:0.00427452
+Plants.txt:camels.txt:0.00328238
+Plants.txt:Family farm.txt:0.00324771
+Plants.txt:Deforestation.txt:0.00478792
+Plants.txt:Hunter-gatherer.txt:0.00327690
+Plants.txt:livestock.txt:0.00332700
+Plants.txt:Meat industry.txt:0.00143082
+Plants.txt:Sheep station.txt:0.00129310
+Plants.txt:Oils.txt:0.00299035
+Plants.txt:pasture.txt:0.00044856
+Plants.txt:Ox.txt:0.00172322
+Plants.txt:Animal.txt:0.00569569
+Plants.txt:Agriculture.txt:0.00506923
+Growth Hormone.txt:tractors.txt:0.00275735
+Growth Hormone.txt:Deforestation.txt:0.00444042
+Growth Hormone.txt:Fertilizer.txt:0.00568182
+Growth Hormone.txt:Sheep station.txt:0.00093458
+Growth Hormone.txt:Antibiotic Resistance.txt:0.00563910
+Growth Hormone.txt:pasture.txt:0.00099950
+Growth Hormone.txt:Sustainable agriculture.txt:0.00299436
+Growth Hormone.txt:Oils.txt:0.00299145
+Growth Hormone.txt:Selective Breeding.txt:0.00288929
+Growth Hormone.txt:Bovine.txt:0.00048450
+Growth Hormone.txt:Neolithic Revolution.txt:0.00266396
+Growth Hormone.txt:Agrochemicals.txt:0.00125188
+Growth Hormone.txt:Aquifers.txt:0.00495817
+Growth Hormone.txt:Genetic Engineering.txt:0.00577490
+Growth Hormone.txt:Pesticides.txt:0.00647025
+Growth Hormone.txt:horses.txt:0.00461150
+Growth Hormone.txt:Animal Welfare.txt:0.00312790
+Growth Hormone.txt:Environmental impacts of irrigation.txt:0.00297324
+Growth Hormone.txt:Fuel.txt:0.00357665
+Growth Hormone.txt:Animal.txt:0.00194742
+Growth Hormone.txt:cattle.txt:0.00459407
+Growth Hormone.txt:Vegetables.txt:0.00415640
+Growth Hormone.txt:pastoral farming.txt:0.00173879
+Growth Hormone.txt:livestock.txt:0.00278600
+Growth Hormone.txt:Agronomy.txt:0.00280177
+Growth Hormone.txt:FarmVille.txt:0.00112909
+Growth Hormone.txt:Soil salinity.txt:0.00131406
+Growth Hormone.txt:Environmental impact of agriculture.txt:0.00437342
+Growth Hormone.txt:Genetically Modified Food.txt:0.00646412
+Growth Hormone.txt:Animal Husbandry.txt:0.00414201
+Growth Hormone.txt:llamas.txt:0.00436312
+Growth Hormone.txt:Cattle Station.txt:0.00107089
+Growth Hormone.txt:Mixed farming.txt:0.00079323
+Growth Hormone.txt:Meat industry.txt:0.00116036
+Growth Hormone.txt:Plant Breeding.txt:0.00531157
+Growth Hormone.txt:Global Warming.txt:0.00416127
+Growth Hormone.txt:Texas A&M University.txt:0.00329336
+Growth Hormone.txt:Ecosystem services.txt:0.00327466
+Growth Hormone.txt:Plants.txt:0.00414141
+Growth Hormone.txt:Subsistence agriculture.txt:0.00182593
+Growth Hormone.txt:Cereal crops.txt:0.00365455
+Growth Hormone.txt:Genetically Modified Organism.txt:0.00560193
+Growth Hormone.txt:Agriculture.txt:0.00454933
+Growth Hormone.txt:Savannas.txt:0.00366556
+Growth Hormone.txt:reindeers.txt:0.00331359
+Growth Hormone.txt:camels.txt:0.00312969
+Growth Hormone.txt:Family farm.txt:0.00347454
+Growth Hormone.txt:sheep.txt:0.00421479
+Growth Hormone.txt:Pastoralism.txt:0.00212540
+Growth Hormone.txt:Meat.txt:0.00539722
+Growth Hormone.txt:cereal.txt:0.00365455
+Growth Hormone.txt:Eggs.txt:0.00073565
+Growth Hormone.txt:Fruits.txt:0.00225770
+Growth Hormone.txt:Hunter-gatherer.txt:0.00293165
+Growth Hormone.txt:Milk.txt:0.00579584
+Growth Hormone.txt:plough.txt:0.00323654
+Growth Hormone.txt:fungi.txt:0.00484692
+Growth Hormone.txt:goats.txt:0.00479303
+Growth Hormone.txt:Ox.txt:0.00246914
+Growth Hormone.txt:Environmental impact of pesticides.txt:0.00376569
+Growth Hormone.txt:yaks.txt:0.00212437
+Growth Hormone.txt:Ranches.txt:0.00261597
+Growth Hormone.txt:History of agriculture.txt:0.00319719
+Pesticides.txt:Soil salinity.txt:0.00249501
+Pesticides.txt:Environmental impact of agriculture.txt:0.00759837
+Pesticides.txt:Genetically Modified Food.txt:0.00741387
+Pesticides.txt:Animal Husbandry.txt:0.00393900
+Pesticides.txt:Agrochemicals.txt:0.00238927
+Pesticides.txt:Cattle Station.txt:0.00048972
+Pesticides.txt:Mixed farming.txt:0.00057285
+Pesticides.txt:llamas.txt:0.00514801
+Pesticides.txt:Meat industry.txt:0.00086745
+Pesticides.txt:Sustainable agriculture.txt:0.00623701
+Pesticides.txt:Selective Breeding.txt:0.00249066
+Pesticides.txt:Plant Breeding.txt:0.00699377
+Pesticides.txt:Global Warming.txt:0.00662143
+Pesticides.txt:Texas A&M University.txt:0.00300842
+Pesticides.txt:Growth Hormone.txt:0.00647025
+Pesticides.txt:Ecosystem services.txt:0.00446070
+Pesticides.txt:Plants.txt:0.00511554
+Pesticides.txt:Subsistence agriculture.txt:0.00172360
+Pesticides.txt:Milk.txt:0.00596839
+Pesticides.txt:Genetically Modified Organism.txt:0.00683242
+Pesticides.txt:Savannas.txt:0.00334215
+Pesticides.txt:Cereal crops.txt:0.00330777
+Pesticides.txt:reindeers.txt:0.00461125
+Pesticides.txt:camels.txt:0.00456233
+Pesticides.txt:Family farm.txt:0.00470746
+Pesticides.txt:Deforestation.txt:0.00625690
+Pesticides.txt:Ranches.txt:0.00320290
+Pesticides.txt:Sheep station.txt:0.00104657
+Pesticides.txt:pasture.txt:0.00091642
+Pesticides.txt:Oils.txt:0.00342689
+Pesticides.txt:Environmental impact of pesticides.txt:0.01430246
+Pesticides.txt:Bovine.txt:0.00053744
+Pesticides.txt:Eggs.txt:0.00000000
+Pesticides.txt:plough.txt:0.00533992
+Pesticides.txt:horses.txt:0.00595791
+Pesticides.txt:Animal.txt:0.00370971
+Pesticides.txt:cattle.txt:0.00728535
+Pesticides.txt:Animal Welfare.txt:0.00616793
+Pesticides.txt:Environmental impacts of irrigation.txt:0.00360000
+Pesticides.txt:Vegetables.txt:0.00427996
+Pesticides.txt:pastoral farming.txt:0.00181050
+Pesticides.txt:History of agriculture.txt:0.00349996
+Pesticides.txt:livestock.txt:0.00361714
+Pesticides.txt:Agronomy.txt:0.00139324
+Pesticides.txt:FarmVille.txt:0.00162626
+Pesticides.txt:Fruits.txt:0.00327011
+Pesticides.txt:tractors.txt:0.00590566
+Pesticides.txt:Aquifers.txt:0.00582647
+Pesticides.txt:Fertilizer.txt:0.00728819
+Pesticides.txt:cereal.txt:0.00330777
+Pesticides.txt:Antibiotic Resistance.txt:0.00850547
+Pesticides.txt:Neolithic Revolution.txt:0.00472356
+Pesticides.txt:goats.txt:0.00631361
+Pesticides.txt:Hunter-gatherer.txt:0.00277323
+Pesticides.txt:Ox.txt:0.00253526
+Pesticides.txt:Agriculture.txt:0.00853414
+Pesticides.txt:Fuel.txt:0.00540398
+Pesticides.txt:sheep.txt:0.00586907
+Pesticides.txt:yaks.txt:0.00165837
+Pesticides.txt:Genetic Engineering.txt:0.00665121
+Pesticides.txt:Pastoralism.txt:0.00338553
+Pesticides.txt:Meat.txt:0.00641881
+Pesticides.txt:fungi.txt:0.00564563
+Agriculture.txt:Animal Welfare.txt:0.00418340
+Agriculture.txt:llamas.txt:0.00392796
+Agriculture.txt:Meat.txt:0.00656092
+Agriculture.txt:Cereal crops.txt:0.00516614
+Agriculture.txt:Environmental impacts of irrigation.txt:0.00383836
+Agriculture.txt:Growth Hormone.txt:0.00454933
+Agriculture.txt:Eggs.txt:0.00013472
+Agriculture.txt:Fuel.txt:0.00400928
+Agriculture.txt:Fruits.txt:0.00367531
+Agriculture.txt:Hunter-gatherer.txt:0.00387557
+Agriculture.txt:plough.txt:0.00540765
+Agriculture.txt:fungi.txt:0.00528696
+Agriculture.txt:Subsistence agriculture.txt:0.00424448
+Agriculture.txt:goats.txt:0.00584280
+Agriculture.txt:Genetically Modified Organism.txt:0.00563244
+Agriculture.txt:Ox.txt:0.00219593
+Agriculture.txt:Savannas.txt:0.00353162
+Agriculture.txt:Environmental impact of pesticides.txt:0.00572519
+Agriculture.txt:reindeers.txt:0.00457300
+Agriculture.txt:sheep.txt:0.00540398
+Agriculture.txt:yaks.txt:0.00164358
+Agriculture.txt:camels.txt:0.00353482
+Agriculture.txt:History of agriculture.txt:0.05462761
+Agriculture.txt:Family farm.txt:0.00518711
+Agriculture.txt:tractors.txt:0.00537282
+Agriculture.txt:Deforestation.txt:0.00777303
+Agriculture.txt:Fertilizer.txt:0.00834682
+Agriculture.txt:Sheep station.txt:0.00052473
+Agriculture.txt:Antibiotic Resistance.txt:0.00670741
+Agriculture.txt:pasture.txt:0.00108977
+Agriculture.txt:Pastoralism.txt:0.00513680
+Agriculture.txt:Sustainable agriculture.txt:0.00802944
+Agriculture.txt:Oils.txt:0.00186986
+Agriculture.txt:Selective Breeding.txt:0.00475179
+Agriculture.txt:Bovine.txt:0.00026770
+Agriculture.txt:Neolithic Revolution.txt:0.00635290
+Agriculture.txt:Agrochemicals.txt:0.00122733
+Agriculture.txt:Aquifers.txt:0.00501022
+Agriculture.txt:Genetic Engineering.txt:0.00516249
+Agriculture.txt:Pesticides.txt:0.00853414
+Agriculture.txt:horses.txt:0.00513063
+Agriculture.txt:Animal.txt:0.00332984
+Agriculture.txt:cereal.txt:0.00516614
+Agriculture.txt:cattle.txt:0.00627337
+Agriculture.txt:Vegetables.txt:0.00437748
+Agriculture.txt:pastoral farming.txt:0.00412104
+Agriculture.txt:livestock.txt:0.00607936
+Agriculture.txt:Agronomy.txt:0.00302035
+Agriculture.txt:FarmVille.txt:0.00127138
+Agriculture.txt:Soil salinity.txt:0.00215244
+Agriculture.txt:Milk.txt:0.00701508
+Agriculture.txt:Environmental impact of agriculture.txt:0.00659246
+Agriculture.txt:Genetically Modified Food.txt:0.00569363
+Agriculture.txt:Animal Husbandry.txt:0.00895675
+Agriculture.txt:Cattle Station.txt:0.00074897
+Agriculture.txt:Mixed farming.txt:0.00070195
+Agriculture.txt:Meat industry.txt:0.00117678
+Agriculture.txt:Ranches.txt:0.00430796
+Agriculture.txt:Plant Breeding.txt:0.00579763
+Agriculture.txt:Global Warming.txt:0.00902309
+Agriculture.txt:Texas A&M University.txt:0.00362582
+Agriculture.txt:Ecosystem services.txt:0.00558360
+Agriculture.txt:Plants.txt:0.00506923
+Pastoralism.txt:Vegetables.txt:0.00305499
+Pastoralism.txt:pastoral farming.txt:0.00251537
+Pastoralism.txt:livestock.txt:0.00482975
+Pastoralism.txt:Agronomy.txt:0.00185736
+Pastoralism.txt:FarmVille.txt:0.00134517
+Pastoralism.txt:Soil salinity.txt:0.00100976
+Pastoralism.txt:Animal Welfare.txt:0.00269810
+Pastoralism.txt:Environmental impact of agriculture.txt:0.00598114
+Pastoralism.txt:Genetically Modified Food.txt:0.00210560
+Pastoralism.txt:Animal Husbandry.txt:0.00496133
+Pastoralism.txt:Cattle Station.txt:0.00195440
+Pastoralism.txt:Mixed farming.txt:0.00137363
+Pastoralism.txt:Meat industry.txt:0.00295421
+Pastoralism.txt:Plant Breeding.txt:0.00244021
+Pastoralism.txt:Global Warming.txt:0.00390244
+Pastoralism.txt:Texas A&M University.txt:0.00155839
+Pastoralism.txt:Ecosystem services.txt:0.00330114
+Pastoralism.txt:Plants.txt:0.00276442
+Pastoralism.txt:llamas.txt:0.00271592
+Pastoralism.txt:Subsistence agriculture.txt:0.00089901
+Pastoralism.txt:Genetically Modified Organism.txt:0.00278662
+Pastoralism.txt:Savannas.txt:0.00338328
+Pastoralism.txt:reindeers.txt:0.00198287
+Pastoralism.txt:camels.txt:0.00218716
+Pastoralism.txt:Family farm.txt:0.00373578
+Pastoralism.txt:Deforestation.txt:0.00435153
+Pastoralism.txt:Sheep station.txt:0.00149142
+Pastoralism.txt:pasture.txt:0.00041545
+Pastoralism.txt:Oils.txt:0.00032310
+Pastoralism.txt:Bovine.txt:0.00079051
+Pastoralism.txt:Fuel.txt:0.00219058
+Pastoralism.txt:sheep.txt:0.00320949
+Pastoralism.txt:Agriculture.txt:0.00513680
+Pastoralism.txt:Meat.txt:0.00277932
+Pastoralism.txt:Cereal crops.txt:0.00277008
+Pastoralism.txt:Environmental impacts of irrigation.txt:0.00358905
+Pastoralism.txt:Growth Hormone.txt:0.00212540
+Pastoralism.txt:Eggs.txt:0.00000000
+Pastoralism.txt:Fruits.txt:0.00086711
+Pastoralism.txt:Hunter-gatherer.txt:0.00533224
+Pastoralism.txt:plough.txt:0.00283197
+Pastoralism.txt:cereal.txt:0.00277008
+Pastoralism.txt:fungi.txt:0.00203346
+Pastoralism.txt:goats.txt:0.00394945
+Pastoralism.txt:Ox.txt:0.00244948
+Pastoralism.txt:Environmental impact of pesticides.txt:0.00322523
+Pastoralism.txt:yaks.txt:0.00195312
+Pastoralism.txt:History of agriculture.txt:0.00395208
+Pastoralism.txt:tractors.txt:0.00192623
+Pastoralism.txt:Milk.txt:0.00310280
+Pastoralism.txt:Fertilizer.txt:0.00334545
+Pastoralism.txt:Antibiotic Resistance.txt:0.00280932
+Pastoralism.txt:Sustainable agriculture.txt:0.00537254
+Pastoralism.txt:Selective Breeding.txt:0.00200521
+Pastoralism.txt:Neolithic Revolution.txt:0.00366067
+Pastoralism.txt:Agrochemicals.txt:0.00208681
+Pastoralism.txt:Ranches.txt:0.00362669
+Pastoralism.txt:Aquifers.txt:0.00205002
+Pastoralism.txt:Genetic Engineering.txt:0.00361742
+Pastoralism.txt:Pesticides.txt:0.00338553
+Pastoralism.txt:horses.txt:0.00363196
+Pastoralism.txt:Animal.txt:0.00196639
+Pastoralism.txt:cattle.txt:0.00298992
+pasture.txt:Growth Hormone.txt:0.00099950
+pasture.txt:Soil salinity.txt:0.00075700
+pasture.txt:Hunter-gatherer.txt:0.00061576
+pasture.txt:livestock.txt:0.00039872
+pasture.txt:Meat industry.txt:0.00000000
+pasture.txt:Cereal crops.txt:0.00101729
+pasture.txt:Ox.txt:0.00123457
+pasture.txt:Animal.txt:0.00050620
+pasture.txt:Subsistence agriculture.txt:0.00118624
+pasture.txt:Ranches.txt:0.00160321
+pasture.txt:Eggs.txt:0.00241255
+pasture.txt:FarmVille.txt:0.00000000
+pasture.txt:Genetically Modified Organism.txt:0.00016938
+pasture.txt:yaks.txt:0.00103252
+pasture.txt:Pesticides.txt:0.00091642
+pasture.txt:Plant Breeding.txt:0.00066563
+pasture.txt:Environmental impact of agriculture.txt:0.00147221
+pasture.txt:Pastoralism.txt:0.00041545
+pasture.txt:History of agriculture.txt:0.00092721
+pasture.txt:Genetic Engineering.txt:0.00056807
+pasture.txt:Savannas.txt:0.00040016
+pasture.txt:Meat.txt:0.00040733
+pasture.txt:fungi.txt:0.00043549
+pasture.txt:Agronomy.txt:0.00095785
+pasture.txt:Agrochemicals.txt:0.00000000
+pasture.txt:reindeers.txt:0.00045554
+pasture.txt:llamas.txt:0.00103040
+pasture.txt:Global Warming.txt:0.00052597
+pasture.txt:cattle.txt:0.00019828
+pasture.txt:Sustainable agriculture.txt:0.00091676
+pasture.txt:Selective Breeding.txt:0.00059827
+pasture.txt:camels.txt:0.00021000
+pasture.txt:Milk.txt:0.00056460
+pasture.txt:Genetically Modified Food.txt:0.00066196
+pasture.txt:Family farm.txt:0.00046981
+pasture.txt:Agriculture.txt:0.00108977
+pasture.txt:Cattle Station.txt:0.00070274
+pasture.txt:Fuel.txt:0.00068470
+pasture.txt:Texas A&M University.txt:0.00000000
+pasture.txt:Deforestation.txt:0.00066972
+pasture.txt:Environmental impact of pesticides.txt:0.00076065
+pasture.txt:horses.txt:0.00072376
+pasture.txt:Sheep station.txt:0.00000000
+pasture.txt:plough.txt:0.00050601
+pasture.txt:pastoral farming.txt:0.00207147
+pasture.txt:Oils.txt:0.00000000
+pasture.txt:Bovine.txt:0.00000000
+pasture.txt:sheep.txt:0.00069308
+pasture.txt:Animal Welfare.txt:0.00036989
+pasture.txt:Environmental impacts of irrigation.txt:0.00106421
+pasture.txt:Ecosystem services.txt:0.00045795
+pasture.txt:Mixed farming.txt:0.00000000
+pasture.txt:Vegetables.txt:0.00061143
+pasture.txt:Animal Husbandry.txt:0.00095602
+pasture.txt:Fruits.txt:0.00033738
+pasture.txt:tractors.txt:0.00034294
+pasture.txt:Aquifers.txt:0.00030912
+pasture.txt:Fertilizer.txt:0.00095402
+pasture.txt:cereal.txt:0.00101729
+pasture.txt:Antibiotic Resistance.txt:0.00043403
+pasture.txt:Neolithic Revolution.txt:0.00021492
+pasture.txt:Plants.txt:0.00044856
+pasture.txt:goats.txt:0.00033490
+tractors.txt:Growth Hormone.txt:0.00275735
+tractors.txt:Milk.txt:0.00490910
+tractors.txt:Cereal crops.txt:0.00372758
+tractors.txt:Ranches.txt:0.00257954
+tractors.txt:Environmental impact of pesticides.txt:0.00277101
+tractors.txt:Eggs.txt:0.00022665
+tractors.txt:plough.txt:0.00900901
+tractors.txt:Animal Welfare.txt:0.00261800
+tractors.txt:Environmental impacts of irrigation.txt:0.00194516
+tractors.txt:History of agriculture.txt:0.00465116
+tractors.txt:Fruits.txt:0.00302004
+tractors.txt:Fertilizer.txt:0.00447580
+tractors.txt:Antibiotic Resistance.txt:0.00404040
+tractors.txt:Sustainable agriculture.txt:0.00440463
+tractors.txt:Selective Breeding.txt:0.00291855
+tractors.txt:Neolithic Revolution.txt:0.00333148
+tractors.txt:llamas.txt:0.00448089
+tractors.txt:Agrochemicals.txt:0.00114495
+tractors.txt:goats.txt:0.00590480
+tractors.txt:Aquifers.txt:0.00411265
+tractors.txt:Genetic Engineering.txt:0.00476695
+tractors.txt:Pesticides.txt:0.00590566
+tractors.txt:horses.txt:0.00555521
+tractors.txt:Animal.txt:0.00226491
+tractors.txt:cattle.txt:0.00550459
+tractors.txt:Hunter-gatherer.txt:0.00294328
+tractors.txt:Vegetables.txt:0.00284799
+tractors.txt:Fuel.txt:0.00358489
+tractors.txt:pastoral farming.txt:0.00191706
+tractors.txt:Ox.txt:0.00333855
+tractors.txt:livestock.txt:0.00219445
+tractors.txt:Agriculture.txt:0.00537282
+tractors.txt:Agronomy.txt:0.00099657
+tractors.txt:FarmVille.txt:0.00129327
+tractors.txt:Soil salinity.txt:0.00096691
+tractors.txt:Environmental impact of agriculture.txt:0.00299513
+tractors.txt:Genetically Modified Food.txt:0.00352395
+tractors.txt:Animal Husbandry.txt:0.00486101
+tractors.txt:Cattle Station.txt:0.00063742
+tractors.txt:Mixed farming.txt:0.00046915
+tractors.txt:Meat industry.txt:0.00055224
+tractors.txt:Plant Breeding.txt:0.00441767
+tractors.txt:Global Warming.txt:0.00360175
+tractors.txt:Texas A&M University.txt:0.00344016
+tractors.txt:sheep.txt:0.00452270
+tractors.txt:yaks.txt:0.00201735
+tractors.txt:Ecosystem services.txt:0.00407177
+tractors.txt:Plants.txt:0.00417094
+tractors.txt:Subsistence agriculture.txt:0.00217346
+tractors.txt:Genetically Modified Organism.txt:0.00557043
+tractors.txt:Savannas.txt:0.00152686
+tractors.txt:Pastoralism.txt:0.00192623
+tractors.txt:reindeers.txt:0.00444633
+tractors.txt:Meat.txt:0.00385520
+tractors.txt:fungi.txt:0.00450108
+tractors.txt:camels.txt:0.00385554
+tractors.txt:Family farm.txt:0.00302857
+tractors.txt:Deforestation.txt:0.00438233
+tractors.txt:Sheep station.txt:0.00033237
+tractors.txt:pasture.txt:0.00034294
+tractors.txt:Oils.txt:0.00233620
+tractors.txt:Bovine.txt:0.00022540
+tractors.txt:cereal.txt:0.00372758
+Subsistence agriculture.txt:Genetically Modified Organism.txt:0.00234570
+Subsistence agriculture.txt:Savannas.txt:0.00262927
+Subsistence agriculture.txt:reindeers.txt:0.00193440
+Subsistence agriculture.txt:Ranches.txt:0.00350980
+Subsistence agriculture.txt:camels.txt:0.00317069
+Subsistence agriculture.txt:Family farm.txt:0.00309179
+Subsistence agriculture.txt:Deforestation.txt:0.00192347
+Subsistence agriculture.txt:Sheep station.txt:0.00000000
+Subsistence agriculture.txt:pasture.txt:0.00118624
+Subsistence agriculture.txt:Eggs.txt:0.00056754
+Subsistence agriculture.txt:FarmVille.txt:0.00200267
+Subsistence agriculture.txt:Oils.txt:0.00168634
+Subsistence agriculture.txt:Bovine.txt:0.00055218
+Subsistence agriculture.txt:yaks.txt:0.00104603
+Subsistence agriculture.txt:Pesticides.txt:0.00172360
+Subsistence agriculture.txt:Plant Breeding.txt:0.00165654
+Subsistence agriculture.txt:Fuel.txt:0.00286160
+Subsistence agriculture.txt:Environmental impact of agriculture.txt:0.00412314
+Subsistence agriculture.txt:Genetic Engineering.txt:0.00177276
+Subsistence agriculture.txt:History of agriculture.txt:0.00338570
+Subsistence agriculture.txt:Pastoralism.txt:0.00089901
+Subsistence agriculture.txt:Meat.txt:0.00156872
+Subsistence agriculture.txt:fungi.txt:0.00188082
+Subsistence agriculture.txt:Agronomy.txt:0.00151976
+Subsistence agriculture.txt:Agrochemicals.txt:0.00119119
+Subsistence agriculture.txt:llamas.txt:0.00228833
+Subsistence agriculture.txt:Global Warming.txt:0.00117220
+Subsistence agriculture.txt:Sustainable agriculture.txt:0.00408484
+Subsistence agriculture.txt:Selective Breeding.txt:0.00093611
+Subsistence agriculture.txt:cattle.txt:0.00236471
+Subsistence agriculture.txt:Growth Hormone.txt:0.00182593
+Subsistence agriculture.txt:Soil salinity.txt:0.00311526
+Subsistence agriculture.txt:Milk.txt:0.00199272
+Subsistence agriculture.txt:Cereal crops.txt:0.00276625
+Subsistence agriculture.txt:Genetically Modified Food.txt:0.00146547
+Subsistence agriculture.txt:Animal.txt:0.00225687
+Subsistence agriculture.txt:Agriculture.txt:0.00424448
+Subsistence agriculture.txt:Cattle Station.txt:0.00170068
+Subsistence agriculture.txt:Texas A&M University.txt:0.00104679
+Subsistence agriculture.txt:Environmental impact of pesticides.txt:0.00143678
+Subsistence agriculture.txt:horses.txt:0.00260756
+Subsistence agriculture.txt:pastoral farming.txt:0.00350018
+Subsistence agriculture.txt:plough.txt:0.00181303
+Subsistence agriculture.txt:sheep.txt:0.00219344
+Subsistence agriculture.txt:Animal Welfare.txt:0.00126322
+Subsistence agriculture.txt:Environmental impacts of irrigation.txt:0.00106667
+Subsistence agriculture.txt:Ecosystem services.txt:0.00294748
+Subsistence agriculture.txt:Mixed farming.txt:0.00204918
+Subsistence agriculture.txt:Vegetables.txt:0.00357995
+Subsistence agriculture.txt:Animal Husbandry.txt:0.00390689
+Subsistence agriculture.txt:Fruits.txt:0.00205708
+Subsistence agriculture.txt:tractors.txt:0.00217346
+Subsistence agriculture.txt:Aquifers.txt:0.00216398
+Subsistence agriculture.txt:Fertilizer.txt:0.00227125
+Subsistence agriculture.txt:cereal.txt:0.00276625
+Subsistence agriculture.txt:Antibiotic Resistance.txt:0.00140378
+Subsistence agriculture.txt:Neolithic Revolution.txt:0.00233268
+Subsistence agriculture.txt:Plants.txt:0.00223508
+Subsistence agriculture.txt:goats.txt:0.00232221
+Subsistence agriculture.txt:Hunter-gatherer.txt:0.00191663
+Subsistence agriculture.txt:livestock.txt:0.00379230
+Subsistence agriculture.txt:Meat industry.txt:0.00251130
+Subsistence agriculture.txt:Ox.txt:0.00274833
+Oils.txt:Plants.txt:0.00299035
+Oils.txt:Sustainable agriculture.txt:0.00195599
+Oils.txt:Growth Hormone.txt:0.00299145
+Oils.txt:Soil salinity.txt:0.00049776
+Oils.txt:Antibiotic Resistance.txt:0.00144889
+Oils.txt:Hunter-gatherer.txt:0.00050813
+Oils.txt:livestock.txt:0.00188029
+Oils.txt:Meat industry.txt:0.00057110
+Oils.txt:Cereal crops.txt:0.00150830
+Oils.txt:Ox.txt:0.00260417
+Oils.txt:Animal.txt:0.00237581
+Oils.txt:Subsistence agriculture.txt:0.00168634
+Oils.txt:Ranches.txt:0.00031387
+Oils.txt:Eggs.txt:0.00065876
+Oils.txt:FarmVille.txt:0.00036271
+Oils.txt:Genetically Modified Organism.txt:0.00167122
+Oils.txt:yaks.txt:0.00038081
+Oils.txt:Pesticides.txt:0.00342689
+Oils.txt:Plant Breeding.txt:0.00250723
+Oils.txt:Environmental impact of agriculture.txt:0.00205761
+Oils.txt:Genetic Engineering.txt:0.00201342
+Oils.txt:Pastoralism.txt:0.00032310
+Oils.txt:History of agriculture.txt:0.00111779
+Oils.txt:Savannas.txt:0.00157085
+Oils.txt:Meat.txt:0.00286319
+Oils.txt:fungi.txt:0.00314849
+Oils.txt:Agronomy.txt:0.00057737
+Oils.txt:cereal.txt:0.00150830
+Oils.txt:Agrochemicals.txt:0.00000000
+Oils.txt:reindeers.txt:0.00180288
+Oils.txt:llamas.txt:0.00395083
+Oils.txt:Global Warming.txt:0.00120671
+Oils.txt:goats.txt:0.00406933
+Oils.txt:Selective Breeding.txt:0.00373320
+Oils.txt:cattle.txt:0.00335164
+Oils.txt:camels.txt:0.00091811
+Oils.txt:Milk.txt:0.00088410
+Oils.txt:Genetically Modified Food.txt:0.00153404
+Oils.txt:Family farm.txt:0.00161976
+Oils.txt:Agriculture.txt:0.00186986
+Oils.txt:Cattle Station.txt:0.00000000
+Oils.txt:Texas A&M University.txt:0.00032203
+Oils.txt:Deforestation.txt:0.00176422
+Oils.txt:Fuel.txt:0.00389213
+Oils.txt:Environmental impact of pesticides.txt:0.00259572
+Oils.txt:horses.txt:0.00167243
+Oils.txt:Sheep station.txt:0.00000000
+Oils.txt:plough.txt:0.00256560
+Oils.txt:pastoral farming.txt:0.00190985
+Oils.txt:pasture.txt:0.00000000
+Oils.txt:Bovine.txt:0.00191693
+Oils.txt:sheep.txt:0.00192864
+Oils.txt:Animal Welfare.txt:0.00082075
+Oils.txt:Environmental impacts of irrigation.txt:0.00085543
+Oils.txt:Ecosystem services.txt:0.00165975
+Oils.txt:Mixed farming.txt:0.00000000
+Oils.txt:Vegetables.txt:0.00202378
+Oils.txt:Animal Husbandry.txt:0.00253893
+Oils.txt:Fruits.txt:0.00357143
+Oils.txt:tractors.txt:0.00233620
+Oils.txt:Aquifers.txt:0.00358056
+Oils.txt:Fertilizer.txt:0.00270362
+Oils.txt:Neolithic Revolution.txt:0.00149981
+Bovine.txt:cereal.txt:0.00143609
+Bovine.txt:Antibiotic Resistance.txt:0.00028421
+Bovine.txt:Neolithic Revolution.txt:0.00041876
+Bovine.txt:Plants.txt:0.00102820
+Bovine.txt:Sustainable agriculture.txt:0.00035836
+Bovine.txt:Growth Hormone.txt:0.00048450
+Bovine.txt:Soil salinity.txt:0.00000000
+Bovine.txt:Hunter-gatherer.txt:0.00088994
+Bovine.txt:livestock.txt:0.00228397
+Bovine.txt:Meat industry.txt:0.00084246
+Bovine.txt:Cereal crops.txt:0.00143609
+Bovine.txt:Ox.txt:0.00000000
+Bovine.txt:Animal.txt:0.00171990
+Bovine.txt:Subsistence agriculture.txt:0.00055218
+Bovine.txt:Ranches.txt:0.00076307
+Bovine.txt:Eggs.txt:0.00000000
+Bovine.txt:FarmVille.txt:0.00136924
+Bovine.txt:Genetically Modified Organism.txt:0.00149502
+Bovine.txt:yaks.txt:0.00048497
+Bovine.txt:Pesticides.txt:0.00053744
+Bovine.txt:Plant Breeding.txt:0.00021584
+Bovine.txt:Environmental impact of agriculture.txt:0.00070348
+Bovine.txt:Genetic Engineering.txt:0.00055504
+Bovine.txt:Pastoralism.txt:0.00079051
+Bovine.txt:History of agriculture.txt:0.00045468
+Bovine.txt:Savannas.txt:0.00076278
+Bovine.txt:Meat.txt:0.00066782
+Bovine.txt:fungi.txt:0.00075220
+Bovine.txt:Agronomy.txt:0.00085616
+Bovine.txt:Agrochemicals.txt:0.00114679
+Bovine.txt:reindeers.txt:0.00054059
+Bovine.txt:llamas.txt:0.00024944
+Bovine.txt:Global Warming.txt:0.00038810
+Bovine.txt:goats.txt:0.00082061
+Bovine.txt:Selective Breeding.txt:0.00028835
+Bovine.txt:cattle.txt:0.00156909
+Bovine.txt:camels.txt:0.00122926
+Bovine.txt:Milk.txt:0.00055809
+Bovine.txt:Genetically Modified Food.txt:0.00107434
+Bovine.txt:Family farm.txt:0.00045652
+Bovine.txt:Fuel.txt:0.00065681
+Bovine.txt:Agriculture.txt:0.00026770
+Bovine.txt:Cattle Station.txt:0.00064641
+Bovine.txt:Texas A&M University.txt:0.00057143
+Bovine.txt:Deforestation.txt:0.00066057
+Bovine.txt:horses.txt:0.00035642
+Bovine.txt:Environmental impact of pesticides.txt:0.00024570
+Bovine.txt:Sheep station.txt:0.00086430
+Bovine.txt:plough.txt:0.00024903
+Bovine.txt:pastoral farming.txt:0.00048591
+Bovine.txt:pasture.txt:0.00000000
+Bovine.txt:Oils.txt:0.00191693
+Bovine.txt:sheep.txt:0.00113934
+Bovine.txt:Animal Welfare.txt:0.00072346
+Bovine.txt:Environmental impacts of irrigation.txt:0.00067935
+Bovine.txt:Ecosystem services.txt:0.00044944
+Bovine.txt:Mixed farming.txt:0.00000000
+Bovine.txt:Vegetables.txt:0.00000000
+Bovine.txt:Animal Husbandry.txt:0.00093388
+Bovine.txt:Fruits.txt:0.00064788
+Bovine.txt:tractors.txt:0.00022540
+Bovine.txt:Aquifers.txt:0.00089366
+Bovine.txt:Fertilizer.txt:0.00055897
+Meat.txt:cattle.txt:0.00821008
+Meat.txt:Fuel.txt:0.00357857
+Meat.txt:Vegetables.txt:0.00539056
+Meat.txt:pastoral farming.txt:0.00199297
+Meat.txt:livestock.txt:0.00418364
+Meat.txt:Agronomy.txt:0.00104589
+Meat.txt:FarmVille.txt:0.00126860
+Meat.txt:Soil salinity.txt:0.00075681
+Meat.txt:Environmental impact of agriculture.txt:0.00430432
+Meat.txt:Animal Welfare.txt:0.00375752
+Meat.txt:Genetically Modified Food.txt:0.00486793
+Meat.txt:Animal Husbandry.txt:0.00585838
+Meat.txt:Cattle Station.txt:0.00174520
+Meat.txt:Mixed farming.txt:0.00041993
+Meat.txt:Meat industry.txt:0.00287431
+Meat.txt:Plant Breeding.txt:0.00487893
+Meat.txt:Global Warming.txt:0.00587070
+Meat.txt:Texas A&M University.txt:0.00210374
+Meat.txt:Ecosystem services.txt:0.00327669
+Meat.txt:Plants.txt:0.00521384
+Meat.txt:Subsistence agriculture.txt:0.00156872
+Meat.txt:llamas.txt:0.00372885
+Meat.txt:Genetically Modified Organism.txt:0.00513932
+Meat.txt:Savannas.txt:0.00396651
+Meat.txt:reindeers.txt:0.00479753
+Meat.txt:camels.txt:0.00308642
+Meat.txt:Family farm.txt:0.00360044
+Meat.txt:Deforestation.txt:0.00509743
+Meat.txt:Sheep station.txt:0.00078534
+Meat.txt:pasture.txt:0.00040733
+Meat.txt:Oils.txt:0.00286319
+Meat.txt:Bovine.txt:0.00066782
+Meat.txt:Agriculture.txt:0.00656092
+Meat.txt:sheep.txt:0.00546340
+Meat.txt:Pastoralism.txt:0.00277932
+Meat.txt:Cereal crops.txt:0.00268786
+Meat.txt:Environmental impacts of irrigation.txt:0.00361702
+Meat.txt:Growth Hormone.txt:0.00539722
+Meat.txt:Eggs.txt:0.00000000
+Meat.txt:Fruits.txt:0.00440482
+Meat.txt:Hunter-gatherer.txt:0.00294925
+Meat.txt:plough.txt:0.00498304
+Meat.txt:fungi.txt:0.00464140
+Meat.txt:cereal.txt:0.00268786
+Meat.txt:goats.txt:0.00543218
+Meat.txt:Ox.txt:0.00158132
+Meat.txt:Environmental impact of pesticides.txt:0.00533181
+Meat.txt:yaks.txt:0.00246190
+Meat.txt:History of agriculture.txt:0.00445092
+Meat.txt:tractors.txt:0.00385520
+Meat.txt:Fertilizer.txt:0.00585291
+Meat.txt:Milk.txt:0.00641961
+Meat.txt:Antibiotic Resistance.txt:0.00617376
+Meat.txt:Sustainable agriculture.txt:0.00600050
+Meat.txt:Selective Breeding.txt:0.00372984
+Meat.txt:Neolithic Revolution.txt:0.00472666
+Meat.txt:Agrochemicals.txt:0.00067972
+Meat.txt:Aquifers.txt:0.00407830
+Meat.txt:Ranches.txt:0.00231023
+Meat.txt:Genetic Engineering.txt:0.00422083
+Meat.txt:Pesticides.txt:0.00641881
+Meat.txt:horses.txt:0.00478533
+Meat.txt:Animal.txt:0.00303807
+plough.txt:Ranches.txt:0.00249273
+plough.txt:Eggs.txt:0.00037589
+plough.txt:fungi.txt:0.00516669
+plough.txt:goats.txt:0.00590038
+plough.txt:Ox.txt:0.00354529
+plough.txt:Environmental impact of pesticides.txt:0.00407056
+plough.txt:yaks.txt:0.00220459
+plough.txt:History of agriculture.txt:0.00597830
+plough.txt:tractors.txt:0.00900901
+plough.txt:Animal Welfare.txt:0.00175439
+plough.txt:Environmental impacts of irrigation.txt:0.00291575
+plough.txt:Fertilizer.txt:0.00486263
+plough.txt:Antibiotic Resistance.txt:0.00421158
+plough.txt:Sustainable agriculture.txt:0.00526064
+plough.txt:Selective Breeding.txt:0.00372885
+plough.txt:Neolithic Revolution.txt:0.00391123
+plough.txt:Agrochemicals.txt:0.00063315
+plough.txt:Fruits.txt:0.00386943
+plough.txt:Aquifers.txt:0.00571152
+plough.txt:Fuel.txt:0.00438596
+plough.txt:Genetic Engineering.txt:0.00427972
+plough.txt:Pesticides.txt:0.00533992
+plough.txt:horses.txt:0.00559787
+plough.txt:Animal.txt:0.00279910
+plough.txt:llamas.txt:0.00519031
+plough.txt:cattle.txt:0.00612709
+plough.txt:Vegetables.txt:0.00462517
+plough.txt:pastoral farming.txt:0.00165326
+plough.txt:livestock.txt:0.00228216
+plough.txt:Agronomy.txt:0.00158827
+plough.txt:FarmVille.txt:0.00152025
+plough.txt:Soil salinity.txt:0.00200993
+plough.txt:Environmental impact of agriculture.txt:0.00447609
+plough.txt:Genetically Modified Food.txt:0.00412371
+plough.txt:Cereal crops.txt:0.00230769
+plough.txt:Animal Husbandry.txt:0.00551948
+plough.txt:Agriculture.txt:0.00540765
+plough.txt:Cattle Station.txt:0.00116727
+plough.txt:Mixed farming.txt:0.00078105
+plough.txt:Meat industry.txt:0.00109649
+plough.txt:Plant Breeding.txt:0.00447851
+plough.txt:Global Warming.txt:0.00373972
+plough.txt:Texas A&M University.txt:0.00317783
+plough.txt:Ecosystem services.txt:0.00314696
+plough.txt:Plants.txt:0.00508204
+plough.txt:Subsistence agriculture.txt:0.00181303
+plough.txt:Genetically Modified Organism.txt:0.00338097
+plough.txt:Savannas.txt:0.00353467
+plough.txt:reindeers.txt:0.00548933
+plough.txt:sheep.txt:0.00438179
+plough.txt:camels.txt:0.00336814
+plough.txt:Family farm.txt:0.00360566
+plough.txt:Deforestation.txt:0.00448710
+plough.txt:Sheep station.txt:0.00048882
+plough.txt:pasture.txt:0.00050601
+plough.txt:Pastoralism.txt:0.00283197
+plough.txt:Oils.txt:0.00256560
+plough.txt:Meat.txt:0.00498304
+plough.txt:Bovine.txt:0.00024903
+plough.txt:cereal.txt:0.00230769
+plough.txt:Growth Hormone.txt:0.00323654
+plough.txt:Milk.txt:0.00440479
+plough.txt:Hunter-gatherer.txt:0.00269880
+Hunter-gatherer.txt:reindeers.txt:0.00290265
+Hunter-gatherer.txt:camels.txt:0.00304077
+Hunter-gatherer.txt:Ranches.txt:0.00422365
+Hunter-gatherer.txt:Family farm.txt:0.00446229
+Hunter-gatherer.txt:Deforestation.txt:0.00482287
+Hunter-gatherer.txt:Sheep station.txt:0.00141924
+Hunter-gatherer.txt:pasture.txt:0.00061576
+Hunter-gatherer.txt:Oils.txt:0.00050813
+Hunter-gatherer.txt:Eggs.txt:0.00060187
+Hunter-gatherer.txt:Bovine.txt:0.00088994
+Hunter-gatherer.txt:Animal Welfare.txt:0.00253711
+Hunter-gatherer.txt:Environmental impacts of irrigation.txt:0.00188466
+Hunter-gatherer.txt:Fuel.txt:0.00259115
+Hunter-gatherer.txt:Fruits.txt:0.00183520
+Hunter-gatherer.txt:llamas.txt:0.00456621
+Hunter-gatherer.txt:Savannas.txt:0.00503119
+Hunter-gatherer.txt:Cereal crops.txt:0.00292200
+Hunter-gatherer.txt:Agriculture.txt:0.00387557
+Hunter-gatherer.txt:Environmental impact of pesticides.txt:0.00295858
+Hunter-gatherer.txt:yaks.txt:0.00226091
+Hunter-gatherer.txt:History of agriculture.txt:0.00515406
+Hunter-gatherer.txt:tractors.txt:0.00294328
+Hunter-gatherer.txt:Fertilizer.txt:0.00272056
+Hunter-gatherer.txt:Antibiotic Resistance.txt:0.00213015
+Hunter-gatherer.txt:Sustainable agriculture.txt:0.00353312
+Hunter-gatherer.txt:Selective Breeding.txt:0.00205938
+Hunter-gatherer.txt:Neolithic Revolution.txt:0.00718613
+Hunter-gatherer.txt:Agrochemicals.txt:0.00061709
+Hunter-gatherer.txt:Aquifers.txt:0.00209864
+Hunter-gatherer.txt:sheep.txt:0.00441124
+Hunter-gatherer.txt:Genetic Engineering.txt:0.00283651
+Hunter-gatherer.txt:Pesticides.txt:0.00277323
+Hunter-gatherer.txt:horses.txt:0.00353423
+Hunter-gatherer.txt:Animal.txt:0.00279981
+Hunter-gatherer.txt:cattle.txt:0.00366914
+Hunter-gatherer.txt:Pastoralism.txt:0.00533224
+Hunter-gatherer.txt:Vegetables.txt:0.00243351
+Hunter-gatherer.txt:Meat.txt:0.00294925
+Hunter-gatherer.txt:pastoral farming.txt:0.00203620
+Hunter-gatherer.txt:livestock.txt:0.00320834
+Hunter-gatherer.txt:Agronomy.txt:0.00226565
+Hunter-gatherer.txt:FarmVille.txt:0.00153610
+Hunter-gatherer.txt:Soil salinity.txt:0.00183775
+Hunter-gatherer.txt:Environmental impact of agriculture.txt:0.00288462
+Hunter-gatherer.txt:Genetically Modified Food.txt:0.00228148
+Hunter-gatherer.txt:Animal Husbandry.txt:0.00389661
+Hunter-gatherer.txt:cereal.txt:0.00292200
+Hunter-gatherer.txt:Cattle Station.txt:0.00204604
+Hunter-gatherer.txt:Mixed farming.txt:0.00066072
+Hunter-gatherer.txt:Meat industry.txt:0.00084388
+Hunter-gatherer.txt:Plant Breeding.txt:0.00343840
+Hunter-gatherer.txt:Growth Hormone.txt:0.00293165
+Hunter-gatherer.txt:Global Warming.txt:0.00317744
+Hunter-gatherer.txt:Texas A&M University.txt:0.00216197
+Hunter-gatherer.txt:Ecosystem services.txt:0.00277070
+Hunter-gatherer.txt:Milk.txt:0.00336314
+Hunter-gatherer.txt:plough.txt:0.00269880
+Hunter-gatherer.txt:Plants.txt:0.00327690
+Hunter-gatherer.txt:fungi.txt:0.00309092
+Hunter-gatherer.txt:Subsistence agriculture.txt:0.00191663
+Hunter-gatherer.txt:goats.txt:0.00403130
+Hunter-gatherer.txt:Genetically Modified Organism.txt:0.00322504
+Hunter-gatherer.txt:Ox.txt:0.00145985
+goats.txt:Cereal crops.txt:0.00251116
+goats.txt:Ranches.txt:0.00259841
+goats.txt:Eggs.txt:0.00000000
+goats.txt:plough.txt:0.00590038
+goats.txt:Animal Welfare.txt:0.00415761
+goats.txt:Environmental impacts of irrigation.txt:0.00174433
+goats.txt:Fruits.txt:0.00404908
+goats.txt:llamas.txt:0.00507838
+goats.txt:Fuel.txt:0.00444170
+goats.txt:Ox.txt:0.00396301
+goats.txt:Environmental impact of pesticides.txt:0.00416347
+goats.txt:yaks.txt:0.00336464
+goats.txt:History of agriculture.txt:0.00360422
+goats.txt:tractors.txt:0.00590480
+goats.txt:Fertilizer.txt:0.00509077
+goats.txt:Antibiotic Resistance.txt:0.00480331
+goats.txt:Sustainable agriculture.txt:0.00442145
+goats.txt:Oils.txt:0.00406933
+goats.txt:Selective Breeding.txt:0.00351576
+goats.txt:Bovine.txt:0.00082061
+goats.txt:Agriculture.txt:0.00584280
+goats.txt:Neolithic Revolution.txt:0.00355800
+goats.txt:Agrochemicals.txt:0.00100654
+goats.txt:Aquifers.txt:0.00559058
+goats.txt:Genetic Engineering.txt:0.00487992
+goats.txt:Pesticides.txt:0.00631361
+goats.txt:horses.txt:0.00813129
+goats.txt:Animal.txt:0.00328192
+goats.txt:cattle.txt:0.00923057
+goats.txt:Vegetables.txt:0.00425784
+goats.txt:pastoral farming.txt:0.00224184
+goats.txt:livestock.txt:0.00494213
+goats.txt:Agronomy.txt:0.00127898
+goats.txt:sheep.txt:0.00645302
+goats.txt:FarmVille.txt:0.00192466
+goats.txt:Soil salinity.txt:0.00122474
+goats.txt:Environmental impact of agriculture.txt:0.00366625
+goats.txt:Genetically Modified Food.txt:0.00442842
+goats.txt:Animal Husbandry.txt:0.00712978
+goats.txt:Pastoralism.txt:0.00394945
+goats.txt:Cattle Station.txt:0.00105501
+goats.txt:Meat.txt:0.00543218
+goats.txt:fungi.txt:0.00635652
+goats.txt:Mixed farming.txt:0.00069577
+goats.txt:Meat industry.txt:0.00095602
+goats.txt:Plant Breeding.txt:0.00443986
+goats.txt:Global Warming.txt:0.00422767
+goats.txt:Texas A&M University.txt:0.00282404
+goats.txt:Ecosystem services.txt:0.00323845
+goats.txt:Plants.txt:0.00616762
+goats.txt:Subsistence agriculture.txt:0.00232221
+goats.txt:cereal.txt:0.00251116
+goats.txt:Genetically Modified Organism.txt:0.00569620
+goats.txt:Savannas.txt:0.00194729
+goats.txt:reindeers.txt:0.00583670
+goats.txt:camels.txt:0.00604778
+goats.txt:Growth Hormone.txt:0.00479303
+goats.txt:Family farm.txt:0.00445151
+goats.txt:Deforestation.txt:0.00481757
+goats.txt:Sheep station.txt:0.00096061
+goats.txt:Milk.txt:0.00737210
+goats.txt:Hunter-gatherer.txt:0.00403130
+goats.txt:pasture.txt:0.00033490
+Ox.txt:Genetically Modified Organism.txt:0.00207193
+Ox.txt:Savannas.txt:0.00089206
+Ox.txt:Cereal crops.txt:0.00176741
+Ox.txt:reindeers.txt:0.00211470
+Ox.txt:camels.txt:0.00231481
+Ox.txt:Family farm.txt:0.00195503
+Ox.txt:Deforestation.txt:0.00142610
+Ox.txt:Ranches.txt:0.00148810
+Ox.txt:Sheep station.txt:0.00052659
+Ox.txt:pasture.txt:0.00123457
+Ox.txt:Oils.txt:0.00260417
+Ox.txt:Bovine.txt:0.00000000
+Ox.txt:Eggs.txt:0.00117994
+Ox.txt:plough.txt:0.00354529
+Ox.txt:Environmental impacts of irrigation.txt:0.00108578
+Ox.txt:Animal Welfare.txt:0.00175607
+Ox.txt:Fruits.txt:0.00261712
+Ox.txt:llamas.txt:0.00359029
+Ox.txt:goats.txt:0.00396301
+Ox.txt:Fuel.txt:0.00317712
+Ox.txt:Environmental impact of pesticides.txt:0.00249948
+Ox.txt:Agriculture.txt:0.00219593
+Ox.txt:yaks.txt:0.00142806
+Ox.txt:History of agriculture.txt:0.00150027
+Ox.txt:tractors.txt:0.00333855
+Ox.txt:Fertilizer.txt:0.00246023
+Ox.txt:Antibiotic Resistance.txt:0.00193150
+Ox.txt:Sustainable agriculture.txt:0.00221835
+Ox.txt:Selective Breeding.txt:0.00214184
+Ox.txt:Neolithic Revolution.txt:0.00126973
+Ox.txt:Agrochemicals.txt:0.00123993
+Ox.txt:Aquifers.txt:0.00219888
+Ox.txt:Genetic Engineering.txt:0.00260841
+Ox.txt:Pesticides.txt:0.00253526
+Ox.txt:sheep.txt:0.00263047
+Ox.txt:horses.txt:0.00372480
+Ox.txt:Subsistence agriculture.txt:0.00274833
+Ox.txt:Animal.txt:0.00041520
+Ox.txt:cattle.txt:0.00532257
+Ox.txt:Vegetables.txt:0.00290768
+Ox.txt:pastoral farming.txt:0.00214669
+Ox.txt:Pastoralism.txt:0.00244948
+Ox.txt:livestock.txt:0.00416543
+Ox.txt:Meat.txt:0.00158132
+Ox.txt:fungi.txt:0.00229266
+Ox.txt:Agronomy.txt:0.00104767
+Ox.txt:FarmVille.txt:0.00068166
+Ox.txt:Soil salinity.txt:0.00137300
+Ox.txt:Environmental impact of agriculture.txt:0.00055788
+Ox.txt:Genetically Modified Food.txt:0.00166914
+Ox.txt:Animal Husbandry.txt:0.00262942
+Ox.txt:Cattle Station.txt:0.00087413
+Ox.txt:Mixed farming.txt:0.00000000
+Ox.txt:cereal.txt:0.00176741
+Ox.txt:Meat industry.txt:0.00051840
+Ox.txt:Plant Breeding.txt:0.00149031
+Ox.txt:Global Warming.txt:0.00106308
+Ox.txt:Milk.txt:0.00191688
+Ox.txt:Texas A&M University.txt:0.00084308
+Ox.txt:Growth Hormone.txt:0.00246914
+Ox.txt:Ecosystem services.txt:0.00134953
+Ox.txt:Plants.txt:0.00172322
+Ox.txt:Hunter-gatherer.txt:0.00145985
+Agrochemicals.txt:Aquifers.txt:0.00061977
+Agrochemicals.txt:Genetic Engineering.txt:0.00189861
+Agrochemicals.txt:llamas.txt:0.00154919
+Agrochemicals.txt:Pesticides.txt:0.00238927
+Agrochemicals.txt:Sustainable agriculture.txt:0.00073421
+Agrochemicals.txt:Selective Breeding.txt:0.00029967
+Agrochemicals.txt:horses.txt:0.00072438
+Agrochemicals.txt:Animal.txt:0.00101471
+Agrochemicals.txt:cattle.txt:0.00079412
+Agrochemicals.txt:Growth Hormone.txt:0.00125188
+Agrochemicals.txt:Vegetables.txt:0.00153327
+Agrochemicals.txt:pastoral farming.txt:0.00103842
+Agrochemicals.txt:livestock.txt:0.00120048
+Agrochemicals.txt:Milk.txt:0.00113058
+Agrochemicals.txt:Agronomy.txt:0.00000000
+Agrochemicals.txt:FarmVille.txt:0.00097040
+Agrochemicals.txt:Cereal crops.txt:0.00153218
+Agrochemicals.txt:Soil salinity.txt:0.00152323
+Agrochemicals.txt:Environmental impact of agriculture.txt:0.00110660
+Agrochemicals.txt:Genetically Modified Food.txt:0.00176991
+Agrochemicals.txt:Animal Husbandry.txt:0.00076570
+Agrochemicals.txt:Ranches.txt:0.00120530
+Agrochemicals.txt:Cattle Station.txt:0.00070621
+Agrochemicals.txt:Mixed farming.txt:0.00000000
+Agrochemicals.txt:Meat industry.txt:0.00000000
+Agrochemicals.txt:Environmental impact of pesticides.txt:0.00101626
+Agrochemicals.txt:Plant Breeding.txt:0.00066667
+Agrochemicals.txt:Global Warming.txt:0.00092166
+Agrochemicals.txt:Eggs.txt:0.00000000
+Agrochemicals.txt:plough.txt:0.00063315
+Agrochemicals.txt:Texas A&M University.txt:0.00058011
+Agrochemicals.txt:Ecosystem services.txt:0.00045844
+Agrochemicals.txt:Plants.txt:0.00044903
+Agrochemicals.txt:Subsistence agriculture.txt:0.00119119
+Agrochemicals.txt:Genetically Modified Organism.txt:0.00169837
+Agrochemicals.txt:Savannas.txt:0.00080289
+Agrochemicals.txt:reindeers.txt:0.00054705
+Agrochemicals.txt:Animal Welfare.txt:0.00129750
+Agrochemicals.txt:Environmental impacts of irrigation.txt:0.00106686
+Agrochemicals.txt:camels.txt:0.00063118
+Agrochemicals.txt:Family farm.txt:0.00141309
+Agrochemicals.txt:History of agriculture.txt:0.00046389
+Agrochemicals.txt:Deforestation.txt:0.00078204
+Agrochemicals.txt:Sheep station.txt:0.00195122
+Agrochemicals.txt:pasture.txt:0.00000000
+Agrochemicals.txt:Oils.txt:0.00000000
+Agrochemicals.txt:Fruits.txt:0.00067659
+Agrochemicals.txt:tractors.txt:0.00114495
+Agrochemicals.txt:Bovine.txt:0.00114679
+Agrochemicals.txt:Fertilizer.txt:0.00267943
+Agrochemicals.txt:cereal.txt:0.00153218
+Agrochemicals.txt:Antibiotic Resistance.txt:0.00115942
+Agrochemicals.txt:Neolithic Revolution.txt:0.00064599
+Agrochemicals.txt:goats.txt:0.00100654
+Agrochemicals.txt:Hunter-gatherer.txt:0.00061709
+Agrochemicals.txt:Ox.txt:0.00123993
+Agrochemicals.txt:Agriculture.txt:0.00122733
+Agrochemicals.txt:Fuel.txt:0.00240633
+Agrochemicals.txt:sheep.txt:0.00069364
+Agrochemicals.txt:yaks.txt:0.00155521
+Agrochemicals.txt:Pastoralism.txt:0.00208681
+Agrochemicals.txt:Meat.txt:0.00067972
+Agrochemicals.txt:fungi.txt:0.00065388
+History of agriculture.txt:Vegetables.txt:0.00379464
+History of agriculture.txt:pastoral farming.txt:0.00235664
+History of agriculture.txt:livestock.txt:0.00390339
+History of agriculture.txt:Milk.txt:0.00510110
+History of agriculture.txt:Agronomy.txt:0.00222189
+History of agriculture.txt:FarmVille.txt:0.00167138
+History of agriculture.txt:Cereal crops.txt:0.00483534
+History of agriculture.txt:Soil salinity.txt:0.00099488
+History of agriculture.txt:Environmental impact of agriculture.txt:0.00308935
+History of agriculture.txt:Genetically Modified Food.txt:0.00303178
+History of agriculture.txt:Animal Husbandry.txt:0.00967653
+History of agriculture.txt:Ranches.txt:0.00366300
+History of agriculture.txt:Cattle Station.txt:0.00168232
+History of agriculture.txt:Mixed farming.txt:0.00063980
+History of agriculture.txt:Meat industry.txt:0.00073746
+History of agriculture.txt:Environmental impact of pesticides.txt:0.00280054
+History of agriculture.txt:Plant Breeding.txt:0.00431923
+History of agriculture.txt:Global Warming.txt:0.00308526
+History of agriculture.txt:Eggs.txt:0.00030534
+History of agriculture.txt:plough.txt:0.00597830
+History of agriculture.txt:Texas A&M University.txt:0.00384696
+History of agriculture.txt:Ecosystem services.txt:0.00367948
+History of agriculture.txt:Plants.txt:0.00363872
+History of agriculture.txt:Subsistence agriculture.txt:0.00338570
+History of agriculture.txt:Genetically Modified Organism.txt:0.00379900
+History of agriculture.txt:Savannas.txt:0.00341755
+History of agriculture.txt:reindeers.txt:0.00402765
+History of agriculture.txt:Animal Welfare.txt:0.00261238
+History of agriculture.txt:Environmental impacts of irrigation.txt:0.00340615
+History of agriculture.txt:camels.txt:0.00479203
+History of agriculture.txt:Family farm.txt:0.00372121
+History of agriculture.txt:tractors.txt:0.00465116
+History of agriculture.txt:Deforestation.txt:0.00527072
+History of agriculture.txt:Fertilizer.txt:0.00458001
+History of agriculture.txt:Sheep station.txt:0.00044431
+History of agriculture.txt:Antibiotic Resistance.txt:0.00277756
+History of agriculture.txt:pasture.txt:0.00092721
+History of agriculture.txt:Sustainable agriculture.txt:0.00512452
+History of agriculture.txt:Oils.txt:0.00111779
+History of agriculture.txt:Fruits.txt:0.00161439
+History of agriculture.txt:Selective Breeding.txt:0.00287611
+History of agriculture.txt:Bovine.txt:0.00045468
+History of agriculture.txt:Neolithic Revolution.txt:0.00933943
+History of agriculture.txt:Agrochemicals.txt:0.00046389
+History of agriculture.txt:Aquifers.txt:0.00291121
+History of agriculture.txt:Genetic Engineering.txt:0.00438076
+History of agriculture.txt:llamas.txt:0.00428601
+History of agriculture.txt:Pesticides.txt:0.00349996
+History of agriculture.txt:goats.txt:0.00360422
+History of agriculture.txt:horses.txt:0.00372359
+History of agriculture.txt:Animal.txt:0.00269486
+History of agriculture.txt:cattle.txt:0.00380952
+History of agriculture.txt:Fuel.txt:0.00266790
+History of agriculture.txt:Hunter-gatherer.txt:0.00515406
+History of agriculture.txt:Ox.txt:0.00150027
+History of agriculture.txt:Agriculture.txt:0.05462761
+History of agriculture.txt:yaks.txt:0.00104548
+History of agriculture.txt:sheep.txt:0.00453942
+History of agriculture.txt:Pastoralism.txt:0.00395208
+History of agriculture.txt:Meat.txt:0.00445092
+History of agriculture.txt:fungi.txt:0.00424328
+History of agriculture.txt:cereal.txt:0.00483534
+History of agriculture.txt:Growth Hormone.txt:0.00319719
+Genetically Modified Food.txt:yaks.txt:0.00245442
+Genetically Modified Food.txt:Pesticides.txt:0.00741387
+Genetically Modified Food.txt:Environmental impact of agriculture.txt:0.00432633
+Genetically Modified Food.txt:Pastoralism.txt:0.00210560
+Genetically Modified Food.txt:History of agriculture.txt:0.00303178
+Genetically Modified Food.txt:Genetic Engineering.txt:0.02545825
+Genetically Modified Food.txt:Meat.txt:0.00486793
+Genetically Modified Food.txt:fungi.txt:0.00394829
+Genetically Modified Food.txt:Agronomy.txt:0.00145319
+Genetically Modified Food.txt:Agrochemicals.txt:0.00176991
+Genetically Modified Food.txt:Fuel.txt:0.00509898
+Genetically Modified Food.txt:llamas.txt:0.00287845
+Genetically Modified Food.txt:cattle.txt:0.00507320
+Genetically Modified Food.txt:Sustainable agriculture.txt:0.00423959
+Genetically Modified Food.txt:Selective Breeding.txt:0.00323898
+Genetically Modified Food.txt:Growth Hormone.txt:0.00646412
+Genetically Modified Food.txt:Soil salinity.txt:0.00098116
+Genetically Modified Food.txt:Milk.txt:0.00684644
+Genetically Modified Food.txt:Cereal crops.txt:0.00279183
+Genetically Modified Food.txt:Animal Husbandry.txt:0.00501728
+Genetically Modified Food.txt:Cattle Station.txt:0.00115451
+Genetically Modified Food.txt:Mixed farming.txt:0.00046382
+Genetically Modified Food.txt:Meat industry.txt:0.00082662
+Genetically Modified Food.txt:Ranches.txt:0.00207502
+Genetically Modified Food.txt:Plant Breeding.txt:0.00558049
+Genetically Modified Food.txt:Global Warming.txt:0.00308289
+Genetically Modified Food.txt:Texas A&M University.txt:0.00307145
+Genetically Modified Food.txt:Environmental impact of pesticides.txt:0.00533507
+Genetically Modified Food.txt:horses.txt:0.00324028
+Genetically Modified Food.txt:Ecosystem services.txt:0.00339872
+Genetically Modified Food.txt:Plants.txt:0.00383509
+Genetically Modified Food.txt:Eggs.txt:0.00065118
+Genetically Modified Food.txt:plough.txt:0.00412371
+Genetically Modified Food.txt:FarmVille.txt:0.00119822
+Genetically Modified Food.txt:Subsistence agriculture.txt:0.00146547
+Genetically Modified Food.txt:Genetically Modified Organism.txt:0.03994845
+Genetically Modified Food.txt:Savannas.txt:0.00255469
+Genetically Modified Food.txt:reindeers.txt:0.00278552
+Genetically Modified Food.txt:sheep.txt:0.00371087
+Genetically Modified Food.txt:camels.txt:0.00269985
+Genetically Modified Food.txt:Family farm.txt:0.00462442
+Genetically Modified Food.txt:Deforestation.txt:0.00449279
+Genetically Modified Food.txt:Animal Welfare.txt:0.00514167
+Genetically Modified Food.txt:Environmental impacts of irrigation.txt:0.00197328
+Genetically Modified Food.txt:Sheep station.txt:0.00103993
+Genetically Modified Food.txt:pasture.txt:0.00066196
+Genetically Modified Food.txt:Oils.txt:0.00153404
+Genetically Modified Food.txt:Vegetables.txt:0.00484469
+Genetically Modified Food.txt:Bovine.txt:0.00107434
+Genetically Modified Food.txt:Fruits.txt:0.00252713
+Genetically Modified Food.txt:tractors.txt:0.00352395
+Genetically Modified Food.txt:Aquifers.txt:0.00271584
+Genetically Modified Food.txt:Fertilizer.txt:0.00557103
+Genetically Modified Food.txt:Antibiotic Resistance.txt:0.00611534
+Genetically Modified Food.txt:cereal.txt:0.00279183
+Genetically Modified Food.txt:Neolithic Revolution.txt:0.00273484
+Genetically Modified Food.txt:goats.txt:0.00442842
+Genetically Modified Food.txt:Hunter-gatherer.txt:0.00228148
+Genetically Modified Food.txt:livestock.txt:0.00351101
+Genetically Modified Food.txt:Animal.txt:0.00285344
+Genetically Modified Food.txt:Ox.txt:0.00166914
+Genetically Modified Food.txt:Agriculture.txt:0.00569363
+Genetically Modified Food.txt:pastoral farming.txt:0.00280800
+pastoral farming.txt:Pastoralism.txt:0.00251537
+pastoral farming.txt:History of agriculture.txt:0.00235664
+pastoral farming.txt:Genetic Engineering.txt:0.00170490
+pastoral farming.txt:Meat.txt:0.00199297
+pastoral farming.txt:fungi.txt:0.00173913
+pastoral farming.txt:Fuel.txt:0.00146484
+pastoral farming.txt:Agrochemicals.txt:0.00103842
+pastoral farming.txt:llamas.txt:0.00197824
+pastoral farming.txt:Sustainable agriculture.txt:0.00241619
+pastoral farming.txt:Selective Breeding.txt:0.00132802
+pastoral farming.txt:cattle.txt:0.00275874
+pastoral farming.txt:Growth Hormone.txt:0.00173879
+pastoral farming.txt:Milk.txt:0.00229105
+pastoral farming.txt:Cereal crops.txt:0.00222930
+pastoral farming.txt:Ranches.txt:0.00491803
+pastoral farming.txt:Environmental impact of pesticides.txt:0.00234650
+pastoral farming.txt:horses.txt:0.00211528
+pastoral farming.txt:Eggs.txt:0.00099602
+pastoral farming.txt:plough.txt:0.00165326
+pastoral farming.txt:Pesticides.txt:0.00181050
+pastoral farming.txt:Environmental impacts of irrigation.txt:0.00250564
+pastoral farming.txt:Animal Welfare.txt:0.00136799
+pastoral farming.txt:Cattle Station.txt:0.00115385
+pastoral farming.txt:Mixed farming.txt:0.00116822
+pastoral farming.txt:Meat industry.txt:0.00268216
+pastoral farming.txt:Vegetables.txt:0.00247692
+pastoral farming.txt:Plant Breeding.txt:0.00370501
+pastoral farming.txt:Global Warming.txt:0.00182399
+pastoral farming.txt:Texas A&M University.txt:0.00071407
+pastoral farming.txt:Fruits.txt:0.00120802
+pastoral farming.txt:tractors.txt:0.00191706
+pastoral farming.txt:Aquifers.txt:0.00340909
+pastoral farming.txt:Ecosystem services.txt:0.00220321
+pastoral farming.txt:Plants.txt:0.00152711
+pastoral farming.txt:Subsistence agriculture.txt:0.00350018
+pastoral farming.txt:Fertilizer.txt:0.00171500
+pastoral farming.txt:Genetically Modified Organism.txt:0.00283126
+pastoral farming.txt:Savannas.txt:0.00217924
+pastoral farming.txt:Neolithic Revolution.txt:0.00292297
+pastoral farming.txt:cereal.txt:0.00222930
+pastoral farming.txt:Antibiotic Resistance.txt:0.00136088
+pastoral farming.txt:reindeers.txt:0.00206016
+pastoral farming.txt:goats.txt:0.00224184
+pastoral farming.txt:camels.txt:0.00168577
+pastoral farming.txt:Family farm.txt:0.00221157
+pastoral farming.txt:Deforestation.txt:0.00316456
+pastoral farming.txt:Sheep station.txt:0.00181077
+pastoral farming.txt:pasture.txt:0.00207147
+pastoral farming.txt:Oils.txt:0.00190985
+pastoral farming.txt:Hunter-gatherer.txt:0.00203620
+pastoral farming.txt:Bovine.txt:0.00048591
+pastoral farming.txt:Ox.txt:0.00214669
+pastoral farming.txt:Animal.txt:0.00136585
+pastoral farming.txt:Agriculture.txt:0.00412104
+pastoral farming.txt:livestock.txt:0.00299157
+pastoral farming.txt:Agronomy.txt:0.00044984
+pastoral farming.txt:FarmVille.txt:0.00123267
+pastoral farming.txt:Soil salinity.txt:0.00040000
+pastoral farming.txt:sheep.txt:0.00162833
+pastoral farming.txt:yaks.txt:0.00128452
+pastoral farming.txt:Environmental impact of agriculture.txt:0.00386100
+pastoral farming.txt:Genetically Modified Food.txt:0.00280800
+pastoral farming.txt:Animal Husbandry.txt:0.00281426
+Animal Husbandry.txt:yaks.txt:0.00391053
+Animal Husbandry.txt:Pesticides.txt:0.00393900
+Animal Husbandry.txt:Environmental impact of agriculture.txt:0.00418410
+Animal Husbandry.txt:Pastoralism.txt:0.00496133
+Animal Husbandry.txt:History of agriculture.txt:0.00967653
+Animal Husbandry.txt:Genetic Engineering.txt:0.00452721
+Animal Husbandry.txt:Meat.txt:0.00585838
+Animal Husbandry.txt:fungi.txt:0.00544358
+Animal Husbandry.txt:Agronomy.txt:0.00217707
+Animal Husbandry.txt:Agrochemicals.txt:0.00076570
+Animal Husbandry.txt:llamas.txt:0.00552951
+Animal Husbandry.txt:Fuel.txt:0.00406945
+Animal Husbandry.txt:Sustainable agriculture.txt:0.00525996
+Animal Husbandry.txt:Selective Breeding.txt:0.01399689
+Animal Husbandry.txt:cattle.txt:0.00628583
+Animal Husbandry.txt:Growth Hormone.txt:0.00414201
+Animal Husbandry.txt:Soil salinity.txt:0.00086266
+Animal Husbandry.txt:Milk.txt:0.00445331
+Animal Husbandry.txt:Cereal crops.txt:0.00311187
+Animal Husbandry.txt:Genetically Modified Food.txt:0.00501728
+Animal Husbandry.txt:Ranches.txt:0.00373993
+Animal Husbandry.txt:Environmental impact of pesticides.txt:0.00285646
+Animal Husbandry.txt:horses.txt:0.00503501
+Animal Husbandry.txt:plough.txt:0.00551948
+Animal Husbandry.txt:Eggs.txt:0.00000000
+Animal Husbandry.txt:FarmVille.txt:0.00214231
+Animal Husbandry.txt:sheep.txt:0.00612464
+Animal Husbandry.txt:Animal Welfare.txt:0.00498018
+Animal Husbandry.txt:Environmental impacts of irrigation.txt:0.00357388
+Animal Husbandry.txt:Vegetables.txt:0.00466563
+Animal Husbandry.txt:Cattle Station.txt:0.00186694
+Animal Husbandry.txt:Mixed farming.txt:0.00139804
+Animal Husbandry.txt:Meat industry.txt:0.00162631
+Animal Husbandry.txt:Fruits.txt:0.00296416
+Animal Husbandry.txt:tractors.txt:0.00486101
+Animal Husbandry.txt:Aquifers.txt:0.00390371
+Animal Husbandry.txt:Plant Breeding.txt:0.00503131
+Animal Husbandry.txt:Global Warming.txt:0.00356995
+Animal Husbandry.txt:Texas A&M University.txt:0.00191058
+Animal Husbandry.txt:Fertilizer.txt:0.00506408
+Animal Husbandry.txt:Ecosystem services.txt:0.00418677
+Animal Husbandry.txt:Plants.txt:0.00531005
+Animal Husbandry.txt:Neolithic Revolution.txt:0.00473047
+Animal Husbandry.txt:Antibiotic Resistance.txt:0.00414206
+Animal Husbandry.txt:cereal.txt:0.00311187
+Animal Husbandry.txt:Subsistence agriculture.txt:0.00390689
+Animal Husbandry.txt:goats.txt:0.00712978
+Animal Husbandry.txt:Genetically Modified Organism.txt:0.00513019
+Animal Husbandry.txt:Savannas.txt:0.00388377
+Animal Husbandry.txt:reindeers.txt:0.00467897
+Animal Husbandry.txt:camels.txt:0.00293001
+Animal Husbandry.txt:Family farm.txt:0.00402160
+Animal Husbandry.txt:Deforestation.txt:0.00568522
+Animal Husbandry.txt:Hunter-gatherer.txt:0.00389661
+Animal Husbandry.txt:livestock.txt:0.12401480
+Animal Husbandry.txt:Sheep station.txt:0.00145322
+Animal Husbandry.txt:pasture.txt:0.00095602
+Animal Husbandry.txt:Ox.txt:0.00262942
+Animal Husbandry.txt:Animal.txt:0.00416816
+Animal Husbandry.txt:Oils.txt:0.00253893
+Animal Husbandry.txt:Agriculture.txt:0.00895675
+Animal Husbandry.txt:Bovine.txt:0.00093388
+Animal Husbandry.txt:pastoral farming.txt:0.00281426
+livestock.txt:reindeers.txt:0.00236146
+livestock.txt:camels.txt:0.00261579
+livestock.txt:Family farm.txt:0.00233411
+livestock.txt:Pastoralism.txt:0.00482975
+livestock.txt:History of agriculture.txt:0.00390339
+livestock.txt:Genetic Engineering.txt:0.00242165
+livestock.txt:Deforestation.txt:0.00346410
+livestock.txt:Meat.txt:0.00418364
+livestock.txt:fungi.txt:0.00293309
+livestock.txt:Sheep station.txt:0.00215750
+livestock.txt:Fuel.txt:0.00451128
+livestock.txt:pasture.txt:0.00039872
+livestock.txt:Oils.txt:0.00188029
+livestock.txt:Bovine.txt:0.00228397
+livestock.txt:Agrochemicals.txt:0.00120048
+livestock.txt:llamas.txt:0.00195451
+livestock.txt:Sustainable agriculture.txt:0.00319933
+livestock.txt:Selective Breeding.txt:0.00255654
+livestock.txt:cattle.txt:0.00500721
+livestock.txt:Growth Hormone.txt:0.00278600
+livestock.txt:Milk.txt:0.00307742
+livestock.txt:Cereal crops.txt:0.00404749
+livestock.txt:Ranches.txt:0.00448854
+livestock.txt:Environmental impact of pesticides.txt:0.00316790
+livestock.txt:horses.txt:0.00419706
+livestock.txt:Eggs.txt:0.00038715
+livestock.txt:plough.txt:0.00228216
+livestock.txt:Pesticides.txt:0.00361714
+livestock.txt:Animal Welfare.txt:0.00265995
+livestock.txt:Environmental impacts of irrigation.txt:0.00241017
+livestock.txt:Vegetables.txt:0.00339389
+livestock.txt:Fruits.txt:0.00233694
+livestock.txt:tractors.txt:0.00219445
+livestock.txt:Aquifers.txt:0.00281407
+livestock.txt:Fertilizer.txt:0.00401664
+livestock.txt:Neolithic Revolution.txt:0.00438940
+livestock.txt:cereal.txt:0.00404749
+livestock.txt:Antibiotic Resistance.txt:0.00277649
+livestock.txt:goats.txt:0.00494213
+livestock.txt:Hunter-gatherer.txt:0.00320834
+livestock.txt:Agronomy.txt:0.00286738
+livestock.txt:FarmVille.txt:0.00104739
+livestock.txt:Ox.txt:0.00416543
+livestock.txt:Animal.txt:0.00281195
+livestock.txt:Soil salinity.txt:0.00228162
+livestock.txt:Agriculture.txt:0.00607936
+livestock.txt:Environmental impact of agriculture.txt:0.00471592
+livestock.txt:Genetically Modified Food.txt:0.00351101
+livestock.txt:Animal Husbandry.txt:0.12401480
+livestock.txt:Cattle Station.txt:0.00094518
+livestock.txt:Mixed farming.txt:0.00087489
+livestock.txt:Meat industry.txt:0.00177809
+livestock.txt:Plant Breeding.txt:0.00224036
+livestock.txt:Global Warming.txt:0.00235546
+livestock.txt:pastoral farming.txt:0.00299157
+livestock.txt:Texas A&M University.txt:0.00125350
+livestock.txt:Ecosystem services.txt:0.00423114
+livestock.txt:Plants.txt:0.00332700
+livestock.txt:Subsistence agriculture.txt:0.00379230
+livestock.txt:sheep.txt:0.00308166
+livestock.txt:yaks.txt:0.00271592
+livestock.txt:Genetically Modified Organism.txt:0.00261849
+livestock.txt:Savannas.txt:0.00401322
