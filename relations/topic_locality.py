@@ -61,8 +61,9 @@ class TopicLocality(object):
             for b in primaryNodes[a].keys():
                 av = vertex_map[a]
                 bv = vertex_map[b]
-                g.add_edge((primaryNodes[a][b] / denominator), av, bv)
-                print("Adding edge: ",a, b,': ', (primaryNodes[a][b] / denominator))
+                if primaryNodes[a][b] != 0 :
+                    g.add_edge((primaryNodes[a][b] / denominator), av, bv)
+                    print("Adding edge: ",a, b,': ', (primaryNodes[a][b] / denominator))
         return g
 
     def buildDirectedGraph(self):
@@ -78,8 +79,9 @@ class TopicLocality(object):
             for b in primaryNodes[a].keys():
                 av = vertex_map[a]
                 bv = vertex_map[b]
-                g.add_edge(((primaryNodes[a][b]+0.00001 )/ (denominator+1)), av, bv) #To avoid division by zero conflicts
-                print("Adding edge: ",a, b,': ', ((primaryNodes[a][b]+0.00001 )/ (denominator+1)))
+                if primaryNodes[a][b] != 0 :
+                    g.add_edge(((primaryNodes[a][b]+0.00001 )/ (denominator+1)), av, bv) #To avoid division by zero conflicts
+                    print("Adding edge: ",a, b,': ', ((primaryNodes[a][b]+0.00001 )/ (denominator+1)))
         return g
                
     def sameSentenceOccurrence(self,sentence,topicA,topicB):
