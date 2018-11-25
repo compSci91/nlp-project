@@ -207,7 +207,9 @@ class RelationGraph(object):
                     #times in a single query which will just increase with
                     #multiple queries
                     #print(e.source, ":", e.target)
-                    edgeWeight = math.log(e.prop) * -1
+                    edgeWeight = float("inf")
+                    if e.prop != 0:
+                        edgeWeight = math.log(e.prop) * -1
                     #print("edge weight: {}".format(edgeWeight))
                     tempWeight = weight[e.source] + edgeWeight
                     if tempWeight < weight[v]:
