@@ -1,7 +1,5 @@
 # from relations.article import Article
 from utils.helpers import get_article_names
-import pprint
-import pickle
 from graph.graph import RelationGraph
 
 
@@ -140,7 +138,3 @@ class AtoA(object):
                 c.first_paragraph = bfirstS + bintrocount
                 c.total_count = btotal * AtoA.TOTALCOUNT
                 c.compute_sum()
-
-        # pprint.pprint(self.data)
-        # with open("article_to_article.txt", 'w') as f:
-        #     pickle.dump(self.data, f)
