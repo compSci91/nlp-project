@@ -31,10 +31,23 @@ def construct_trigram_model(corpus):
     graph.save_graph(corpus.replace("_", "")+"Trigram.txt")
 
 def construct_AtoA_model(corpus):
-    print('AtoA')
+    articles_names = get_directory_files('corpus')
+    articles = [Article('./corpus/' + name) for name in articles_names]
+    topics = get_article_names(articles_names)
+    atoa = AtoA(topics, articles)
+    atoa.run()
+    graph = atoa.build_graph()
+    graph.save_graph(corpus.replace("_", "")+"AtoA.txt")
 
 def construct_topic_locality_model(corpus):
-    print('Topic Locality')
+    articles_names = get_directory_files('corpus')
+    articles = [Article('./corpus/' + name) for name in articles_names]
+    topics = get_article_names(articles_names)
+    locality = TopicLocality(topics,articles)
+    directed = locality.buildDirectedGraph()
+    directed.save_graph(corpus.replace("_", "")+"TopicLocalityDirected")
+    undirected = locality.buildUndirectedGraph()
+    undirected.save_graph(corpus.replace("_", "")+"TopicLocalityUndirected")
 
 def main():
     corpus = 'Corpus'
