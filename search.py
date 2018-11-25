@@ -56,9 +56,11 @@ def main():
         print("Target not in model.")
         return
 
-    path = graph.search(source, target)
+    path, path_weight = graph.search(source, target)
     for t in path:
         print(t.prop)
+
+    print("Weight", path_weight)
 
 
 

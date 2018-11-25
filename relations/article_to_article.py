@@ -1,6 +1,7 @@
 # from relations.article import Article
 from utils.helpers import get_article_names
 from graph.graph import RelationGraph
+import pprint
 
 
 class Counts(object):
@@ -74,8 +75,9 @@ class AtoA(object):
                 av = vertex_map[a]
                 bv = vertex_map[b]
                 # print("add_edge")
-                g.add_edge((c.sum + AtoA.BIAS) / (relelation_sums[a] + AtoA.BIAS), av, bv)
-
+                weight = (c.sum) / (relelation_sums[a] + AtoA.BIAS)
+                if weight != 0:
+                    g.add_edge(weight, av, bv)
         return g
 
     # I do not know what else to name this.
@@ -138,3 +140,5 @@ class AtoA(object):
                 c.first_paragraph = bfirstS + bintrocount
                 c.total_count = btotal * AtoA.TOTALCOUNT
                 c.compute_sum()
+
+        # pprint.pprint(self.data)

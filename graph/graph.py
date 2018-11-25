@@ -207,9 +207,7 @@ class RelationGraph(object):
                     #times in a single query which will just increase with
                     #multiple queries
                     #print(e.source, ":", e.target)
-                    edgeWeight = float("inf")
-                    if e.prop != 0:
-                        edgeWeight = math.log(e.prop) * -1
+                    edgeWeight = math.log(e.prop) * -1
                     #print("edge weight: {}".format(edgeWeight))
                     tempWeight = weight[e.source] + edgeWeight
                     if tempWeight < weight[v]:
@@ -233,7 +231,19 @@ class RelationGraph(object):
         path.append(start)
         path.reverse()
 
-        return path
+        # path_weight = 0.0
+        path_weight = 1.0
+        if len(path) == 0:
+            return path, path_weight
+
+        for i in range(1, len(path)):
+            s = path[i - 1]
+            t = path[i]
+            e = self.find_edge(s, t)
+            path_weight *= e.prop
+            # path_weight += math.log(e.prop) * -1
+
+        return path, path_weight
 
 
 # Test case
