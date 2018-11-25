@@ -7,6 +7,7 @@ class TopicLocality(object):
         super().__init__()
         self.topics = topics
         self.articles = articles
+        self.primaryNodes = self.totalOccurrences()
     def run(self):
         pass
         
@@ -42,41 +43,10 @@ class TopicLocality(object):
                 total = sentenceCount * 1 + paragraphCount * 1 + subsectionCount * 1 + sectionCount * 1 + articleCount * 1
                 secondaryNodes[topicB] = total
             primaryNodes[topicA] = secondaryNodes
-        return primaryNodes
-
-    def buildBothGraphs(self):
-        primaryNodes = self.totalOccurrences()
-        denominator = 0
-        vertex_map = {}
-        g1 = RelationGraph()
-        for a in primaryNodes.keys():
-            vertex_map[a] = g1.add_vertex(a)
-            for b in primaryNodes[a].keys():
-                denominator += primaryNodes[a][b]
-        for a in primaryNodes.keys():
-            for b in primaryNodes[a].keys():
-                av = vertex_map[a]
-                bv = vertex_map[b]
-                g1.add_edge((primaryNodes[a][b] / denominator), av, bv)
-                print("Adding edge: ",a, b,': ', (primaryNodes[a][b] / denominator))
-
-        vertex_map = {}
-        g2 = RelationGraph()
-        for a in primaryNodes.keys():
-            vertex_map[a] = g2.add_vertex(a)
-        for a in primaryNodes.keys():
-            denominator = 0
-            for b in primaryNodes[a].keys():
-                denominator += primaryNodes[a][b]
-            for b in primaryNodes[a].keys():
-                av = vertex_map[a]
-                bv = vertex_map[b]
-                g2.add_edge(((primaryNodes[a][b]+0.00001 )/ (denominator+1)), av, bv) #To avoid division by zero conflicts
-                print("Adding edge: ",a, b,': ', ((primaryNodes[a][b]+0.00001 )/ (denominator+1)))
-        return g1,g2 
+        return primaryNodes 
 
     def buildUndirectedGraph(self):
-        primaryNodes = self.totalOccurrences()
+        primaryNodes = self.primaryNodes
         denominator = 0
         vertex_map = {}
         g = RelationGraph()
@@ -93,7 +63,7 @@ class TopicLocality(object):
         return g
 
     def buildDirectedGraph(self):
-        primaryNodes = self.totalOccurrences()
+        primaryNodes = self.primaryNodes
         vertex_map = {}
         g = RelationGraph()
         for a in primaryNodes.keys():
