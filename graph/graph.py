@@ -223,6 +223,8 @@ class RelationGraph(object):
         #print("previous")
         #for v,p in previous.items():
             #print("{} to {}".format(p.prop,v.prop))
+        if previous[current] == current:
+            return path
         while current != start:
             #print("current",current)
             path.append(current)
