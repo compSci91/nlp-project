@@ -5,7 +5,7 @@ def usage():
     print("Usage: python search.py <model> <start> <goal> [corpus='Corpus']")
 
 def main():
-    if len(sys.argv) > 3:
+    if len(sys.argv) < 3:
         usage()
         exit(1)
 
