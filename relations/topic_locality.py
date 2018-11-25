@@ -9,9 +9,10 @@ class TopicLocality(object):
         super().__init__()
         self.topics = topics
         self.articles = articles
-        for article in self.articles:
-            article.build_groups()
-        # print(len(self.articles))
+
+        self.primaryNodes = self.totalOccurrences()
+    def run(self):
+        pass
         
     def totalOccurrences(self):
         primaryNodes = {}
@@ -46,8 +47,9 @@ class TopicLocality(object):
         return primaryNodes 
 
     def buildUndirectedGraph(self):
-        primaryNodes = self.totalOccurrences()
-        # pprint.pprint(primaryNodes)
+
+        primaryNodes = self.primaryNodes
+
         denominator = 0
         vertex_map = {}
         g = RelationGraph()
@@ -64,7 +66,7 @@ class TopicLocality(object):
         return g
 
     def buildDirectedGraph(self):
-        primaryNodes = self.totalOccurrences()
+        primaryNodes = self.primaryNodes
         vertex_map = {}
         g = RelationGraph()
         for a in primaryNodes.keys():
