@@ -22,7 +22,8 @@ class GramGraphGenerator:
 
         #build graph
         number_of_articles = len(self.articles)
-        print(number_of_articles)
+        print(len(graph.vertices))
+
         for first_article_index in range(number_of_articles):
             for second_article_index in range(first_article_index+1, number_of_articles):
                 # print("Firt Article Index " + str(first_article_index))
@@ -38,7 +39,7 @@ class GramGraphGenerator:
                 first_vertex = vertex_map[first_article.name]
                 second_vertex = vertex_map[second_article.name]
 
-                if weight > 0.1:
+                if weight > weight_calculator.getThreshold():
                     print("Weight between " + first_article.name + " and " + second_article.name + " is " + str(weight))
                     graph.add_edge(weight, first_vertex, second_vertex)
                     graph.add_edge(weight, second_vertex, first_vertex)
