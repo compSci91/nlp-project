@@ -51,7 +51,7 @@ class TopicLocality(object):
 
     def buildUndirectedGraph(self):
 
-        primaryNodes = self.totalOccurrences()
+        primaryNodes = self.primaryNodes
         print("Number of primary nodes: ", len(primaryNodes))
 
         denominator = 0
