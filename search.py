@@ -35,8 +35,11 @@ def main():
     elif model == 'a':
         model_file += corpus+'AtoA.txt'
         graph.load_graph(model_file)
-    elif model == 'l':
-        model_file += corpus+'TopicLocality.txt'
+    elif model == 'ld':
+        model_file += corpus+'TopicLocalityDirected.txt'
+        graph.load_graph(model_file)
+    elif model == 'lu':
+        model_file += corpus+'TopicLocalityUndirected.txt'
         graph.load_graph(model_file)
 
     if len(graph.vertices) == 0:
