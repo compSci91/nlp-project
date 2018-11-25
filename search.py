@@ -9,7 +9,7 @@ def main():
         usage()
         exit(1)
 
-    model_options = ['u','b','t','a','l']
+    model_options = ['u','b','t','a','lu','ld']
     model = sys.argv[1]
     if model not in model_options:
         print("Please input a valid model.\nu-unigram\nb-bigram\nt-trigram\na-Article to Article\nl-Topic Locality")
