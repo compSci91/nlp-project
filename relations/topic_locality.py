@@ -2,16 +2,18 @@ from relations.article import Article
 from utils.helpers import get_article_names
 from graph.graph import RelationGraph
 
+import pprint
+
 class TopicLocality(object):
     def __init__(self, topics, articles):
         super().__init__()
         self.topics = topics
         self.articles = articles
+
         self.primaryNodes = self.totalOccurrences()
     def run(self):
         pass
         
-
     def totalOccurrences(self):
         primaryNodes = {}
         for topicA in self.topics:
@@ -25,7 +27,6 @@ class TopicLocality(object):
                 paragraphCount = 0
                 sentenceCount = 0
                 for article in self.articles:
-                    article.build_groups()
                     aInArt,bInArt = self.articleOccurence(article,topicA,topicB)
                     for section in article.sects:
                         aInSec,bInSec = self.sectionOccurrence(section,topicA,topicB)
@@ -46,7 +47,9 @@ class TopicLocality(object):
         return primaryNodes 
 
     def buildUndirectedGraph(self):
+
         primaryNodes = self.primaryNodes
+
         denominator = 0
         vertex_map = {}
         g = RelationGraph()

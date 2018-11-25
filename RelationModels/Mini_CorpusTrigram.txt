@@ -1,0 +1,6 @@
+agronomy:agriculture:0.00302035
+agronomy:agrochemicals:0.00000000
+agriculture:agrochemicals:0.00122733
+agriculture:agronomy:0.00302035
+agrochemicals:agronomy:0.00000000
+agrochemicals:agriculture:0.00122733

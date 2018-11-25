@@ -1,4 +1,5 @@
 import math
+import pprint
 
 class GraphError(Exception):
     def GraphError(self, msg):
@@ -63,6 +64,8 @@ class Vertex(object):
                 return e
         return None
 
+    def __repr__(self):
+        return "Vertex({})".format(self.prop)
 
 class Edge(object):
     '''
@@ -79,6 +82,9 @@ class Edge(object):
         self.prop = prop
         self.source = source
         self.target = target
+
+    def __repr__(self):
+        return "{} -> {} | {}".format(self.source, self.target, self.prop)
 
 
 class RelationGraph(object):
@@ -100,8 +106,10 @@ class RelationGraph(object):
             prop: The property of a new vertex
             return: The create vertex
         '''
-        v = Vertex(prop)
-        self.vertices.add(v)
+        v = self.find_vertex(prop)
+        if v == None:
+            v = Vertex(prop)
+            self.vertices.add(v)
         return v
 
     def add_edge(self, prop, source, target):
@@ -112,10 +120,14 @@ class RelationGraph(object):
             target: the target vertex of this edge
             return: The created edge
         '''
-        edge = Edge(prop, source, target)
-        source.add_edge(edge)
-        target.add_edge(edge)
-        self.edges.add(edge)
+        edge = self.find_edge(source,target)
+        if edge == None:
+            edge = Edge(prop, source, target)
+            source.add_edge(edge)
+            target.add_edge(edge)
+            self.edges.add(edge)
+        else:
+            edge.prop = prop
         return edge
 
     def find_vertex(self, prop):
@@ -152,7 +164,24 @@ class RelationGraph(object):
         for e in self.edges:
             yield e
 
+    def save_graph(self, filename):
+        f = open('RelationModels/' + filename,'w')
+        for v in self.vertices:
+            for e in v.out_edges():
+                f.write(v.prop + ":" + e.target.prop + ":" + '%.8f' % e.prop + '\n')
+        print(f)
+
+    def load_graph(self, filename):
+        f = open(filename)
+        for line in f:
+            split = line.split(':')
+            source = self.add_vertex(split[0])
+            target = self.add_vertex(split[1])
+            self.add_edge(float(split[2].rstrip()), source, target)
+
+
     def search(self, s, g):
+        #TODO return the path score as well
         start = self.find_vertex(s)
         goal = self.find_vertex(g)
         weight = {}
@@ -164,17 +193,22 @@ class RelationGraph(object):
 
         changed = True
         while changed:
-            print("Inside while loop")
+            #print("Inside while loop")
             changed = False
             for v in self.vertices:
-                print("inside for loop")
+                if v == start:
+                    continue
+                #print("inside for loop")
                 for e in v.in_edges():
+                    if e.source == v:
+                        continue
                     #inefficient as it has to compute this everytime it
                     #looks at an edge and it looks at all the edges multiple
                     #times in a single query which will just increase with
                     #multiple queries
+                    #print(e.source, ":", e.target)
                     edgeWeight = math.log(e.prop) * -1
-                    print("edge weight: {}".format(edgeWeight))
+                    #print("edge weight: {}".format(edgeWeight))
                     tempWeight = weight[e.source] + edgeWeight
                     if tempWeight < weight[v]:
                         weight[v] = tempWeight
@@ -182,18 +216,34 @@ class RelationGraph(object):
                         changed = True
 
         path = []
+        #return path
         current = goal
-        print("previous")
-        for v,p in previous.items():
-            print("{} to {}".format(p.prop,v.prop))
+        #print("previous")
+        #for v,p in previous.items():
+            #print("{} to {}".format(p.prop,v.prop))
         while current != start:
-            print(current)
+            #print("current",current)
             path.append(current)
             current = previous[current]
+            #return path
         path.append(start)
         path.reverse()
 
-        return path
+        # path_weight = 0.0
+        path_weight = 1.0
+        if len(path) == 0:
+            return path, path_weight
+
+        for i in range(1, len(path)):
+            s = path[i - 1]
+            t = path[i]
+            e = self.find_edge(s, t)
+            path_weight *= e.prop
+            # path_weight += math.log(e.prop) * -1
+
+        return path, path_weight
+
+
 # Test case
 if __name__ == '__main__':
     import random

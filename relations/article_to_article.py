@@ -1,8 +1,7 @@
 # from relations.article import Article
 from utils.helpers import get_article_names
-import pprint
-import pickle
 from graph.graph import RelationGraph
+import pprint
 
 
 class Counts(object):
@@ -18,10 +17,10 @@ class Counts(object):
 
     def __str__(self):
         return "{} {} {}".format(self.first_sentence, self.first_paragraph, self.total_count)
-    
+
     def __format__(self, spec):
         return str(self)
-    
+
     def __repr__(self):
         return str(self.__dict__)
 
@@ -42,31 +41,49 @@ class AtoA(object):
         self.articles = {a.topic:a for a in articles}
         print(len(self.articles))
         self.data = {}
+        self.ran = False
 
     def build_graph(self):
+        if not self.ran:
+            self.run()
+
+# Create the graph
         g = RelationGraph()
         relelation_sums = {}
+#create a dictionary that maps the name of a vertex to the vertex object
         vertex_map = {}
 
+# Building the sums, which will be used for the weights
         for v, c in self.data.items():
             if not v in relelation_sums:
                 relelation_sums[v] = 0
             for _, i in c.items():
                 relelation_sums[v] += i.sum
 
+# Building all the vertex
+# for every vertex name, create a new vertex, store it in the map
         for a in self.articles.keys():
             vertex_map[a] = g.add_vertex(a)
-        
+
+#Building the edges
+# graph.add_edge(for me, prop is the weight, and source and target are the vertex objects)
+# This creates the edge uni-directionally
+# Switch the source and target to add the other direction.
         for a, tb in self.data.items():
+            # print("Looking at: {}".format(a))
             for b, c in tb.items():
                 av = vertex_map[a]
                 bv = vertex_map[b]
-                g.add_edge((c.sum + AtoA.BIAS) / (relelation_sums[a] + AtoA.BIAS), av, bv)
-
+                # print("add_edge")
+                weight = (c.sum) / (relelation_sums[a] + AtoA.BIAS)
+                if weight != 0:
+                    g.add_edge(weight, av, bv)
         return g
 
     # I do not know what else to name this.
     def run(self):
+        self.ran = True
+
         for ta, a in self.articles.items():
             for tb, b in self.articles.items():
                 if ta == tb:
@@ -79,20 +96,20 @@ class AtoA(object):
 
                 self.data[ta][tb] = Counts()
                 self.data[tb][ta] = Counts()
-                
+
 
         for ta, a in self.articles.items():
             for tb, b in self.articles.items():
                 if ta == tb:
                     continue
-                
+
                 aintro = a.get_section('intro')
                 bintro = b.get_section('intro')
 
                 aintrocount = aintro.search(b.topic.lower()) * AtoA.FIRSTPARAGRAPH
                 bintrocount = bintro.search(a.topic.lower()) * AtoA.FIRSTPARAGRAPH
 
-                afirst = aintro.first_sentence() 
+                afirst = aintro.first_sentence()
                 bfirst = bintro.first_sentence()
 
                 afirstS = 0
@@ -104,7 +121,7 @@ class AtoA(object):
                 for bw in bfirst.split():
                     if a.topic.lower() in bw:
                         bfirstS += AtoA.FIRSTSENTENCE
-                
+
                 atotal = 0
                 for s in a.sections():
                     atotal += s.search(b.topic.lower())
@@ -124,6 +141,4 @@ class AtoA(object):
                 c.total_count = btotal * AtoA.TOTALCOUNT
                 c.compute_sum()
 
-        pprint.pprint(self.data)
-        # with open("article_to_article.txt", 'w') as f:
-        #     pickle.dump(self.data, f)
+        # pprint.pprint(self.data)
