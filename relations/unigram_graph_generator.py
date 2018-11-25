@@ -32,12 +32,17 @@ class UnigramGraphGenerator:
 
                 weight = first_article.calculateNumberOfUnigramsInCommon(second_article)
 
-                print("Weight between " + first_article.name + " and " + second_article.name + " is " + str(weight))
 
                 first_vertex = vertex_map[first_article.name]
                 second_vertex = vertex_map[second_article.name]
 
-                graph.add_edge(weight, first_vertex, second_vertex)
-                graph.add_edge(weight, second_vertex, first_vertex)
+                if weight > 10:
+                    print("Weight between " + first_article.name + " and " + second_article.name + " is " + str(weight))
+                    graph.add_edge(weight, first_vertex, second_vertex)
+                    graph.add_edge(weight, second_vertex, first_vertex)
+                else:
+                    # print("Weight between " + first_article.name + " and " + second_article.name + " is " + str(weight))
+                    graph.add_edge(0, first_vertex, second_vertex)
+                    graph.add_edge(0, second_vertex, first_vertex)
 
         return graph
