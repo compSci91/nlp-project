@@ -1,0 +1,3436 @@
+mixed farming:ranches:0.00175901
+mixed farming:yaks:0.00116550
+mixed farming:animal husbandry:0.00139804
+mixed farming:environmental impact of agriculture:0.00160256
+mixed farming:fruits:0.00182548
+mixed farming:pastoral farming:0.00116822
+mixed farming:meat industry:0.00357143
+mixed farming:pastoralism:0.00137363
+mixed farming:subsistence agriculture:0.00204918
+mixed farming:sheep station:0.00246609
+mixed farming:agronomy:0.00121507
+llamas:fuel:0.00298260
+llamas:sustainable agriculture:0.00409165
+llamas:selective breeding:0.00356479
+llamas:egg:0.00231415
+llamas:neolithic revolution:0.00451671
+llamas:agrochemicals:0.00154919
+llamas:aquifers:0.00489345
+llamas:genetic engineering:0.00321927
+llamas:pesticides:0.00514801
+llamas:horses:0.00492524
+llamas:animal:0.00354208
+llamas:cattle:0.00524715
+llamas:vegetables:0.00423463
+llamas:pastoral farming:0.00197824
+llamas:animal welfare:0.00270080
+llamas:livestock:0.00195451
+llamas:farmville:0.00115518
+llamas:environmental impact of agriculture:0.00325789
+llamas:sheep:0.00494248
+llamas:genetically modified food:0.00287845
+llamas:milk:0.00379258
+llamas:animal husbandry:0.00552951
+llamas:pastoralism:0.00271592
+llamas:cattle station:0.00131926
+llamas:agriculture:0.00392796
+llamas:meat industry:0.00119360
+llamas:meat:0.00372885
+llamas:plant breeding:0.00367840
+llamas:cereal crops:0.00255654
+llamas:global warming:0.00383249
+llamas:environmental impacts of irrigation:0.00235770
+llamas:texas a&m university:0.00230101
+llamas:growth hormone:0.00436312
+llamas:ecosystem services:0.00321144
+llamas:fruits:0.00296199
+llamas:plants:0.00439763
+llamas:hunter-gatherer:0.00456621
+llamas:subsistence agriculture:0.00228833
+llamas:plough:0.00519031
+llamas:genetically modified organism:0.00266341
+llamas:cereal:0.00255654
+llamas:fungi:0.00489436
+llamas:savannas:0.00320741
+llamas:goats:0.00507838
+llamas:reindeers:0.00484227
+llamas:ox:0.00359029
+llamas:camels:0.00869010
+llamas:environmental impact of pesticides:0.00411464
+llamas:family farm:0.00407664
+llamas:yaks:0.00455807
+llamas:deforestation:0.00340136
+llamas:ranches:0.00392367
+llamas:history of agriculture:0.00428601
+llamas:pasture:0.00103040
+llamas:tractors:0.00448089
+llamas:oils:0.00395083
+llamas:fertilizer:0.00443698
+llamas:antibiotic resistance:0.00369704
+neolithic revolution:camels:0.00382476
+neolithic revolution:family farm:0.00258112
+neolithic revolution:environmental impact of pesticides:0.00294042
+neolithic revolution:deforestation:0.00492188
+neolithic revolution:sheep station:0.00101482
+neolithic revolution:tractors:0.00333148
+neolithic revolution:oils:0.00149981
+neolithic revolution:history of agriculture:0.00933943
+neolithic revolution:aquifers:0.00238865
+neolithic revolution:genetic engineering:0.00316836
+neolithic revolution:cereal:0.00445205
+neolithic revolution:pastoralism:0.00366067
+neolithic revolution:pesticides:0.00472356
+neolithic revolution:horses:0.00419995
+neolithic revolution:fruits:0.00219042
+neolithic revolution:animal:0.00357919
+neolithic revolution:cattle:0.00438030
+neolithic revolution:vegetables:0.00434174
+neolithic revolution:pastoral farming:0.00292297
+neolithic revolution:ranches:0.00219333
+neolithic revolution:livestock:0.00438940
+neolithic revolution:sheep:0.00504081
+neolithic revolution:agronomy:0.00162107
+neolithic revolution:farmville:0.00117430
+neolithic revolution:soil salinity:0.00115075
+neolithic revolution:environmental impact of agriculture:0.00257498
+neolithic revolution:genetically modified food:0.00273484
+neolithic revolution:animal husbandry:0.00473047
+neolithic revolution:selective breeding:0.00276893
+neolithic revolution:plant breeding:0.00370061
+neolithic revolution:plough:0.00391123
+neolithic revolution:global warming:0.00348827
+neolithic revolution:texas a&m university:0.00240019
+neolithic revolution:ecosystem services:0.00384172
+neolithic revolution:environmental impacts of irrigation:0.00283540
+neolithic revolution:sustainable agriculture:0.00353925
+neolithic revolution:plants:0.00341135
+neolithic revolution:subsistence agriculture:0.00233268
+neolithic revolution:genetically modified organism:0.00440574
+neolithic revolution:fungi:0.00437452
+neolithic revolution:savannas:0.00345044
+neolithic revolution:reindeers:0.00343944
+neolithic revolution:fertilizer:0.00285150
+neolithic revolution:animal welfare:0.00247738
+neolithic revolution:milk:0.00463219
+neolithic revolution:llamas:0.00451671
+neolithic revolution:ox:0.00126973
+neolithic revolution:yaks:0.00171615
+neolithic revolution:growth hormone:0.00266396
+neolithic revolution:meat:0.00472666
+neolithic revolution:cereal crops:0.00445205
+neolithic revolution:egg:0.00208279
+neolithic revolution:hunter-gatherer:0.00718613
+neolithic revolution:agriculture:0.00635290
+neolithic revolution:fuel:0.00249853
+neolithic revolution:antibiotic resistance:0.00334045
+neolithic revolution:goats:0.00355800
+pastoral farming:genetically modified organism:0.00283126
+pastoral farming:savannas:0.00217924
+pastoral farming:agriculture:0.00412104
+pastoral farming:reindeers:0.00206016
+pastoral farming:sustainable agriculture:0.00241619
+pastoral farming:camels:0.00168577
+pastoral farming:family farm:0.00221157
+pastoral farming:deforestation:0.00316456
+pastoral farming:sheep station:0.00181077
+pastoral farming:pasture:0.00207147
+pastoral farming:antibiotic resistance:0.00136088
+pastoral farming:oils:0.00190985
+pastoral farming:goats:0.00224184
+pastoral farming:agrochemicals:0.00103842
+pastoral farming:pesticides:0.00181050
+pastoral farming:environmental impact of pesticides:0.00234650
+pastoral farming:cattle:0.00275874
+pastoral farming:tractors:0.00191706
+pastoral farming:history of agriculture:0.00235664
+pastoral farming:genetic engineering:0.00170490
+pastoral farming:fuel:0.00146484
+pastoral farming:neolithic revolution:0.00292297
+pastoral farming:cereal:0.00222930
+pastoral farming:pastoralism:0.00251537
+pastoral farming:fruits:0.00120802
+pastoral farming:aquifers:0.00340909
+pastoral farming:ranches:0.00491803
+pastoral farming:sheep:0.00162833
+pastoral farming:selective breeding:0.00132802
+pastoral farming:horses:0.00211528
+pastoral farming:plough:0.00165326
+pastoral farming:vegetables:0.00247692
+pastoral farming:environmental impacts of irrigation:0.00250564
+pastoral farming:fungi:0.00173913
+pastoral farming:fertilizer:0.00171500
+pastoral farming:animal welfare:0.00136799
+pastoral farming:milk:0.00229105
+pastoral farming:ox:0.00214669
+pastoral farming:llamas:0.00197824
+pastoral farming:yaks:0.00128452
+pastoral farming:meat:0.00199297
+pastoral farming:growth hormone:0.00173879
+pastoral farming:livestock:0.00299157
+pastoral farming:animal:0.00136585
+pastoral farming:farmville:0.00123267
+pastoral farming:environmental impact of agriculture:0.00386100
+pastoral farming:genetically modified food:0.00280800
+pastoral farming:cereal crops:0.00222930
+pastoral farming:animal husbandry:0.00281426
+pastoral farming:cattle station:0.00115385
+pastoral farming:mixed farming:0.00116822
+pastoral farming:hunter-gatherer:0.00203620
+pastoral farming:meat industry:0.00268216
+pastoral farming:plant breeding:0.00370501
+pastoral farming:global warming:0.00182399
+pastoral farming:ecosystem services:0.00220321
+pastoral farming:plants:0.00152711
+pastoral farming:subsistence agriculture:0.00350018
+animal welfare:fuel:0.00331082
+animal welfare:neolithic revolution:0.00247738
+animal welfare:agrochemicals:0.00129750
+animal welfare:aquifers:0.00330663
+animal welfare:genetic engineering:0.00353464
+animal welfare:pesticides:0.00616793
+animal welfare:horses:0.00434344
+animal welfare:animal:0.00338114
+animal welfare:cattle:0.00490798
+animal welfare:vegetables:0.00291029
+animal welfare:pastoral farming:0.00136799
+animal welfare:livestock:0.00265995
+animal welfare:ranches:0.00280426
+animal welfare:agronomy:0.00105411
+animal welfare:llamas:0.00270080
+animal welfare:farmville:0.00104229
+animal welfare:sheep:0.00354209
+animal welfare:soil salinity:0.00117292
+animal welfare:milk:0.00374286
+animal welfare:environmental impact of agriculture:0.00367497
+animal welfare:pastoralism:0.00269810
+animal welfare:genetically modified food:0.00514167
+animal welfare:agriculture:0.00418340
+animal welfare:animal husbandry:0.00498018
+animal welfare:meat:0.00375752
+animal welfare:meat industry:0.00140130
+animal welfare:cereal crops:0.00257420
+animal welfare:plant breeding:0.00394434
+animal welfare:environmental impacts of irrigation:0.00254828
+animal welfare:global warming:0.00368339
+animal welfare:growth hormone:0.00312790
+animal welfare:texas a&m university:0.00302024
+animal welfare:fruits:0.00157770
+animal welfare:ecosystem services:0.00493185
+animal welfare:hunter-gatherer:0.00253711
+animal welfare:plants:0.00353857
+animal welfare:cereal:0.00257420
+animal welfare:plough:0.00175439
+animal welfare:subsistence agriculture:0.00126322
+animal welfare:fungi:0.00268019
+animal welfare:genetically modified organism:0.00456708
+animal welfare:goats:0.00415761
+animal welfare:savannas:0.00238229
+animal welfare:ox:0.00175607
+animal welfare:reindeers:0.00217949
+animal welfare:environmental impact of pesticides:0.00209741
+animal welfare:camels:0.00351700
+animal welfare:yaks:0.00167148
+animal welfare:family farm:0.00371663
+animal welfare:history of agriculture:0.00261238
+animal welfare:deforestation:0.00383311
+animal welfare:tractors:0.00261800
+animal welfare:sheep station:0.00140870
+animal welfare:fertilizer:0.00283659
+animal welfare:antibiotic resistance:0.00486449
+animal welfare:sustainable agriculture:0.00486932
+animal welfare:selective breeding:0.00300978
+animal welfare:egg:0.00189641
+animal:plants:0.00569569
+animal:subsistence agriculture:0.00225687
+animal:genetically modified organism:0.00352811
+animal:savannas:0.00211082
+animal:reindeers:0.00290019
+animal:antibiotic resistance:0.00247844
+animal:camels:0.00353001
+animal:goats:0.00328192
+animal:family farm:0.00268962
+animal:pesticides:0.00370971
+animal:deforestation:0.00346535
+animal:environmental impact of pesticides:0.00140174
+animal:agrochemicals:0.00101471
+animal:oils:0.00237581
+animal:bovine:0.00171990
+animal:fuel:0.00360774
+animal:tractors:0.00226491
+animal:history of agriculture:0.00269486
+animal:genetic engineering:0.00343114
+animal:neolithic revolution:0.00357919
+animal:cereal:0.00330225
+animal:pastoralism:0.00196639
+animal:fruits:0.00292969
+animal:aquifers:0.00264963
+animal:ranches:0.00211119
+animal:sheep:0.00355390
+animal:selective breeding:0.00153092
+animal:horses:0.00419397
+animal:plough:0.00279910
+animal:sustainable agriculture:0.00196782
+animal:environmental impacts of irrigation:0.00199767
+animal:fungi:0.00421599
+animal:fertilizer:0.00201756
+animal:animal welfare:0.00338114
+animal:milk:0.00304613
+animal:llamas:0.00354208
+animal:yaks:0.00253758
+animal:meat:0.00303807
+animal:growth hormone:0.00194742
+animal:cattle:0.00370175
+animal:vegetables:0.00216853
+animal:pastoral farming:0.00136585
+animal:cereal crops:0.00330225
+animal:livestock:0.00281195
+animal:agronomy:0.00118008
+animal:egg:0.00301032
+animal:farmville:0.00114047
+animal:hunter-gatherer:0.00279981
+animal:soil salinity:0.00110767
+animal:environmental impact of agriculture:0.00271095
+animal:genetically modified food:0.00285344
+animal:animal husbandry:0.00416816
+animal:cattle station:0.00151712
+animal:plant breeding:0.00234101
+animal:global warming:0.00269092
+animal:texas a&m university:0.00203321
+animal:agriculture:0.00332984
+animal:ecosystem services:0.00257043
+farmville:plough:0.00152025
+farmville:agriculture:0.00127138
+farmville:sustainable agriculture:0.00118256
+farmville:environmental impact of agriculture:0.00173784
+farmville:antibiotic resistance:0.00158228
+farmville:livestock:0.00104739
+farmville:genetically modified food:0.00119822
+farmville:goats:0.00192466
+farmville:animal husbandry:0.00214231
+farmville:pesticides:0.00162626
+farmville:meat industry:0.00126316
+farmville:environmental impact of pesticides:0.00171363
+farmville:plant breeding:0.00154772
+farmville:tractors:0.00129327
+farmville:cattle:0.00149306
+farmville:ecosystem services:0.00114518
+farmville:plants:0.00212819
+farmville:history of agriculture:0.00167138
+farmville:subsistence agriculture:0.00200267
+farmville:genetically modified organism:0.00194310
+farmville:savannas:0.00104987
+farmville:reindeers:0.00113997
+farmville:camels:0.00230909
+farmville:genetic engineering:0.00349810
+farmville:family farm:0.00143756
+farmville:neolithic revolution:0.00117430
+farmville:deforestation:0.00126632
+farmville:bovine:0.00136924
+farmville:pastoralism:0.00134517
+farmville:cereal:0.00336289
+farmville:fruits:0.00163858
+farmville:fuel:0.00284024
+farmville:aquifers:0.00198194
+farmville:ranches:0.00105014
+farmville:sheep:0.00130470
+farmville:horses:0.00125026
+farmville:vegetables:0.00109123
+farmville:environmental impacts of irrigation:0.00193798
+farmville:fertilizer:0.00213871
+farmville:animal welfare:0.00104229
+farmville:milk:0.00184486
+farmville:llamas:0.00115518
+farmville:growth hormone:0.00112909
+farmville:meat:0.00126860
+farmville:pastoral farming:0.00123267
+farmville:animal:0.00114047
+farmville:cereal crops:0.00336289
+farmville:egg:0.00117463
+farmville:hunter-gatherer:0.00153610
+meat industry:plants:0.00143082
+meat industry:ecosystem services:0.00204439
+meat industry:llamas:0.00119360
+meat industry:environmental impact of pesticides:0.00164783
+meat industry:ranches:0.00178444
+meat industry:sheep:0.00100424
+meat industry:cattle station:0.00115607
+meat industry:cattle:0.00134836
+meat industry:global warming:0.00126470
+meat industry:subsistence agriculture:0.00251130
+meat industry:genetically modified organism:0.00145068
+meat industry:savannas:0.00142653
+meat industry:meat:0.00287431
+meat industry:animal husbandry:0.00162631
+meat industry:family farm:0.00241440
+meat industry:growth hormone:0.00116036
+meat industry:environmental impact of agriculture:0.00331236
+meat industry:deforestation:0.00118765
+meat industry:selective breeding:0.00164519
+meat industry:sheep station:0.00149254
+meat industry:plough:0.00109649
+meat industry:genetic engineering:0.00161204
+meat industry:soil salinity:0.00184388
+meat industry:agriculture:0.00117678
+meat industry:fertilizer:0.00126194
+meat industry:sustainable agriculture:0.00173702
+meat industry:pastoral farming:0.00268216
+meat industry:environmental impacts of irrigation:0.00160000
+meat industry:cereal:0.00131984
+meat industry:mixed farming:0.00357143
+meat industry:farmville:0.00126316
+meat industry:pastoralism:0.00295421
+meat industry:livestock:0.00177809
+meat industry:plant breeding:0.00124688
+meat industry:aquifers:0.00112994
+meat industry:cereal crops:0.00131984
+meat industry:animal welfare:0.00140130
+sustainable agriculture:cattle:0.00543774
+sustainable agriculture:tractors:0.00440463
+sustainable agriculture:vegetables:0.00402820
+sustainable agriculture:pastoral farming:0.00241619
+sustainable agriculture:history of agriculture:0.00512452
+sustainable agriculture:livestock:0.00319933
+sustainable agriculture:agronomy:0.00331646
+sustainable agriculture:farmville:0.00118256
+sustainable agriculture:soil salinity:0.00266267
+sustainable agriculture:environmental impact of agriculture:0.00924415
+sustainable agriculture:genetically modified food:0.00423959
+sustainable agriculture:animal husbandry:0.00525996
+sustainable agriculture:cattle station:0.00179856
+sustainable agriculture:cereal:0.00270555
+sustainable agriculture:pastoralism:0.00537254
+sustainable agriculture:meat industry:0.00173702
+sustainable agriculture:plant breeding:0.00655523
+sustainable agriculture:fruits:0.00261506
+sustainable agriculture:global warming:0.00547162
+sustainable agriculture:texas a&m university:0.00270717
+sustainable agriculture:ecosystem services:0.00887256
+sustainable agriculture:plants:0.00440762
+sustainable agriculture:ranches:0.00292438
+sustainable agriculture:subsistence agriculture:0.00408484
+sustainable agriculture:sheep:0.00473577
+sustainable agriculture:genetically modified organism:0.00540233
+sustainable agriculture:savannas:0.00418235
+sustainable agriculture:reindeers:0.00339070
+sustainable agriculture:camels:0.00360475
+sustainable agriculture:family farm:0.00594904
+sustainable agriculture:deforestation:0.00789027
+sustainable agriculture:oils:0.00195599
+sustainable agriculture:plough:0.00526064
+sustainable agriculture:environmental impacts of irrigation:0.00507546
+sustainable agriculture:selective breeding:0.00286604
+sustainable agriculture:egg:0.00283052
+sustainable agriculture:neolithic revolution:0.00353925
+sustainable agriculture:fungi:0.00441038
+sustainable agriculture:aquifers:0.00430108
+sustainable agriculture:genetic engineering:0.00594279
+sustainable agriculture:fertilizer:0.00647446
+sustainable agriculture:pesticides:0.00623701
+sustainable agriculture:horses:0.00494782
+sustainable agriculture:animal:0.00196782
+sustainable agriculture:milk:0.00537564
+sustainable agriculture:llamas:0.00409165
+sustainable agriculture:ox:0.00221835
+sustainable agriculture:yaks:0.00180995
+sustainable agriculture:growth hormone:0.00299436
+sustainable agriculture:meat:0.00600050
+sustainable agriculture:cereal crops:0.00270555
+sustainable agriculture:hunter-gatherer:0.00353312
+sustainable agriculture:agriculture:0.00802944
+sustainable agriculture:fuel:0.00474308
+sustainable agriculture:antibiotic resistance:0.00562624
+sustainable agriculture:goats:0.00442145
+sustainable agriculture:animal welfare:0.00486932
+sustainable agriculture:environmental impact of pesticides:0.00464576
+ox:pastoralism:0.00244948
+ox:cereal:0.00176741
+ox:fruits:0.00261712
+ox:ranches:0.00148810
+ox:sheep:0.00263047
+ox:plough:0.00354529
+ox:environmental impacts of irrigation:0.00108578
+ox:fungi:0.00229266
+ox:milk:0.00191688
+ox:environmental impact of pesticides:0.00249948
+ox:yaks:0.00142806
+ox:history of agriculture:0.00150027
+ox:meat:0.00158132
+ox:tractors:0.00333855
+ox:fertilizer:0.00246023
+ox:antibiotic resistance:0.00193150
+ox:sustainable agriculture:0.00221835
+ox:selective breeding:0.00214184
+ox:egg:0.00236305
+ox:neolithic revolution:0.00126973
+ox:agrochemicals:0.00123993
+ox:aquifers:0.00219888
+ox:genetic engineering:0.00260841
+ox:pesticides:0.00253526
+ox:cereal crops:0.00176741
+ox:horses:0.00372480
+ox:fuel:0.00317712
+ox:cattle:0.00532257
+ox:vegetables:0.00290768
+ox:pastoral farming:0.00214669
+ox:hunter-gatherer:0.00145985
+ox:livestock:0.00416543
+ox:agronomy:0.00104767
+ox:soil salinity:0.00137300
+ox:genetically modified food:0.00166914
+ox:animal husbandry:0.00262942
+ox:plant breeding:0.00149031
+ox:global warming:0.00106308
+ox:agriculture:0.00219593
+ox:ecosystem services:0.00134953
+ox:plants:0.00172322
+ox:subsistence agriculture:0.00274833
+ox:genetically modified organism:0.00207193
+ox:reindeers:0.00211470
+ox:camels:0.00231481
+ox:family farm:0.00195503
+ox:goats:0.00396301
+ox:deforestation:0.00142610
+ox:animal welfare:0.00175607
+ox:pasture:0.00123457
+ox:oils:0.00260417
+ox:llamas:0.00359029
+ox:growth hormone:0.00246914
+soil salinity:plough:0.00200993
+soil salinity:agriculture:0.00215244
+soil salinity:sustainable agriculture:0.00266267
+soil salinity:antibiotic resistance:0.00160664
+soil salinity:agrochemicals:0.00152323
+soil salinity:livestock:0.00228162
+soil salinity:goats:0.00122474
+soil salinity:pesticides:0.00249501
+soil salinity:environmental impact of pesticides:0.00110914
+soil salinity:cattle:0.00140977
+soil salinity:genetic engineering:0.00205550
+soil salinity:neolithic revolution:0.00115075
+soil salinity:environmental impact of agriculture:0.00612182
+soil salinity:cattle station:0.00100604
+soil salinity:pastoralism:0.00100976
+soil salinity:cereal:0.00316706
+soil salinity:meat industry:0.00184388
+soil salinity:fuel:0.00201034
+soil salinity:plant breeding:0.00177620
+soil salinity:ecosystem services:0.00182918
+soil salinity:aquifers:0.00449141
+soil salinity:plants:0.00124172
+soil salinity:subsistence agriculture:0.00311526
+soil salinity:agronomy:0.00248911
+soil salinity:genetically modified organism:0.00170279
+soil salinity:sheep:0.00108472
+soil salinity:savannas:0.00163345
+soil salinity:camels:0.00131530
+soil salinity:deforestation:0.00210283
+soil salinity:sheep station:0.00187852
+soil salinity:selective breeding:0.00102380
+soil salinity:horses:0.00112969
+soil salinity:vegetables:0.00156535
+soil salinity:environmental impacts of irrigation:0.00385185
+soil salinity:fertilizer:0.00241463
+soil salinity:animal welfare:0.00117292
+soil salinity:ox:0.00137300
+soil salinity:yaks:0.00119904
+soil salinity:growth hormone:0.00131406
+soil salinity:animal:0.00110767
+soil salinity:cereal crops:0.00316706
+soil salinity:egg:0.00183570
+soil salinity:hunter-gatherer:0.00183775
+agrochemicals:bovine:0.00114679
+agrochemicals:cereal crops:0.00153218
+agrochemicals:goats:0.00100654
+agrochemicals:fertilizer:0.00267943
+agrochemicals:animal welfare:0.00129750
+agrochemicals:ranches:0.00120530
+agrochemicals:egg:0.00105569
+agrochemicals:environmental impact of pesticides:0.00101626
+agrochemicals:milk:0.00113058
+agrochemicals:llamas:0.00154919
+agrochemicals:ox:0.00123993
+agrochemicals:tractors:0.00114495
+agrochemicals:genetic engineering:0.00189861
+agrochemicals:yaks:0.00155521
+agrochemicals:pesticides:0.00238927
+agrochemicals:growth hormone:0.00125188
+agrochemicals:animal:0.00101471
+agrochemicals:vegetables:0.00153327
+agrochemicals:pastoral farming:0.00103842
+agrochemicals:livestock:0.00120048
+agrochemicals:soil salinity:0.00152323
+agrochemicals:agriculture:0.00122733
+agrochemicals:environmental impact of agriculture:0.00110660
+agrochemicals:genetically modified food:0.00176991
+agrochemicals:environmental impacts of irrigation:0.00106686
+agrochemicals:fuel:0.00240633
+agrochemicals:subsistence agriculture:0.00119119
+agrochemicals:cereal:0.00153218
+agrochemicals:pastoralism:0.00208681
+agrochemicals:genetically modified organism:0.00169837
+agrochemicals:family farm:0.00141309
+agrochemicals:sheep station:0.00195122
+agrochemicals:antibiotic resistance:0.00115942
+reindeers:genetic engineering:0.00381877
+reindeers:pastoral farming:0.00206016
+reindeers:animal:0.00290019
+reindeers:egg:0.00343421
+reindeers:aquifers:0.00447728
+reindeers:cereal crops:0.00205457
+reindeers:sheep:0.00478774
+reindeers:hunter-gatherer:0.00290265
+reindeers:animal husbandry:0.00467897
+reindeers:plough:0.00548933
+reindeers:agriculture:0.00457300
+reindeers:sustainable agriculture:0.00339070
+reindeers:farmville:0.00113997
+reindeers:antibiotic resistance:0.00410076
+reindeers:livestock:0.00236146
+reindeers:pesticides:0.00461125
+reindeers:goats:0.00583670
+reindeers:tractors:0.00444633
+reindeers:cattle station:0.00171984
+reindeers:environmental impact of pesticides:0.00275950
+reindeers:history of agriculture:0.00402765
+reindeers:cattle:0.00654048
+reindeers:fuel:0.00251620
+reindeers:neolithic revolution:0.00343944
+reindeers:fruits:0.00250817
+reindeers:texas a&m university:0.00501013
+reindeers:cereal:0.00205457
+reindeers:pastoralism:0.00198287
+reindeers:savannas:0.00299519
+reindeers:ranches:0.00299543
+reindeers:ecosystem services:0.00358873
+reindeers:camels:0.00529881
+reindeers:family farm:0.00374220
+reindeers:deforestation:0.00529101
+reindeers:selective breeding:0.00236372
+reindeers:environmental impact of agriculture:0.00263321
+reindeers:sheep station:0.00115597
+reindeers:horses:0.00564696
+reindeers:plant breeding:0.00402017
+reindeers:oils:0.00180288
+reindeers:vegetables:0.00267419
+reindeers:plants:0.00427452
+reindeers:fungi:0.00486542
+reindeers:environmental impacts of irrigation:0.00261277
+reindeers:ox:0.00211470
+reindeers:milk:0.00501108
+reindeers:animal welfare:0.00217949
+reindeers:fertilizer:0.00441472
+reindeers:global warming:0.00501550
+reindeers:llamas:0.00484227
+reindeers:subsistence agriculture:0.00193440
+reindeers:yaks:0.00247239
+reindeers:meat:0.00479753
+reindeers:genetically modified food:0.00278552
+reindeers:growth hormone:0.00331359
+reindeers:genetically modified organism:0.00329663
+egg:global warming:0.00244660
+egg:environmental impact of pesticides:0.00157593
+egg:texas a&m university:0.00137233
+egg:ecosystem services:0.00166980
+egg:tractors:0.00272039
+egg:plants:0.00391874
+egg:subsistence agriculture:0.00190557
+egg:history of agriculture:0.00157795
+egg:genetically modified organism:0.00280143
+egg:savannas:0.00216920
+egg:reindeers:0.00343421
+egg:camels:0.00205365
+egg:family farm:0.00205818
+egg:deforestation:0.00267179
+egg:oils:0.00178571
+egg:cereal:0.00139860
+egg:pastoralism:0.00165350
+egg:fruits:0.00166694
+egg:ranches:0.00216959
+egg:sheep:0.00334248
+egg:plant breeding:0.00278773
+egg:selective breeding:0.00172468
+egg:plough:0.00329761
+egg:environmental impacts of irrigation:0.00170765
+egg:sustainable agriculture:0.00283052
+egg:fungi:0.00443386
+egg:fertilizer:0.00314618
+egg:milk:0.00411130
+egg:llamas:0.00231415
+egg:ox:0.00236305
+egg:yaks:0.00261569
+egg:growth hormone:0.00284495
+egg:meat:0.00211742
+egg:cereal crops:0.00139860
+egg:neolithic revolution:0.00208279
+egg:agrochemicals:0.00105569
+egg:hunter-gatherer:0.00222930
+egg:aquifers:0.00175467
+egg:genetic engineering:0.00204548
+egg:pesticides:0.00436939
+egg:horses:0.00327347
+egg:animal:0.00301032
+egg:cattle:0.00389849
+egg:vegetables:0.00269841
+egg:agriculture:0.00173494
+egg:livestock:0.00270856
+egg:agronomy:0.00171485
+egg:farmville:0.00117463
+egg:fuel:0.00218341
+egg:soil salinity:0.00183570
+egg:environmental impact of agriculture:0.00313207
+egg:genetically modified food:0.00251323
+egg:antibiotic resistance:0.00251661
+egg:animal husbandry:0.00351515
+egg:goats:0.00356110
+egg:animal welfare:0.00189641
+plough:livestock:0.00228216
+plough:cereal:0.00230769
+plough:pastoralism:0.00283197
+plough:agronomy:0.00158827
+plough:farmville:0.00152025
+plough:fruits:0.00386943
+plough:soil salinity:0.00200993
+plough:environmental impact of agriculture:0.00447609
+plough:genetically modified food:0.00412371
+plough:animal husbandry:0.00551948
+plough:ranches:0.00249273
+plough:cattle station:0.00116727
+plough:sheep:0.00438179
+plough:meat industry:0.00109649
+plough:plant breeding:0.00447851
+plough:global warming:0.00373972
+plough:texas a&m university:0.00317783
+plough:ecosystem services:0.00314696
+plough:plants:0.00508204
+plough:subsistence agriculture:0.00181303
+plough:fungi:0.00516669
+plough:genetically modified organism:0.00338097
+plough:goats:0.00590038
+plough:savannas:0.00353467
+plough:ox:0.00354529
+plough:reindeers:0.00548933
+plough:environmental impact of pesticides:0.00407056
+plough:camels:0.00336814
+plough:environmental impacts of irrigation:0.00291575
+plough:yaks:0.00220459
+plough:family farm:0.00360566
+plough:history of agriculture:0.00597830
+plough:deforestation:0.00448710
+plough:tractors:0.00900901
+plough:oils:0.00256560
+plough:fertilizer:0.00486263
+plough:antibiotic resistance:0.00421158
+plough:sustainable agriculture:0.00526064
+plough:selective breeding:0.00372885
+plough:milk:0.00440479
+plough:egg:0.00329761
+plough:neolithic revolution:0.00391123
+plough:aquifers:0.00571152
+plough:genetic engineering:0.00427972
+plough:meat:0.00498304
+plough:pesticides:0.00533992
+plough:horses:0.00559787
+plough:animal:0.00279910
+plough:cattle:0.00612709
+plough:vegetables:0.00462517
+plough:fuel:0.00438596
+plough:pastoral farming:0.00165326
+plough:cereal crops:0.00230769
+plough:hunter-gatherer:0.00269880
+plough:agriculture:0.00540765
+plough:animal welfare:0.00175439
+plough:llamas:0.00519031
+plough:growth hormone:0.00323654
+history of agriculture:fertilizer:0.00458001
+history of agriculture:antibiotic resistance:0.00277756
+history of agriculture:sustainable agriculture:0.00512452
+history of agriculture:selective breeding:0.00287611
+history of agriculture:egg:0.00157795
+history of agriculture:neolithic revolution:0.00933943
+history of agriculture:aquifers:0.00291121
+history of agriculture:cereal:0.00483534
+history of agriculture:pastoralism:0.00395208
+history of agriculture:genetic engineering:0.00438076
+history of agriculture:pesticides:0.00349996
+history of agriculture:fruits:0.00161439
+history of agriculture:horses:0.00372359
+history of agriculture:animal:0.00269486
+history of agriculture:cattle:0.00380952
+history of agriculture:vegetables:0.00379464
+history of agriculture:ranches:0.00366300
+history of agriculture:pastoral farming:0.00235664
+history of agriculture:sheep:0.00453942
+history of agriculture:livestock:0.00390339
+history of agriculture:agronomy:0.00222189
+history of agriculture:farmville:0.00167138
+history of agriculture:environmental impact of agriculture:0.00308935
+history of agriculture:genetically modified food:0.00303178
+history of agriculture:animal husbandry:0.00967653
+history of agriculture:cattle station:0.00168232
+history of agriculture:plough:0.00597830
+history of agriculture:plant breeding:0.00431923
+history of agriculture:global warming:0.00308526
+history of agriculture:texas a&m university:0.00384696
+history of agriculture:environmental impacts of irrigation:0.00340615
+history of agriculture:ecosystem services:0.00367948
+history of agriculture:plants:0.00363872
+history of agriculture:subsistence agriculture:0.00338570
+history of agriculture:fungi:0.00424328
+history of agriculture:genetically modified organism:0.00379900
+history of agriculture:savannas:0.00341755
+history of agriculture:reindeers:0.00402765
+history of agriculture:camels:0.00479203
+history of agriculture:family farm:0.00372121
+history of agriculture:milk:0.00510110
+history of agriculture:deforestation:0.00527072
+history of agriculture:ox:0.00150027
+history of agriculture:oils:0.00111779
+history of agriculture:yaks:0.00104548
+history of agriculture:meat:0.00445092
+history of agriculture:cereal crops:0.00483534
+history of agriculture:hunter-gatherer:0.00515406
+history of agriculture:fuel:0.00266790
+history of agriculture:agriculture:0.05462761
+history of agriculture:goats:0.00360422
+history of agriculture:animal welfare:0.00261238
+history of agriculture:environmental impact of pesticides:0.00280054
+history of agriculture:llamas:0.00428601
+history of agriculture:growth hormone:0.00319719
+history of agriculture:tractors:0.00465116
+camels:neolithic revolution:0.00382476
+camels:genetic engineering:0.00378133
+camels:pastoral farming:0.00168577
+camels:animal:0.00353001
+camels:agronomy:0.00138751
+camels:egg:0.00205365
+camels:aquifers:0.00415916
+camels:cereal crops:0.00251678
+camels:sheep:0.00539597
+camels:hunter-gatherer:0.00304077
+camels:animal husbandry:0.00293001
+camels:plough:0.00336814
+camels:agriculture:0.00353482
+camels:sustainable agriculture:0.00360475
+camels:farmville:0.00230909
+camels:antibiotic resistance:0.00339917
+camels:livestock:0.00261579
+camels:goats:0.00604778
+camels:pesticides:0.00456233
+camels:tractors:0.00385554
+camels:cattle station:0.00147520
+camels:environmental impact of pesticides:0.00302648
+camels:history of agriculture:0.00479203
+camels:cattle:0.00585129
+camels:soil salinity:0.00131530
+camels:fuel:0.00405680
+camels:genetically modified organism:0.00384849
+camels:fruits:0.00258844
+camels:texas a&m university:0.00357341
+camels:cereal:0.00251678
+camels:pastoralism:0.00218716
+camels:savannas:0.00339244
+camels:ranches:0.00339297
+camels:ecosystem services:0.00313450
+camels:reindeers:0.00529881
+camels:selective breeding:0.00327511
+camels:environmental impact of agriculture:0.00193596
+camels:horses:0.00605119
+camels:plant breeding:0.00412639
+camels:family farm:0.00352070
+camels:deforestation:0.00386937
+camels:vegetables:0.00303114
+camels:sheep station:0.00178855
+camels:bovine:0.00122926
+camels:plants:0.00328238
+camels:fungi:0.00380344
+camels:environmental impacts of irrigation:0.00234845
+camels:ox:0.00231481
+camels:milk:0.00480439
+camels:animal welfare:0.00351700
+camels:fertilizer:0.00336153
+camels:global warming:0.00284900
+camels:llamas:0.00869010
+camels:subsistence agriculture:0.00317069
+camels:yaks:0.00286726
+camels:meat:0.00308642
+camels:genetically modified food:0.00269985
+camels:growth hormone:0.00312969
+environmental impact of agriculture:plough:0.00447609
+environmental impact of agriculture:agriculture:0.00659246
+environmental impact of agriculture:sustainable agriculture:0.00924415
+environmental impact of agriculture:farmville:0.00173784
+environmental impact of agriculture:antibiotic resistance:0.00600430
+environmental impact of agriculture:agrochemicals:0.00110660
+environmental impact of agriculture:livestock:0.00471592
+environmental impact of agriculture:goats:0.00366625
+environmental impact of agriculture:pesticides:0.00759837
+environmental impact of agriculture:environmental impact of pesticides:0.00612662
+environmental impact of agriculture:tractors:0.00299513
+environmental impact of agriculture:cattle:0.00424894
+environmental impact of agriculture:history of agriculture:0.00308935
+environmental impact of agriculture:genetic engineering:0.00568812
+environmental impact of agriculture:neolithic revolution:0.00257498
+environmental impact of agriculture:soil salinity:0.00612182
+environmental impact of agriculture:fruits:0.00223623
+environmental impact of agriculture:cereal:0.00254907
+environmental impact of agriculture:pastoralism:0.00598114
+environmental impact of agriculture:fuel:0.00452117
+environmental impact of agriculture:aquifers:0.00463589
+environmental impact of agriculture:ranches:0.00404858
+environmental impact of agriculture:agronomy:0.00366789
+environmental impact of agriculture:sheep:0.00292536
+environmental impact of agriculture:genetically modified food:0.00432633
+environmental impact of agriculture:animal husbandry:0.00418410
+environmental impact of agriculture:selective breeding:0.00207586
+environmental impact of agriculture:cattle station:0.00236616
+environmental impact of agriculture:horses:0.00332453
+environmental impact of agriculture:mixed farming:0.00160256
+environmental impact of agriculture:meat industry:0.00331236
+environmental impact of agriculture:vegetables:0.00479570
+environmental impact of agriculture:plant breeding:0.00481068
+environmental impact of agriculture:global warming:0.00683563
+environmental impact of agriculture:texas a&m university:0.00227015
+environmental impact of agriculture:environmental impacts of irrigation:0.00715338
+environmental impact of agriculture:fungi:0.00305755
+environmental impact of agriculture:ecosystem services:0.00578512
+environmental impact of agriculture:plants:0.00394340
+environmental impact of agriculture:subsistence agriculture:0.00412314
+environmental impact of agriculture:genetically modified organism:0.00472361
+environmental impact of agriculture:savannas:0.00631057
+environmental impact of agriculture:fertilizer:0.00557802
+environmental impact of agriculture:reindeers:0.00263321
+environmental impact of agriculture:animal welfare:0.00367497
+environmental impact of agriculture:milk:0.00374472
+environmental impact of agriculture:camels:0.00193596
+environmental impact of agriculture:llamas:0.00325789
+environmental impact of agriculture:family farm:0.00451904
+environmental impact of agriculture:deforestation:0.00979305
+environmental impact of agriculture:yaks:0.00334104
+environmental impact of agriculture:sheep station:0.00133556
+environmental impact of agriculture:meat:0.00430432
+environmental impact of agriculture:pasture:0.00147221
+environmental impact of agriculture:growth hormone:0.00437342
+environmental impact of agriculture:oils:0.00205761
+environmental impact of agriculture:pastoral farming:0.00386100
+environmental impact of agriculture:animal:0.00271095
+environmental impact of agriculture:cereal crops:0.00254907
+environmental impact of agriculture:egg:0.00313207
+environmental impact of agriculture:hunter-gatherer:0.00288462
+pastoralism:plough:0.00283197
+pastoralism:fungi:0.00203346
+pastoralism:goats:0.00394945
+pastoralism:ox:0.00244948
+pastoralism:environmental impact of pesticides:0.00322523
+pastoralism:yaks:0.00195312
+pastoralism:history of agriculture:0.00395208
+pastoralism:tractors:0.00192623
+pastoralism:fertilizer:0.00334545
+pastoralism:antibiotic resistance:0.00280932
+pastoralism:sustainable agriculture:0.00537254
+pastoralism:fuel:0.00219058
+pastoralism:selective breeding:0.00200521
+pastoralism:egg:0.00165350
+pastoralism:neolithic revolution:0.00366067
+pastoralism:agrochemicals:0.00208681
+pastoralism:aquifers:0.00205002
+pastoralism:genetic engineering:0.00361742
+pastoralism:pesticides:0.00338553
+pastoralism:milk:0.00310280
+pastoralism:horses:0.00363196
+pastoralism:animal:0.00196639
+pastoralism:cattle:0.00298992
+pastoralism:vegetables:0.00305499
+pastoralism:pastoral farming:0.00251537
+pastoralism:livestock:0.00482975
+pastoralism:agronomy:0.00185736
+pastoralism:farmville:0.00134517
+pastoralism:soil salinity:0.00100976
+pastoralism:environmental impact of agriculture:0.00598114
+pastoralism:genetically modified food:0.00210560
+pastoralism:animal husbandry:0.00496133
+pastoralism:cattle station:0.00195440
+pastoralism:mixed farming:0.00137363
+pastoralism:meat industry:0.00295421
+pastoralism:plant breeding:0.00244021
+pastoralism:global warming:0.00390244
+pastoralism:texas a&m university:0.00155839
+pastoralism:ecosystem services:0.00330114
+pastoralism:plants:0.00276442
+pastoralism:genetically modified organism:0.00278662
+pastoralism:savannas:0.00338328
+pastoralism:reindeers:0.00198287
+pastoralism:camels:0.00218716
+pastoralism:family farm:0.00373578
+pastoralism:deforestation:0.00435153
+pastoralism:sheep station:0.00149142
+pastoralism:animal welfare:0.00269810
+pastoralism:llamas:0.00271592
+pastoralism:sheep:0.00320949
+pastoralism:cereal:0.00277008
+pastoralism:agriculture:0.00513680
+pastoralism:meat:0.00277932
+pastoralism:cereal crops:0.00277008
+pastoralism:environmental impacts of irrigation:0.00358905
+pastoralism:growth hormone:0.00212540
+pastoralism:ranches:0.00362669
+pastoralism:hunter-gatherer:0.00533224
+cattle:sustainable agriculture:0.00543774
+cattle:antibiotic resistance:0.00581899
+cattle:goats:0.00923057
+cattle:pesticides:0.00728535
+cattle:environmental impact of pesticides:0.00408287
+cattle:vegetables:0.00454219
+cattle:tractors:0.00550459
+cattle:fuel:0.00566177
+cattle:pastoral farming:0.00275874
+cattle:history of agriculture:0.00380952
+cattle:livestock:0.00500721
+cattle:agronomy:0.00135083
+cattle:farmville:0.00149306
+cattle:soil salinity:0.00140977
+cattle:environmental impact of agriculture:0.00424894
+cattle:genetic engineering:0.00550320
+cattle:genetically modified food:0.00507320
+cattle:neolithic revolution:0.00438030
+cattle:animal husbandry:0.00628583
+cattle:cattle station:0.00148962
+cattle:meat industry:0.00134836
+cattle:cereal:0.00248381
+cattle:pastoralism:0.00298992
+cattle:plant breeding:0.00552045
+cattle:fruits:0.00383642
+cattle:global warming:0.00528096
+cattle:texas a&m university:0.00379973
+cattle:aquifers:0.00431482
+cattle:ecosystem services:0.00550633
+cattle:plants:0.00621664
+cattle:subsistence agriculture:0.00236471
+cattle:sheep:0.00868785
+cattle:ranches:0.00424376
+cattle:genetically modified organism:0.00620708
+cattle:savannas:0.00356204
+cattle:reindeers:0.00654048
+cattle:camels:0.00585129
+cattle:family farm:0.00458241
+cattle:deforestation:0.00643529
+cattle:selective breeding:0.00372100
+cattle:horses:0.01164926
+cattle:sheep station:0.00212663
+cattle:plough:0.00612709
+cattle:oils:0.00335164
+cattle:bovine:0.00156909
+cattle:environmental impacts of irrigation:0.00330169
+cattle:fungi:0.00657573
+cattle:fertilizer:0.00496312
+cattle:animal welfare:0.00490798
+cattle:milk:0.00792569
+cattle:ox:0.00532257
+cattle:llamas:0.00524715
+cattle:yaks:0.00338259
+cattle:meat:0.00821008
+cattle:growth hormone:0.00459407
+cattle:animal:0.00370175
+cattle:cereal crops:0.00248381
+cattle:egg:0.00389849
+cattle:hunter-gatherer:0.00366914
+cattle:agriculture:0.00627337
+genetically modified food:oils:0.00153404
+genetically modified food:bovine:0.00107434
+genetically modified food:plough:0.00412371
+genetically modified food:agriculture:0.00569363
+genetically modified food:sustainable agriculture:0.00423959
+genetically modified food:farmville:0.00119822
+genetically modified food:antibiotic resistance:0.00611534
+genetically modified food:agrochemicals:0.00176991
+genetically modified food:livestock:0.00351101
+genetically modified food:goats:0.00442842
+genetically modified food:pesticides:0.00741387
+genetically modified food:tractors:0.00352395
+genetically modified food:environmental impact of pesticides:0.00533507
+genetically modified food:cattle:0.00507320
+genetically modified food:history of agriculture:0.00303178
+genetically modified food:genetic engineering:0.02545825
+genetically modified food:neolithic revolution:0.00273484
+genetically modified food:fruits:0.00252713
+genetically modified food:cereal:0.00279183
+genetically modified food:pastoralism:0.00210560
+genetically modified food:aquifers:0.00271584
+genetically modified food:fuel:0.00509898
+genetically modified food:ranches:0.00207502
+genetically modified food:agronomy:0.00145319
+genetically modified food:sheep:0.00371087
+genetically modified food:sheep station:0.00103993
+genetically modified food:environmental impact of agriculture:0.00432633
+genetically modified food:selective breeding:0.00323898
+genetically modified food:horses:0.00324028
+genetically modified food:vegetables:0.00484469
+genetically modified food:environmental impacts of irrigation:0.00197328
+genetically modified food:fungi:0.00394829
+genetically modified food:fertilizer:0.00557103
+genetically modified food:animal welfare:0.00514167
+genetically modified food:milk:0.00684644
+genetically modified food:ox:0.00166914
+genetically modified food:llamas:0.00287845
+genetically modified food:yaks:0.00245442
+genetically modified food:meat:0.00486793
+genetically modified food:growth hormone:0.00646412
+genetically modified food:animal husbandry:0.00501728
+genetically modified food:cattle station:0.00115451
+genetically modified food:plant breeding:0.00558049
+genetically modified food:global warming:0.00308289
+genetically modified food:texas a&m university:0.00307145
+genetically modified food:ecosystem services:0.00339872
+genetically modified food:pastoral farming:0.00280800
+genetically modified food:plants:0.00383509
+genetically modified food:subsistence agriculture:0.00146547
+genetically modified food:genetically modified organism:0.03994845
+genetically modified food:animal:0.00285344
+genetically modified food:savannas:0.00255469
+genetically modified food:reindeers:0.00278552
+genetically modified food:camels:0.00269985
+genetically modified food:cereal crops:0.00279183
+genetically modified food:family farm:0.00462442
+genetically modified food:egg:0.00251323
+genetically modified food:deforestation:0.00449279
+genetically modified food:hunter-gatherer:0.00228148
+environmental impact of pesticides:egg:0.00157593
+environmental impact of pesticides:neolithic revolution:0.00294042
+environmental impact of pesticides:agrochemicals:0.00101626
+environmental impact of pesticides:aquifers:0.00453267
+environmental impact of pesticides:genetic engineering:0.00474215
+environmental impact of pesticides:cereal:0.00272109
+environmental impact of pesticides:pastoralism:0.00322523
+environmental impact of pesticides:pesticides:0.01430246
+environmental impact of pesticides:horses:0.00244349
+environmental impact of pesticides:fruits:0.00211623
+environmental impact of pesticides:animal:0.00140174
+environmental impact of pesticides:cattle:0.00408287
+environmental impact of pesticides:vegetables:0.00310366
+environmental impact of pesticides:pastoral farming:0.00234650
+environmental impact of pesticides:ranches:0.00211342
+environmental impact of pesticides:livestock:0.00316790
+environmental impact of pesticides:sheep:0.00347075
+environmental impact of pesticides:agronomy:0.00141844
+environmental impact of pesticides:farmville:0.00171363
+environmental impact of pesticides:soil salinity:0.00110914
+environmental impact of pesticides:environmental impact of agriculture:0.00612662
+environmental impact of pesticides:genetically modified food:0.00533507
+environmental impact of pesticides:animal husbandry:0.00285646
+environmental impact of pesticides:cattle station:0.00108460
+environmental impact of pesticides:plough:0.00407056
+environmental impact of pesticides:meat industry:0.00164783
+environmental impact of pesticides:plant breeding:0.00443459
+environmental impact of pesticides:global warming:0.00399740
+environmental impact of pesticides:texas a&m university:0.00160976
+environmental impact of pesticides:environmental impacts of irrigation:0.00316984
+environmental impact of pesticides:ecosystem services:0.00432856
+environmental impact of pesticides:plants:0.00294327
+environmental impact of pesticides:fungi:0.00421804
+environmental impact of pesticides:subsistence agriculture:0.00143678
+environmental impact of pesticides:genetically modified organism:0.00541616
+environmental impact of pesticides:savannas:0.00317292
+environmental impact of pesticides:reindeers:0.00275950
+environmental impact of pesticides:camels:0.00302648
+environmental impact of pesticides:milk:0.00348432
+environmental impact of pesticides:family farm:0.00282676
+environmental impact of pesticides:ox:0.00249948
+environmental impact of pesticides:deforestation:0.00371563
+environmental impact of pesticides:oils:0.00259572
+environmental impact of pesticides:meat:0.00533181
+environmental impact of pesticides:cereal crops:0.00272109
+environmental impact of pesticides:fuel:0.00278826
+environmental impact of pesticides:hunter-gatherer:0.00295858
+environmental impact of pesticides:agriculture:0.00572519
+environmental impact of pesticides:goats:0.00416347
+environmental impact of pesticides:animal welfare:0.00209741
+environmental impact of pesticides:yaks:0.00234467
+environmental impact of pesticides:history of agriculture:0.00280054
+environmental impact of pesticides:llamas:0.00411464
+environmental impact of pesticides:tractors:0.00277101
+environmental impact of pesticides:fertilizer:0.00596161
+environmental impact of pesticides:growth hormone:0.00376569
+environmental impact of pesticides:antibiotic resistance:0.00507210
+environmental impact of pesticides:sustainable agriculture:0.00464576
+environmental impact of pesticides:selective breeding:0.00276158
+horses:antibiotic resistance:0.00437743
+horses:goats:0.00813129
+horses:pesticides:0.00595791
+horses:fuel:0.00451229
+horses:environmental impact of pesticides:0.00244349
+horses:tractors:0.00555521
+horses:history of agriculture:0.00372359
+horses:genetic engineering:0.00596172
+horses:neolithic revolution:0.00419995
+horses:cereal:0.00242488
+horses:pastoralism:0.00363196
+horses:fruits:0.00372635
+horses:aquifers:0.00353883
+horses:ranches:0.00289710
+horses:sheep:0.00721079
+horses:selective breeding:0.00257898
+horses:animal:0.00419397
+horses:plough:0.00559787
+horses:cattle:0.01164926
+horses:vegetables:0.00306122
+horses:pastoral farming:0.00211528
+horses:sustainable agriculture:0.00494782
+horses:livestock:0.00419706
+horses:environmental impacts of irrigation:0.00232153
+horses:agronomy:0.00151657
+horses:farmville:0.00125026
+horses:fungi:0.00649780
+horses:soil salinity:0.00112969
+horses:environmental impact of agriculture:0.00332453
+horses:genetically modified food:0.00324028
+horses:fertilizer:0.00384706
+horses:animal husbandry:0.00503501
+horses:animal welfare:0.00434344
+horses:cattle station:0.00122864
+horses:plant breeding:0.00425035
+horses:milk:0.00475480
+horses:global warming:0.00450898
+horses:llamas:0.00492524
+horses:ox:0.00372480
+horses:texas a&m university:0.00310154
+horses:yaks:0.00349354
+horses:ecosystem services:0.00391766
+horses:meat:0.00478533
+horses:growth hormone:0.00461150
+horses:plants:0.00501412
+horses:subsistence agriculture:0.00260756
+horses:genetically modified organism:0.00470782
+horses:savannas:0.00309721
+horses:reindeers:0.00564696
+horses:camels:0.00605119
+horses:family farm:0.00382848
+horses:deforestation:0.00701647
+horses:sheep station:0.00105079
+horses:oils:0.00167243
+horses:cereal crops:0.00242488
+horses:egg:0.00327347
+horses:hunter-gatherer:0.00353423
+horses:agriculture:0.00513063
+plant breeding:cereal crops:0.00438827
+plant breeding:agronomy:0.00355500
+plant breeding:sheep:0.00485555
+plant breeding:hunter-gatherer:0.00343840
+plant breeding:fuel:0.00526950
+plant breeding:animal husbandry:0.00503131
+plant breeding:plough:0.00447851
+plant breeding:agriculture:0.00579763
+plant breeding:sustainable agriculture:0.00655523
+plant breeding:farmville:0.00154772
+plant breeding:antibiotic resistance:0.00660440
+plant breeding:livestock:0.00224036
+plant breeding:goats:0.00443986
+plant breeding:pesticides:0.00699377
+plant breeding:tractors:0.00441767
+plant breeding:environmental impact of pesticides:0.00443459
+plant breeding:cattle station:0.00116009
+plant breeding:history of agriculture:0.00431923
+plant breeding:cattle:0.00552045
+plant breeding:neolithic revolution:0.00370061
+plant breeding:genetic engineering:0.00769317
+plant breeding:soil salinity:0.00177620
+plant breeding:fruits:0.00403467
+plant breeding:cereal:0.00438827
+plant breeding:pastoralism:0.00244021
+plant breeding:meat industry:0.00124688
+plant breeding:aquifers:0.00387764
+plant breeding:ranches:0.00288693
+plant breeding:environmental impact of agriculture:0.00481068
+plant breeding:selective breeding:0.01024619
+plant breeding:horses:0.00425035
+plant breeding:global warming:0.00450849
+plant breeding:texas a&m university:0.00332145
+plant breeding:vegetables:0.00400057
+plant breeding:ecosystem services:0.00438468
+plant breeding:plants:0.00558390
+plant breeding:subsistence agriculture:0.00165654
+plant breeding:fungi:0.00575025
+plant breeding:genetically modified organism:0.00708998
+plant breeding:environmental impacts of irrigation:0.00412277
+plant breeding:savannas:0.00353017
+plant breeding:reindeers:0.00402017
+plant breeding:camels:0.00412639
+plant breeding:family farm:0.00438706
+plant breeding:ox:0.00149031
+plant breeding:milk:0.00404774
+plant breeding:deforestation:0.00529561
+plant breeding:animal welfare:0.00394434
+plant breeding:fertilizer:0.00637370
+plant breeding:sheep station:0.00104537
+plant breeding:oils:0.00250723
+plant breeding:llamas:0.00367840
+plant breeding:yaks:0.00158339
+plant breeding:meat:0.00487893
+plant breeding:genetically modified food:0.00558049
+plant breeding:growth hormone:0.00531157
+plant breeding:pastoral farming:0.00370501
+plant breeding:animal:0.00234101
+plant breeding:egg:0.00278773
+ranches:meat:0.00231023
+ranches:fuel:0.00279390
+ranches:cereal crops:0.00216041
+ranches:environmental impacts of irrigation:0.00373791
+ranches:growth hormone:0.00261597
+ranches:fruits:0.00170213
+ranches:hunter-gatherer:0.00422365
+ranches:plough:0.00249273
+ranches:fungi:0.00220022
+ranches:goats:0.00259841
+ranches:ox:0.00148810
+ranches:environmental impact of pesticides:0.00211342
+ranches:yaks:0.00135980
+ranches:history of agriculture:0.00366300
+ranches:tractors:0.00257954
+ranches:fertilizer:0.00200717
+ranches:antibiotic resistance:0.00208333
+ranches:sustainable agriculture:0.00292438
+ranches:selective breeding:0.00295683
+ranches:egg:0.00216959
+ranches:neolithic revolution:0.00219333
+ranches:agrochemicals:0.00120530
+ranches:aquifers:0.00342604
+ranches:genetic engineering:0.00314061
+ranches:pesticides:0.00320290
+ranches:horses:0.00289710
+ranches:animal:0.00211119
+ranches:cattle:0.00424376
+ranches:vegetables:0.00259844
+ranches:pastoral farming:0.00491803
+ranches:livestock:0.00448854
+ranches:agronomy:0.00215672
+ranches:farmville:0.00105014
+ranches:environmental impact of agriculture:0.00404858
+ranches:genetically modified food:0.00207502
+ranches:animal husbandry:0.00373993
+ranches:cattle station:0.00507775
+ranches:mixed farming:0.00175901
+ranches:meat industry:0.00178444
+ranches:plant breeding:0.00288693
+ranches:global warming:0.00278790
+ranches:texas a&m university:0.00260945
+ranches:ecosystem services:0.00350750
+ranches:plants:0.00178168
+ranches:subsistence agriculture:0.00350980
+ranches:genetically modified organism:0.00235911
+ranches:savannas:0.00497395
+ranches:reindeers:0.00299543
+ranches:camels:0.00339297
+ranches:animal welfare:0.00280426
+ranches:family farm:0.00384680
+ranches:deforestation:0.00234017
+ranches:sheep station:0.00288913
+ranches:pasture:0.00160321
+ranches:cereal:0.00216041
+ranches:llamas:0.00392367
+ranches:sheep:0.00308463
+ranches:milk:0.00234875
+ranches:pastoralism:0.00362669
+ranches:agriculture:0.00430796
+plants:animal:0.00569569
+plants:egg:0.00391874
+plants:aquifers:0.00416074
+plants:agronomy:0.00215363
+plants:cereal crops:0.00291878
+plants:sheep:0.00495663
+plants:hunter-gatherer:0.00327690
+plants:animal husbandry:0.00531005
+plants:plough:0.00508204
+plants:agriculture:0.00506923
+plants:fuel:0.00419454
+plants:sustainable agriculture:0.00440762
+plants:farmville:0.00212819
+plants:antibiotic resistance:0.00414160
+plants:livestock:0.00332700
+plants:pesticides:0.00511554
+plants:goats:0.00616762
+plants:tractors:0.00417094
+plants:cattle station:0.00108829
+plants:environmental impact of pesticides:0.00294327
+plants:history of agriculture:0.00363872
+plants:cattle:0.00621664
+plants:soil salinity:0.00124172
+plants:neolithic revolution:0.00341135
+plants:genetic engineering:0.00429684
+plants:fruits:0.00530893
+plants:cereal:0.00291878
+plants:pastoralism:0.00276442
+plants:meat industry:0.00143082
+plants:ranches:0.00178168
+plants:ecosystem services:0.00490827
+plants:environmental impact of agriculture:0.00394340
+plants:selective breeding:0.00259291
+plants:horses:0.00501412
+plants:plant breeding:0.00558390
+plants:vegetables:0.00337801
+plants:subsistence agriculture:0.00223508
+plants:fungi:0.00994992
+plants:genetically modified organism:0.00449648
+plants:environmental impacts of irrigation:0.00240385
+plants:savannas:0.00309193
+plants:reindeers:0.00427452
+plants:camels:0.00328238
+plants:ox:0.00172322
+plants:family farm:0.00324771
+plants:milk:0.00418207
+plants:deforestation:0.00478792
+plants:animal welfare:0.00353857
+plants:fertilizer:0.00593792
+plants:sheep station:0.00129310
+plants:global warming:0.00497143
+plants:oils:0.00299035
+plants:llamas:0.00439763
+plants:bovine:0.00102820
+plants:yaks:0.00267414
+plants:meat:0.00521384
+plants:genetically modified food:0.00383509
+plants:growth hormone:0.00414141
+plants:pastoral farming:0.00152711
+plants:texas a&m university:0.00268466
+subsistence agriculture:animal:0.00225687
+subsistence agriculture:egg:0.00190557
+subsistence agriculture:aquifers:0.00216398
+subsistence agriculture:agronomy:0.00151976
+subsistence agriculture:cereal crops:0.00276625
+subsistence agriculture:sheep:0.00219344
+subsistence agriculture:hunter-gatherer:0.00191663
+subsistence agriculture:animal husbandry:0.00390689
+subsistence agriculture:plough:0.00181303
+subsistence agriculture:agrochemicals:0.00119119
+subsistence agriculture:agriculture:0.00424448
+subsistence agriculture:sustainable agriculture:0.00408484
+subsistence agriculture:fuel:0.00286160
+subsistence agriculture:farmville:0.00200267
+subsistence agriculture:antibiotic resistance:0.00140378
+subsistence agriculture:livestock:0.00379230
+subsistence agriculture:goats:0.00232221
+subsistence agriculture:pesticides:0.00172360
+subsistence agriculture:tractors:0.00217346
+subsistence agriculture:cattle station:0.00170068
+subsistence agriculture:environmental impact of pesticides:0.00143678
+subsistence agriculture:history of agriculture:0.00338570
+subsistence agriculture:cattle:0.00236471
+subsistence agriculture:soil salinity:0.00311526
+subsistence agriculture:neolithic revolution:0.00233268
+subsistence agriculture:mixed farming:0.00204918
+subsistence agriculture:genetic engineering:0.00177276
+subsistence agriculture:fruits:0.00205708
+subsistence agriculture:cereal:0.00276625
+subsistence agriculture:meat industry:0.00251130
+subsistence agriculture:ranches:0.00350980
+subsistence agriculture:ecosystem services:0.00294748
+subsistence agriculture:texas a&m university:0.00104679
+subsistence agriculture:environmental impact of agriculture:0.00412314
+subsistence agriculture:horses:0.00260756
+subsistence agriculture:plant breeding:0.00165654
+subsistence agriculture:vegetables:0.00357995
+subsistence agriculture:plants:0.00223508
+subsistence agriculture:fungi:0.00188082
+subsistence agriculture:environmental impacts of irrigation:0.00106667
+subsistence agriculture:ox:0.00274833
+subsistence agriculture:milk:0.00199272
+subsistence agriculture:animal welfare:0.00126322
+subsistence agriculture:fertilizer:0.00227125
+subsistence agriculture:global warming:0.00117220
+subsistence agriculture:llamas:0.00228833
+subsistence agriculture:genetically modified organism:0.00234570
+subsistence agriculture:yaks:0.00104603
+subsistence agriculture:savannas:0.00262927
+subsistence agriculture:reindeers:0.00193440
+subsistence agriculture:meat:0.00156872
+subsistence agriculture:genetically modified food:0.00146547
+subsistence agriculture:camels:0.00317069
+subsistence agriculture:growth hormone:0.00182593
+subsistence agriculture:family farm:0.00309179
+subsistence agriculture:deforestation:0.00192347
+subsistence agriculture:pasture:0.00118624
+subsistence agriculture:oils:0.00168634
+subsistence agriculture:pastoral farming:0.00350018
+family farm:neolithic revolution:0.00258112
+family farm:genetic engineering:0.00319671
+family farm:pastoral farming:0.00221157
+family farm:animal:0.00268962
+family farm:agronomy:0.00264550
+family farm:egg:0.00205818
+family farm:aquifers:0.00342466
+family farm:cereal crops:0.00164775
+family farm:sheep:0.00445839
+family farm:hunter-gatherer:0.00446229
+family farm:animal husbandry:0.00402160
+family farm:agrochemicals:0.00141309
+family farm:plough:0.00360566
+family farm:agriculture:0.00518711
+family farm:sustainable agriculture:0.00594904
+family farm:farmville:0.00143756
+family farm:antibiotic resistance:0.00482253
+family farm:livestock:0.00233411
+family farm:goats:0.00445151
+family farm:pesticides:0.00470746
+family farm:tractors:0.00302857
+family farm:environmental impact of pesticides:0.00282676
+family farm:history of agriculture:0.00372121
+family farm:cattle:0.00458241
+family farm:genetically modified organism:0.00352000
+family farm:fruits:0.00372439
+family farm:texas a&m university:0.00314153
+family farm:meat industry:0.00241440
+family farm:cereal:0.00164775
+family farm:pastoralism:0.00373578
+family farm:savannas:0.00283996
+family farm:ranches:0.00384680
+family farm:ecosystem services:0.00419371
+family farm:reindeers:0.00374220
+family farm:selective breeding:0.00234192
+family farm:fuel:0.00280899
+family farm:environmental impact of agriculture:0.00451904
+family farm:horses:0.00382848
+family farm:plant breeding:0.00438706
+family farm:camels:0.00352070
+family farm:vegetables:0.00444708
+family farm:deforestation:0.00564607
+family farm:plants:0.00324771
+family farm:sheep station:0.00132421
+family farm:fungi:0.00403449
+family farm:oils:0.00161976
+family farm:environmental impacts of irrigation:0.00285397
+family farm:ox:0.00195503
+family farm:milk:0.00454804
+family farm:animal welfare:0.00371663
+family farm:fertilizer:0.00505457
+family farm:global warming:0.00352208
+family farm:llamas:0.00407664
+family farm:subsistence agriculture:0.00309179
+family farm:yaks:0.00184094
+family farm:meat:0.00360044
+family farm:genetically modified food:0.00462442
+family farm:growth hormone:0.00347454
+vegetables:agriculture:0.00437748
+vegetables:sustainable agriculture:0.00402820
+vegetables:antibiotic resistance:0.00361779
+vegetables:goats:0.00425784
+vegetables:agrochemicals:0.00153327
+vegetables:pesticides:0.00427996
+vegetables:environmental impact of pesticides:0.00310366
+vegetables:cattle:0.00454219
+vegetables:tractors:0.00284799
+vegetables:history of agriculture:0.00379464
+vegetables:fuel:0.00350489
+vegetables:genetic engineering:0.00463619
+vegetables:neolithic revolution:0.00434174
+vegetables:cereal:0.00718617
+vegetables:pastoralism:0.00305499
+vegetables:fruits:0.00458127
+vegetables:aquifers:0.00278891
+vegetables:ranches:0.00259844
+vegetables:sheep:0.00395115
+vegetables:selective breeding:0.00222260
+vegetables:horses:0.00306122
+vegetables:plough:0.00462517
+vegetables:pastoral farming:0.00247692
+vegetables:livestock:0.00339389
+vegetables:agronomy:0.00168729
+vegetables:environmental impacts of irrigation:0.00225268
+vegetables:farmville:0.00109123
+vegetables:soil salinity:0.00156535
+vegetables:fungi:0.00325677
+vegetables:environmental impact of agriculture:0.00479570
+vegetables:genetically modified food:0.00484469
+vegetables:animal husbandry:0.00466563
+vegetables:fertilizer:0.00478902
+vegetables:cattle station:0.00127033
+vegetables:animal welfare:0.00291029
+vegetables:plant breeding:0.00400057
+vegetables:global warming:0.00277283
+vegetables:milk:0.00443019
+vegetables:ox:0.00290768
+vegetables:texas a&m university:0.00206742
+vegetables:llamas:0.00423463
+vegetables:ecosystem services:0.00287452
+vegetables:yaks:0.00315173
+vegetables:plants:0.00337801
+vegetables:meat:0.00539056
+vegetables:growth hormone:0.00415640
+vegetables:subsistence agriculture:0.00357995
+vegetables:genetically modified organism:0.00489202
+vegetables:savannas:0.00340000
+vegetables:reindeers:0.00267419
+vegetables:camels:0.00303114
+vegetables:family farm:0.00444708
+vegetables:deforestation:0.00402239
+vegetables:sheep station:0.00141004
+vegetables:oils:0.00202378
+vegetables:animal:0.00216853
+vegetables:cereal crops:0.00718617
+vegetables:egg:0.00269841
+vegetables:hunter-gatherer:0.00243351
+global warming:egg:0.00244660
+global warming:aquifers:0.00388060
+global warming:cereal crops:0.00227247
+global warming:agronomy:0.00139470
+global warming:sheep:0.00414186
+global warming:hunter-gatherer:0.00317744
+global warming:fuel:0.00441796
+global warming:animal husbandry:0.00356995
+global warming:plough:0.00373972
+global warming:agriculture:0.00902309
+global warming:sustainable agriculture:0.00547162
+global warming:antibiotic resistance:0.00533041
+global warming:livestock:0.00235546
+global warming:goats:0.00422767
+global warming:pesticides:0.00662143
+global warming:tractors:0.00360175
+global warming:environmental impact of pesticides:0.00399740
+global warming:cattle station:0.00157309
+global warming:history of agriculture:0.00308526
+global warming:cattle:0.00528096
+global warming:neolithic revolution:0.00348827
+global warming:genetic engineering:0.00405361
+global warming:fruits:0.00234814
+global warming:cereal:0.00227247
+global warming:pastoralism:0.00390244
+global warming:meat industry:0.00126470
+global warming:ranches:0.00278790
+global warming:environmental impact of agriculture:0.00683563
+global warming:selective breeding:0.00304908
+global warming:horses:0.00450898
+global warming:plant breeding:0.00450849
+global warming:vegetables:0.00277283
+global warming:fungi:0.00406835
+global warming:environmental impacts of irrigation:0.00259067
+global warming:milk:0.00482703
+global warming:ox:0.00106308
+global warming:animal welfare:0.00368339
+global warming:fertilizer:0.00707508
+global warming:texas a&m university:0.00271985
+global warming:llamas:0.00383249
+global warming:ecosystem services:0.00502249
+global warming:plants:0.00497143
+global warming:yaks:0.00193732
+global warming:subsistence agriculture:0.00117220
+global warming:meat:0.00587070
+global warming:genetically modified food:0.00308289
+global warming:genetically modified organism:0.00377655
+global warming:growth hormone:0.00416127
+global warming:savannas:0.00321785
+global warming:reindeers:0.00501550
+global warming:camels:0.00284900
+global warming:family farm:0.00352208
+global warming:deforestation:0.00854374
+global warming:sheep station:0.00114242
+global warming:oils:0.00120671
+global warming:pastoral farming:0.00182399
+global warming:animal:0.00269092
+deforestation:neolithic revolution:0.00492188
+deforestation:genetic engineering:0.00424233
+deforestation:pastoral farming:0.00316456
+deforestation:animal:0.00346535
+deforestation:agronomy:0.00140677
+deforestation:egg:0.00267179
+deforestation:aquifers:0.00438789
+deforestation:cereal crops:0.00285771
+deforestation:sheep:0.00506344
+deforestation:hunter-gatherer:0.00482287
+deforestation:animal husbandry:0.00568522
+deforestation:plough:0.00448710
+deforestation:agriculture:0.00777303
+deforestation:sustainable agriculture:0.00789027
+deforestation:farmville:0.00126632
+deforestation:antibiotic resistance:0.00578573
+deforestation:livestock:0.00346410
+deforestation:pesticides:0.00625690
+deforestation:goats:0.00481757
+deforestation:tractors:0.00438233
+deforestation:cattle station:0.00114321
+deforestation:environmental impact of pesticides:0.00371563
+deforestation:history of agriculture:0.00527072
+deforestation:cattle:0.00643529
+deforestation:soil salinity:0.00210283
+deforestation:genetically modified organism:0.00469818
+deforestation:fruits:0.00188290
+deforestation:texas a&m university:0.00351588
+deforestation:meat industry:0.00118765
+deforestation:pastoralism:0.00435153
+deforestation:cereal:0.00285771
+deforestation:savannas:0.00525674
+deforestation:ranches:0.00234017
+deforestation:ecosystem services:0.00640807
+deforestation:reindeers:0.00529101
+deforestation:selective breeding:0.00338689
+deforestation:environmental impact of agriculture:0.00979305
+deforestation:horses:0.00701647
+deforestation:plant breeding:0.00529561
+deforestation:camels:0.00386937
+deforestation:fuel:0.00396825
+deforestation:vegetables:0.00402239
+deforestation:family farm:0.00564607
+deforestation:plants:0.00478792
+deforestation:fungi:0.00421356
+deforestation:sheep station:0.00129997
+deforestation:environmental impacts of irrigation:0.00565229
+deforestation:oils:0.00176422
+deforestation:ox:0.00142610
+deforestation:milk:0.00651709
+deforestation:animal welfare:0.00383311
+deforestation:fertilizer:0.00635752
+deforestation:global warming:0.00854374
+deforestation:llamas:0.00340136
+deforestation:subsistence agriculture:0.00192347
+deforestation:yaks:0.00128268
+deforestation:meat:0.00509743
+deforestation:genetically modified food:0.00449279
+deforestation:growth hormone:0.00444042
+milk:fuel:0.00400031
+milk:pastoralism:0.00310280
+milk:agriculture:0.00701508
+milk:meat:0.00641961
+milk:cereal crops:0.00449457
+milk:environmental impacts of irrigation:0.00205161
+milk:growth hormone:0.00579584
+milk:fruits:0.00288950
+milk:hunter-gatherer:0.00336314
+milk:plough:0.00440479
+milk:fungi:0.00511361
+milk:goats:0.00737210
+milk:ox:0.00191688
+milk:environmental impact of pesticides:0.00348432
+milk:yaks:0.00220526
+milk:history of agriculture:0.00510110
+milk:tractors:0.00490910
+milk:fertilizer:0.00652246
+milk:antibiotic resistance:0.00538858
+milk:sustainable agriculture:0.00537564
+milk:selective breeding:0.00219814
+milk:egg:0.00411130
+milk:neolithic revolution:0.00463219
+milk:agrochemicals:0.00113058
+milk:aquifers:0.00313647
+milk:genetic engineering:0.00590499
+milk:pesticides:0.00596839
+milk:horses:0.00475480
+milk:animal:0.00304613
+milk:cattle:0.00792569
+milk:vegetables:0.00443019
+milk:pastoral farming:0.00229105
+milk:livestock:0.00307742
+milk:farmville:0.00184486
+milk:environmental impact of agriculture:0.00374472
+milk:animal welfare:0.00374286
+milk:genetically modified food:0.00684644
+milk:animal husbandry:0.00445331
+milk:plant breeding:0.00404774
+milk:llamas:0.00379258
+milk:global warming:0.00482703
+milk:texas a&m university:0.00303490
+milk:ecosystem services:0.00427847
+milk:plants:0.00418207
+milk:subsistence agriculture:0.00199272
+milk:genetically modified organism:0.00464702
+milk:savannas:0.00348630
+milk:reindeers:0.00501108
+milk:camels:0.00480439
+milk:family farm:0.00454804
+milk:deforestation:0.00651709
+milk:sheep station:0.00110102
+milk:cereal:0.00449457
+milk:ranches:0.00234875
+milk:sheep:0.00585938
+fuel:cattle station:0.00139431
+fuel:genetic engineering:0.00512613
+fuel:llamas:0.00298260
+fuel:plant breeding:0.00526950
+fuel:pesticides:0.00540398
+fuel:sheep:0.00398628
+fuel:global warming:0.00441796
+fuel:horses:0.00451229
+fuel:texas a&m university:0.00166976
+fuel:milk:0.00400031
+fuel:animal:0.00360774
+fuel:pastoralism:0.00219058
+fuel:cattle:0.00566177
+fuel:agriculture:0.00400928
+fuel:ecosystem services:0.00472350
+fuel:vegetables:0.00350489
+fuel:plants:0.00419454
+fuel:meat:0.00357857
+fuel:pastoral farming:0.00146484
+fuel:subsistence agriculture:0.00286160
+fuel:cereal crops:0.00339723
+fuel:environmental impacts of irrigation:0.00301568
+fuel:livestock:0.00451128
+fuel:agronomy:0.00124688
+fuel:genetically modified organism:0.00472990
+fuel:growth hormone:0.00357665
+fuel:farmville:0.00284024
+fuel:savannas:0.00279330
+fuel:soil salinity:0.00201034
+fuel:reindeers:0.00251620
+fuel:fruits:0.00410878
+fuel:environmental impact of agriculture:0.00452117
+fuel:genetically modified food:0.00509898
+fuel:hunter-gatherer:0.00259115
+fuel:animal welfare:0.00331082
+fuel:plough:0.00438596
+fuel:animal husbandry:0.00406945
+fuel:ranches:0.00279390
+fuel:camels:0.00405680
+fuel:fungi:0.00442243
+fuel:family farm:0.00280899
+fuel:goats:0.00444170
+fuel:ox:0.00317712
+fuel:cereal:0.00339723
+fuel:environmental impact of pesticides:0.00278826
+fuel:yaks:0.00195217
+fuel:history of agriculture:0.00266790
+fuel:tractors:0.00358489
+fuel:deforestation:0.00396825
+fuel:fertilizer:0.00501627
+fuel:oils:0.00389213
+fuel:antibiotic resistance:0.00298178
+fuel:sustainable agriculture:0.00474308
+fuel:selective breeding:0.00272876
+fuel:egg:0.00218341
+fuel:neolithic revolution:0.00249853
+fuel:agrochemicals:0.00240633
+fuel:aquifers:0.00558347
+fungi:cereal:0.00202312
+fungi:pastoralism:0.00203346
+fungi:fruits:0.00378688
+fungi:ranches:0.00220022
+fungi:sheep:0.00570622
+fungi:plough:0.00516669
+fungi:environmental impacts of irrigation:0.00186933
+fungi:goats:0.00635652
+fungi:ox:0.00229266
+fungi:environmental impact of pesticides:0.00421804
+fungi:yaks:0.00222244
+fungi:history of agriculture:0.00424328
+fungi:milk:0.00511361
+fungi:tractors:0.00450108
+fungi:fertilizer:0.00529139
+fungi:antibiotic resistance:0.00589855
+fungi:sustainable agriculture:0.00441038
+fungi:meat:0.00464140
+fungi:selective breeding:0.00306592
+fungi:egg:0.00443386
+fungi:neolithic revolution:0.00437452
+fungi:aquifers:0.00300842
+fungi:genetic engineering:0.00483481
+fungi:pesticides:0.00564563
+fungi:fuel:0.00442243
+fungi:horses:0.00649780
+fungi:animal:0.00421599
+fungi:cattle:0.00657573
+fungi:vegetables:0.00325677
+fungi:pastoral farming:0.00173913
+fungi:cereal crops:0.00202312
+fungi:livestock:0.00293309
+fungi:agronomy:0.00147929
+fungi:environmental impact of agriculture:0.00305755
+fungi:genetically modified food:0.00394829
+fungi:hunter-gatherer:0.00309092
+fungi:animal husbandry:0.00544358
+fungi:cattle station:0.00111720
+fungi:plant breeding:0.00575025
+fungi:global warming:0.00406835
+fungi:texas a&m university:0.00217302
+fungi:ecosystem services:0.00469263
+fungi:plants:0.00994992
+fungi:agriculture:0.00528696
+fungi:subsistence agriculture:0.00188082
+fungi:genetically modified organism:0.00561089
+fungi:savannas:0.00256763
+fungi:reindeers:0.00486542
+fungi:camels:0.00380344
+fungi:family farm:0.00403449
+fungi:deforestation:0.00421356
+fungi:oils:0.00314849
+fungi:animal welfare:0.00268019
+fungi:llamas:0.00489436
+fungi:growth hormone:0.00484692
+texas a&m university:egg:0.00137233
+texas a&m university:aquifers:0.00234551
+texas a&m university:cereal crops:0.00193404
+texas a&m university:sheep:0.00285004
+texas a&m university:hunter-gatherer:0.00216197
+texas a&m university:fuel:0.00166976
+texas a&m university:animal husbandry:0.00191058
+texas a&m university:plough:0.00317783
+texas a&m university:agriculture:0.00362582
+texas a&m university:sustainable agriculture:0.00270717
+texas a&m university:antibiotic resistance:0.00284784
+texas a&m university:livestock:0.00125350
+texas a&m university:goats:0.00282404
+texas a&m university:pesticides:0.00300842
+texas a&m university:tractors:0.00344016
+texas a&m university:environmental impact of pesticides:0.00160976
+texas a&m university:cattle station:0.00139996
+texas a&m university:history of agriculture:0.00384696
+texas a&m university:cattle:0.00379973
+texas a&m university:neolithic revolution:0.00240019
+texas a&m university:genetic engineering:0.00312548
+texas a&m university:fruits:0.00110824
+texas a&m university:cereal:0.00193404
+texas a&m university:pastoralism:0.00155839
+texas a&m university:genetically modified organism:0.00240052
+texas a&m university:savannas:0.00164124
+texas a&m university:reindeers:0.00501013
+texas a&m university:camels:0.00357341
+texas a&m university:family farm:0.00314153
+texas a&m university:ranches:0.00260945
+texas a&m university:deforestation:0.00351588
+texas a&m university:environmental impact of agriculture:0.00227015
+texas a&m university:selective breeding:0.00142806
+texas a&m university:horses:0.00310154
+texas a&m university:plant breeding:0.00332145
+texas a&m university:vegetables:0.00206742
+texas a&m university:fungi:0.00217302
+texas a&m university:environmental impacts of irrigation:0.00187319
+texas a&m university:milk:0.00303490
+texas a&m university:animal welfare:0.00302024
+texas a&m university:fertilizer:0.00190898
+texas a&m university:global warming:0.00271985
+texas a&m university:llamas:0.00230101
+texas a&m university:meat:0.00210374
+texas a&m university:genetically modified food:0.00307145
+texas a&m university:growth hormone:0.00329336
+texas a&m university:ecosystem services:0.00194431
+texas a&m university:plants:0.00268466
+texas a&m university:animal:0.00203321
+texas a&m university:subsistence agriculture:0.00104679
+sheep station:environmental impact of agriculture:0.00133556
+sheep station:soil salinity:0.00187852
+sheep station:horses:0.00105079
+sheep station:plant breeding:0.00104537
+sheep station:camels:0.00178855
+sheep station:vegetables:0.00141004
+sheep station:neolithic revolution:0.00101482
+sheep station:genetically modified organism:0.00129555
+sheep station:family farm:0.00132421
+sheep station:plants:0.00129310
+sheep station:animal husbandry:0.00145322
+sheep station:deforestation:0.00129997
+sheep station:fruits:0.00154416
+sheep station:pastoral farming:0.00181077
+sheep station:meat industry:0.00149254
+sheep station:pastoralism:0.00149142
+sheep station:livestock:0.00215750
+sheep station:savannas:0.00144196
+sheep station:milk:0.00110102
+sheep station:pesticides:0.00104657
+sheep station:aquifers:0.00113960
+sheep station:animal welfare:0.00140870
+sheep station:cattle station:0.02345159
+sheep station:global warming:0.00114242
+sheep station:ranches:0.00288913
+sheep station:sheep:0.00156828
+sheep station:hunter-gatherer:0.00141924
+sheep station:yaks:0.00407609
+sheep station:cattle:0.00212663
+sheep station:mixed farming:0.00246609
+sheep station:ecosystem services:0.00102564
+sheep station:reindeers:0.00115597
+sheep station:genetically modified food:0.00103993
+sheep station:agrochemicals:0.00195122
+pasture:environmental impact of agriculture:0.00147221
+pasture:agriculture:0.00108977
+pasture:environmental impacts of irrigation:0.00106421
+pasture:pastoral farming:0.00207147
+pasture:cereal:0.00101729
+pasture:ox:0.00123457
+pasture:cereal crops:0.00101729
+pasture:llamas:0.00103040
+pasture:subsistence agriculture:0.00118624
+pasture:ranches:0.00160321
+pasture:yaks:0.00103252
+livestock:plough:0.00228216
+livestock:agriculture:0.00607936
+livestock:sustainable agriculture:0.00319933
+livestock:antibiotic resistance:0.00277649
+livestock:agronomy:0.00286738
+livestock:goats:0.00494213
+livestock:farmville:0.00104739
+livestock:agrochemicals:0.00120048
+livestock:pesticides:0.00361714
+livestock:soil salinity:0.00228162
+livestock:environmental impact of pesticides:0.00316790
+livestock:environmental impact of agriculture:0.00471592
+livestock:cattle:0.00500721
+livestock:genetically modified food:0.00351101
+livestock:tractors:0.00219445
+livestock:animal husbandry:0.12401480
+livestock:history of agriculture:0.00390339
+livestock:meat industry:0.00177809
+livestock:plant breeding:0.00224036
+livestock:global warming:0.00235546
+livestock:texas a&m university:0.00125350
+livestock:ecosystem services:0.00423114
+livestock:genetic engineering:0.00242165
+livestock:plants:0.00332700
+livestock:neolithic revolution:0.00438940
+livestock:fuel:0.00451128
+livestock:subsistence agriculture:0.00379230
+livestock:genetically modified organism:0.00261849
+livestock:savannas:0.00401322
+livestock:cereal:0.00404749
+livestock:pastoralism:0.00482975
+livestock:reindeers:0.00236146
+livestock:fruits:0.00233694
+livestock:camels:0.00261579
+livestock:family farm:0.00233411
+livestock:aquifers:0.00281407
+livestock:deforestation:0.00346410
+livestock:sheep station:0.00215750
+livestock:oils:0.00188029
+livestock:ranches:0.00448854
+livestock:sheep:0.00308166
+livestock:bovine:0.00228397
+livestock:horses:0.00419706
+livestock:selective breeding:0.00255654
+livestock:vegetables:0.00339389
+livestock:environmental impacts of irrigation:0.00241017
+livestock:fungi:0.00293309
+livestock:fertilizer:0.00401664
+livestock:animal welfare:0.00265995
+livestock:milk:0.00307742
+livestock:ox:0.00416543
+livestock:llamas:0.00195451
+livestock:yaks:0.00271592
+livestock:meat:0.00418364
+livestock:growth hormone:0.00278600
+livestock:pastoral farming:0.00299157
+livestock:animal:0.00281195
+livestock:cereal crops:0.00404749
+livestock:egg:0.00270856
+livestock:hunter-gatherer:0.00320834
+oils:growth hormone:0.00299145
+oils:genetically modified food:0.00153404
+oils:neolithic revolution:0.00149981
+oils:genetic engineering:0.00201342
+oils:animal:0.00237581
+oils:pastoral farming:0.00190985
+oils:egg:0.00178571
+oils:aquifers:0.00358056
+oils:cereal crops:0.00150830
+oils:sheep:0.00192864
+oils:animal husbandry:0.00253893
+oils:plough:0.00256560
+oils:agriculture:0.00186986
+oils:sustainable agriculture:0.00195599
+oils:antibiotic resistance:0.00144889
+oils:goats:0.00406933
+oils:livestock:0.00188029
+oils:tractors:0.00233620
+oils:pesticides:0.00342689
+oils:environmental impact of pesticides:0.00259572
+oils:history of agriculture:0.00111779
+oils:cattle:0.00335164
+oils:genetically modified organism:0.00167122
+oils:fruits:0.00357143
+oils:cereal:0.00150830
+oils:savannas:0.00157085
+oils:ecosystem services:0.00165975
+oils:reindeers:0.00180288
+oils:selective breeding:0.00373320
+oils:horses:0.00167243
+oils:environmental impact of agriculture:0.00205761
+oils:plant breeding:0.00250723
+oils:fuel:0.00389213
+oils:vegetables:0.00202378
+oils:family farm:0.00161976
+oils:fungi:0.00314849
+oils:plants:0.00299035
+oils:deforestation:0.00176422
+oils:bovine:0.00191693
+oils:ox:0.00260417
+oils:fertilizer:0.00270362
+oils:global warming:0.00120671
+oils:llamas:0.00395083
+oils:subsistence agriculture:0.00168634
+oils:meat:0.00286319
+agriculture:vegetables:0.00437748
+agriculture:sheep:0.00540398
+agriculture:pastoral farming:0.00412104
+agriculture:livestock:0.00607936
+agriculture:agronomy:0.00302035
+agriculture:farmville:0.00127138
+agriculture:soil salinity:0.00215244
+agriculture:environmental impact of agriculture:0.00659246
+agriculture:genetically modified food:0.00569363
+agriculture:animal husbandry:0.00895675
+agriculture:meat industry:0.00117678
+agriculture:plant breeding:0.00579763
+agriculture:global warming:0.00902309
+agriculture:texas a&m university:0.00362582
+agriculture:ecosystem services:0.00558360
+agriculture:fuel:0.00400928
+agriculture:plants:0.00506923
+agriculture:subsistence agriculture:0.00424448
+agriculture:genetically modified organism:0.00563244
+agriculture:savannas:0.00353162
+agriculture:reindeers:0.00457300
+agriculture:milk:0.00701508
+agriculture:camels:0.00353482
+agriculture:family farm:0.00518711
+agriculture:deforestation:0.00777303
+agriculture:pasture:0.00108977
+agriculture:oils:0.00186986
+agriculture:ranches:0.00430796
+agriculture:meat:0.00656092
+agriculture:cereal crops:0.00516614
+agriculture:environmental impacts of irrigation:0.00383836
+agriculture:growth hormone:0.00454933
+agriculture:fruits:0.00367531
+agriculture:hunter-gatherer:0.00387557
+agriculture:plough:0.00540765
+agriculture:fungi:0.00528696
+agriculture:animal welfare:0.00418340
+agriculture:goats:0.00584280
+agriculture:ox:0.00219593
+agriculture:environmental impact of pesticides:0.00572519
+agriculture:llamas:0.00392796
+agriculture:yaks:0.00164358
+agriculture:history of agriculture:0.05462761
+agriculture:tractors:0.00537282
+agriculture:fertilizer:0.00834682
+agriculture:antibiotic resistance:0.00670741
+agriculture:sustainable agriculture:0.00802944
+agriculture:selective breeding:0.00475179
+agriculture:egg:0.00173494
+agriculture:neolithic revolution:0.00635290
+agriculture:agrochemicals:0.00122733
+agriculture:cereal:0.00516614
+agriculture:aquifers:0.00501022
+agriculture:pastoralism:0.00513680
+agriculture:genetic engineering:0.00516249
+agriculture:pesticides:0.00853414
+agriculture:horses:0.00513063
+agriculture:animal:0.00332984
+agriculture:cattle:0.00627337
+growth hormone:oils:0.00299145
+growth hormone:ranches:0.00261597
+growth hormone:sheep:0.00421479
+growth hormone:environmental impacts of irrigation:0.00297324
+growth hormone:deforestation:0.00444042
+growth hormone:milk:0.00579584
+growth hormone:meat:0.00539722
+growth hormone:fuel:0.00357665
+growth hormone:fertilizer:0.00568182
+growth hormone:antibiotic resistance:0.00563910
+growth hormone:cereal crops:0.00365455
+growth hormone:sustainable agriculture:0.00299436
+growth hormone:selective breeding:0.00288929
+growth hormone:egg:0.00284495
+growth hormone:neolithic revolution:0.00266396
+growth hormone:agrochemicals:0.00125188
+growth hormone:aquifers:0.00495817
+growth hormone:genetic engineering:0.00577490
+growth hormone:pesticides:0.00647025
+growth hormone:horses:0.00461150
+growth hormone:animal:0.00194742
+growth hormone:cattle:0.00459407
+growth hormone:agriculture:0.00454933
+growth hormone:vegetables:0.00415640
+growth hormone:pastoral farming:0.00173879
+growth hormone:livestock:0.00278600
+growth hormone:agronomy:0.00280177
+growth hormone:farmville:0.00112909
+growth hormone:soil salinity:0.00131406
+growth hormone:environmental impact of agriculture:0.00437342
+growth hormone:genetically modified food:0.00646412
+growth hormone:animal welfare:0.00312790
+growth hormone:animal husbandry:0.00414201
+growth hormone:cattle station:0.00107089
+growth hormone:meat industry:0.00116036
+growth hormone:llamas:0.00436312
+growth hormone:plant breeding:0.00531157
+growth hormone:global warming:0.00416127
+growth hormone:fruits:0.00225770
+growth hormone:texas a&m university:0.00329336
+growth hormone:hunter-gatherer:0.00293165
+growth hormone:ecosystem services:0.00327466
+growth hormone:plough:0.00323654
+growth hormone:plants:0.00414141
+growth hormone:fungi:0.00484692
+growth hormone:subsistence agriculture:0.00182593
+growth hormone:goats:0.00479303
+growth hormone:genetically modified organism:0.00560193
+growth hormone:ox:0.00246914
+growth hormone:savannas:0.00366556
+growth hormone:environmental impact of pesticides:0.00376569
+growth hormone:reindeers:0.00331359
+growth hormone:yaks:0.00212437
+growth hormone:camels:0.00312969
+growth hormone:cereal:0.00365455
+growth hormone:history of agriculture:0.00319719
+growth hormone:family farm:0.00347454
+growth hormone:pastoralism:0.00212540
+growth hormone:tractors:0.00275735
+selective breeding:tractors:0.00291855
+selective breeding:history of agriculture:0.00287611
+selective breeding:cereal:0.00109842
+selective breeding:pastoralism:0.00200521
+selective breeding:fruits:0.00270807
+selective breeding:ranches:0.00295683
+selective breeding:sheep:0.00338862
+selective breeding:egg:0.00172468
+selective breeding:plough:0.00372885
+selective breeding:neolithic revolution:0.00276893
+selective breeding:aquifers:0.00327248
+selective breeding:genetic engineering:0.00395307
+selective breeding:environmental impacts of irrigation:0.00185151
+selective breeding:sustainable agriculture:0.00286604
+selective breeding:pesticides:0.00249066
+selective breeding:horses:0.00257898
+selective breeding:animal:0.00153092
+selective breeding:fungi:0.00306592
+selective breeding:cattle:0.00372100
+selective breeding:vegetables:0.00222260
+selective breeding:fertilizer:0.00345799
+selective breeding:pastoral farming:0.00132802
+selective breeding:livestock:0.00255654
+selective breeding:agronomy:0.00137779
+selective breeding:milk:0.00219814
+selective breeding:soil salinity:0.00102380
+selective breeding:llamas:0.00356479
+selective breeding:ox:0.00214184
+selective breeding:environmental impact of agriculture:0.00207586
+selective breeding:yaks:0.00199159
+selective breeding:genetically modified food:0.00323898
+selective breeding:growth hormone:0.00288929
+selective breeding:animal husbandry:0.01399689
+selective breeding:meat:0.00372984
+selective breeding:cattle station:0.00149738
+selective breeding:meat industry:0.00164519
+selective breeding:plant breeding:0.01024619
+selective breeding:global warming:0.00304908
+selective breeding:texas a&m university:0.00142806
+selective breeding:ecosystem services:0.00307186
+selective breeding:plants:0.00259291
+selective breeding:genetically modified organism:0.00307038
+selective breeding:savannas:0.00295625
+selective breeding:reindeers:0.00236372
+selective breeding:camels:0.00327511
+selective breeding:cereal crops:0.00109842
+selective breeding:family farm:0.00234192
+selective breeding:deforestation:0.00338689
+selective breeding:oils:0.00373320
+selective breeding:hunter-gatherer:0.00205938
+selective breeding:agriculture:0.00475179
+selective breeding:fuel:0.00272876
+selective breeding:antibiotic resistance:0.00306069
+selective breeding:goats:0.00351576
+selective breeding:animal welfare:0.00300978
+selective breeding:environmental impact of pesticides:0.00276158
+sheep:agriculture:0.00540398
+sheep:cattle station:0.00182521
+sheep:meat:0.00546340
+sheep:meat industry:0.00100424
+sheep:cereal crops:0.00223282
+sheep:plant breeding:0.00485555
+sheep:environmental impacts of irrigation:0.00261658
+sheep:global warming:0.00414186
+sheep:growth hormone:0.00421479
+sheep:texas a&m university:0.00285004
+sheep:fruits:0.00193531
+sheep:ecosystem services:0.00381785
+sheep:fuel:0.00398628
+sheep:hunter-gatherer:0.00441124
+sheep:plants:0.00495663
+sheep:plough:0.00438179
+sheep:subsistence agriculture:0.00219344
+sheep:fungi:0.00570622
+sheep:genetically modified organism:0.00494761
+sheep:goats:0.00645302
+sheep:savannas:0.00337447
+sheep:ox:0.00263047
+sheep:reindeers:0.00478774
+sheep:environmental impact of pesticides:0.00347075
+sheep:camels:0.00539597
+sheep:yaks:0.00244349
+sheep:family farm:0.00445839
+sheep:history of agriculture:0.00453942
+sheep:deforestation:0.00506344
+sheep:tractors:0.00452270
+sheep:sheep station:0.00156828
+sheep:fertilizer:0.00550417
+sheep:oils:0.00192864
+sheep:antibiotic resistance:0.00392847
+sheep:bovine:0.00113934
+sheep:sustainable agriculture:0.00473577
+sheep:selective breeding:0.00338862
+sheep:egg:0.00334248
+sheep:neolithic revolution:0.00504081
+sheep:aquifers:0.00324120
+sheep:genetic engineering:0.00525834
+sheep:pesticides:0.00586907
+sheep:horses:0.00721079
+sheep:animal:0.00355390
+sheep:cattle:0.00868785
+sheep:vegetables:0.00395115
+sheep:pastoral farming:0.00162833
+sheep:livestock:0.00308166
+sheep:agronomy:0.00134228
+sheep:farmville:0.00130470
+sheep:soil salinity:0.00108472
+sheep:environmental impact of agriculture:0.00292536
+sheep:genetically modified food:0.00371087
+sheep:animal husbandry:0.00612464
+sheep:animal welfare:0.00354209
+sheep:llamas:0.00494248
+sheep:cereal:0.00223282
+sheep:ranches:0.00308463
+sheep:milk:0.00585938
+sheep:pastoralism:0.00320949
+tractors:sustainable agriculture:0.00440463
+tractors:selective breeding:0.00291855
+tractors:egg:0.00272039
+tractors:neolithic revolution:0.00333148
+tractors:agrochemicals:0.00114495
+tractors:aquifers:0.00411265
+tractors:genetic engineering:0.00476695
+tractors:pesticides:0.00590566
+tractors:pastoralism:0.00192623
+tractors:cereal:0.00372758
+tractors:horses:0.00555521
+tractors:animal:0.00226491
+tractors:fruits:0.00302004
+tractors:cattle:0.00550459
+tractors:vegetables:0.00284799
+tractors:pastoral farming:0.00191706
+tractors:livestock:0.00219445
+tractors:ranches:0.00257954
+tractors:farmville:0.00129327
+tractors:sheep:0.00452270
+tractors:environmental impact of agriculture:0.00299513
+tractors:genetically modified food:0.00352395
+tractors:animal husbandry:0.00486101
+tractors:plant breeding:0.00441767
+tractors:global warming:0.00360175
+tractors:texas a&m university:0.00344016
+tractors:ecosystem services:0.00407177
+tractors:plough:0.00900901
+tractors:plants:0.00417094
+tractors:subsistence agriculture:0.00217346
+tractors:genetically modified organism:0.00557043
+tractors:environmental impacts of irrigation:0.00194516
+tractors:savannas:0.00152686
+tractors:reindeers:0.00444633
+tractors:camels:0.00385554
+tractors:fungi:0.00450108
+tractors:family farm:0.00302857
+tractors:deforestation:0.00438233
+tractors:oils:0.00233620
+tractors:milk:0.00490910
+tractors:ox:0.00333855
+tractors:fertilizer:0.00447580
+tractors:yaks:0.00201735
+tractors:antibiotic resistance:0.00404040
+tractors:meat:0.00385520
+tractors:growth hormone:0.00275735
+tractors:cereal crops:0.00372758
+tractors:hunter-gatherer:0.00294328
+tractors:fuel:0.00358489
+tractors:agriculture:0.00537282
+tractors:goats:0.00590480
+tractors:animal welfare:0.00261800
+tractors:environmental impact of pesticides:0.00277101
+tractors:llamas:0.00448089
+tractors:history of agriculture:0.00465116
+fruits:hunter-gatherer:0.00183520
+fruits:plough:0.00386943
+fruits:fungi:0.00378688
+fruits:goats:0.00404908
+fruits:ranches:0.00170213
+fruits:ox:0.00261712
+fruits:sheep:0.00193531
+fruits:environmental impact of pesticides:0.00211623
+fruits:yaks:0.00193237
+fruits:history of agriculture:0.00161439
+fruits:tractors:0.00302004
+fruits:fertilizer:0.00404040
+fruits:antibiotic resistance:0.00296801
+fruits:sustainable agriculture:0.00261506
+fruits:selective breeding:0.00270807
+fruits:egg:0.00166694
+fruits:neolithic revolution:0.00219042
+fruits:aquifers:0.00479793
+fruits:environmental impacts of irrigation:0.00139331
+fruits:genetic engineering:0.00307898
+fruits:pesticides:0.00327011
+fruits:horses:0.00372635
+fruits:animal:0.00292969
+fruits:cattle:0.00383642
+fruits:vegetables:0.00458127
+fruits:pastoral farming:0.00120802
+fruits:milk:0.00288950
+fruits:livestock:0.00233694
+fruits:farmville:0.00163858
+fruits:environmental impact of agriculture:0.00223623
+fruits:genetically modified food:0.00252713
+fruits:meat:0.00440482
+fruits:animal husbandry:0.00296416
+fruits:mixed farming:0.00182548
+fruits:plant breeding:0.00403467
+fruits:fuel:0.00410878
+fruits:global warming:0.00234814
+fruits:texas a&m university:0.00110824
+fruits:ecosystem services:0.00320550
+fruits:plants:0.00530893
+fruits:subsistence agriculture:0.00205708
+fruits:genetically modified organism:0.00172840
+fruits:savannas:0.00191489
+fruits:reindeers:0.00250817
+fruits:cereal crops:0.00312200
+fruits:camels:0.00258844
+fruits:family farm:0.00372439
+fruits:deforestation:0.00188290
+fruits:sheep station:0.00154416
+fruits:oils:0.00357143
+fruits:agriculture:0.00367531
+fruits:animal welfare:0.00157770
+fruits:llamas:0.00296199
+fruits:growth hormone:0.00225770
+fruits:cereal:0.00312200
+fertilizer:history of agriculture:0.00458001
+fertilizer:cereal:0.00295077
+fertilizer:pastoralism:0.00334545
+fertilizer:fruits:0.00404040
+fertilizer:ranches:0.00200717
+fertilizer:sheep:0.00550417
+fertilizer:plough:0.00486263
+fertilizer:environmental impacts of irrigation:0.00425766
+fertilizer:fungi:0.00529139
+fertilizer:antibiotic resistance:0.00635313
+fertilizer:sustainable agriculture:0.00647446
+fertilizer:selective breeding:0.00345799
+fertilizer:milk:0.00652246
+fertilizer:egg:0.00314618
+fertilizer:ox:0.00246023
+fertilizer:tractors:0.00447580
+fertilizer:neolithic revolution:0.00285150
+fertilizer:yaks:0.00155788
+fertilizer:agrochemicals:0.00267943
+fertilizer:growth hormone:0.00568182
+fertilizer:aquifers:0.00494277
+fertilizer:meat:0.00585291
+fertilizer:genetic engineering:0.00493523
+fertilizer:pesticides:0.00728819
+fertilizer:horses:0.00384706
+fertilizer:animal:0.00201756
+fertilizer:cattle:0.00496312
+fertilizer:vegetables:0.00478902
+fertilizer:pastoral farming:0.00171500
+fertilizer:livestock:0.00401664
+fertilizer:agronomy:0.00180995
+fertilizer:farmville:0.00213871
+fertilizer:soil salinity:0.00241463
+fertilizer:cereal crops:0.00295077
+fertilizer:environmental impact of agriculture:0.00557802
+fertilizer:genetically modified food:0.00557103
+fertilizer:animal husbandry:0.00506408
+fertilizer:cattle station:0.00135455
+fertilizer:hunter-gatherer:0.00272056
+fertilizer:meat industry:0.00126194
+fertilizer:plant breeding:0.00637370
+fertilizer:global warming:0.00707508
+fertilizer:texas a&m university:0.00190898
+fertilizer:fuel:0.00501627
+fertilizer:ecosystem services:0.00473071
+fertilizer:plants:0.00593792
+fertilizer:subsistence agriculture:0.00227125
+fertilizer:agriculture:0.00834682
+fertilizer:genetically modified organism:0.00395982
+fertilizer:savannas:0.00272558
+fertilizer:reindeers:0.00441472
+fertilizer:camels:0.00336153
+fertilizer:family farm:0.00505457
+fertilizer:deforestation:0.00635752
+fertilizer:oils:0.00270362
+fertilizer:goats:0.00509077
+fertilizer:animal welfare:0.00283659
+fertilizer:environmental impact of pesticides:0.00596161
+fertilizer:llamas:0.00443698
+genetically modified organism:pastoral farming:0.00283126
+genetically modified organism:animal:0.00352811
+genetically modified organism:egg:0.00280143
+genetically modified organism:aquifers:0.00299043
+genetically modified organism:agronomy:0.00258983
+genetically modified organism:cereal crops:0.00338362
+genetically modified organism:sheep:0.00494761
+genetically modified organism:hunter-gatherer:0.00322504
+genetically modified organism:animal husbandry:0.00513019
+genetically modified organism:plough:0.00338097
+genetically modified organism:agrochemicals:0.00169837
+genetically modified organism:agriculture:0.00563244
+genetically modified organism:sustainable agriculture:0.00540233
+genetically modified organism:farmville:0.00194310
+genetically modified organism:antibiotic resistance:0.00600400
+genetically modified organism:livestock:0.00261849
+genetically modified organism:goats:0.00569620
+genetically modified organism:pesticides:0.00683242
+genetically modified organism:fuel:0.00472990
+genetically modified organism:tractors:0.00557043
+genetically modified organism:cattle station:0.00167632
+genetically modified organism:environmental impact of pesticides:0.00541616
+genetically modified organism:history of agriculture:0.00379900
+genetically modified organism:cattle:0.00620708
+genetically modified organism:soil salinity:0.00170279
+genetically modified organism:neolithic revolution:0.00440574
+genetically modified organism:genetic engineering:0.07302273
+genetically modified organism:camels:0.00384849
+genetically modified organism:fruits:0.00172840
+genetically modified organism:texas a&m university:0.00240052
+genetically modified organism:family farm:0.00352000
+genetically modified organism:deforestation:0.00469818
+genetically modified organism:cereal:0.00338362
+genetically modified organism:pastoralism:0.00278662
+genetically modified organism:sheep station:0.00129555
+genetically modified organism:meat industry:0.00145068
+genetically modified organism:oils:0.00167122
+genetically modified organism:bovine:0.00149502
+genetically modified organism:ranches:0.00235911
+genetically modified organism:ecosystem services:0.00480811
+genetically modified organism:selective breeding:0.00307038
+genetically modified organism:environmental impact of agriculture:0.00472361
+genetically modified organism:horses:0.00470782
+genetically modified organism:plant breeding:0.00708998
+genetically modified organism:vegetables:0.00489202
+genetically modified organism:plants:0.00449648
+genetically modified organism:fungi:0.00561089
+genetically modified organism:environmental impacts of irrigation:0.00302001
+genetically modified organism:ox:0.00207193
+genetically modified organism:milk:0.00464702
+genetically modified organism:animal welfare:0.00456708
+genetically modified organism:fertilizer:0.00395982
+genetically modified organism:global warming:0.00377655
+genetically modified organism:llamas:0.00266341
+genetically modified organism:subsistence agriculture:0.00234570
+genetically modified organism:yaks:0.00282965
+genetically modified organism:meat:0.00513932
+genetically modified organism:genetically modified food:0.03994845
+genetically modified organism:growth hormone:0.00560193
+genetically modified organism:savannas:0.00301600
+genetically modified organism:reindeers:0.00329663
+hunter-gatherer:animal husbandry:0.00389661
+hunter-gatherer:cattle station:0.00204604
+hunter-gatherer:fruits:0.00183520
+hunter-gatherer:plant breeding:0.00343840
+hunter-gatherer:global warming:0.00317744
+hunter-gatherer:texas a&m university:0.00216197
+hunter-gatherer:ecosystem services:0.00277070
+hunter-gatherer:ranches:0.00422365
+hunter-gatherer:plants:0.00327690
+hunter-gatherer:sheep:0.00441124
+hunter-gatherer:subsistence agriculture:0.00191663
+hunter-gatherer:genetically modified organism:0.00322504
+hunter-gatherer:savannas:0.00503119
+hunter-gatherer:reindeers:0.00290265
+hunter-gatherer:camels:0.00304077
+hunter-gatherer:family farm:0.00446229
+hunter-gatherer:deforestation:0.00482287
+hunter-gatherer:sheep station:0.00141924
+hunter-gatherer:environmental impacts of irrigation:0.00188466
+hunter-gatherer:milk:0.00336314
+hunter-gatherer:genetically modified food:0.00228148
+hunter-gatherer:meat:0.00294925
+hunter-gatherer:fuel:0.00259115
+hunter-gatherer:cereal crops:0.00292200
+hunter-gatherer:plough:0.00269880
+hunter-gatherer:fungi:0.00309092
+hunter-gatherer:goats:0.00403130
+hunter-gatherer:ox:0.00145985
+hunter-gatherer:environmental impact of pesticides:0.00295858
+hunter-gatherer:yaks:0.00226091
+hunter-gatherer:history of agriculture:0.00515406
+hunter-gatherer:agriculture:0.00387557
+hunter-gatherer:tractors:0.00294328
+hunter-gatherer:fertilizer:0.00272056
+hunter-gatherer:antibiotic resistance:0.00213015
+hunter-gatherer:sustainable agriculture:0.00353312
+hunter-gatherer:selective breeding:0.00205938
+hunter-gatherer:egg:0.00222930
+hunter-gatherer:neolithic revolution:0.00718613
+hunter-gatherer:aquifers:0.00209864
+hunter-gatherer:animal welfare:0.00253711
+hunter-gatherer:genetic engineering:0.00283651
+hunter-gatherer:pesticides:0.00277323
+hunter-gatherer:horses:0.00353423
+hunter-gatherer:llamas:0.00456621
+hunter-gatherer:animal:0.00279981
+hunter-gatherer:cattle:0.00366914
+hunter-gatherer:growth hormone:0.00293165
+hunter-gatherer:vegetables:0.00243351
+hunter-gatherer:pastoral farming:0.00203620
+hunter-gatherer:livestock:0.00320834
+hunter-gatherer:agronomy:0.00226565
+hunter-gatherer:farmville:0.00153610
+hunter-gatherer:soil salinity:0.00183775
+hunter-gatherer:pastoralism:0.00533224
+hunter-gatherer:environmental impact of agriculture:0.00288462
+hunter-gatherer:cereal:0.00292200
+bovine:agrochemicals:0.00114679
+bovine:genetically modified food:0.00107434
+bovine:camels:0.00122926
+bovine:genetically modified organism:0.00149502
+bovine:farmville:0.00136924
+bovine:plants:0.00102820
+bovine:oils:0.00191693
+bovine:animal:0.00171990
+bovine:cereal:0.00143609
+bovine:livestock:0.00228397
+bovine:cereal crops:0.00143609
+bovine:sheep:0.00113934
+bovine:cattle:0.00156909
+cereal crops:plant breeding:0.00438827
+cereal crops:global warming:0.00227247
+cereal crops:ranches:0.00216041
+cereal crops:texas a&m university:0.00193404
+cereal crops:sheep:0.00223282
+cereal crops:ecosystem services:0.00271143
+cereal crops:plants:0.00291878
+cereal crops:subsistence agriculture:0.00276625
+cereal crops:genetically modified organism:0.00338362
+cereal crops:savannas:0.00215983
+cereal crops:reindeers:0.00205457
+cereal crops:camels:0.00251678
+cereal crops:family farm:0.00164775
+cereal crops:deforestation:0.00285771
+cereal crops:pasture:0.00101729
+cereal crops:oils:0.00150830
+cereal crops:bovine:0.00143609
+cereal crops:fuel:0.00339723
+cereal crops:milk:0.00449457
+cereal crops:meat:0.00268786
+cereal crops:environmental impacts of irrigation:0.00148957
+cereal crops:growth hormone:0.00365455
+cereal crops:fruits:0.00312200
+cereal crops:hunter-gatherer:0.00292200
+cereal crops:plough:0.00230769
+cereal crops:fungi:0.00202312
+cereal crops:goats:0.00251116
+cereal crops:ox:0.00176741
+cereal crops:environmental impact of pesticides:0.00272109
+cereal crops:yaks:0.00286442
+cereal crops:history of agriculture:0.00483534
+cereal crops:agriculture:0.00516614
+cereal crops:tractors:0.00372758
+cereal crops:fertilizer:0.00295077
+cereal crops:antibiotic resistance:0.00283810
+cereal crops:sustainable agriculture:0.00270555
+cereal crops:selective breeding:0.00109842
+cereal crops:egg:0.00139860
+cereal crops:neolithic revolution:0.00445205
+cereal crops:agrochemicals:0.00153218
+cereal crops:animal welfare:0.00257420
+cereal crops:aquifers:0.00202748
+cereal crops:genetic engineering:0.00246914
+cereal crops:pesticides:0.00330777
+cereal crops:llamas:0.00255654
+cereal crops:horses:0.00242488
+cereal crops:animal:0.00330225
+cereal crops:cattle:0.00248381
+cereal crops:vegetables:0.00718617
+cereal crops:pastoral farming:0.00222930
+cereal crops:livestock:0.00404749
+cereal crops:agronomy:0.00266548
+cereal crops:farmville:0.00336289
+cereal crops:soil salinity:0.00316706
+cereal crops:environmental impact of agriculture:0.00254907
+cereal crops:cereal:1.00000000
+cereal crops:genetically modified food:0.00279183
+cereal crops:pastoralism:0.00277008
+cereal crops:animal husbandry:0.00311187
+cereal crops:cattle station:0.00190042
+cereal crops:meat industry:0.00131984
+animal husbandry:hunter-gatherer:0.00389661
+animal husbandry:cattle station:0.00186694
+animal husbandry:mixed farming:0.00139804
+animal husbandry:meat industry:0.00162631
+animal husbandry:plant breeding:0.00503131
+animal husbandry:global warming:0.00356995
+animal husbandry:plough:0.00551948
+animal husbandry:texas a&m university:0.00191058
+animal husbandry:ecosystem services:0.00418677
+animal husbandry:agriculture:0.00895675
+animal husbandry:plants:0.00531005
+animal husbandry:sustainable agriculture:0.00525996
+animal husbandry:subsistence agriculture:0.00390689
+animal husbandry:genetically modified organism:0.00513019
+animal husbandry:savannas:0.00388377
+animal husbandry:farmville:0.00214231
+animal husbandry:reindeers:0.00467897
+animal husbandry:camels:0.00293001
+animal husbandry:antibiotic resistance:0.00414206
+animal husbandry:livestock:0.12401480
+animal husbandry:family farm:0.00402160
+animal husbandry:goats:0.00712978
+animal husbandry:deforestation:0.00568522
+animal husbandry:pesticides:0.00393900
+animal husbandry:sheep station:0.00145322
+animal husbandry:tractors:0.00486101
+animal husbandry:environmental impact of pesticides:0.00285646
+animal husbandry:oils:0.00253893
+animal husbandry:cattle:0.00628583
+animal husbandry:history of agriculture:0.00967653
+animal husbandry:genetic engineering:0.00452721
+animal husbandry:neolithic revolution:0.00473047
+animal husbandry:fruits:0.00296416
+animal husbandry:cereal:0.00311187
+animal husbandry:pastoralism:0.00496133
+animal husbandry:aquifers:0.00390371
+animal husbandry:ranches:0.00373993
+animal husbandry:agronomy:0.00217707
+animal husbandry:fuel:0.00406945
+animal husbandry:sheep:0.00612464
+animal husbandry:environmental impact of agriculture:0.00418410
+animal husbandry:selective breeding:0.01399689
+animal husbandry:horses:0.00503501
+animal husbandry:vegetables:0.00466563
+animal husbandry:environmental impacts of irrigation:0.00357388
+animal husbandry:fungi:0.00544358
+animal husbandry:fertilizer:0.00506408
+animal husbandry:ox:0.00262942
+animal husbandry:milk:0.00445331
+animal husbandry:animal welfare:0.00498018
+animal husbandry:llamas:0.00552951
+animal husbandry:yaks:0.00391053
+animal husbandry:meat:0.00585838
+animal husbandry:growth hormone:0.00414201
+animal husbandry:genetically modified food:0.00501728
+animal husbandry:pastoral farming:0.00281426
+animal husbandry:animal:0.00416816
+animal husbandry:cereal crops:0.00311187
+animal husbandry:egg:0.00351515
+yaks:cereal:0.00286442
+yaks:pastoralism:0.00195312
+yaks:fruits:0.00193237
+yaks:ranches:0.00135980
+yaks:sheep:0.00244349
+yaks:plough:0.00220459
+yaks:fungi:0.00222244
+yaks:milk:0.00220526
+yaks:ox:0.00142806
+yaks:history of agriculture:0.00104548
+yaks:tractors:0.00201735
+yaks:meat:0.00246190
+yaks:fertilizer:0.00155788
+yaks:antibiotic resistance:0.00185575
+yaks:sustainable agriculture:0.00180995
+yaks:selective breeding:0.00199159
+yaks:egg:0.00261569
+yaks:neolithic revolution:0.00171615
+yaks:agrochemicals:0.00155521
+yaks:aquifers:0.00158658
+yaks:genetic engineering:0.00216953
+yaks:pesticides:0.00165837
+yaks:horses:0.00349354
+yaks:cereal crops:0.00286442
+yaks:animal:0.00253758
+yaks:cattle:0.00338259
+yaks:vegetables:0.00315173
+yaks:pastoral farming:0.00128452
+yaks:hunter-gatherer:0.00226091
+yaks:livestock:0.00271592
+yaks:fuel:0.00195217
+yaks:agronomy:0.00179856
+yaks:soil salinity:0.00119904
+yaks:environmental impact of agriculture:0.00334104
+yaks:genetically modified food:0.00245442
+yaks:animal husbandry:0.00391053
+yaks:cattle station:0.00115207
+yaks:agriculture:0.00164358
+yaks:mixed farming:0.00116550
+yaks:plant breeding:0.00158339
+yaks:global warming:0.00193732
+yaks:ecosystem services:0.00103506
+yaks:plants:0.00267414
+yaks:subsistence agriculture:0.00104603
+yaks:genetically modified organism:0.00282965
+yaks:goats:0.00336464
+yaks:savannas:0.00244965
+yaks:animal welfare:0.00167148
+yaks:reindeers:0.00247239
+yaks:environmental impact of pesticides:0.00234467
+yaks:camels:0.00286726
+yaks:family farm:0.00184094
+yaks:llamas:0.00455807
+yaks:deforestation:0.00128268
+yaks:sheep station:0.00407609
+yaks:growth hormone:0.00212437
+yaks:pasture:0.00103252
+meat:ranches:0.00231023
+meat:sheep:0.00546340
+meat:fuel:0.00357857
+meat:milk:0.00641961
+meat:cereal crops:0.00268786
+meat:environmental impacts of irrigation:0.00361702
+meat:growth hormone:0.00539722
+meat:fruits:0.00440482
+meat:hunter-gatherer:0.00294925
+meat:plough:0.00498304
+meat:fungi:0.00464140
+meat:goats:0.00543218
+meat:ox:0.00158132
+meat:environmental impact of pesticides:0.00533181
+meat:yaks:0.00246190
+meat:history of agriculture:0.00445092
+meat:tractors:0.00385520
+meat:fertilizer:0.00585291
+meat:antibiotic resistance:0.00617376
+meat:sustainable agriculture:0.00600050
+meat:selective breeding:0.00372984
+meat:egg:0.00211742
+meat:neolithic revolution:0.00472666
+meat:aquifers:0.00407830
+meat:genetic engineering:0.00422083
+meat:pesticides:0.00641881
+meat:agriculture:0.00656092
+meat:horses:0.00478533
+meat:animal:0.00303807
+meat:cattle:0.00821008
+meat:vegetables:0.00539056
+meat:pastoral farming:0.00199297
+meat:livestock:0.00418364
+meat:agronomy:0.00104589
+meat:farmville:0.00126860
+meat:animal welfare:0.00375752
+meat:environmental impact of agriculture:0.00430432
+meat:genetically modified food:0.00486793
+meat:animal husbandry:0.00585838
+meat:llamas:0.00372885
+meat:cattle station:0.00174520
+meat:meat industry:0.00287431
+meat:plant breeding:0.00487893
+meat:global warming:0.00587070
+meat:texas a&m university:0.00210374
+meat:ecosystem services:0.00327669
+meat:plants:0.00521384
+meat:subsistence agriculture:0.00156872
+meat:genetically modified organism:0.00513932
+meat:savannas:0.00396651
+meat:cereal:0.00268786
+meat:reindeers:0.00479753
+meat:pastoralism:0.00277932
+meat:camels:0.00308642
+meat:family farm:0.00360044
+meat:deforestation:0.00509743
+meat:oils:0.00286319
+savannas:pastoral farming:0.00217924
+savannas:animal:0.00211082
+savannas:egg:0.00216920
+savannas:aquifers:0.00382987
+savannas:agronomy:0.00323741
+savannas:cereal crops:0.00215983
+savannas:sheep:0.00337447
+savannas:hunter-gatherer:0.00503119
+savannas:animal husbandry:0.00388377
+savannas:plough:0.00353467
+savannas:agriculture:0.00353162
+savannas:sustainable agriculture:0.00418235
+savannas:farmville:0.00104987
+savannas:antibiotic resistance:0.00336037
+savannas:livestock:0.00401322
+savannas:goats:0.00194729
+savannas:pesticides:0.00334215
+savannas:tractors:0.00152686
+savannas:fuel:0.00279330
+savannas:cattle station:0.00126422
+savannas:environmental impact of pesticides:0.00317292
+savannas:history of agriculture:0.00341755
+savannas:cattle:0.00356204
+savannas:soil salinity:0.00163345
+savannas:neolithic revolution:0.00345044
+savannas:genetic engineering:0.00342661
+savannas:fruits:0.00191489
+savannas:texas a&m university:0.00164124
+savannas:pastoralism:0.00338328
+savannas:cereal:0.00215983
+savannas:meat industry:0.00142653
+savannas:reindeers:0.00299519
+savannas:camels:0.00339244
+savannas:family farm:0.00283996
+savannas:deforestation:0.00525674
+savannas:ranches:0.00497395
+savannas:ecosystem services:0.00265829
+savannas:sheep station:0.00144196
+savannas:oils:0.00157085
+savannas:selective breeding:0.00295625
+savannas:environmental impact of agriculture:0.00631057
+savannas:horses:0.00309721
+savannas:plant breeding:0.00353017
+savannas:vegetables:0.00340000
+savannas:plants:0.00309193
+savannas:fungi:0.00256763
+savannas:environmental impacts of irrigation:0.00462046
+savannas:milk:0.00348630
+savannas:animal welfare:0.00238229
+savannas:fertilizer:0.00272558
+savannas:global warming:0.00321785
+savannas:llamas:0.00320741
+savannas:subsistence agriculture:0.00262927
+savannas:yaks:0.00244965
+savannas:meat:0.00396651
+savannas:genetically modified food:0.00255469
+savannas:growth hormone:0.00366556
+savannas:genetically modified organism:0.00301600
+goats:agrochemicals:0.00100654
+goats:aquifers:0.00559058
+goats:genetic engineering:0.00487992
+goats:cereal:0.00251116
+goats:pastoralism:0.00394945
+goats:pesticides:0.00631361
+goats:horses:0.00813129
+goats:fruits:0.00404908
+goats:animal:0.00328192
+goats:cattle:0.00923057
+goats:vegetables:0.00425784
+goats:pastoral farming:0.00224184
+goats:ranches:0.00259841
+goats:livestock:0.00494213
+goats:sheep:0.00645302
+goats:agronomy:0.00127898
+goats:farmville:0.00192466
+goats:soil salinity:0.00122474
+goats:environmental impact of agriculture:0.00366625
+goats:genetically modified food:0.00442842
+goats:animal husbandry:0.00712978
+goats:cattle station:0.00105501
+goats:plough:0.00590038
+goats:plant breeding:0.00443986
+goats:global warming:0.00422767
+goats:texas a&m university:0.00282404
+goats:ecosystem services:0.00323845
+goats:environmental impacts of irrigation:0.00174433
+goats:plants:0.00616762
+goats:subsistence agriculture:0.00232221
+goats:fungi:0.00635652
+goats:genetically modified organism:0.00569620
+goats:savannas:0.00194729
+goats:reindeers:0.00583670
+goats:camels:0.00604778
+goats:family farm:0.00445151
+goats:milk:0.00737210
+goats:deforestation:0.00481757
+goats:oils:0.00406933
+goats:meat:0.00543218
+goats:fuel:0.00444170
+goats:cereal crops:0.00251116
+goats:hunter-gatherer:0.00403130
+goats:agriculture:0.00584280
+goats:ox:0.00396301
+goats:animal welfare:0.00415761
+goats:environmental impact of pesticides:0.00416347
+goats:yaks:0.00336464
+goats:history of agriculture:0.00360422
+goats:llamas:0.00507838
+goats:tractors:0.00590480
+goats:fertilizer:0.00509077
+goats:growth hormone:0.00479303
+goats:antibiotic resistance:0.00480331
+goats:sustainable agriculture:0.00442145
+goats:selective breeding:0.00351576
+goats:egg:0.00356110
+goats:neolithic revolution:0.00355800
+aquifers:fuel:0.00558347
+aquifers:global warming:0.00388060
+aquifers:antibiotic resistance:0.00427579
+aquifers:texas a&m university:0.00234551
+aquifers:goats:0.00559058
+aquifers:ecosystem services:0.00400089
+aquifers:plants:0.00416074
+aquifers:environmental impact of pesticides:0.00453267
+aquifers:subsistence agriculture:0.00216398
+aquifers:genetically modified organism:0.00299043
+aquifers:tractors:0.00411265
+aquifers:savannas:0.00382987
+aquifers:history of agriculture:0.00291121
+aquifers:reindeers:0.00447728
+aquifers:camels:0.00415916
+aquifers:family farm:0.00342466
+aquifers:deforestation:0.00438789
+aquifers:sheep station:0.00113960
+aquifers:oils:0.00358056
+aquifers:neolithic revolution:0.00238865
+aquifers:cereal:0.00202748
+aquifers:pastoralism:0.00205002
+aquifers:fruits:0.00479793
+aquifers:genetic engineering:0.00361944
+aquifers:pesticides:0.00582647
+aquifers:horses:0.00353883
+aquifers:sheep:0.00324120
+aquifers:ranches:0.00342604
+aquifers:animal:0.00264963
+aquifers:cattle:0.00431482
+aquifers:vegetables:0.00278891
+aquifers:pastoral farming:0.00340909
+aquifers:livestock:0.00281407
+aquifers:agronomy:0.00113604
+aquifers:selective breeding:0.00327248
+aquifers:farmville:0.00198194
+aquifers:plough:0.00571152
+aquifers:soil salinity:0.00449141
+aquifers:environmental impact of agriculture:0.00463589
+aquifers:genetically modified food:0.00271584
+aquifers:sustainable agriculture:0.00430108
+aquifers:animal husbandry:0.00390371
+aquifers:environmental impacts of irrigation:0.00511848
+aquifers:cattle station:0.00128238
+aquifers:meat industry:0.00112994
+aquifers:fungi:0.00300842
+aquifers:plant breeding:0.00387764
+aquifers:fertilizer:0.00494277
+aquifers:animal welfare:0.00330663
+aquifers:milk:0.00313647
+aquifers:llamas:0.00489345
+aquifers:ox:0.00219888
+aquifers:yaks:0.00158658
+aquifers:meat:0.00407830
+aquifers:growth hormone:0.00495817
+aquifers:cereal crops:0.00202748
+aquifers:egg:0.00175467
+aquifers:hunter-gatherer:0.00209864
+aquifers:agriculture:0.00501022
+ecosystem services:egg:0.00166980
+ecosystem services:aquifers:0.00400089
+ecosystem services:agronomy:0.00205008
+ecosystem services:cereal crops:0.00271143
+ecosystem services:sheep:0.00381785
+ecosystem services:hunter-gatherer:0.00277070
+ecosystem services:animal husbandry:0.00418677
+ecosystem services:fuel:0.00472350
+ecosystem services:plough:0.00314696
+ecosystem services:agriculture:0.00558360
+ecosystem services:sustainable agriculture:0.00887256
+ecosystem services:farmville:0.00114518
+ecosystem services:antibiotic resistance:0.00434508
+ecosystem services:livestock:0.00423114
+ecosystem services:goats:0.00323845
+ecosystem services:pesticides:0.00446070
+ecosystem services:tractors:0.00407177
+ecosystem services:environmental impact of pesticides:0.00432856
+ecosystem services:history of agriculture:0.00367948
+ecosystem services:cattle:0.00550633
+ecosystem services:soil salinity:0.00182918
+ecosystem services:neolithic revolution:0.00384172
+ecosystem services:genetic engineering:0.00507890
+ecosystem services:fruits:0.00320550
+ecosystem services:cereal:0.00271143
+ecosystem services:pastoralism:0.00330114
+ecosystem services:meat industry:0.00204439
+ecosystem services:ranches:0.00350750
+ecosystem services:plants:0.00490827
+ecosystem services:subsistence agriculture:0.00294748
+ecosystem services:genetically modified organism:0.00480811
+ecosystem services:savannas:0.00265829
+ecosystem services:environmental impact of agriculture:0.00578512
+ecosystem services:reindeers:0.00358873
+ecosystem services:selective breeding:0.00307186
+ecosystem services:horses:0.00391766
+ecosystem services:plant breeding:0.00438468
+ecosystem services:camels:0.00313450
+ecosystem services:family farm:0.00419371
+ecosystem services:vegetables:0.00287452
+ecosystem services:deforestation:0.00640807
+ecosystem services:sheep station:0.00102564
+ecosystem services:oils:0.00165975
+ecosystem services:fungi:0.00469263
+ecosystem services:environmental impacts of irrigation:0.00419385
+ecosystem services:ox:0.00134953
+ecosystem services:milk:0.00427847
+ecosystem services:animal welfare:0.00493185
+ecosystem services:fertilizer:0.00473071
+ecosystem services:global warming:0.00502249
+ecosystem services:llamas:0.00321144
+ecosystem services:yaks:0.00103506
+ecosystem services:meat:0.00327669
+ecosystem services:genetically modified food:0.00339872
+ecosystem services:growth hormone:0.00327466
+ecosystem services:pastoral farming:0.00220321
+ecosystem services:texas a&m university:0.00194431
+ecosystem services:animal:0.00257043
+cereal:plough:0.00230769
+cereal:fungi:0.00202312
+cereal:goats:0.00251116
+cereal:ox:0.00176741
+cereal:environmental impact of pesticides:0.00272109
+cereal:yaks:0.00286442
+cereal:history of agriculture:0.00483534
+cereal:tractors:0.00372758
+cereal:fertilizer:0.00295077
+cereal:antibiotic resistance:0.00283810
+cereal:sustainable agriculture:0.00270555
+cereal:selective breeding:0.00109842
+cereal:egg:0.00139860
+cereal:neolithic revolution:0.00445205
+cereal:agrochemicals:0.00153218
+cereal:aquifers:0.00202748
+cereal:genetic engineering:0.00246914
+cereal:pesticides:0.00330777
+cereal:horses:0.00242488
+cereal:animal:0.00330225
+cereal:cattle:0.00248381
+cereal:vegetables:0.00718617
+cereal:pastoral farming:0.00222930
+cereal:livestock:0.00404749
+cereal:agronomy:0.00266548
+cereal:farmville:0.00336289
+cereal:soil salinity:0.00316706
+cereal:environmental impact of agriculture:0.00254907
+cereal:genetically modified food:0.00279183
+cereal:animal husbandry:0.00311187
+cereal:cattle station:0.00190042
+cereal:meat industry:0.00131984
+cereal:plant breeding:0.00438827
+cereal:fuel:0.00339723
+cereal:global warming:0.00227247
+cereal:texas a&m university:0.00193404
+cereal:ecosystem services:0.00271143
+cereal:plants:0.00291878
+cereal:subsistence agriculture:0.00276625
+cereal:genetically modified organism:0.00338362
+cereal:savannas:0.00215983
+cereal:reindeers:0.00205457
+cereal:camels:0.00251678
+cereal:family farm:0.00164775
+cereal:deforestation:0.00285771
+cereal:pasture:0.00101729
+cereal:oils:0.00150830
+cereal:bovine:0.00143609
+cereal:animal welfare:0.00257420
+cereal:ranches:0.00216041
+cereal:llamas:0.00255654
+cereal:agriculture:0.00516614
+cereal:sheep:0.00223282
+cereal:meat:0.00268786
+cereal:cereal crops:1.00000000
+cereal:milk:0.00449457
+cereal:environmental impacts of irrigation:0.00148957
+cereal:pastoralism:0.00277008
+cereal:growth hormone:0.00365455
+cereal:fruits:0.00312200
+cereal:hunter-gatherer:0.00292200
+environmental impacts of irrigation:ranches:0.00373791
+environmental impacts of irrigation:sheep:0.00261658
+environmental impacts of irrigation:growth hormone:0.00297324
+environmental impacts of irrigation:fruits:0.00139331
+environmental impacts of irrigation:hunter-gatherer:0.00188466
+environmental impacts of irrigation:plough:0.00291575
+environmental impacts of irrigation:fungi:0.00186933
+environmental impacts of irrigation:goats:0.00174433
+environmental impacts of irrigation:ox:0.00108578
+environmental impacts of irrigation:milk:0.00205161
+environmental impacts of irrigation:fuel:0.00301568
+environmental impacts of irrigation:environmental impact of pesticides:0.00316984
+environmental impacts of irrigation:history of agriculture:0.00340615
+environmental impacts of irrigation:tractors:0.00194516
+environmental impacts of irrigation:fertilizer:0.00425766
+environmental impacts of irrigation:meat:0.00361702
+environmental impacts of irrigation:antibiotic resistance:0.00413685
+environmental impacts of irrigation:sustainable agriculture:0.00507546
+environmental impacts of irrigation:selective breeding:0.00185151
+environmental impacts of irrigation:egg:0.00170765
+environmental impacts of irrigation:neolithic revolution:0.00283540
+environmental impacts of irrigation:agrochemicals:0.00106686
+environmental impacts of irrigation:aquifers:0.00511848
+environmental impacts of irrigation:genetic engineering:0.00341297
+environmental impacts of irrigation:pesticides:0.00360000
+environmental impacts of irrigation:horses:0.00232153
+environmental impacts of irrigation:animal:0.00199767
+environmental impacts of irrigation:cereal crops:0.00148957
+environmental impacts of irrigation:cattle:0.00330169
+environmental impacts of irrigation:vegetables:0.00225268
+environmental impacts of irrigation:pastoral farming:0.00250564
+environmental impacts of irrigation:livestock:0.00241017
+environmental impacts of irrigation:agronomy:0.00193237
+environmental impacts of irrigation:farmville:0.00193798
+environmental impacts of irrigation:soil salinity:0.00385185
+environmental impacts of irrigation:environmental impact of agriculture:0.00715338
+environmental impacts of irrigation:genetically modified food:0.00197328
+environmental impacts of irrigation:animal husbandry:0.00357388
+environmental impacts of irrigation:cattle station:0.00114745
+environmental impacts of irrigation:agriculture:0.00383836
+environmental impacts of irrigation:meat industry:0.00160000
+environmental impacts of irrigation:plant breeding:0.00412277
+environmental impacts of irrigation:global warming:0.00259067
+environmental impacts of irrigation:texas a&m university:0.00187319
+environmental impacts of irrigation:ecosystem services:0.00419385
+environmental impacts of irrigation:plants:0.00240385
+environmental impacts of irrigation:subsistence agriculture:0.00106667
+environmental impacts of irrigation:genetically modified organism:0.00302001
+environmental impacts of irrigation:animal welfare:0.00254828
+environmental impacts of irrigation:savannas:0.00462046
+environmental impacts of irrigation:reindeers:0.00261277
+environmental impacts of irrigation:camels:0.00234845
+environmental impacts of irrigation:llamas:0.00235770
+environmental impacts of irrigation:family farm:0.00285397
+environmental impacts of irrigation:deforestation:0.00565229
+environmental impacts of irrigation:pasture:0.00106421
+environmental impacts of irrigation:cereal:0.00148957
+environmental impacts of irrigation:pastoralism:0.00358905
+antibiotic resistance:aquifers:0.00427579
+antibiotic resistance:genetic engineering:0.00659747
+antibiotic resistance:history of agriculture:0.00277756
+antibiotic resistance:pesticides:0.00850547
+antibiotic resistance:horses:0.00437743
+antibiotic resistance:animal:0.00247844
+antibiotic resistance:cattle:0.00581899
+antibiotic resistance:vegetables:0.00361779
+antibiotic resistance:pastoral farming:0.00136088
+antibiotic resistance:livestock:0.00277649
+antibiotic resistance:agronomy:0.00194715
+antibiotic resistance:cereal:0.00283810
+antibiotic resistance:pastoralism:0.00280932
+antibiotic resistance:farmville:0.00158228
+antibiotic resistance:soil salinity:0.00160664
+antibiotic resistance:fruits:0.00296801
+antibiotic resistance:environmental impact of agriculture:0.00600430
+antibiotic resistance:genetically modified food:0.00611534
+antibiotic resistance:animal husbandry:0.00414206
+antibiotic resistance:plant breeding:0.00660440
+antibiotic resistance:ranches:0.00208333
+antibiotic resistance:global warming:0.00533041
+antibiotic resistance:sheep:0.00392847
+antibiotic resistance:texas a&m university:0.00284784
+antibiotic resistance:ecosystem services:0.00434508
+antibiotic resistance:plants:0.00414160
+antibiotic resistance:subsistence agriculture:0.00140378
+antibiotic resistance:genetically modified organism:0.00600400
+antibiotic resistance:savannas:0.00336037
+antibiotic resistance:reindeers:0.00410076
+antibiotic resistance:plough:0.00421158
+antibiotic resistance:camels:0.00339917
+antibiotic resistance:family farm:0.00482253
+antibiotic resistance:deforestation:0.00578573
+antibiotic resistance:environmental impacts of irrigation:0.00413685
+antibiotic resistance:oils:0.00144889
+antibiotic resistance:fungi:0.00589855
+antibiotic resistance:fertilizer:0.00635313
+antibiotic resistance:milk:0.00538858
+antibiotic resistance:tractors:0.00404040
+antibiotic resistance:ox:0.00193150
+antibiotic resistance:yaks:0.00185575
+antibiotic resistance:growth hormone:0.00563910
+antibiotic resistance:meat:0.00617376
+antibiotic resistance:cereal crops:0.00283810
+antibiotic resistance:hunter-gatherer:0.00213015
+antibiotic resistance:llamas:0.00369704
+antibiotic resistance:fuel:0.00298178
+antibiotic resistance:agriculture:0.00670741
+antibiotic resistance:sustainable agriculture:0.00562624
+antibiotic resistance:goats:0.00480331
+antibiotic resistance:selective breeding:0.00306069
+antibiotic resistance:animal welfare:0.00486449
+antibiotic resistance:egg:0.00251661
+antibiotic resistance:environmental impact of pesticides:0.00507210
+antibiotic resistance:neolithic revolution:0.00334045
+antibiotic resistance:agrochemicals:0.00115942
+genetic engineering:reindeers:0.00381877
+genetic engineering:camels:0.00378133
+genetic engineering:antibiotic resistance:0.00659747
+genetic engineering:family farm:0.00319671
+genetic engineering:fuel:0.00512613
+genetic engineering:goats:0.00487992
+genetic engineering:deforestation:0.00424233
+genetic engineering:oils:0.00201342
+genetic engineering:environmental impact of pesticides:0.00474215
+genetic engineering:agrochemicals:0.00189861
+genetic engineering:tractors:0.00476695
+genetic engineering:history of agriculture:0.00438076
+genetic engineering:pesticides:0.00665121
+genetic engineering:neolithic revolution:0.00316836
+genetic engineering:horses:0.00596172
+genetic engineering:animal:0.00343114
+genetic engineering:cattle:0.00550320
+genetic engineering:cereal:0.00246914
+genetic engineering:pastoralism:0.00361742
+genetic engineering:vegetables:0.00463619
+genetic engineering:fruits:0.00307898
+genetic engineering:pastoral farming:0.00170490
+genetic engineering:livestock:0.00242165
+genetic engineering:aquifers:0.00361944
+genetic engineering:agronomy:0.00233813
+genetic engineering:farmville:0.00349810
+genetic engineering:soil salinity:0.00205550
+genetic engineering:ranches:0.00314061
+genetic engineering:sheep:0.00525834
+genetic engineering:environmental impact of agriculture:0.00568812
+genetic engineering:genetically modified food:0.02545825
+genetic engineering:animal husbandry:0.00452721
+genetic engineering:cattle station:0.00202020
+genetic engineering:meat industry:0.00161204
+genetic engineering:plant breeding:0.00769317
+genetic engineering:selective breeding:0.00395307
+genetic engineering:global warming:0.00405361
+genetic engineering:plough:0.00427972
+genetic engineering:texas a&m university:0.00312548
+genetic engineering:ecosystem services:0.00507890
+genetic engineering:plants:0.00429684
+genetic engineering:sustainable agriculture:0.00594279
+genetic engineering:subsistence agriculture:0.00177276
+genetic engineering:environmental impacts of irrigation:0.00341297
+genetic engineering:genetically modified organism:0.07302273
+genetic engineering:savannas:0.00342661
+genetic engineering:fungi:0.00483481
+genetic engineering:fertilizer:0.00493523
+genetic engineering:animal welfare:0.00353464
+genetic engineering:milk:0.00590499
+genetic engineering:llamas:0.00321927
+genetic engineering:ox:0.00260841
+genetic engineering:yaks:0.00216953
+genetic engineering:meat:0.00422083
+genetic engineering:growth hormone:0.00577490
+genetic engineering:cereal crops:0.00246914
+genetic engineering:egg:0.00204548
+genetic engineering:hunter-gatherer:0.00283651
+genetic engineering:agriculture:0.00516249
+cattle station:fuel:0.00139431
+cattle station:sheep:0.00182521
+cattle station:hunter-gatherer:0.00204604
+cattle station:animal husbandry:0.00186694
+cattle station:plough:0.00116727
+cattle station:sustainable agriculture:0.00179856
+cattle station:goats:0.00105501
+cattle station:environmental impact of pesticides:0.00108460
+cattle station:meat industry:0.00115607
+cattle station:cattle:0.00148962
+cattle station:plant breeding:0.00116009
+cattle station:history of agriculture:0.00168232
+cattle station:global warming:0.00157309
+cattle station:texas a&m university:0.00139996
+cattle station:plants:0.00108829
+cattle station:subsistence agriculture:0.00170068
+cattle station:genetically modified organism:0.00167632
+cattle station:savannas:0.00126422
+cattle station:genetic engineering:0.00202020
+cattle station:soil salinity:0.00100604
+cattle station:reindeers:0.00171984
+cattle station:camels:0.00147520
+cattle station:deforestation:0.00114321
+cattle station:sheep station:0.02345159
+cattle station:pastoralism:0.00195440
+cattle station:cereal:0.00190042
+cattle station:aquifers:0.00128238
+cattle station:ranches:0.00507775
+cattle station:environmental impact of agriculture:0.00236616
+cattle station:selective breeding:0.00149738
+cattle station:horses:0.00122864
+cattle station:vegetables:0.00127033
+cattle station:environmental impacts of irrigation:0.00114745
+cattle station:fungi:0.00111720
+cattle station:fertilizer:0.00135455
+cattle station:llamas:0.00131926
+cattle station:yaks:0.00115207
+cattle station:meat:0.00174520
+cattle station:growth hormone:0.00107089
+cattle station:genetically modified food:0.00115451
+cattle station:pastoral farming:0.00115385
+cattle station:animal:0.00151712
+cattle station:cereal crops:0.00190042
+agronomy:plant breeding:0.00355500
+agronomy:global warming:0.00139470
+agronomy:plough:0.00158827
+agronomy:ecosystem services:0.00205008
+agronomy:plants:0.00215363
+agronomy:agriculture:0.00302035
+agronomy:subsistence agriculture:0.00151976
+agronomy:sustainable agriculture:0.00331646
+agronomy:genetically modified organism:0.00258983
+agronomy:savannas:0.00323741
+agronomy:camels:0.00138751
+agronomy:family farm:0.00264550
+agronomy:deforestation:0.00140677
+agronomy:antibiotic resistance:0.00194715
+agronomy:livestock:0.00286738
+agronomy:goats:0.00127898
+agronomy:pesticides:0.00139324
+agronomy:environmental impact of pesticides:0.00141844
+agronomy:cattle:0.00135083
+agronomy:history of agriculture:0.00222189
+agronomy:genetic engineering:0.00233813
+agronomy:neolithic revolution:0.00162107
+agronomy:fuel:0.00124688
+agronomy:cereal:0.00266548
+agronomy:pastoralism:0.00185736
+agronomy:aquifers:0.00113604
+agronomy:sheep:0.00134228
+agronomy:ranches:0.00215672
+agronomy:soil salinity:0.00248911
+agronomy:environmental impact of agriculture:0.00366789
+agronomy:genetically modified food:0.00145319
+agronomy:animal husbandry:0.00217707
+agronomy:mixed farming:0.00121507
+agronomy:selective breeding:0.00137779
+agronomy:horses:0.00151657
+agronomy:vegetables:0.00168729
+agronomy:environmental impacts of irrigation:0.00193237
+agronomy:fungi:0.00147929
+agronomy:fertilizer:0.00180995
+agronomy:animal welfare:0.00105411
+agronomy:ox:0.00104767
+agronomy:yaks:0.00179856
+agronomy:growth hormone:0.00280177
+agronomy:meat:0.00104589
+agronomy:animal:0.00118008
+agronomy:cereal crops:0.00266548
+agronomy:egg:0.00171485
+agronomy:hunter-gatherer:0.00226565
+pesticides:antibiotic resistance:0.00850547
+pesticides:goats:0.00631361
+pesticides:fuel:0.00540398
+pesticides:horses:0.00595791
+pesticides:environmental impact of pesticides:0.01430246
+pesticides:animal:0.00370971
+pesticides:agrochemicals:0.00238927
+pesticides:cattle:0.00728535
+pesticides:tractors:0.00590566
+pesticides:vegetables:0.00427996
+pesticides:history of agriculture:0.00349996
+pesticides:pastoral farming:0.00181050
+pesticides:livestock:0.00361714
+pesticides:agronomy:0.00139324
+pesticides:farmville:0.00162626
+pesticides:soil salinity:0.00249501
+pesticides:genetic engineering:0.00665121
+pesticides:environmental impact of agriculture:0.00759837
+pesticides:neolithic revolution:0.00472356
+pesticides:genetically modified food:0.00741387
+pesticides:animal husbandry:0.00393900
+pesticides:plant breeding:0.00699377
+pesticides:cereal:0.00330777
+pesticides:pastoralism:0.00338553
+pesticides:global warming:0.00662143
+pesticides:fruits:0.00327011
+pesticides:texas a&m university:0.00300842
+pesticides:ecosystem services:0.00446070
+pesticides:aquifers:0.00582647
+pesticides:plants:0.00511554
+pesticides:subsistence agriculture:0.00172360
+pesticides:genetically modified organism:0.00683242
+pesticides:ranches:0.00320290
+pesticides:sheep:0.00586907
+pesticides:savannas:0.00334215
+pesticides:reindeers:0.00461125
+pesticides:camels:0.00456233
+pesticides:family farm:0.00470746
+pesticides:deforestation:0.00625690
+pesticides:sheep station:0.00104657
+pesticides:selective breeding:0.00249066
+pesticides:oils:0.00342689
+pesticides:plough:0.00533992
+pesticides:sustainable agriculture:0.00623701
+pesticides:environmental impacts of irrigation:0.00360000
+pesticides:fungi:0.00564563
+pesticides:fertilizer:0.00728819
+pesticides:animal welfare:0.00616793
+pesticides:milk:0.00596839
+pesticides:llamas:0.00514801
+pesticides:ox:0.00253526
+pesticides:yaks:0.00165837
+pesticides:meat:0.00641881
+pesticides:growth hormone:0.00647025
+pesticides:cereal crops:0.00330777
+pesticides:egg:0.00436939
+pesticides:hunter-gatherer:0.00277323
+pesticides:agriculture:0.00853414

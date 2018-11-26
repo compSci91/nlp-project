@@ -1,0 +1,467 @@
+tractors -> egg
+tractors
+egg
+Weight 0.00272039
+tractors -> plough
+tractors
+plough
+Weight 0.00900901
+tractors -> genetically modified organism
+tractors
+genetically modified organism
+Weight 0.00557043
+tractors -> milk
+tractors
+milk
+Weight 0.0049091
+tractors -> neolithic revolution
+tractors
+neolithic revolution
+Weight 0.00333148
+tractors -> oils
+tractors
+oils
+Weight 0.0023362
+tractors -> cereal
+tractors
+cereal
+Weight 0.00372758
+tractors -> fertilizer
+tractors
+fertilizer
+Weight 0.0044758
+tractors -> agrochemicals
+tractors
+agrochemicals
+Weight 0.00114495
+tractors -> ranches
+tractors
+ranches
+Weight 0.00257954
+tractors -> fungi
+tractors
+fungi
+Weight 0.00450108
+tractors -> aquifers
+tractors
+aquifers
+Weight 0.00411265
+tractors -> cattle station
+tractors
+ranches
+cattle station
+Weight 1.3098259235e-05
+tractors -> antibiotic resistance
+tractors
+antibiotic resistance
+Weight 0.0040404
+tractors -> agriculture
+tractors
+agriculture
+Weight 0.00537282
+tractors -> genetic engineering
+tractors
+genetic engineering
+Weight 0.00476695
+tractors -> savannas
+tractors
+savannas
+Weight 0.00152686
+tractors -> pasture
+tractors
+agriculture
+pasture
+Weight 5.855138051400001e-06
+tractors -> pesticides
+tractors
+pesticides
+Weight 0.00590566
+tractors -> goats
+tractors
+goats
+Weight 0.0059048
+tractors -> meat
+tractors
+meat
+Weight 0.0038552
+tractors -> horses
+tractors
+horses
+Weight 0.00555521
+tractors -> plant breeding
+tractors
+plant breeding
+Weight 0.00441767
+tractors -> reindeers
+tractors
+reindeers
+Weight 0.00444633
+tractors -> fruits
+tractors
+fruits
+Weight 0.00302004
+tractors -> animal
+tractors
+animal
+Weight 0.00226491
+tractors -> pastoral farming
+tractors
+pastoral farming
+Weight 0.00191706
+tractors -> cereal crops
+tractors
+cereal crops
+Weight 0.00372758
+tractors -> ox
+tractors
+ox
+Weight 0.00333855
+tractors -> cattle
+tractors
+cattle
+Weight 0.00550459
+tractors -> bovine
+tractors
+cattle
+bovine
+Weight 8.6371971231e-06
+tractors -> meat industry
+tractors
+meat
+meat industry
+Weight 1.1081039912000001e-05
+tractors -> global warming
+tractors
+global warming
+Weight 0.00360175
+tractors -> camels
+tractors
+camels
+Weight 0.00385554
+tractors -> pastoralism
+tractors
+pastoralism
+Weight 0.00192623
+tractors -> vegetables
+tractors
+vegetables
+Weight 0.00284799
+tractors -> environmental impacts of irrigation
+tractors
+environmental impacts of irrigation
+Weight 0.00194516
+tractors -> environmental impact of pesticides
+tractors
+environmental impact of pesticides
+Weight 0.00277101
+tractors -> subsistence agriculture
+tractors
+subsistence agriculture
+Weight 0.00217346
+tractors -> texas a&m university
+tractors
+texas a&m university
+Weight 0.00344016
+tractors -> soil salinity
+tractors
+aquifers
+soil salinity
+Weight 1.84715973365e-05
+tractors -> sheep station
+tractors
+cattle
+sheep station
+Weight 1.17062262317e-05
+tractors -> growth hormone
+tractors
+growth hormone
+Weight 0.00275735
+tractors -> family farm
+tractors
+family farm
+Weight 0.00302857
+tractors -> animal welfare
+tractors
+animal welfare
+Weight 0.002618
+tractors -> agronomy
+tractors
+agriculture
+agronomy
+Weight 1.6227796887000004e-05
+tractors -> livestock
+tractors
+livestock
+Weight 0.00219445
+tractors -> ecosystem services
+tractors
+ecosystem services
+Weight 0.00407177
+tractors -> animal husbandry
+tractors
+animal husbandry
+Weight 0.00486101
+tractors -> farmville
+tractors
+farmville
+Weight 0.00129327
+tractors -> deforestation
+tractors
+deforestation
+Weight 0.00438233
+tractors -> yaks
+tractors
+yaks
+Weight 0.00201735
+tractors -> mixed farming
+tractors
+animal husbandry
+mixed farming
+Weight 6.795886420399999e-06
+tractors -> environmental impact of agriculture
+tractors
+environmental impact of agriculture
+Weight 0.00299513
+tractors -> llamas
+tractors
+llamas
+Weight 0.00448089
+tractors -> fuel
+tractors
+fuel
+Weight 0.00358489
+tractors -> plants
+tractors
+plants
+Weight 0.00417094
+tractors -> history of agriculture
+tractors
+history of agriculture
+Weight 0.00465116
+tractors -> hunter-gatherer
+tractors
+hunter-gatherer
+Weight 0.00294328
+tractors -> sheep
+tractors
+sheep
+Weight 0.0045227
+tractors -> selective breeding
+tractors
+selective breeding
+Weight 0.00291855
+tractors -> genetically modified food
+tractors
+genetically modified food
+Weight 0.00352395
+tractors -> sustainable agriculture
+tractors
+sustainable agriculture
+Weight 0.00440463
+egg -> tractors
+egg
+tractors
+Weight 0.00272039
+egg -> plough
+egg
+plough
+Weight 0.00329761
+egg -> genetically modified organism
+egg
+genetically modified organism
+Weight 0.00280143
+egg -> milk
+egg
+milk
+Weight 0.0041113
+egg -> neolithic revolution
+egg
+neolithic revolution
+Weight 0.00208279
+egg -> oils
+egg
+oils
+Weight 0.00178571
+egg -> cereal
+egg
+cereal
+Weight 0.0013986
+egg -> fertilizer
+egg
+fertilizer
+Weight 0.00314618
+egg -> agrochemicals
+egg
+agrochemicals
+Weight 0.00105569
+egg -> ranches
+egg
+ranches
+Weight 0.00216959
+egg -> fungi
+egg
+fungi
+Weight 0.00443386
+egg -> aquifers
+egg
+aquifers
+Weight 0.00175467
+egg -> cattle station
+egg
+ranches
+cattle station
+Weight 1.10166356225e-05
+egg -> antibiotic resistance
+egg
+antibiotic resistance
+Weight 0.00251661
+egg -> agriculture
+egg
+agriculture
+Weight 0.00173494
+egg -> genetic engineering
+egg
+genetic engineering
+Weight 0.00204548
+egg -> savannas
+egg
+savannas
+Weight 0.0021692
+egg -> pasture
+egg
+environmental impact of agriculture
+pasture
+Weight 4.6110647747e-06
+egg -> pesticides
+egg
+pesticides
+Weight 0.00436939
+egg -> goats
+egg
+goats
+Weight 0.0035611
+egg -> meat
+egg
+meat
+Weight 0.00211742
+egg -> horses
+egg
+horses
+Weight 0.00327347
+egg -> plant breeding
+egg
+plant breeding
+Weight 0.00278773
+egg -> reindeers
+egg
+reindeers
+Weight 0.00343421
+egg -> fruits
+egg
+fruits
+Weight 0.00166694
+egg -> animal
+egg
+animal
+Weight 0.00301032
+egg -> pastoral farming
+egg
+environmental impact of agriculture
+pastoral farming
+Weight 1.209292227e-05
+egg -> cereal crops
+egg
+cereal
+cereal crops
+Weight 0.0013986
+egg -> ox
+egg
+ox
+Weight 0.00236305
+egg -> cattle
+egg
+cattle
+Weight 0.00389849
+egg -> bovine
+egg
+livestock
+bovine
+Weight 6.1862697832e-06
+egg -> meat industry
+egg
+environmental impact of agriculture
+meat industry
+Weight 1.03745433852e-05
+egg -> global warming
+egg
+global warming
+Weight 0.0024466
+egg -> camels
+egg
+camels
+Weight 0.00205365
+egg -> pastoralism
+egg
+pastoralism
+Weight 0.0016535
+egg -> vegetables
+egg
+vegetables
+Weight 0.00269841
+egg -> environmental impacts of irrigation
+egg
+environmental impacts of irrigation
+Weight 0.00170765
+egg -> environmental impact of pesticides
+egg
+environmental impact of pesticides
+Weight 0.00157593
+egg -> subsistence agriculture
+egg
+subsistence agriculture
+Weight 0.00190557
+egg -> texas a&m university
+egg
+texas a&m university
+Weight 0.00137233
+egg -> soil salinity
+egg
+soil salinity
+Weight 0.0018357
+egg -> sheep station
+egg
+yaks
+sheep station
+Weight 1.06617878521e-05
+egg -> growth hormone
+egg
+growth hormone
+Weight 0.00284495
+egg -> family farm
+egg
+family farm
+Weight 0.00205818
+egg -> animal welfare
+egg
+animal welfare
+Weight 0.00189641
+egg -> agronomy
+egg
+agronomy
+Weight 0.00171485
+egg -> livestock
+egg
+livestock
+Weight 0.00270856
+egg -> ecosystem services
+egg
+ecosystem services
+Weight 0.0016698
+egg -> animal husbandry
+egg
+animal husbandry
+Weight 0.00351515
+egg -> farmville
+egg
+farmville
+Weight 0.00117463

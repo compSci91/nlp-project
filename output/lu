@@ -1,0 +1,4270 @@
+agriculture -> milk
+agriculture
+animal
+milk
+Weight 8.71433659183e-05
+agriculture -> pesticides
+agriculture
+pesticides
+Weight 0.00295778
+agriculture -> yaks
+agriculture
+cattle
+yaks
+Weight 3.5445076374e-06
+agriculture -> hunter-gatherer
+agriculture
+hunter-gatherer
+Weight 0.00140052
+agriculture -> bovine
+agriculture
+cattle
+bovine
+Weight 4.549889592999999e-06
+agriculture -> vegetables
+agriculture
+plants
+vegetables
+Weight 3.7186417752e-06
+agriculture -> deforestation
+agriculture
+deforestation
+Weight 0.00236486
+agriculture -> horses
+agriculture
+horses
+Weight 0.00127444
+agriculture -> camels
+agriculture
+animal
+camels
+Weight 2.42297107501e-05
+agriculture -> fertilizer
+agriculture
+fertilizer
+Weight 0.00266473
+agriculture -> fungi
+agriculture
+animal
+fungi
+Weight 4.59501806491e-05
+agriculture -> tractors
+agriculture
+animal
+plough
+tractors
+Weight 3.162284383415951e-08
+agriculture -> pastoralism
+agriculture
+pastoralism
+Weight 0.00108702
+agriculture -> goats
+agriculture
+animal
+goats
+Weight 5.98293591812e-05
+agriculture -> fruits
+agriculture
+animal
+fruits
+Weight 8.9914016387e-06
+agriculture -> pasture
+agriculture
+animal
+pasture
+Weight 2.06226722326e-05
+agriculture -> livestock
+agriculture
+livestock
+Weight 0.0025148
+agriculture -> oils
+agriculture
+animal
+oils
+Weight 8.233405793300001e-06
+agriculture -> llamas
+agriculture
+animal
+llamas
+Weight 1.56042672351e-05
+agriculture -> meat
+agriculture
+meat
+Weight 0.0017072
+agriculture -> fuel
+agriculture
+fuel
+Weight 0.00156408
+agriculture -> plants
+agriculture
+plants
+Weight 0.00298164
+agriculture -> ox
+agriculture
+ox
+Weight 0.00271925
+agriculture -> plough
+agriculture
+animal
+plough
+Weight 1.5917912753400003e-05
+agriculture -> animal
+agriculture
+animal
+Weight 0.00767047
+agriculture -> cereal
+agriculture
+plants
+cereal
+Weight 3.4036613255999995e-06
+agriculture -> sheep
+agriculture
+sheep
+Weight 0.0026511
+agriculture -> egg
+agriculture
+animal
+egg
+Weight 6.320114438380001e-05
+agriculture -> cattle
+agriculture
+cattle
+Weight 0.00215359
+milk -> agriculture
+milk
+animal
+agriculture
+Weight 8.71433659183e-05
+milk -> pesticides
+milk
+animal
+pesticides
+Weight 2.19891162039e-05
+milk -> yaks
+milk
+cattle
+yaks
+Weight 1.2607699065e-05
+milk -> hunter-gatherer
+milk
+animal
+hunter-gatherer
+Weight 1.80016710317e-05
+milk -> bovine
+milk
+bovine
+Weight 0.00245005
+milk -> vegetables
+milk
+meat
+vegetables
+Weight 9.538023316e-06
+milk -> deforestation
+milk
+animal
+deforestation
+Weight 1.6878987881899998e-05
+milk -> horses
+milk
+horses
+Weight 0.0010325
+milk -> camels
+milk
+camels
+Weight 0.00147208
+milk -> fertilizer
+milk
+animal
+fertilizer
+Weight 2.25310306569e-05
+milk -> fungi
+milk
+animal
+fungi
+Weight 6.80577523717e-05
+milk -> tractors
+milk
+animal
+plough
+tractors
+Weight 4.68372407801692e-08
+milk -> pastoralism
+milk
+animal
+pastoralism
+Weight 1.16140106292e-05
+milk -> goats
+milk
+goats
+Weight 0.0075035
+milk -> fruits
+milk
+animal
+fruits
+Weight 1.33173488669e-05
+milk -> pasture
+milk
+animal
+pasture
+Weight 3.05446616362e-05
+milk -> livestock
+milk
+livestock
+Weight 0.00190484
+milk -> oils
+milk
+animal
+oils
+Weight 1.21946657171e-05
+milk -> llamas
+milk
+animal
+llamas
+Weight 2.31117993537e-05
+milk -> meat
+milk
+meat
+Weight 0.0083554
+milk -> fuel
+milk
+animal
+fuel
+Weight 2.2105224499699998e-05
+milk -> plants
+milk
+animal
+plants
+Weight 0.0001401418041594
+milk -> ox
+milk
+ox
+Weight 0.00387442
+milk -> plough
+milk
+animal
+plough
+Weight 2.35763461458e-05
+milk -> animal
+milk
+animal
+Weight 0.01136089
+milk -> cereal
+milk
+animal
+plants
+cereal
+Weight 1.5997747512012145e-07
+milk -> sheep
+milk
+sheep
+Weight 0.00678791
+milk -> egg
+milk
+egg
+Weight 0.00153682
+milk -> cattle
+milk
+cattle
+Weight 0.00766025
+pesticides -> agriculture
+pesticides
+agriculture
+Weight 0.00295778
+pesticides -> milk
+pesticides
+animal
+milk
+Weight 2.19891162039e-05
+pesticides -> yaks
+pesticides
+ox
+cattle
+yaks
+Weight 4.978900468488268e-08
+pesticides -> hunter-gatherer
+pesticides
+agriculture
+hunter-gatherer
+Weight 4.1424300456e-06
+pesticides -> bovine
+pesticides
+ox
+cattle
+bovine
+Weight 6.391140813784382e-08
+pesticides -> vegetables
+pesticides
+ox
+vegetables
+Weight 5.9488435242e-06
+pesticides -> deforestation
+pesticides
+ox
+deforestation
+Weight 1.60573665398e-05
+pesticides -> horses
+pesticides
+ox
+horses
+Weight 1.66984413566e-05
+pesticides -> camels
+pesticides
+animal
+camels
+Weight 6.113947053300001e-06
+pesticides -> fertilizer
+pesticides
+fertilizer
+Weight 0.00196958
+pesticides -> fungi
+pesticides
+fungi
+Weight 0.0019764
+pesticides -> tractors
+pesticides
+ox
+plough
+tractors
+Weight 1.350636547623009e-08
+pesticides -> pastoralism
+pesticides
+agriculture
+pastoralism
+Weight 3.2151660156e-06
+pesticides -> goats
+pesticides
+animal
+goats
+Weight 1.50969005796e-05
+pesticides -> fruits
+pesticides
+animal
+fruits
+Weight 2.2688241771e-06
+pesticides -> pasture
+pesticides
+animal
+pasture
+Weight 5.2037734758e-06
+pesticides -> livestock
+pesticides
+animal
+livestock
+Weight 2.07096086082e-05
+pesticides -> oils
+pesticides
+animal
+oils
+Weight 2.0775570789000002e-06
+pesticides -> llamas
+pesticides
+animal
+llamas
+Weight 3.9374660583e-06
+pesticides -> meat
+pesticides
+animal
+meat
+Weight 4.1775351056400006e-05
+pesticides -> fuel
+pesticides
+ox
+fuel
+Weight 1.37315233026e-05
+pesticides -> plants
+pesticides
+plants
+Weight 0.0018435
+pesticides -> ox
+pesticides
+ox
+Weight 0.00437534
+pesticides -> plough
+pesticides
+ox
+plough
+Weight 6.7986658124e-06
+pesticides -> animal
+pesticides
+animal
+Weight 0.00193551
+pesticides -> cereal
+pesticides
+plants
+cereal
+Weight 2.10442899e-06
+pesticides -> sheep
+pesticides
+animal
+sheep
+Weight 2.9481494769000002e-05
+pesticides -> egg
+pesticides
+animal
+egg
+Weight 1.59477120654e-05
+pesticides -> cattle
+pesticides
+ox
+cattle
+Weight 3.02510570066e-05
+yaks -> agriculture
+yaks
+cattle
+agriculture
+Weight 3.5445076374e-06
+yaks -> milk
+yaks
+cattle
+milk
+Weight 1.2607699065e-05
+yaks -> pesticides
+yaks
+cattle
+ox
+pesticides
+Weight 4.978900468488268e-08
+yaks -> hunter-gatherer
+yaks
+cattle
+animal
+hunter-gatherer
+Weight 3.588446080473522e-08
+yaks -> bovine
+yaks
+cattle
+bovine
+Weight 3.477208422e-06
+yaks -> vegetables
+yaks
+cattle
+ox
+vegetables
+Weight 1.547185463065888e-08
+yaks -> deforestation
+yaks
+cattle
+ox
+deforestation
+Weight 4.176227527995056e-08
+yaks -> horses
+yaks
+cattle
+horses
+Weight 5.0419604412e-06
+yaks -> camels
+yaks
+cattle
+animal
+camels
+Weight 7.153724531805757e-08
+yaks -> fertilizer
+yaks
+cattle
+animal
+fertilizer
+Weight 4.49132686112342e-08
+yaks -> fungi
+yaks
+cattle
+animal
+fungi
+Weight 1.3566605806427804e-07
+yaks -> tractors
+yaks
+cattle
+animal
+plough
+tractors
+Weight 9.336517304522739e-11
+yaks -> pastoralism
+yaks
+cattle
+animal
+pastoralism
+Weight 2.3151323478548664e-08
+yaks -> goats
+yaks
+cattle
+goats
+Weight 8.64817137e-06
+yaks -> fruits
+yaks
+cattle
+animal
+fruits
+Weight 2.65467512763524e-08
+yaks -> pasture
+yaks
+cattle
+pasture
+Weight 4.7783595036e-06
+yaks -> livestock
+yaks
+cattle
+livestock
+Weight 9.9380976864e-06
+yaks -> oils
+yaks
+cattle
+animal
+oils
+Weight 2.4308799065460885e-08
+yaks -> llamas
+yaks
+cattle
+animal
+llamas
+Weight 4.607097066568446e-08
+yaks -> meat
+yaks
+cattle
+meat
+Weight 7.997595829200001e-06
+yaks -> fuel
+yaks
+cattle
+animal
+fuel
+Weight 4.406446827866778e-08
+yaks -> plants
+yaks
+cattle
+plants
+Weight 2.0863250532e-06
+yaks -> ox
+yaks
+cattle
+ox
+Weight 1.1379459581400001e-05
+yaks -> plough
+yaks
+cattle
+animal
+plough
+Weight 4.699699642872184e-08
+yaks -> animal
+yaks
+cattle
+animal
+Weight 2.2646753803800002e-05
+yaks -> cereal
+yaks
+cattle
+plants
+cereal
+Weight 2.381623501229928e-09
+yaks -> sheep
+yaks
+cattle
+sheep
+Weight 1.88722866072e-05
+yaks -> egg
+yaks
+cattle
+animal
+egg
+Weight 1.8659883383656226e-07
+yaks -> cattle
+yaks
+cattle
+Weight 0.00164586
+hunter-gatherer -> agriculture
+hunter-gatherer
+agriculture
+Weight 0.00140052
+hunter-gatherer -> milk
+hunter-gatherer
+animal
+milk
+Weight 1.80016710317e-05
+hunter-gatherer -> pesticides
+hunter-gatherer
+agriculture
+pesticides
+Weight 4.1424300456e-06
+hunter-gatherer -> yaks
+hunter-gatherer
+animal
+cattle
+yaks
+Weight 3.588446080473522e-08
+hunter-gatherer -> bovine
+hunter-gatherer
+animal
+cattle
+bovine
+Weight 4.606290956834973e-08
+hunter-gatherer -> vegetables
+hunter-gatherer
+animal
+meat
+vegetables
+Weight 3.904058248632537e-08
+hunter-gatherer -> deforestation
+hunter-gatherer
+agriculture
+deforestation
+Weight 3.3120337271999996e-06
+hunter-gatherer -> horses
+hunter-gatherer
+animal
+horses
+Weight 1.35579358732e-05
+hunter-gatherer -> camels
+hunter-gatherer
+animal
+camels
+Weight 5.0052608999e-06
+hunter-gatherer -> fertilizer
+hunter-gatherer
+agriculture
+fertilizer
+Weight 3.7320076596e-06
+hunter-gatherer -> fungi
+hunter-gatherer
+animal
+fungi
+Weight 9.4921745009e-06
+hunter-gatherer -> tractors
+hunter-gatherer
+animal
+plough
+tractors
+Weight 6.532499930322492e-09
+hunter-gatherer -> pastoralism
+hunter-gatherer
+animal
+pastoralism
+Weight 1.6198333284e-06
+hunter-gatherer -> goats
+hunter-gatherer
+animal
+goats
+Weight 1.23592706188e-05
+hunter-gatherer -> fruits
+hunter-gatherer
+animal
+fruits
+Weight 1.8574019112999998e-06
+hunter-gatherer -> pasture
+hunter-gatherer
+animal
+pasture
+Weight 4.2601356673999994e-06
+hunter-gatherer -> livestock
+hunter-gatherer
+animal
+livestock
+Weight 1.6954185784600002e-05
+hunter-gatherer -> oils
+hunter-gatherer
+animal
+oils
+Weight 1.7008186567e-06
+hunter-gatherer -> llamas
+hunter-gatherer
+animal
+llamas
+Weight 3.2234569149e-06
+hunter-gatherer -> meat
+hunter-gatherer
+animal
+meat
+Weight 3.41999250892e-05
+hunter-gatherer -> fuel
+hunter-gatherer
+animal
+fuel
+Weight 3.0830675569e-06
+hunter-gatherer -> plants
+hunter-gatherer
+animal
+plants
+Weight 1.95459064338e-05
+hunter-gatherer -> ox
+hunter-gatherer
+animal
+ox
+Weight 2.0625779474099998e-05
+hunter-gatherer -> plough
+hunter-gatherer
+animal
+plough
+Weight 3.2882483466e-06
+hunter-gatherer -> animal
+hunter-gatherer
+animal
+Weight 0.00158453
+hunter-gatherer -> cereal
+hunter-gatherer
+animal
+plants
+cereal
+Weight 2.2312434030440052e-08
+hunter-gatherer -> sheep
+hunter-gatherer
+animal
+sheep
+Weight 2.4135402507e-05
+hunter-gatherer -> egg
+hunter-gatherer
+animal
+egg
+Weight 1.30557983162e-05
+hunter-gatherer -> cattle
+hunter-gatherer
+animal
+cattle
+Weight 2.18028634299e-05
+bovine -> agriculture
+bovine
+cattle
+agriculture
+Weight 4.549889592999999e-06
+bovine -> milk
+bovine
+milk
+Weight 0.00245005
+bovine -> pesticides
+bovine
+cattle
+ox
+pesticides
+Weight 6.391140813784382e-08
+bovine -> yaks
+bovine
+cattle
+yaks
+Weight 3.477208422e-06
+bovine -> hunter-gatherer
+bovine
+cattle
+animal
+hunter-gatherer
+Weight 4.606290956834973e-08
+bovine -> vegetables
+bovine
+milk
+meat
+vegetables
+Weight 2.3368634025365803e-08
+bovine -> deforestation
+bovine
+cattle
+ox
+deforestation
+Weight 5.36079368743098e-08
+bovine -> horses
+bovine
+cattle
+horses
+Weight 6.472087433999999e-06
+bovine -> camels
+bovine
+milk
+camels
+Weight 3.606669604e-06
+bovine -> fertilizer
+bovine
+cattle
+animal
+fertilizer
+Weight 5.765269378619961e-08
+bovine -> fungi
+bovine
+cattle
+animal
+fungi
+Weight 1.7414706042579572e-07
+bovine -> tractors
+bovine
+cattle
+animal
+plough
+tractors
+Weight 1.1984773983975058e-10
+bovine -> pastoralism
+bovine
+cattle
+animal
+pastoralism
+Weight 2.9718081193497478e-08
+bovine -> goats
+bovine
+milk
+goats
+Weight 1.8383950175e-05
+bovine -> fruits
+bovine
+cattle
+animal
+fruits
+Weight 3.407660519214861e-08
+bovine -> pasture
+bovine
+cattle
+pasture
+Weight 6.133717402e-06
+bovine -> livestock
+bovine
+cattle
+livestock
+Weight 1.2756989648e-05
+bovine -> oils
+bovine
+cattle
+animal
+oils
+Weight 3.120386897160099e-08
+bovine -> llamas
+bovine
+cattle
+animal
+llamas
+Weight 5.913877226823153e-08
+bovine -> meat
+bovine
+milk
+meat
+Weight 2.0471147770000003e-05
+bovine -> fuel
+bovine
+cattle
+animal
+fuel
+Weight 5.656313546251893e-08
+bovine -> plants
+bovine
+cattle
+plants
+Weight 2.678100774e-06
+bovine -> ox
+bovine
+cattle
+ox
+Weight 1.4607186672999999e-05
+bovine -> plough
+bovine
+cattle
+animal
+plough
+Weight 6.032746063150002e-08
+bovine -> animal
+bovine
+cattle
+animal
+Weight 2.9070392841e-05
+bovine -> cereal
+bovine
+cattle
+plants
+cereal
+Weight 3.0571591575519596e-09
+bovine -> sheep
+bovine
+cattle
+sheep
+Weight 2.4225316803999998e-05
+bovine -> egg
+bovine
+milk
+egg
+Weight 3.765285841e-06
+bovine -> cattle
+bovine
+cattle
+Weight 0.0021127
+vegetables -> agriculture
+vegetables
+plants
+agriculture
+Weight 3.7186417752e-06
+vegetables -> milk
+vegetables
+meat
+milk
+Weight 9.538023316e-06
+vegetables -> pesticides
+vegetables
+ox
+pesticides
+Weight 5.9488435242e-06
+vegetables -> yaks
+vegetables
+ox
+cattle
+yaks
+Weight 1.547185463065888e-08
+vegetables -> hunter-gatherer
+vegetables
+meat
+animal
+hunter-gatherer
+Weight 3.904058248632537e-08
+vegetables -> bovine
+vegetables
+meat
+milk
+bovine
+Weight 2.3368634025365803e-08
+vegetables -> deforestation
+vegetables
+ox
+deforestation
+Weight 4.989801311099999e-06
+vegetables -> horses
+vegetables
+ox
+horses
+Weight 5.1890142987e-06
+vegetables -> camels
+vegetables
+meat
+camels
+Weight 1.3536837936e-06
+vegetables -> fertilizer
+vegetables
+plants
+fertilizer
+Weight 4.3051156984e-06
+vegetables -> fungi
+vegetables
+plants
+fungi
+Weight 1.2656120732200001e-05
+vegetables -> tractors
+vegetables
+ox
+plough
+tractors
+Weight 4.197081756491316e-09
+vegetables -> pastoralism
+vegetables
+meat
+animal
+pastoralism
+Weight 2.5187536155276768e-08
+vegetables -> goats
+vegetables
+meat
+goats
+Weight 3.2908543427999996e-06
+vegetables -> fruits
+vegetables
+fruits
+Weight 0.00201388
+vegetables -> pasture
+vegetables
+plants
+pasture
+Weight 1.4747030474e-06
+vegetables -> livestock
+vegetables
+meat
+livestock
+Weight 3.1780473599999997e-06
+vegetables -> oils
+vegetables
+plants
+oils
+Weight 1.3047124134e-06
+vegetables -> llamas
+vegetables
+meat
+animal
+llamas
+Weight 5.012301955116425e-08
+vegetables -> meat
+vegetables
+meat
+Weight 0.00114154
+vegetables -> fuel
+vegetables
+ox
+fuel
+Weight 4.2670491957e-06
+vegetables -> plants
+vegetables
+plants
+Weight 0.00124718
+vegetables -> ox
+vegetables
+ox
+Weight 0.00135963
+vegetables -> plough
+vegetables
+ox
+plough
+Weight 2.1126746718e-06
+vegetables -> animal
+vegetables
+meat
+animal
+Weight 2.46385884056e-05
+vegetables -> cereal
+vegetables
+plants
+cereal
+Weight 1.4237058572e-06
+vegetables -> sheep
+vegetables
+meat
+sheep
+Weight 1.092282549e-05
+vegetables -> egg
+vegetables
+ox
+egg
+Weight 2.3118876594e-06
+vegetables -> cattle
+vegetables
+ox
+cattle
+Weight 9.400468223699999e-06
+deforestation -> agriculture
+deforestation
+agriculture
+Weight 0.00236486
+deforestation -> milk
+deforestation
+animal
+milk
+Weight 1.6878987881899998e-05
+deforestation -> pesticides
+deforestation
+ox
+pesticides
+Weight 1.60573665398e-05
+deforestation -> yaks
+deforestation
+ox
+cattle
+yaks
+Weight 4.1762275279950555e-08
+deforestation -> hunter-gatherer
+deforestation
+agriculture
+hunter-gatherer
+Weight 3.3120337271999996e-06
+deforestation -> bovine
+deforestation
+ox
+cattle
+bovine
+Weight 5.36079368743098e-08
+deforestation -> vegetables
+deforestation
+ox
+vegetables
+Weight 4.989801311099999e-06
+deforestation -> horses
+deforestation
+ox
+horses
+Weight 1.40064038053e-05
+deforestation -> camels
+deforestation
+animal
+camels
+Weight 4.6931053193e-06
+deforestation -> fertilizer
+deforestation
+ox
+fertilizer
+Weight 1.12551740951e-05
+deforestation -> fungi
+deforestation
+ox
+fungi
+Weight 1.56947001044e-05
+deforestation -> tractors
+deforestation
+ox
+plough
+tractors
+Weight 1.1328938118363405e-08
+deforestation -> pastoralism
+deforestation
+agriculture
+pastoralism
+Weight 2.5706501171999997e-06
+deforestation -> goats
+deforestation
+animal
+goats
+Weight 1.1588478571599999e-05
+deforestation -> fruits
+deforestation
+animal
+fruits
+Weight 1.7415641190999998e-06
+deforestation -> pasture
+deforestation
+animal
+pasture
+Weight 3.9944501918e-06
+deforestation -> livestock
+deforestation
+livestock
+Weight 0.00111428
+deforestation -> oils
+deforestation
+animal
+oils
+Weight 1.5947462568999999e-06
+deforestation -> llamas
+deforestation
+animal
+llamas
+Weight 3.0224244242999997e-06
+deforestation -> meat
+deforestation
+animal
+meat
+Weight 3.20670297844e-05
+deforestation -> fuel
+deforestation
+ox
+fuel
+Weight 1.1517797148299999e-05
+deforestation -> plants
+deforestation
+ox
+plants
+Weight 2.74500911105e-05
+deforestation -> ox
+deforestation
+ox
+Weight 0.00366997
+deforestation -> plough
+deforestation
+ox
+plough
+Weight 5.7026195842e-06
+deforestation -> animal
+deforestation
+animal
+Weight 0.00148571
+deforestation -> cereal
+deforestation
+ox
+plants
+cereal
+Weight 3.133537700628017e-08
+deforestation -> sheep
+deforestation
+animal
+sheep
+Weight 2.2630186148999998e-05
+deforestation -> egg
+deforestation
+animal
+egg
+Weight 1.2241566973399999e-05
+deforestation -> cattle
+deforestation
+ox
+cattle
+Weight 2.5374135880299997e-05
+horses -> agriculture
+horses
+agriculture
+Weight 0.00127444
+horses -> milk
+horses
+milk
+Weight 0.0010325
+horses -> pesticides
+horses
+ox
+pesticides
+Weight 1.66984413566e-05
+horses -> yaks
+horses
+cattle
+yaks
+Weight 5.0419604412e-06
+horses -> hunter-gatherer
+horses
+animal
+hunter-gatherer
+Weight 1.35579358732e-05
+horses -> bovine
+horses
+cattle
+bovine
+Weight 6.472087433999999e-06
+horses -> vegetables
+horses
+ox
+vegetables
+Weight 5.1890142987e-06
+horses -> deforestation
+horses
+ox
+deforestation
+Weight 1.40064038053e-05
+horses -> camels
+horses
+camels
+Weight 0.00180261
+horses -> fertilizer
+horses
+animal
+fertilizer
+Weight 1.69692173724e-05
+horses -> fungi
+horses
+animal
+fungi
+Weight 5.12576105132e-05
+horses -> tractors
+horses
+plough
+tractors
+Weight 7.4397727028e-06
+horses -> pastoralism
+horses
+animal
+pastoralism
+Weight 8.7470774832e-06
+horses -> goats
+horses
+goats
+Weight 0.00178217
+horses -> fruits
+horses
+animal
+fruits
+Weight 1.00299445324e-05
+horses -> pasture
+horses
+animal
+pasture
+Weight 2.3004673455199998e-05
+horses -> livestock
+horses
+livestock
+Weight 0.00126762
+horses -> oils
+horses
+plough
+oils
+Weight 1.2799493381399999e-05
+horses -> llamas
+horses
+animal
+llamas
+Weight 1.74066225852e-05
+horses -> meat
+horses
+meat
+Weight 0.00115517
+horses -> fuel
+horses
+animal
+fuel
+Weight 1.66485220012e-05
+horses -> plants
+horses
+animal
+plants
+Weight 0.0001055476233624
+horses -> ox
+horses
+ox
+Weight 0.00381649
+horses -> plough
+horses
+plough
+Weight 0.00374494
+horses -> animal
+horses
+animal
+Weight 0.00855644
+horses -> cereal
+horses
+animal
+plants
+cereal
+Weight 1.2048683397311408e-07
+horses -> sheep
+horses
+sheep
+Weight 0.00200366
+horses -> egg
+horses
+animal
+egg
+Weight 7.05011296376e-05
+horses -> cattle
+horses
+cattle
+Weight 0.00306342
+camels -> agriculture
+camels
+animal
+agriculture
+Weight 2.42297107501e-05
+camels -> milk
+camels
+milk
+Weight 0.00147208
+camels -> pesticides
+camels
+animal
+pesticides
+Weight 6.113947053300001e-06
+camels -> yaks
+camels
+animal
+cattle
+yaks
+Weight 7.153724531805757e-08
+camels -> hunter-gatherer
+camels
+animal
+hunter-gatherer
+Weight 5.0052608999e-06
+camels -> bovine
+camels
+milk
+bovine
+Weight 3.606669604e-06
+camels -> vegetables
+camels
+meat
+vegetables
+Weight 1.3536837936e-06
+camels -> deforestation
+camels
+animal
+deforestation
+Weight 4.6931053193e-06
+camels -> horses
+camels
+horses
+Weight 0.00180261
+camels -> fertilizer
+camels
+animal
+fertilizer
+Weight 6.2646232443e-06
+camels -> fungi
+camels
+animal
+fungi
+Weight 1.89230658799e-05
+camels -> tractors
+camels
+horses
+plough
+tractors
+Weight 1.341100867179431e-08
+camels -> pastoralism
+camels
+animal
+pastoralism
+Weight 3.2292087324e-06
+camels -> goats
+camels
+animal
+goats
+Weight 2.46387476468e-05
+camels -> fruits
+camels
+animal
+fruits
+Weight 3.7028121142999996e-06
+camels -> pasture
+camels
+animal
+pasture
+Weight 8.4927671614e-06
+camels -> livestock
+camels
+animal
+livestock
+Weight 3.37989124106e-05
+camels -> oils
+camels
+animal
+oils
+Weight 3.3906565337e-06
+camels -> llamas
+camels
+llamas
+Weight 0.00110746
+camels -> meat
+camels
+meat
+Weight 0.00118584
+camels -> fuel
+camels
+animal
+fuel
+Weight 6.1462302959e-06
+camels -> plants
+camels
+animal
+plants
+Weight 3.8965621111799996e-05
+camels -> ox
+camels
+animal
+ox
+Weight 4.1118395345099995e-05
+camels -> plough
+camels
+horses
+plough
+Weight 6.7506662934e-06
+camels -> animal
+camels
+animal
+Weight 0.00315883
+camels -> cereal
+camels
+animal
+plants
+cereal
+Weight 4.448081512396416e-08
+camels -> sheep
+camels
+sheep
+Weight 0.00101546
+camels -> egg
+camels
+animal
+egg
+Weight 2.6027306138200002e-05
+camels -> cattle
+camels
+animal
+cattle
+Weight 4.3464963798900005e-05
+fertilizer -> agriculture
+fertilizer
+agriculture
+Weight 0.00266473
+fertilizer -> milk
+fertilizer
+animal
+milk
+Weight 2.25310306569e-05
+fertilizer -> pesticides
+fertilizer
+pesticides
+Weight 0.00196958
+fertilizer -> yaks
+fertilizer
+animal
+cattle
+yaks
+Weight 4.49132686112342e-08
+fertilizer -> hunter-gatherer
+fertilizer
+agriculture
+hunter-gatherer
+Weight 3.7320076596e-06
+fertilizer -> bovine
+fertilizer
+animal
+cattle
+bovine
+Weight 5.765269378619961e-08
+fertilizer -> vegetables
+fertilizer
+plants
+vegetables
+Weight 4.3051156984e-06
+fertilizer -> deforestation
+fertilizer
+ox
+deforestation
+Weight 1.12551740951e-05
+fertilizer -> horses
+fertilizer
+animal
+horses
+Weight 1.69692173724e-05
+fertilizer -> camels
+fertilizer
+animal
+camels
+Weight 6.2646232443e-06
+fertilizer -> fungi
+fertilizer
+plants
+fungi
+Weight 3.50289533452e-05
+fertilizer -> tractors
+fertilizer
+ox
+plough
+tractors
+Weight 9.467087548274358e-09
+fertilizer -> pastoralism
+fertilizer
+agriculture
+pastoralism
+Weight 2.8966148046e-06
+fertilizer -> goats
+fertilizer
+animal
+goats
+Weight 1.54689586716e-05
+fertilizer -> fruits
+fertilizer
+animal
+fruits
+Weight 2.3247385941e-06
+fertilizer -> pasture
+fertilizer
+animal
+pasture
+Weight 5.3320187418e-06
+fertilizer -> livestock
+fertilizer
+livestock
+Weight 0.00101546
+fertilizer -> oils
+fertilizer
+plants
+oils
+Weight 3.6111152243999997e-06
+fertilizer -> llamas
+fertilizer
+animal
+llamas
+Weight 4.0345035993e-06
+fertilizer -> meat
+fertilizer
+animal
+meat
+Weight 4.2804890684400006e-05
+fertilizer -> fuel
+fertilizer
+ox
+fuel
+Weight 9.6249086037e-06
+fertilizer -> plants
+fertilizer
+plants
+Weight 0.00345188
+fertilizer -> ox
+fertilizer
+ox
+Weight 0.00306683
+fertilizer -> plough
+fertilizer
+ox
+plough
+Weight 4.7654244638e-06
+fertilizer -> animal
+fertilizer
+animal
+Weight 0.00198321
+fertilizer -> cereal
+fertilizer
+plants
+cereal
+Weight 3.9404590952e-06
+fertilizer -> sheep
+fertilizer
+animal
+sheep
+Weight 3.0208056399e-05
+fertilizer -> egg
+fertilizer
+animal
+egg
+Weight 1.63407381234e-05
+fertilizer -> cattle
+fertilizer
+animal
+cattle
+Weight 2.72886324543e-05
+fungi -> agriculture
+fungi
+animal
+agriculture
+Weight 4.59501806491e-05
+fungi -> milk
+fungi
+animal
+milk
+Weight 6.80577523717e-05
+fungi -> pesticides
+fungi
+pesticides
+Weight 0.0019764
+fungi -> yaks
+fungi
+animal
+cattle
+yaks
+Weight 1.35666058064278e-07
+fungi -> hunter-gatherer
+fungi
+animal
+hunter-gatherer
+Weight 9.4921745009e-06
+fungi -> bovine
+fungi
+animal
+cattle
+bovine
+Weight 1.7414706042579572e-07
+fungi -> vegetables
+fungi
+plants
+vegetables
+Weight 1.2656120732200001e-05
+fungi -> deforestation
+fungi
+ox
+deforestation
+Weight 1.56947001044e-05
+fungi -> horses
+fungi
+animal
+horses
+Weight 5.12576105132e-05
+fungi -> camels
+fungi
+animal
+camels
+Weight 1.89230658799e-05
+fungi -> fertilizer
+fungi
+plants
+fertilizer
+Weight 3.50289533452e-05
+fungi -> tractors
+fungi
+animal
+plough
+tractors
+Weight 2.469699961982089e-08
+fungi -> pastoralism
+fungi
+animal
+pastoralism
+Weight 6.1239990084e-06
+fungi -> goats
+fungi
+animal
+goats
+Weight 4.67258943788e-05
+fungi -> fruits
+fungi
+animal
+fruits
+Weight 7.022159171299999e-06
+fungi -> pasture
+fungi
+animal
+pasture
+Weight 1.61060191474e-05
+fungi -> livestock
+fungi
+animal
+livestock
+Weight 6.40975927046e-05
+fungi -> oils
+fungi
+plants
+oils
+Weight 1.06159075527e-05
+fungi -> llamas
+fungi
+animal
+llamas
+Weight 1.21867148949e-05
+fungi -> meat
+fungi
+animal
+meat
+Weight 0.0001292974429292
+fungi -> fuel
+fungi
+plants
+fuel
+Weight 1.74626214657e-05
+fungi -> plants
+fungi
+plants
+Weight 0.01014779
+fungi -> ox
+fungi
+ox
+Weight 0.00427652
+fungi -> plough
+fungi
+animal
+plough
+Weight 1.24316676666e-05
+fungi -> animal
+fungi
+animal
+Weight 0.00599053
+fungi -> cereal
+fungi
+plants
+cereal
+Weight 1.15841081966e-05
+fungi -> sheep
+fungi
+animal
+sheep
+Weight 9.1247153907e-05
+fungi -> egg
+fungi
+animal
+egg
+Weight 4.93592115562e-05
+fungi -> cattle
+fungi
+animal
+cattle
+Weight 8.24286744099e-05
+tractors -> agriculture
+tractors
+plough
+animal
+agriculture
+Weight 3.162284383415951e-08
+tractors -> milk
+tractors
+plough
+animal
+milk
+Weight 4.68372407801692e-08
+tractors -> pesticides
+tractors
+plough
+ox
+pesticides
+Weight 1.350636547623009e-08
+tractors -> yaks
+tractors
+plough
+animal
+cattle
+yaks
+Weight 9.336517304522739e-11
+tractors -> hunter-gatherer
+tractors
+plough
+animal
+hunter-gatherer
+Weight 6.532499930322492e-09
+tractors -> bovine
+tractors
+plough
+animal
+cattle
+bovine
+Weight 1.1984773983975058e-10
+tractors -> vegetables
+tractors
+plough
+ox
+vegetables
+Weight 4.197081756491316e-09
+tractors -> deforestation
+tractors
+plough
+ox
+deforestation
+Weight 1.1328938118363405e-08
+tractors -> horses
+tractors
+plough
+horses
+Weight 7.4397727028e-06
+tractors -> camels
+tractors
+plough
+horses
+camels
+Weight 1.3411008671794309e-08
+tractors -> fertilizer
+tractors
+plough
+ox
+fertilizer
+Weight 9.467087548274356e-09
+tractors -> fungi
+tractors
+plough
+animal
+fungi
+Weight 2.469699961982089e-08
+tractors -> pastoralism
+tractors
+plough
+animal
+pastoralism
+Weight 4.214526723236592e-09
+tractors -> goats
+tractors
+plough
+animal
+goats
+Weight 3.215668883297775e-08
+tractors -> fruits
+tractors
+plough
+animal
+fruits
+Weight 4.832639169547644e-09
+tractors -> pasture
+tractors
+plough
+animal
+pasture
+Weight 1.1084137670265912e-08
+tractors -> livestock
+tractors
+plough
+animal
+livestock
+Weight 4.411186497223985e-08
+tractors -> oils
+tractors
+plough
+oils
+Weight 6.7898897022e-06
+tractors -> llamas
+tractors
+plough
+animal
+llamas
+Weight 8.386878495991212e-09
+tractors -> meat
+tractors
+plough
+animal
+meat
+Weight 8.89823018788573e-08
+tractors -> fuel
+tractors
+plough
+oils
+fuel
+Weight 1.4622638563760897e-08
+tractors -> plants
+tractors
+plough
+animal
+plants
+Weight 5.085507474802994e-08
+tractors -> ox
+tractors
+plough
+ox
+Weight 3.0869293532000003e-06
+tractors -> plough
+tractors
+plough
+Weight 0.00198662
+tractors -> animal
+tractors
+plough
+animal
+Weight 4.1226735564e-06
+tractors -> cereal
+tractors
+plough
+animal
+plants
+cereal
+Weight 5.8053102027866096e-11
+tractors -> sheep
+tractors
+plough
+animal
+sheep
+Weight 6.279615134372915e-08
+tractors -> egg
+tractors
+plough
+animal
+egg
+Weight 3.3968933674900056e-08
+tractors -> cattle
+tractors
+plough
+animal
+cattle
+Weight 5.6727287281559414e-08
+pastoralism -> agriculture
+pastoralism
+agriculture
+Weight 0.00108702
+pastoralism -> milk
+pastoralism
+animal
+milk
+Weight 1.16140106292e-05
+pastoralism -> pesticides
+pastoralism
+agriculture
+pesticides
+Weight 3.2151660156e-06
+pastoralism -> yaks
+pastoralism
+animal
+cattle
+yaks
+Weight 2.3151323478548664e-08
+pastoralism -> hunter-gatherer
+pastoralism
+animal
+hunter-gatherer
+Weight 1.6198333284e-06
+pastoralism -> bovine
+pastoralism
+animal
+cattle
+bovine
+Weight 2.9718081193497478e-08
+pastoralism -> vegetables
+pastoralism
+animal
+meat
+vegetables
+Weight 2.5187536155276768e-08
+pastoralism -> deforestation
+pastoralism
+agriculture
+deforestation
+Weight 2.5706501171999997e-06
+pastoralism -> horses
+pastoralism
+animal
+horses
+Weight 8.7470774832e-06
+pastoralism -> camels
+pastoralism
+animal
+camels
+Weight 3.2292087324e-06
+pastoralism -> fertilizer
+pastoralism
+agriculture
+fertilizer
+Weight 2.8966148046e-06
+pastoralism -> fungi
+pastoralism
+animal
+fungi
+Weight 6.1239990084e-06
+pastoralism -> tractors
+pastoralism
+animal
+plough
+tractors
+Weight 4.2145267232365925e-09
+pastoralism -> goats
+pastoralism
+animal
+goats
+Weight 7.9737431088e-06
+pastoralism -> fruits
+pastoralism
+animal
+fruits
+Weight 1.1983268388e-06
+pastoralism -> pasture
+pastoralism
+livestock
+pasture
+Weight 2.9810947711999996e-06
+pastoralism -> livestock
+pastoralism
+livestock
+Weight 0.00104272
+pastoralism -> oils
+pastoralism
+animal
+oils
+Weight 1.0973051292e-06
+pastoralism -> llamas
+pastoralism
+animal
+llamas
+Weight 2.0796548724e-06
+pastoralism -> meat
+pastoralism
+animal
+meat
+Weight 2.20645234992e-05
+pastoralism -> fuel
+pastoralism
+animal
+fuel
+Weight 1.9890808643999996e-06
+pastoralism -> plants
+pastoralism
+animal
+plants
+Weight 1.26102940488e-05
+pastoralism -> ox
+pastoralism
+animal
+ox
+Weight 1.3306988091599998e-05
+pastoralism -> plough
+pastoralism
+animal
+plough
+Weight 2.1214559016e-06
+pastoralism -> animal
+pastoralism
+animal
+Weight 0.00102228
+pastoralism -> cereal
+pastoralism
+animal
+plants
+cereal
+Weight 1.4395155068467151e-08
+pastoralism -> sheep
+pastoralism
+animal
+sheep
+Weight 1.5571266732e-05
+pastoralism -> egg
+pastoralism
+animal
+egg
+Weight 8.4231169512e-06
+pastoralism -> cattle
+pastoralism
+animal
+cattle
+Weight 1.40663990124e-05
+goats -> agriculture
+goats
+animal
+agriculture
+Weight 5.98293591812e-05
+goats -> milk
+goats
+milk
+Weight 0.0075035
+goats -> pesticides
+goats
+animal
+pesticides
+Weight 1.50969005796e-05
+goats -> yaks
+goats
+cattle
+yaks
+Weight 8.64817137e-06
+goats -> hunter-gatherer
+goats
+animal
+hunter-gatherer
+Weight 1.23592706188e-05
+goats -> bovine
+goats
+milk
+bovine
+Weight 1.8383950175e-05
+goats -> vegetables
+goats
+meat
+vegetables
+Weight 3.2908543427999996e-06
+goats -> deforestation
+goats
+animal
+deforestation
+Weight 1.1588478571599999e-05
+goats -> horses
+goats
+horses
+Weight 0.00178217
+goats -> camels
+goats
+animal
+camels
+Weight 2.46387476468e-05
+goats -> fertilizer
+goats
+animal
+fertilizer
+Weight 1.54689586716e-05
+goats -> fungi
+goats
+animal
+fungi
+Weight 4.67258943788e-05
+goats -> tractors
+goats
+animal
+plough
+tractors
+Weight 3.215668883297775e-08
+goats -> pastoralism
+goats
+animal
+pastoralism
+Weight 7.9737431088e-06
+goats -> fruits
+goats
+animal
+fruits
+Weight 9.143191111599999e-06
+goats -> pasture
+goats
+pasture
+Weight 0.00123355
+goats -> livestock
+goats
+livestock
+Weight 0.0017958
+goats -> oils
+goats
+animal
+oils
+Weight 8.3723990644e-06
+goats -> llamas
+goats
+animal
+llamas
+Weight 1.58676926268e-05
+goats -> meat
+goats
+meat
+Weight 0.00288282
+goats -> fuel
+goats
+animal
+fuel
+Weight 1.51766161708e-05
+goats -> plants
+goats
+animal
+plants
+Weight 9.62160945816e-05
+goats -> ox
+goats
+ox
+Weight 0.00156067
+goats -> plough
+goats
+animal
+plough
+Weight 1.61866329912e-05
+goats -> animal
+goats
+animal
+Weight 0.00779996
+goats -> cereal
+goats
+animal
+plants
+cereal
+Weight 1.0983452060867966e-07
+goats -> sheep
+goats
+sheep
+Weight 0.00946286
+goats -> egg
+goats
+animal
+egg
+Weight 6.42680824184e-05
+goats -> cattle
+goats
+cattle
+Weight 0.0052545
+fruits -> agriculture
+fruits
+animal
+agriculture
+Weight 8.9914016387e-06
+fruits -> milk
+fruits
+animal
+milk
+Weight 1.33173488669e-05
+fruits -> pesticides
+fruits
+animal
+pesticides
+Weight 2.2688241771e-06
+fruits -> yaks
+fruits
+animal
+cattle
+yaks
+Weight 2.65467512763524e-08
+fruits -> hunter-gatherer
+fruits
+animal
+hunter-gatherer
+Weight 1.8574019112999998e-06
+fruits -> bovine
+fruits
+animal
+cattle
+bovine
+Weight 3.407660519214861e-08
+fruits -> vegetables
+fruits
+vegetables
+Weight 0.00201388
+fruits -> deforestation
+fruits
+animal
+deforestation
+Weight 1.7415641190999998e-06
+fruits -> horses
+fruits
+animal
+horses
+Weight 1.00299445324e-05
+fruits -> camels
+fruits
+animal
+camels
+Weight 3.7028121142999996e-06
+fruits -> fertilizer
+fruits
+animal
+fertilizer
+Weight 2.3247385941e-06
+fruits -> fungi
+fruits
+animal
+fungi
+Weight 7.022159171299999e-06
+fruits -> tractors
+fruits
+animal
+plough
+tractors
+Weight 4.832639169547644e-09
+fruits -> pastoralism
+fruits
+animal
+pastoralism
+Weight 1.1983268388e-06
+fruits -> goats
+fruits
+animal
+goats
+Weight 9.143191111599999e-06
+fruits -> pasture
+fruits
+animal
+pasture
+Weight 3.1515803617999996e-06
+fruits -> livestock
+fruits
+animal
+livestock
+Weight 1.25424360022e-05
+fruits -> oils
+fruits
+animal
+oils
+Weight 1.2582384918999999e-06
+fruits -> llamas
+fruits
+animal
+llamas
+Weight 2.3846619693e-06
+fruits -> meat
+fruits
+animal
+meat
+Weight 2.53005586444e-05
+fruits -> fuel
+fruits
+animal
+fuel
+Weight 2.2808041633e-06
+fruits -> plants
+fruits
+animal
+plants
+Weight 1.4459749566599999e-05
+fruits -> ox
+fruits
+animal
+ox
+Weight 1.5258622403699997e-05
+fruits -> plough
+fruits
+animal
+plough
+Weight 2.4325936361999997e-06
+fruits -> animal
+fruits
+animal
+Weight 0.00117221
+fruits -> cereal
+fruits
+animal
+plants
+cereal
+Weight 1.650638252025656e-08
+fruits -> sheep
+fruits
+animal
+sheep
+Weight 1.7854985498999998e-05
+fruits -> egg
+fruits
+animal
+egg
+Weight 9.658471183399999e-06
+fruits -> cattle
+fruits
+animal
+cattle
+Weight 1.61294103243e-05
+pasture -> agriculture
+pasture
+animal
+agriculture
+Weight 2.06226722326e-05
+pasture -> milk
+pasture
+animal
+milk
+Weight 3.05446616362e-05
+pasture -> pesticides
+pasture
+animal
+pesticides
+Weight 5.2037734758e-06
+pasture -> yaks
+pasture
+cattle
+yaks
+Weight 4.7783595036e-06
+pasture -> hunter-gatherer
+pasture
+animal
+hunter-gatherer
+Weight 4.2601356673999994e-06
+pasture -> bovine
+pasture
+cattle
+bovine
+Weight 6.133717402e-06
+pasture -> vegetables
+pasture
+plants
+vegetables
+Weight 1.4747030474e-06
+pasture -> deforestation
+pasture
+animal
+deforestation
+Weight 3.9944501918e-06
+pasture -> horses
+pasture
+animal
+horses
+Weight 2.3004673455199998e-05
+pasture -> camels
+pasture
+animal
+camels
+Weight 8.4927671614e-06
+pasture -> fertilizer
+pasture
+animal
+fertilizer
+Weight 5.3320187418e-06
+pasture -> fungi
+pasture
+animal
+fungi
+Weight 1.61060191474e-05
+pasture -> tractors
+pasture
+animal
+plough
+tractors
+Weight 1.1084137670265914e-08
+pasture -> pastoralism
+pasture
+livestock
+pastoralism
+Weight 2.9810947711999996e-06
+pasture -> goats
+pasture
+goats
+Weight 0.00123355
+pasture -> fruits
+pasture
+animal
+fruits
+Weight 3.1515803617999996e-06
+pasture -> livestock
+pasture
+livestock
+Weight 0.00285896
+pasture -> oils
+pasture
+animal
+oils
+Weight 2.8858948861999998e-06
+pasture -> llamas
+pasture
+sheep
+llamas
+Weight 5.6735089959e-06
+pasture -> meat
+pasture
+animal
+meat
+Weight 5.80293428312e-05
+pasture -> fuel
+pasture
+animal
+fuel
+Weight 5.2312507634e-06
+pasture -> plants
+pasture
+plants
+Weight 0.00118243
+pasture -> ox
+pasture
+animal
+ox
+Weight 3.4997165202599997e-05
+pasture -> plough
+pasture
+animal
+plough
+Weight 5.5793949876e-06
+pasture -> animal
+pasture
+animal
+Weight 0.00268858
+pasture -> cereal
+pasture
+plants
+cereal
+Weight 1.3497911421999998e-06
+pasture -> sheep
+pasture
+sheep
+Weight 0.00448779
+pasture -> egg
+pasture
+animal
+egg
+Weight 2.21526624532e-05
+pasture -> cattle
+pasture
+cattle
+Weight 0.00290326
+livestock -> agriculture
+livestock
+agriculture
+Weight 0.0025148
+livestock -> milk
+livestock
+milk
+Weight 0.00190484
+livestock -> pesticides
+livestock
+animal
+pesticides
+Weight 2.07096086082e-05
+livestock -> yaks
+livestock
+cattle
+yaks
+Weight 9.9380976864e-06
+livestock -> hunter-gatherer
+livestock
+animal
+hunter-gatherer
+Weight 1.6954185784600002e-05
+livestock -> bovine
+livestock
+cattle
+bovine
+Weight 1.2756989648e-05
+livestock -> vegetables
+livestock
+meat
+vegetables
+Weight 3.1780473599999997e-06
+livestock -> deforestation
+livestock
+deforestation
+Weight 0.00111428
+livestock -> horses
+livestock
+horses
+Weight 0.00126762
+livestock -> camels
+livestock
+animal
+camels
+Weight 3.37989124106e-05
+livestock -> fertilizer
+livestock
+fertilizer
+Weight 0.00101546
+livestock -> fungi
+livestock
+animal
+fungi
+Weight 6.40975927046e-05
+livestock -> tractors
+livestock
+animal
+plough
+tractors
+Weight 4.411186497223985e-08
+livestock -> pastoralism
+livestock
+pastoralism
+Weight 0.00104272
+livestock -> goats
+livestock
+goats
+Weight 0.0017958
+livestock -> fruits
+livestock
+animal
+fruits
+Weight 1.25424360022e-05
+livestock -> pasture
+livestock
+pasture
+Weight 0.00285896
+livestock -> oils
+livestock
+animal
+oils
+Weight 1.14850797898e-05
+livestock -> llamas
+livestock
+animal
+llamas
+Weight 2.1766964820600002e-05
+livestock -> meat
+livestock
+meat
+Weight 0.002784
+livestock -> fuel
+livestock
+animal
+fuel
+Weight 2.08189607686e-05
+livestock -> plants
+livestock
+animal
+plants
+Weight 0.0001319872016172
+livestock -> ox
+livestock
+ox
+Weight 0.00193892
+livestock -> plough
+livestock
+animal
+plough
+Weight 2.22044804604e-05
+livestock -> animal
+livestock
+animal
+Weight 0.01069982
+livestock -> cereal
+livestock
+animal
+plants
+cereal
+Weight 1.5066867013409848e-07
+livestock -> sheep
+livestock
+sheep
+Weight 0.00667205
+livestock -> egg
+livestock
+animal
+egg
+Weight 8.81615948828e-05
+livestock -> cattle
+livestock
+cattle
+Weight 0.00603824
+oils -> agriculture
+oils
+animal
+agriculture
+Weight 8.233405793300001e-06
+oils -> milk
+oils
+animal
+milk
+Weight 1.21946657171e-05
+oils -> pesticides
+oils
+animal
+pesticides
+Weight 2.0775570789000002e-06
+oils -> yaks
+oils
+animal
+cattle
+yaks
+Weight 2.4308799065460885e-08
+oils -> hunter-gatherer
+oils
+animal
+hunter-gatherer
+Weight 1.7008186567e-06
+oils -> bovine
+oils
+animal
+cattle
+bovine
+Weight 3.120386897160099e-08
+oils -> vegetables
+oils
+plants
+vegetables
+Weight 1.3047124134e-06
+oils -> deforestation
+oils
+animal
+deforestation
+Weight 1.5947462568999999e-06
+oils -> horses
+oils
+plough
+horses
+Weight 1.2799493381399999e-05
+oils -> camels
+oils
+animal
+camels
+Weight 3.3906565337e-06
+oils -> fertilizer
+oils
+plants
+fertilizer
+Weight 3.6111152243999997e-06
+oils -> fungi
+oils
+plants
+fungi
+Weight 1.06159075527e-05
+oils -> tractors
+oils
+plough
+tractors
+Weight 6.7898897022e-06
+oils -> pastoralism
+oils
+animal
+pastoralism
+Weight 1.0973051292e-06
+oils -> goats
+oils
+animal
+goats
+Weight 8.3723990644e-06
+oils -> fruits
+oils
+animal
+fruits
+Weight 1.2582384918999999e-06
+oils -> pasture
+oils
+animal
+pasture
+Weight 2.8858948861999998e-06
+oils -> livestock
+oils
+animal
+livestock
+Weight 1.14850797898e-05
+oils -> llamas
+oils
+animal
+llamas
+Weight 2.1836294787e-06
+oils -> meat
+oils
+animal
+meat
+Weight 2.3167663339600002e-05
+oils -> fuel
+oils
+fuel
+Weight 0.00215359
+oils -> plants
+oils
+plants
+Weight 0.00104613
+oils -> ox
+oils
+animal
+ox
+Weight 1.39722854283e-05
+oils -> plough
+oils
+plough
+Weight 0.00341781
+oils -> animal
+oils
+animal
+Weight 0.00107339
+oils -> cereal
+oils
+plants
+cereal
+Weight 1.1941992401999999e-06
+oils -> sheep
+oils
+animal
+sheep
+Weight 1.6349769141e-05
+oils -> egg
+oils
+animal
+egg
+Weight 8.8442398406e-06
+oils -> cattle
+oils
+animal
+cattle
+Weight 1.47696639237e-05
+llamas -> agriculture
+llamas
+animal
+agriculture
+Weight 1.56042672351e-05
+llamas -> milk
+llamas
+animal
+milk
+Weight 2.31117993537e-05
+llamas -> pesticides
+llamas
+animal
+pesticides
+Weight 3.9374660583e-06
+llamas -> yaks
+llamas
+animal
+cattle
+yaks
+Weight 4.6070970665684464e-08
+llamas -> hunter-gatherer
+llamas
+animal
+hunter-gatherer
+Weight 3.2234569149e-06
+llamas -> bovine
+llamas
+animal
+cattle
+bovine
+Weight 5.9138772268231536e-08
+llamas -> vegetables
+llamas
+animal
+meat
+vegetables
+Weight 5.012301955116425e-08
+llamas -> deforestation
+llamas
+animal
+deforestation
+Weight 3.0224244242999997e-06
+llamas -> horses
+llamas
+animal
+horses
+Weight 1.74066225852e-05
+llamas -> camels
+llamas
+camels
+Weight 0.00110746
+llamas -> fertilizer
+llamas
+animal
+fertilizer
+Weight 4.0345035993e-06
+llamas -> fungi
+llamas
+animal
+fungi
+Weight 1.21867148949e-05
+llamas -> tractors
+llamas
+animal
+plough
+tractors
+Weight 8.386878495991213e-09
+llamas -> pastoralism
+llamas
+animal
+pastoralism
+Weight 2.0796548724e-06
+llamas -> goats
+llamas
+animal
+goats
+Weight 1.58676926268e-05
+llamas -> fruits
+llamas
+animal
+fruits
+Weight 2.3846619693e-06
+llamas -> pasture
+llamas
+sheep
+pasture
+Weight 5.6735089959e-06
+llamas -> livestock
+llamas
+animal
+livestock
+Weight 2.1766964820600002e-05
+llamas -> oils
+llamas
+animal
+oils
+Weight 2.1836294787e-06
+llamas -> meat
+llamas
+animal
+meat
+Weight 4.39082463612e-05
+llamas -> fuel
+llamas
+animal
+fuel
+Weight 3.9582569109e-06
+llamas -> plants
+llamas
+animal
+plants
+Weight 2.5094396341799997e-05
+llamas -> ox
+llamas
+animal
+ox
+Weight 2.64808125801e-05
+llamas -> plough
+llamas
+animal
+plough
+Weight 4.2216823026e-06
+llamas -> animal
+llamas
+animal
+Weight 0.00203433
+llamas -> cereal
+llamas
+animal
+plants
+cereal
+Weight 2.8646257200018367e-08
+llamas -> sheep
+llamas
+sheep
+Weight 0.00126421
+llamas -> egg
+llamas
+animal
+egg
+Weight 1.67619434082e-05
+llamas -> cattle
+llamas
+animal
+cattle
+Weight 2.7992034963900003e-05
+meat -> agriculture
+meat
+agriculture
+Weight 0.0017072
+meat -> milk
+meat
+milk
+Weight 0.0083554
+meat -> pesticides
+meat
+animal
+pesticides
+Weight 4.1775351056400006e-05
+meat -> yaks
+meat
+cattle
+yaks
+Weight 7.997595829200001e-06
+meat -> hunter-gatherer
+meat
+animal
+hunter-gatherer
+Weight 3.41999250892e-05
+meat -> bovine
+meat
+milk
+bovine
+Weight 2.0471147770000003e-05
+meat -> vegetables
+meat
+vegetables
+Weight 0.00114154
+meat -> deforestation
+meat
+animal
+deforestation
+Weight 3.20670297844e-05
+meat -> horses
+meat
+horses
+Weight 0.00115517
+meat -> camels
+meat
+camels
+Weight 0.00118584
+meat -> fertilizer
+meat
+animal
+fertilizer
+Weight 4.2804890684400006e-05
+meat -> fungi
+meat
+animal
+fungi
+Weight 0.0001292974429292
+meat -> tractors
+meat
+animal
+plough
+tractors
+Weight 8.89823018788573e-08
+meat -> pastoralism
+meat
+animal
+pastoralism
+Weight 2.20645234992e-05
+meat -> goats
+meat
+goats
+Weight 0.00288282
+meat -> fruits
+meat
+animal
+fruits
+Weight 2.53005586444e-05
+meat -> pasture
+meat
+animal
+pasture
+Weight 5.80293428312e-05
+meat -> livestock
+meat
+livestock
+Weight 0.002784
+meat -> oils
+meat
+animal
+oils
+Weight 2.3167663339600002e-05
+meat -> llamas
+meat
+animal
+llamas
+Weight 4.39082463612e-05
+meat -> fuel
+meat
+animal
+fuel
+Weight 4.19959358572e-05
+meat -> plants
+meat
+animal
+plants
+Weight 0.0002662441278744
+meat -> ox
+meat
+ox
+Weight 0.00372449
+meat -> plough
+meat
+animal
+plough
+Weight 4.47908014008e-05
+meat -> animal
+meat
+animal
+Weight 0.02158364
+meat -> cereal
+meat
+animal
+plants
+cereal
+Weight 3.0392832173374255e-07
+meat -> sheep
+meat
+sheep
+Weight 0.0095685
+meat -> egg
+meat
+egg
+Weight 0.00195936
+meat -> cattle
+meat
+cattle
+Weight 0.00485922
+fuel -> agriculture
+fuel
+agriculture
+Weight 0.00156408
+fuel -> milk
+fuel
+animal
+milk
+Weight 2.2105224499699998e-05
+fuel -> pesticides
+fuel
+ox
+pesticides
+Weight 1.37315233026e-05
+fuel -> yaks
+fuel
+animal
+cattle
+yaks
+Weight 4.406446827866778e-08
+fuel -> hunter-gatherer
+fuel
+animal
+hunter-gatherer
+Weight 3.0830675569e-06
+fuel -> bovine
+fuel
+animal
+cattle
+bovine
+Weight 5.656313546251893e-08
+fuel -> vegetables
+fuel
+ox
+vegetables
+Weight 4.2670491957e-06
+fuel -> deforestation
+fuel
+ox
+deforestation
+Weight 1.1517797148299999e-05
+fuel -> horses
+fuel
+animal
+horses
+Weight 1.66485220012e-05
+fuel -> camels
+fuel
+animal
+camels
+Weight 6.1462302959e-06
+fuel -> fertilizer
+fuel
+ox
+fertilizer
+Weight 9.6249086037e-06
+fuel -> fungi
+fuel
+plants
+fungi
+Weight 1.74626214657e-05
+fuel -> tractors
+fuel
+oils
+plough
+tractors
+Weight 1.4622638563760898e-08
+fuel -> pastoralism
+fuel
+animal
+pastoralism
+Weight 1.9890808643999996e-06
+fuel -> goats
+fuel
+animal
+goats
+Weight 1.51766161708e-05
+fuel -> fruits
+fuel
+animal
+fruits
+Weight 2.2808041633e-06
+fuel -> pasture
+fuel
+animal
+pasture
+Weight 5.2312507634e-06
+fuel -> livestock
+fuel
+animal
+livestock
+Weight 2.08189607686e-05
+fuel -> oils
+fuel
+oils
+Weight 0.00215359
+fuel -> llamas
+fuel
+animal
+llamas
+Weight 3.9582569109e-06
+fuel -> meat
+fuel
+animal
+meat
+Weight 4.19959358572e-05
+fuel -> plants
+fuel
+plants
+Weight 0.00172083
+fuel -> ox
+fuel
+ox
+Weight 0.00313839
+fuel -> plough
+fuel
+oils
+plough
+Weight 7.3605614379e-06
+fuel -> animal
+fuel
+animal
+Weight 0.00194573
+fuel -> cereal
+fuel
+plants
+cereal
+Weight 1.9643962781999998e-06
+fuel -> sheep
+fuel
+animal
+sheep
+Weight 2.9637164787e-05
+fuel -> egg
+fuel
+animal
+egg
+Weight 1.60319201642e-05
+fuel -> cattle
+fuel
+animal
+cattle
+Weight 2.67729140259e-05
+plants -> agriculture
+plants
+agriculture
+Weight 0.00298164
+plants -> milk
+plants
+animal
+milk
+Weight 0.0001401418041594
+plants -> pesticides
+plants
+pesticides
+Weight 0.0018435
+plants -> yaks
+plants
+cattle
+yaks
+Weight 2.0863250532e-06
+plants -> hunter-gatherer
+plants
+animal
+hunter-gatherer
+Weight 1.95459064338e-05
+plants -> bovine
+plants
+cattle
+bovine
+Weight 2.678100774e-06
+plants -> vegetables
+plants
+vegetables
+Weight 0.00124718
+plants -> deforestation
+plants
+ox
+deforestation
+Weight 2.74500911105e-05
+plants -> horses
+plants
+animal
+horses
+Weight 0.0001055476233624
+plants -> camels
+plants
+animal
+camels
+Weight 3.8965621111799996e-05
+plants -> fertilizer
+plants
+fertilizer
+Weight 0.00345188
+plants -> fungi
+plants
+fungi
+Weight 0.01014779
+plants -> tractors
+plants
+animal
+plough
+tractors
+Weight 5.085507474802995e-08
+plants -> pastoralism
+plants
+animal
+pastoralism
+Weight 1.26102940488e-05
+plants -> goats
+plants
+animal
+goats
+Weight 9.62160945816e-05
+plants -> fruits
+plants
+animal
+fruits
+Weight 1.4459749566599999e-05
+plants -> pasture
+plants
+pasture
+Weight 0.00118243
+plants -> livestock
+plants
+animal
+livestock
+Weight 0.0001319872016172
+plants -> oils
+plants
+oils
+Weight 0.00104613
+plants -> llamas
+plants
+animal
+llamas
+Weight 2.5094396341799997e-05
+plants -> meat
+plants
+animal
+meat
+Weight 0.0002662441278744
+plants -> fuel
+plants
+fuel
+Weight 0.00172083
+plants -> ox
+plants
+ox
+Weight 0.00747965
+plants -> plough
+plants
+animal
+plough
+Weight 2.55987933012e-05
+plants -> animal
+plants
+animal
+Weight 0.01233546
+plants -> cereal
+plants
+cereal
+Weight 0.00114154
+plants -> sheep
+plants
+sheep
+Weight 0.00201388
+plants -> egg
+plants
+animal
+egg
+Weight 0.0001016385160884
+plants -> cattle
+plants
+cattle
+Weight 0.00126762
+ox -> agriculture
+ox
+agriculture
+Weight 0.00271925
+ox -> milk
+ox
+milk
+Weight 0.00387442
+ox -> pesticides
+ox
+pesticides
+Weight 0.00437534
+ox -> yaks
+ox
+cattle
+yaks
+Weight 1.1379459581400001e-05
+ox -> hunter-gatherer
+ox
+animal
+hunter-gatherer
+Weight 2.0625779474099998e-05
+ox -> bovine
+ox
+cattle
+bovine
+Weight 1.4607186672999999e-05
+ox -> vegetables
+ox
+vegetables
+Weight 0.00135963
+ox -> deforestation
+ox
+deforestation
+Weight 0.00366997
+ox -> horses
+ox
+horses
+Weight 0.00381649
+ox -> camels
+ox
+animal
+camels
+Weight 4.1118395345099995e-05
+ox -> fertilizer
+ox
+fertilizer
+Weight 0.00306683
+ox -> fungi
+ox
+fungi
+Weight 0.00427652
+ox -> tractors
+ox
+plough
+tractors
+Weight 3.0869293532000003e-06
+ox -> pastoralism
+ox
+animal
+pastoralism
+Weight 1.3306988091599998e-05
+ox -> goats
+ox
+goats
+Weight 0.00156067
+ox -> fruits
+ox
+animal
+fruits
+Weight 1.5258622403699997e-05
+ox -> pasture
+ox
+animal
+pasture
+Weight 3.4997165202599997e-05
+ox -> livestock
+ox
+livestock
+Weight 0.00193892
+ox -> oils
+ox
+animal
+oils
+Weight 1.39722854283e-05
+ox -> llamas
+ox
+animal
+llamas
+Weight 2.64808125801e-05
+ox -> meat
+ox
+meat
+Weight 0.00372449
+ox -> fuel
+ox
+fuel
+Weight 0.00313839
+ox -> plants
+ox
+plants
+Weight 0.00747965
+ox -> plough
+ox
+plough
+Weight 0.00155386
+ox -> animal
+ox
+animal
+Weight 0.01301697
+ox -> cereal
+ox
+plants
+cereal
+Weight 8.538319661e-06
+ox -> sheep
+ox
+sheep
+Weight 0.00150615
+ox -> egg
+ox
+egg
+Weight 0.00170038
+ox -> cattle
+ox
+cattle
+Weight 0.00691399
+plough -> agriculture
+plough
+animal
+agriculture
+Weight 1.5917912753400003e-05
+plough -> milk
+plough
+animal
+milk
+Weight 2.35763461458e-05
+plough -> pesticides
+plough
+ox
+pesticides
+Weight 6.7986658124e-06
+plough -> yaks
+plough
+animal
+cattle
+yaks
+Weight 4.699699642872184e-08
+plough -> hunter-gatherer
+plough
+animal
+hunter-gatherer
+Weight 3.2882483466e-06
+plough -> bovine
+plough
+animal
+cattle
+bovine
+Weight 6.032746063150002e-08
+plough -> vegetables
+plough
+ox
+vegetables
+Weight 2.1126746718e-06
+plough -> deforestation
+plough
+ox
+deforestation
+Weight 5.7026195842e-06
+plough -> horses
+plough
+horses
+Weight 0.00374494
+plough -> camels
+plough
+horses
+camels
+Weight 6.7506662934e-06
+plough -> fertilizer
+plough
+ox
+fertilizer
+Weight 4.7654244638e-06
+plough -> fungi
+plough
+animal
+fungi
+Weight 1.24316676666e-05
+plough -> tractors
+plough
+tractors
+Weight 0.00198662
+plough -> pastoralism
+plough
+animal
+pastoralism
+Weight 2.1214559016e-06
+plough -> goats
+plough
+animal
+goats
+Weight 1.61866329912e-05
+plough -> fruits
+plough
+animal
+fruits
+Weight 2.4325936361999997e-06
+plough -> pasture
+plough
+animal
+pasture
+Weight 5.5793949876e-06
+plough -> livestock
+plough
+animal
+livestock
+Weight 2.22044804604e-05
+plough -> oils
+plough
+oils
+Weight 0.00341781
+plough -> llamas
+plough
+animal
+llamas
+Weight 4.2216823026e-06
+plough -> meat
+plough
+animal
+meat
+Weight 4.47908014008e-05
+plough -> fuel
+plough
+oils
+fuel
+Weight 7.3605614379e-06
+plough -> plants
+plough
+animal
+plants
+Weight 2.55987933012e-05
+plough -> ox
+plough
+ox
+Weight 0.00155386
+plough -> animal
+plough
+animal
+Weight 0.00207522
+plough -> cereal
+plough
+animal
+plants
+cereal
+Weight 2.9222046505051845e-08
+plough -> sheep
+plough
+animal
+sheep
+Weight 3.1609543518e-05
+plough -> egg
+plough
+animal
+egg
+Weight 1.70988581988e-05
+plough -> cattle
+plough
+animal
+cattle
+Weight 2.8554674412600003e-05
+animal -> agriculture
+animal
+agriculture
+Weight 0.00767047
+animal -> milk
+animal
+milk
+Weight 0.01136089
+animal -> pesticides
+animal
+pesticides
+Weight 0.00193551
+animal -> yaks
+animal
+cattle
+yaks
+Weight 2.2646753803800002e-05
+animal -> hunter-gatherer
+animal
+hunter-gatherer
+Weight 0.00158453
+animal -> bovine
+animal
+cattle
+bovine
+Weight 2.9070392841e-05
+animal -> vegetables
+animal
+meat
+vegetables
+Weight 2.46385884056e-05
+animal -> deforestation
+animal
+deforestation
+Weight 0.00148571
+animal -> horses
+animal
+horses
+Weight 0.00855644
+animal -> camels
+animal
+camels
+Weight 0.00315883
+animal -> fertilizer
+animal
+fertilizer
+Weight 0.00198321
+animal -> fungi
+animal
+fungi
+Weight 0.00599053
+animal -> tractors
+animal
+plough
+tractors
+Weight 4.1226735564e-06
+animal -> pastoralism
+animal
+pastoralism
+Weight 0.00102228
+animal -> goats
+animal
+goats
+Weight 0.00779996
+animal -> fruits
+animal
+fruits
+Weight 0.00117221
+animal -> pasture
+animal
+pasture
+Weight 0.00268858
+animal -> livestock
+animal
+livestock
+Weight 0.01069982
+animal -> oils
+animal
+oils
+Weight 0.00107339
+animal -> llamas
+animal
+llamas
+Weight 0.00203433
+animal -> meat
+animal
+meat
+Weight 0.02158364
+animal -> fuel
+animal
+fuel
+Weight 0.00194573
+animal -> plants
+animal
+plants
+Weight 0.01233546
+animal -> ox
+animal
+ox
+Weight 0.01301697
+animal -> plough
+animal
+plough
+Weight 0.00207522
+animal -> cereal
+animal
+plants
+cereal
+Weight 1.4081421008399998e-05
+animal -> sheep
+animal
+sheep
+Weight 0.0152319
+animal -> egg
+animal
+egg
+Weight 0.00823954
+animal -> cattle
+animal
+cattle
+Weight 0.01375983
+cereal -> agriculture
+cereal
+plants
+agriculture
+Weight 3.4036613255999995e-06
+cereal -> milk
+cereal
+plants
+animal
+milk
+Weight 1.5997747512012145e-07
+cereal -> pesticides
+cereal
+plants
+pesticides
+Weight 2.10442899e-06
+cereal -> yaks
+cereal
+plants
+cattle
+yaks
+Weight 2.381623501229928e-09
+cereal -> hunter-gatherer
+cereal
+plants
+animal
+hunter-gatherer
+Weight 2.231243403044005e-08
+cereal -> bovine
+cereal
+plants
+cattle
+bovine
+Weight 3.0571591575519596e-09
+cereal -> vegetables
+cereal
+plants
+vegetables
+Weight 1.4237058572e-06
+cereal -> deforestation
+cereal
+plants
+ox
+deforestation
+Weight 3.133537700628017e-08
+cereal -> horses
+cereal
+plants
+animal
+horses
+Weight 1.2048683397311408e-07
+cereal -> camels
+cereal
+plants
+animal
+camels
+Weight 4.448081512396417e-08
+cereal -> fertilizer
+cereal
+plants
+fertilizer
+Weight 3.9404590952e-06
+cereal -> fungi
+cereal
+plants
+fungi
+Weight 1.15841081966e-05
+cereal -> tractors
+cereal
+plants
+animal
+plough
+tractors
+Weight 5.80531020278661e-11
+cereal -> pastoralism
+cereal
+plants
+animal
+pastoralism
+Weight 1.439515506846715e-08
+cereal -> goats
+cereal
+plants
+animal
+goats
+Weight 1.0983452060867965e-07
+cereal -> fruits
+cereal
+plants
+animal
+fruits
+Weight 1.650638252025656e-08
+cereal -> pasture
+cereal
+plants
+pasture
+Weight 1.3497911421999998e-06
+cereal -> livestock
+cereal
+plants
+animal
+livestock
+Weight 1.5066867013409848e-07
+cereal -> oils
+cereal
+plants
+oils
+Weight 1.1941992401999999e-06
+cereal -> llamas
+cereal
+plants
+animal
+llamas
+Weight 2.8646257200018367e-08
+cereal -> meat
+cereal
+plants
+animal
+meat
+Weight 3.0392832173374255e-07
+cereal -> fuel
+cereal
+plants
+fuel
+Weight 1.9643962781999998e-06
+cereal -> plants
+cereal
+plants
+Weight 0.00114154
+cereal -> ox
+cereal
+plants
+ox
+Weight 8.538319661e-06
+cereal -> plough
+cereal
+plants
+animal
+plough
+Weight 2.9222046505051845e-08
+cereal -> animal
+cereal
+plants
+animal
+Weight 1.4081421008399998e-05
+cereal -> sheep
+cereal
+plants
+sheep
+Weight 2.2989245751999997e-06
+cereal -> egg
+cereal
+plants
+animal
+egg
+Weight 1.1602443165555212e-07
+cereal -> cattle
+cereal
+plants
+cattle
+Weight 1.4470389347999998e-06
+sheep -> agriculture
+sheep
+agriculture
+Weight 0.0026511
+sheep -> milk
+sheep
+milk
+Weight 0.00678791
+sheep -> pesticides
+sheep
+animal
+pesticides
+Weight 2.9481494769000002e-05
+sheep -> yaks
+sheep
+cattle
+yaks
+Weight 1.88722866072e-05
+sheep -> hunter-gatherer
+sheep
+animal
+hunter-gatherer
+Weight 2.4135402507e-05
+sheep -> bovine
+sheep
+cattle
+bovine
+Weight 2.4225316803999998e-05
+sheep -> vegetables
+sheep
+meat
+vegetables
+Weight 1.092282549e-05
+sheep -> deforestation
+sheep
+animal
+deforestation
+Weight 2.2630186148999998e-05
+sheep -> horses
+sheep
+horses
+Weight 0.00200366
+sheep -> camels
+sheep
+camels
+Weight 0.00101546
+sheep -> fertilizer
+sheep
+animal
+fertilizer
+Weight 3.0208056399e-05
+sheep -> fungi
+sheep
+animal
+fungi
+Weight 9.1247153907e-05
+sheep -> tractors
+sheep
+animal
+plough
+tractors
+Weight 6.279615134372915e-08
+sheep -> pastoralism
+sheep
+animal
+pastoralism
+Weight 1.5571266732e-05
+sheep -> goats
+sheep
+goats
+Weight 0.00946286
+sheep -> fruits
+sheep
+animal
+fruits
+Weight 1.7854985498999998e-05
+sheep -> pasture
+sheep
+pasture
+Weight 0.00448779
+sheep -> livestock
+sheep
+livestock
+Weight 0.00667205
+sheep -> oils
+sheep
+animal
+oils
+Weight 1.6349769141e-05
+sheep -> llamas
+sheep
+llamas
+Weight 0.00126421
+sheep -> meat
+sheep
+meat
+Weight 0.0095685
+sheep -> fuel
+sheep
+animal
+fuel
+Weight 2.9637164787e-05
+sheep -> plants
+sheep
+plants
+Weight 0.00201388
+sheep -> ox
+sheep
+ox
+Weight 0.00150615
+sheep -> plough
+sheep
+animal
+plough
+Weight 3.1609543518e-05
+sheep -> animal
+sheep
+animal
+Weight 0.0152319
+sheep -> cereal
+sheep
+plants
+cereal
+Weight 2.2989245751999997e-06
+sheep -> egg
+sheep
+egg
+Weight 0.00105976
+sheep -> cattle
+sheep
+cattle
+Weight 0.01146652
+egg -> agriculture
+egg
+animal
+agriculture
+Weight 6.320114438380001e-05
+egg -> milk
+egg
+milk
+Weight 0.00153682
+egg -> pesticides
+egg
+animal
+pesticides
+Weight 1.59477120654e-05
+egg -> yaks
+egg
+animal
+cattle
+yaks
+Weight 1.8659883383656226e-07
+egg -> hunter-gatherer
+egg
+animal
+hunter-gatherer
+Weight 1.30557983162e-05
+egg -> bovine
+egg
+milk
+bovine
+Weight 3.765285841e-06
+egg -> vegetables
+egg
+ox
+vegetables
+Weight 2.3118876594e-06
+egg -> deforestation
+egg
+animal
+deforestation
+Weight 1.2241566973399999e-05
+egg -> horses
+egg
+animal
+horses
+Weight 7.05011296376e-05
+egg -> camels
+egg
+animal
+camels
+Weight 2.6027306138200002e-05
+egg -> fertilizer
+egg
+animal
+fertilizer
+Weight 1.63407381234e-05
+egg -> fungi
+egg
+animal
+fungi
+Weight 4.93592115562e-05
+egg -> tractors
+egg
+animal
+plough
+tractors
+Weight 3.3968933674900056e-08
+egg -> pastoralism
+egg
+animal
+pastoralism
+Weight 8.4231169512e-06
+egg -> goats
+egg
+animal
+goats
+Weight 6.42680824184e-05
+egg -> fruits
+egg
+animal
+fruits
+Weight 9.658471183399999e-06
+egg -> pasture
+egg
+animal
+pasture
+Weight 2.21526624532e-05
+egg -> livestock
+egg
+animal
+livestock
+Weight 8.81615948828e-05
+egg -> oils
+egg
+animal
+oils
+Weight 8.8442398406e-06
+egg -> llamas
+egg
+animal
+llamas
+Weight 1.67619434082e-05
+egg -> meat
+egg
+meat
+Weight 0.00195936
+egg -> fuel
+egg
+animal
+fuel
+Weight 1.60319201642e-05
+egg -> plants
+egg
+animal
+plants
+Weight 0.0001016385160884
+egg -> ox
+egg
+ox
+Weight 0.00170038
+egg -> plough
+egg
+animal
+plough
+Weight 1.70988581988e-05
+egg -> animal
+egg
+animal
+Weight 0.00823954
+egg -> cereal
+egg
+animal
+plants
+cereal
+Weight 1.1602443165555212e-07
+egg -> sheep
+egg
+sheep
+Weight 0.00105976
+egg -> cattle
+egg
+animal
+cattle
+Weight 0.00011337466967820001
+cattle -> agriculture
+cattle
+agriculture
+Weight 0.00215359
+cattle -> milk
+cattle
+milk
+Weight 0.00766025
+cattle -> pesticides
+cattle
+ox
+pesticides
+Weight 3.02510570066e-05
+cattle -> yaks
+cattle
+yaks
+Weight 0.00164586
+cattle -> hunter-gatherer
+cattle
+animal
+hunter-gatherer
+Weight 2.18028634299e-05
+cattle -> bovine
+cattle
+bovine
+Weight 0.0021127
+cattle -> vegetables
+cattle
+ox
+vegetables
+Weight 9.400468223699999e-06
+cattle -> deforestation
+cattle
+ox
+deforestation
+Weight 2.5374135880299997e-05
+cattle -> horses
+cattle
+horses
+Weight 0.00306342
+cattle -> camels
+cattle
+animal
+camels
+Weight 4.3464963798900005e-05
+cattle -> fertilizer
+cattle
+animal
+fertilizer
+Weight 2.72886324543e-05
+cattle -> fungi
+cattle
+animal
+fungi
+Weight 8.24286744099e-05
+cattle -> tractors
+cattle
+animal
+plough
+tractors
+Weight 5.672728728155942e-08
+cattle -> pastoralism
+cattle
+animal
+pastoralism
+Weight 1.40663990124e-05
+cattle -> goats
+cattle
+goats
+Weight 0.0052545
+cattle -> fruits
+cattle
+animal
+fruits
+Weight 1.61294103243e-05
+cattle -> pasture
+cattle
+pasture
+Weight 0.00290326
+cattle -> livestock
+cattle
+livestock
+Weight 0.00603824
+cattle -> oils
+cattle
+animal
+oils
+Weight 1.47696639237e-05
+cattle -> llamas
+cattle
+animal
+llamas
+Weight 2.7992034963900003e-05
+cattle -> meat
+cattle
+meat
+Weight 0.00485922
+cattle -> fuel
+cattle
+animal
+fuel
+Weight 2.67729140259e-05
+cattle -> plants
+cattle
+plants
+Weight 0.00126762
+cattle -> ox
+cattle
+ox
+Weight 0.00691399
+cattle -> plough
+cattle
+animal
+plough
+Weight 2.8554674412600003e-05
+cattle -> animal
+cattle
+animal
+Weight 0.01375983
+cattle -> cereal
+cattle
+plants
+cereal
+Weight 1.4470389347999998e-06
+cattle -> sheep
+cattle
+sheep
+Weight 0.01146652
+cattle -> egg
+cattle
+animal
+egg
+Weight 0.00011337466967820001
