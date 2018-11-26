@@ -3,6 +3,7 @@ from nltk import ngrams
 # from Article import Article
 from relations.article import Article
 from relations.article_to_article import AtoA
+from relations.topic_locality import TopicLocality
 # from relations.topic_to_topic import TtoT
 from utils.helpers import get_directory_files, get_article_names
 from relations.gram_graph_generator import GramGraphGenerator
@@ -45,9 +46,9 @@ def construct_topic_locality_model(corpus):
     topics = get_article_names(articles_names)
     locality = TopicLocality(topics,articles)
     directed = locality.buildDirectedGraph()
-    directed.save_graph(corpus.replace("_", "")+"TopicLocalityDirected")
+    directed.save_graph(corpus.replace("_", "")+"TopicLocalityDirected.txt")
     undirected = locality.buildUndirectedGraph()
-    undirected.save_graph(corpus.replace("_", "")+"TopicLocalityUndirected")
+    undirected.save_graph(corpus.replace("_", "")+"TopicLocalityUndirected.txt")
 
 def main():
     corpus = 'Corpus'
