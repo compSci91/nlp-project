@@ -10,10 +10,13 @@ class TopicLocality(object):
         self.topics = topics
         self.articles = articles
 
+        for article in self.articles:
+            article.build_groups()
+
         self.primaryNodes = self.totalOccurrences()
     def run(self):
         pass
-        
+
     def totalOccurrences(self):
         primaryNodes = {}
         for topicA in self.topics:
@@ -34,7 +37,7 @@ class TopicLocality(object):
                             aInSubsec,bInSubsec = self.subsectionOccurrence(subsection,topicA,topicB)
                             for paragraph in subsection.paras:
                                 aInParag,bInParag = self.paragraphOccurrence(paragraph,topicA,topicB)
-                                for sentence in paragraph:    								
+                                for sentence in paragraph:
                                     sentenceCount += self.sameSentenceOccurrence(sentence,topicA,topicB)
                                 paragraphCount += aInParag * bInParag
                             subsectionCount += aInSubsec * bInSubsec
@@ -44,11 +47,12 @@ class TopicLocality(object):
                 total = sentenceCount * 1 + paragraphCount * 1 + subsectionCount * 1 + sectionCount * 1 + articleCount * 1
                 secondaryNodes[topicB] = total
             primaryNodes[topicA] = secondaryNodes
-        return primaryNodes 
+        return primaryNodes
 
     def buildUndirectedGraph(self):
 
         primaryNodes = self.primaryNodes
+        print("Number of primary nodes: ", len(primaryNodes))
 
         denominator = 0
         vertex_map = {}
@@ -61,8 +65,9 @@ class TopicLocality(object):
             for b in primaryNodes[a].keys():
                 av = vertex_map[a]
                 bv = vertex_map[b]
-                g.add_edge((primaryNodes[a][b] / denominator), av, bv)
-                print("Adding edge: ",a, b,': ', (primaryNodes[a][b] / denominator))
+                if primaryNodes[a][b] != 0 :
+                    g.add_edge((primaryNodes[a][b] / denominator), av, bv)
+                    print("Adding edge: ",a, b,': ', (primaryNodes[a][b] / denominator))
         return g
 
     def buildDirectedGraph(self):
@@ -78,19 +83,20 @@ class TopicLocality(object):
             for b in primaryNodes[a].keys():
                 av = vertex_map[a]
                 bv = vertex_map[b]
-                g.add_edge(((primaryNodes[a][b]+0.00001 )/ (denominator+1)), av, bv) #To avoid division by zero conflicts
-                print("Adding edge: ",a, b,': ', ((primaryNodes[a][b]+0.00001 )/ (denominator+1)))
+                if primaryNodes[a][b] != 0 :
+                    g.add_edge(((primaryNodes[a][b]+0.00001 )/ (denominator+1)), av, bv) #To avoid division by zero conflicts
+                    print("Adding edge: ",a, b,': ', ((primaryNodes[a][b]+0.00001 )/ (denominator+1)))
         return g
-               
+
     def sameSentenceOccurrence(self,sentence,topicA,topicB):
     	aInSent = 0
-    	bInSent = 0 
+    	bInSent = 0
     	for x in sentence.split():
     		if topicA in x:
     			aInSent += 1
     		if topicB in x:
     			bInSent += 1
-    	return aInSent * bInSent 
+    	return aInSent * bInSent
 
     def sentenceOccurrence(self, sentence, topicA , topicB):
     	aInSent = 0
@@ -136,6 +142,4 @@ class TopicLocality(object):
     		aInSec,bInSec = self.sectionOccurrence(section,topicA,topicB)
     		aInArt += aInSec
     		bInArt += bInSec
-    	return aInArt,bInArt			
-
-	
+    	return aInArt,bInArt
