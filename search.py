@@ -2,7 +2,20 @@ from graph.graph import RelationGraph
 import sys
 
 def usage():
-    print("Usage: python search.py <model> <start> <goal> [corpus='Corpus']")
+    print("Usage: python search.py <model> (<start>|all) <goal> [corpus='Corpus']")
+
+def run_all(graph):
+    topics = [v.prop for v in graph.iter_vertex()]
+    for a in topics:
+        for b in topics:
+            if a == b:
+                continue
+            path, path_weight = graph.search(a, b)
+            print("{} -> {}".format(a, b))
+            for t in path:
+                print(t.prop)
+            print("Weight", path_weight)
+            
 
 def main():
     if len(sys.argv) < 3:
@@ -48,19 +61,23 @@ def main():
 
         return
     source = sys.argv[2]
-    if graph.find_vertex(source) == None:
+    if source == 'all':
+        run_all(graph)
+    elif graph.find_vertex(source) is not None:
+        target = sys.argv[3]
+        print(target)
+        if graph.find_vertex(target) == None:
+            print("Target not in model.")
+            return
+
+        path, path_weight = graph.search(source, target)
+        for t in path:
+            print(t.prop)
+
+        print("Weight", path_weight)
+    else:
         print("Source not in model.")
         return
-    target = sys.argv[3]
-    if graph.find_vertex(target) == None:
-        print("Target not in model.")
-        return
-
-    path, path_weight = graph.search(source, target)
-    for t in path:
-        print(t.prop)
-
-    print("Weight", path_weight)
 
 
 

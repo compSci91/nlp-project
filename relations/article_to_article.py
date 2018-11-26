@@ -49,17 +49,17 @@ class AtoA(object):
 
 # Create the graph
         g = RelationGraph()
-        relelation_sums = {}
+        relation_sums = {}
 #create a dictionary that maps the name of a vertex to the vertex object
         vertex_map = {}
 
 # Building the sums, which will be used for the weights
         for v, c in self.data.items():
-            if not v in relelation_sums:
-                relelation_sums[v] = 0
+            if not v in relation_sums:
+                relation_sums[v] = 0
             for _, i in c.items():
-                relelation_sums[v] += i.sum
-
+                relation_sums[v] += i.sum
+        
 # Building all the vertex
 # for every vertex name, create a new vertex, store it in the map
         for a in self.articles.keys():
@@ -75,9 +75,11 @@ class AtoA(object):
                 av = vertex_map[a]
                 bv = vertex_map[b]
                 # print("add_edge")
-                weight = (c.sum) / (relelation_sums[a] + AtoA.BIAS)
-                if weight != 0:
-                    g.add_edge(weight, av, bv)
+                weight = (c.sum) / (relation_sums[a] + AtoA.BIAS)
+                weight_offset = self.data[b][a].sum / ((relation_sums[b] + AtoA.BIAS) * 2)
+
+                if weight + weight_offset != 0:
+                    g.add_edge(weight + weight_offset, av, bv)
         return g
 
     # I do not know what else to name this.
@@ -113,13 +115,17 @@ class AtoA(object):
                 bfirst = bintro.first_sentence()
 
                 afirstS = 0
+                btopic = b.topic.lower()
+                btopiclen = len(btopic)
                 for aw in afirst.split():
-                    if b.topic.lower() in aw:
+                    if btopic == aw[0:btopiclen]:
                         afirstS += AtoA.FIRSTSENTENCE
 
                 bfirstS = 0
+                atopic = a.topic.lower()
+                atopiclen = len(atopic)
                 for bw in bfirst.split():
-                    if a.topic.lower() in bw:
+                    if atopic == bw[0:atopiclen]:
                         bfirstS += AtoA.FIRSTSENTENCE
 
                 atotal = 0
@@ -141,4 +147,4 @@ class AtoA(object):
                 c.total_count = btotal * AtoA.TOTALCOUNT
                 c.compute_sum()
 
-        # pprint.pprint(self.data)
+        pprint.pprint(self.data)

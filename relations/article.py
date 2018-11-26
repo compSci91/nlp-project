@@ -24,8 +24,9 @@ class Article:
             s = 0
             for p in self.paras:
                 for sentence in p:
-                    if word in sentence:
-                        s += 1
+                    for w in sentence.split():
+                        if word in w[0:len(word)]:
+                            s += 1
             return s
 
 
