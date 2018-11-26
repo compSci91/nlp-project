@@ -15,7 +15,7 @@ def run_all(graph):
             for t in path:
                 print(t.prop)
             print("Weight", path_weight)
-            
+
 
 def main():
     if len(sys.argv) < 3:
@@ -65,7 +65,6 @@ def main():
         run_all(graph)
     elif graph.find_vertex(source) is not None:
         target = sys.argv[3]
-        print(target)
         if graph.find_vertex(target) == None:
             print("Target not in model.")
             return
